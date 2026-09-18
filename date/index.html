@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="ja">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="format-detection" content="telephone=no" />
+
+    <title>Go Out | 行ったことのない場所へ行く</title>
+    <meta content="知っていることの 外へ わからないところまで 出かける" name="description" />
+    <link rel="icon" href="https://go-out.github.io/sdk/assets/favicon.png" />
+
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=Zen+Maru+Gothic&display=swap" rel="stylesheet" />
+    <link rel="stylesheet" href="https://go-out.github.io/sdk/assets/fonts/font-face.css" />
+
+    <link rel="stylesheet" href="https://go-out.github.io/sdk/css/latest/style.css" />
+    <link rel="stylesheet" href="https://go-out.github.io/sdk/css/latest/date.css" />
+
+    <script type="module">
+        import {indexJSON} from "https://go-out.github.io/sdk/js/latest/date.js";
+
+        // date/ は地域ディレクトリ（例: osaka/city24/）とは別の、
+        // リポジトリ共通のイベントを管理するディレクトリ。
+        // ?map=... のときは地域ディレクトリ側のdate.jsonを覗きに行く（"../"始まり）。
+        // それ以外（?id=... または指定なし）はdate/自身の中を見る（"./"始まり）。
+        //
+        // 一方、info.markdown・cover.directory等の相対パスは、
+        // リポジトリルート基準で統一して書く運用にしたため（region側の
+        // index.jsonと同じ流儀）、date/は常にルートの1階層下なので、
+        // ?map/?idどちらの場合もプレフィックスは常に"../"で良い
+        // （変わるのは取得先JSONのURLだけ）。
+        const params = new URLSearchParams(location.search);
+        let thisJSON, thisArea;
+        const thisPath = "../";
+        if (location.search) {
+            if (params.get("map")) {
+                thisJSON = "../" + params.get("map").replaceAll("-", "/");
+                if (params.get("area")) {
+                    thisArea = params.get("area").replaceAll("-", '/');
+                    thisJSON += `/${thisArea}`;
+                };
+                if (params.get("name")) {
+                    thisJSON += `/${params.get("name")}.json`;
+                } else {
+                    thisJSON += "/date.json";
+                };
+            } else {
+                thisJSON = "./";
+                if (params.get("id")) {
+                    // ?id=ID&name=名前
+                    thisJSON += params.get("id").replaceAll("-", "/") + "/";
+                    if (params.get("name")) {
+                        thisJSON += params.get("name") + ".json";
+                    } else {
+                        thisJSON += "date.json";
+                    };
+                } else {
+                    if (params.get("name")) {
+                        thisJSON += params.get("name") + ".json";
+                    } else {
+                        thisJSON += "date.json";
+                    };
+                };
+            };
+            indexJSON(thisJSON, thisPath);
+        } else {
+            indexJSON("./date.json", thisPath);
+        };
+    </script>
+</head>
+
+<body>
+    <header>
+        <nav>
+            <input type="button" id="latest" value="Latest Update" />
+        </nav>
+        <h1>
+            <u>行ったことのない場所へ行く</u>
+            <strong>Go Out</strong>
+        </h1>
+        <h2>
+            <small>わからないところまで 出かける</small>
+            <i>知っていることの 外へ</i>
+        </h2>
+    </header>
+
+    <article id="readme">
+        <nav>
+            <h3>目次</h3>
+        </nav>
+        <section>
+            <div id="notes"></div>
+            <aside id="links" hidden></aside>
+        </section>
+    </article>
+</body>
+
+</html>
