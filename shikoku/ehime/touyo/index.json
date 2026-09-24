@@ -1,0 +1,693 @@
+{
+    "url": "/nankai/?id=shikoku-ehime&area=touyo",
+    "title": [
+        "Imabari - Saijyo - Niihama - Shikoku Chuou, Ehime",
+        "東予地方"
+    ],
+    "description": "瀬戸内海に突き出る「高縄半島」の東側から香川県の境までに広がる、古くは瀬戸内海の海上交通の要所だった港湾が連なる海浜工業団地",
+    "info": {
+        "note": [
+            "__"
+        ],
+        "links": [
+            {
+                "text": "東予地方 - Wikipedia",
+                "url": "https://ja.wikipedia.org/wiki/東予地方",
+                "target": "_blank"
+            },
+            {
+                "text": "高縄半島 - Wikipedia",
+                "url": "https://ja.wikipedia.org/wiki/高縄半島",
+                "target": "_blank"
+            },
+            {
+                "text": "今治市 - Wikipedia",
+                "url": "https://ja.wikipedia.org/wiki/今治市",
+                "target": "_blank"
+            },
+            {
+                "text": "西条市 - Wikipedia",
+                "url": "https://ja.wikipedia.org/wiki/西条市",
+                "target": "_blank"
+            },
+            {
+                "text": "新居浜市 - Wikipedia",
+                "url": "https://ja.wikipedia.org/wiki/新居浜市",
+                "target": "_blank"
+            },
+            {
+                "text": "四国中央市 - Wikipedia",
+                "url": "https://ja.wikipedia.org/wiki/四国中央市",
+                "target": "_blank"
+            }
+        ]
+    },
+    "map": {
+        "center": [
+            133.1183673515461,
+            33.92988599964903
+        ],
+        "bounds": [
+            [
+                132.79906145530623,
+                33.8030114702331
+            ],
+            [
+                133.69334165902455,
+                34.15155490101574
+            ]
+        ],
+        "zoom": 11
+    },
+    "cover": {
+        "url": null
+    },
+    "eventsJSON": [
+        "shikoku/ehime/touyo/date.json"
+    ],
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    132.9639765920038,
+                    34.066846190774314
+                ],
+                "address": "日本 〒794-0081 愛媛県今治市阿方甲６３６番地"
+            },
+            "properties": {
+                "title": "延命寺",
+                "description": "四国八十八箇所第五十四番札所（えんめいじ）",
+                "note": [
+                    "近見山（ちかみざん）、宝鐘院（ほうしょういん）と号す",
+                    "伝によれば、聖武天皇の勅願を受けて養老4年（720年）行基が不動明王を刻み現在地の北の近見山（標高243.5 m）の山頂に堂宇を建立して開基",
+                    "境内には馬酔木（あせび）の木が多く、春の彼岸のころから美しい花をつける",
+                    "今治港、今治駅よりせとうちバス 菊間、星之浦行き 「阿方」下車 (0.6 km)"
+                ],
+                "links": [
+                    {
+                        "text": "延命寺 (今治市) - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/延命寺_(今治市)",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "延命寺 - Google マップ",
+                        "url": "https://maps.app.goo.gl/J2gYwtZTQiaYmpee8",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 17
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    132.99528223445867,
+                    34.06821834297753
+                ],
+                "address": "日本 〒794-0026 愛媛県今治市別宮町３丁目１番"
+            },
+            "properties": {
+                "title": "南光坊",
+                "description": "四国八十八箇所第五十五番札所（なんこうぼう）",
+                "note": [
+                    "別宮山（べっくさん）、金剛院と号す",
+                    "大三島東海岸側に大山積神社（明治初年以降は大山祇神社と改名）の元となる遠土宮（おんどのみや）が祀られる",
+                    "南光坊の北側に別宮大山祇神社が隣接する"
+                ],
+                "links": [
+                    {
+                        "text": "南光坊 - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/南光坊",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "南光坊 - Google マップ",
+                        "url": "https://maps.app.goo.gl/dAFhrMR1xhmiKZ4y5",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 17
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    132.9745780208658,
+                    34.050099682266406
+                ],
+                "address": "日本 〒794-0064 愛媛県今治市小泉１丁目９番１８号"
+            },
+            "properties": {
+                "title": "泰山寺",
+                "description": "四国八十八箇所第五十六番札所（たいさんじ）",
+                "note": [
+                    "金輪山（きんりんざん）勅王院（ちょくおういん）と号す",
+                    "宿坊：定員80名（季節営業 3〜5、9〜11月のみ）",
+                    "今治港、今治駅よりせとうちバス鈍川温泉 木地ロ・葛谷行きまたは鈍川経由神子森行き「小泉」下車 (0.7 km)",
+                    "大三島 - 今治 - 松山市駅間特急バス「別名（べつみょう）」下車 (1.2 km)",
+                    "泰山寺まで徒歩約四十五分"
+                ],
+                "links": [
+                    {
+                        "text": "泰山寺 - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/泰山寺",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "泰山寺 - Google マップ",
+                        "url": "https://maps.app.goo.gl/__",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 17
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    132.97840704378177,
+                    34.02942641088595
+                ],
+                "address": "日本 〒794-0114 愛媛県今治市玉川町八幡甲２００番地"
+            },
+            "properties": {
+                "title": "栄福寺",
+                "description": "四国八十八箇所第五十七番札所（えいふくじ）",
+                "note": [
+                    "府頭山（ふとうざん）、無量寿院（むりょうじゅいん）と号す",
+                    "2011年に設置されたトイレ設置が日本産業デザイン振興会主催の「2012年度グッドデザイン賞」を受賞",
+                    "泰山寺から徒歩約四十五分 - 仙遊寺まで徒歩約1時間"
+                ],
+                "links": [
+                    {
+                        "text": "栄福寺 (今治市) - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/栄福寺_(今治市)",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "栄福寺 - Google マップ",
+                        "url": "https://maps.app.goo.gl/AaefvC8TiZhapZqS6",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 17
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    132.97702833093024,
+                    34.03267135569766
+                ],
+                "address": "〒794-0861 愛媛県今治市五十嵐"
+            },
+            "properties": {
+                "title": "伊加奈志神社",
+                "description": "古代より地域の信仰と深く結びついていた、伊予国総社の論社",
+                "note": [
+                    "この地に国造として派遣された物部氏の系統の一族が彼らの祖神とする伊迦賀色許男命を祀ったのが起源という説がある",
+                    "古くから「総社明神」と呼ばれ、近くを流れる川は蒼社川（総社川）と呼ばれた"
+                ],
+                "links": [
+                    {
+                        "text": "伊加奈志神社 - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/伊加奈志神社",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "伊加奈志神社 - Google マップ",
+                        "url": "https://maps.app.goo.gl/MEFgHa4qpFinRAzN9",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 16
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    132.97733524312474,
+                    34.01321652401833
+                ],
+                "address": "日本 〒794-0113 愛媛県今治市玉川町別所４８３番地"
+            },
+            "properties": {
+                "title": "仙遊寺",
+                "description": "四国八十八箇所第五十八番札所（せんゆうじ）",
+                "note": [
+                    "作礼山（されいざん）、千光院（せんこういん）と号す",
+                    "作礼山（標高312m）の8合目辺りにある札所の標高は261m",
+                    "山上ゆえ近郊の札所では唯一今治市街から瀬戸内海まで見渡せ、登山車道の脇には桜、ツツジ、石楠花、紫陽花、紅葉など季節おりおりの花々が楽しめる",
+                    "天然温泉と精進料理の宿坊を備え、1月第2日曜日には「厄飛ばし柴燈大護摩」があり、8月9日の直近日曜日には四万六千日大法会として夏祭りがある",
+                    "栄福寺から徒歩約1時間 - 伊予国分寺まで徒歩約二時間"
+                ],
+                "links": [
+                    {
+                        "text": "仙遊寺 - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/仙遊寺",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "仙遊寺 - Google マップ",
+                        "url": "https://maps.app.goo.gl/d2QUXBH8bvMAZRiaA",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 17
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    133.0254472,
+                    34.0261917
+                ],
+                "address": "〒799-1533 愛媛県今治市国分4丁目1番33号"
+            },
+            "properties": {
+                "title": "伊予国分寺",
+                "description": "四国八十八箇所第五十九番札所（いよこくぶんじ）",
+                "note": [
+                    "金光山（こんごうざん）、最勝院（さいしょういん）と号す",
+                    "現在の境内は伊予国府のあった所とされ、かつての境内は東へやや離れた位置にあったとされる",
+                    "仙遊寺から徒歩約二時間 - "
+                ],
+                "links": [
+                    {
+                        "text": "伊予国分寺 - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/伊予国分寺",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "伊予国分寺 - Google マップ",
+                        "url": "https://maps.app.goo.gl/Tc5s1LAMvcDwMdeQ6",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 17
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    133.04348488,
+                    34.01939894
+                ],
+                "address": "愛媛県今治市桜井６－２－１"
+            },
+            "properties": {
+                "title": "志島ヶ原",
+                "description": "伊予国から燧灘をのぞむ海岸に、幾千もの松が生い茂る景勝地",
+                "note": [
+                    "アカマツ・クロマツの老松約2500本に覆われた浜辺、11haの広大な松原",
+                    "梅の名所としても知られ、春になると梅園に白やピンクの可憐な花が咲き誇り、夏には多くの海水浴客で海岸が賑わう"
+                ],
+                "links": [
+                    {
+                        "text": "志島ヶ原 - Google マップ",
+                        "url": "https://maps.app.goo.gl/8EnK3zhoAhmhXNb5A",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 15
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    132.93543055560855,
+                    33.98199444452922
+                ],
+                "address": "愛媛県今治市玉川町鈍川276"
+            },
+            "properties": {
+                "title": "鈍川温泉",
+                "description": "鈍川渓谷に5軒の旅館が存在する。日帰り入浴施設は、「皆楽荘」、「鈍川せせらぎ交流館」が存在する。\n\n"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    132.94769825,
+                    33.96529594
+                ],
+                "address": "愛媛県今治市玉川町木地己31"
+            },
+            "properties": {
+                "title": "楢原山登山口",
+                "description": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    132.94449839,
+                    33.94018776
+                ],
+                "address": "玉川町木地"
+            },
+            "properties": {
+                "title": "楢原山",
+                "description": "高縄山地（高縄半島）の東部に位置する、標高；1041ｍの山"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    133.1183673515461,
+                    33.92988599964903
+                ],
+                "address": "日本 〒799-1362 愛媛県西条市今在家１５００番地２"
+            },
+            "properties": {
+                "title": "四国オレンジフェリー",
+                "description": "大阪・南港と愛媛県今治市（東予）を結ぶ夜行フェリー",
+                "note": [
+                    "2つのフェリー（おれんじ えひめ・おれんじ おおさか）が日替わり運航",
+                    "東予港 22:00発 → 大阪南港 6:00着<br>大阪南港 22:00発 → 東予港 6:00着",
+                    "* フェリー発着時に、今治方面から無料連絡バス（せとうちバス）が運行"
+                ],
+                "links": [
+                    {
+                        "text": "オレンジフェリー | 四国開発フェリー株式会社",
+                        "url": "https://www.orange-ferry.co.jp/",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "四国開発フェリー - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/四国開発フェリー",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "東予港 - Google マップ",
+                        "url": "https://maps.app.goo.gl/MJKJBEsTdLkDtV1r5",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 15
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    133.1111307324161,
+                    33.83786492379306
+                ],
+                "address": "日本 〒799-1112 愛媛県西条市小松町石鎚２２５３番地"
+            },
+            "properties": {
+                "title": "横峰寺",
+                "description": "四国八十八箇所六十番札所、石鎚山の西遥拝所（よこみねじ）",
+                "note": [
+                    "石鈇山（いしづちざん）、院号は福智院（ふくちいん）と号す",
+                    "札所は標高751 m付近に位置する伊予国では最高所で関所寺（八十八箇所の中では徳島県三好市の「雲辺寺（六十番札所）」に次いで2番目（本堂の位置で比較）の高さ）",
+                    "四国八十八景63番に「霊峰石鎚の真正面～史跡横峰寺道から名勝星ヶ森へ～」で選定されている",
+                    "せとうちバス 西之川線（西条済生会病院前 - 石鎚ロープウェイ）「横峰登山口」下車（横峰登山口から徒歩約2時間半）",
+                    "* 横峰登山口から徒歩3分の「上の原」より「横峰寺参拝口」まで横峰寺参拝バスが運行（12月21日より2月末日までは冬季運休）"
+                ],
+                "links": [
+                    {
+                        "text": "横峰寺登山参拝バス | せとうちバス",
+                        "url": "https://www.setouchibus.co.jp/rosen/yokomine.html",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "横峰寺 - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/横峰寺",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "横峰寺 - Google マップ",
+                        "url": "https://maps.app.goo.gl/V1rbhHRkP1A6V9pQ7",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 17
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    133.1032749999894,
+                    33.893602778116865
+                ],
+                "address": "愛媛県西条市小松町南川甲19"
+            },
+            "properties": {
+                "title": "香園寺",
+                "description": "四国八十八箇所第六十一番札所、子安大師の寺（こうおんじ）",
+                "note": [
+                    "栴檀山（せんだんさん）、教王院（きょうおういん）と号す",
+                    "寺伝によれば、用明天皇の病気平癒を祈願して聖徳太子が建立し、天皇からは教王院の勅号を賜ったとされる",
+                    "奥の院の白滝不動から北へ行った海岸あたりで中山川下流に大日という場所があり、そこにあった大日堂が白滝不動で修行する人達の納経所になって、さらに大日如来を本尊とする寺になり、現在地へ移ったとも云われている",
+                    "四国旅客鉄道（JR四国） 予讃線 - 伊予小松駅 下車 (1.5 km)",
+                    "宝寿寺まで徒歩約三十分"
+                ],
+                "links": [
+                    {
+                        "text": "香園寺 - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/香園寺",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "香園寺 - Google マップ",
+                        "url": "https://maps.app.goo.gl/K49CbuFpH8dnMjpA6",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 17
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    133.11490589642744,
+                    33.897214529241296
+                ],
+                "address": "日本 〒799-1101 愛媛県西条市小松町新屋敷４２８番地"
+            },
+            "properties": {
+                "title": "宝寿寺",
+                "description": "四国八十八箇所第六十二番札所（ほうじゅじ）",
+                "note": [
+                    "天養山（てんようざん）、観音院（かんおんいん）と号す",
+                    "JR伊予小松駅の北側にある「一之宮神社」が元札所",
+                    "香園寺から徒歩約三十分 - 吉祥寺まで徒歩二十分"
+                ],
+                "links": [
+                    {
+                        "text": "宝寿寺 - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/宝寿寺",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "宝寿寺 - Google マップ",
+                        "url": "https://maps.app.goo.gl/46SZFKaGRYnK6GiK7",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "一之宮神社 - Google マップ",
+                        "url": "https://maps.app.goo.gl/XbQhY5i19LTBEd6PA",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 17
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    133.12919444402058,
+                    33.89611111111111
+                ],
+                "address": "愛媛県西条市氷見乙1048"
+            },
+            "properties": {
+                "title": "吉祥寺",
+                "description": "四国八十八箇所第六十三番札所（きちじょうじ）",
+                "note": [
+                    "密教山（みっきょうざん）、胎蔵院（たいぞういん）と号す",
+                    "かつては南東にあたる坂元川谷間の山中の現在は吉祥寺藪と呼ばれている箇所にあり、塔頭を21坊も有するようになっていた",
+                    "宝寿寺から徒歩二十分 - 前神寺まで徒歩約45分（予讃線で15分）"
+                ],
+                "links": [
+                    {
+                        "text": "吉祥寺 (西条市) - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/吉祥寺_(西条市)",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "吉祥寺 - Google マップ",
+                        "url": "https://maps.app.goo.gl/D584R2vprDLScUU98",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 17
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    133.16026474410586,
+                    33.89187209534916
+                ],
+                "address": "日本 〒793-0053 愛媛県西条市洲之内甲１４２６番地"
+            },
+            "properties": {
+                "title": "前神寺",
+                "description": "四国八十八箇所第六十四番札所（まえがみじ）",
+                "note": [
+                    "石鈇山（いしづちさん）、金色院（こんじきいん）と号する",
+                    "日本七霊山の1つ、霊峰石鎚山 (1982m) の麓に位置する",
+                    "吉祥寺から徒歩約45分（予讃線で15分）"
+                ],
+                "links": [
+                    {
+                        "text": "前神寺 - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/前神寺",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "前神寺 - Google マップ",
+                        "url": "https://maps.app.goo.gl/t9qSCKDH6oiUb8uS7",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 17
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    133.18688853821055,
+                    33.8927696178379
+                ],
+                "address": "〒793-0054 愛媛県西条市中野甲１６４９"
+            },
+            "properties": {
+                "title": "伊曽乃神社",
+                "description": "豪華絢爛な「西条祭り」で最大規模のだんじりが奉納される神社として知られる",
+                "tag": null,
+                "zoom": 16,
+                "note": [
+                    "第13代成務天皇7年に伊予御村別（みむらわけ）の祖の武国凝別命（景行天皇の皇子）が東予地方を開拓するにあたり、皇祖神である天照大神を祀ったことに始まるという",
+                    "武国凝別命は天照大神の分霊を奉じて伊勢国から伊予に渡り、今の同市朔日市の御船森に着いたという"
+                ],
+                "links": [
+                    {
+                        "text": "伊曽乃神社 - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/伊曽乃神社",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "伊曽乃神社 - Google マップ",
+                        "url": "https://maps.app.goo.gl/e5i6NJqahk9Rs2Cx8",
+                        "target": "_blank"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    133.18815946,
+                    33.91313227
+                ],
+                "address": "大町798-1"
+            },
+            "properties": {
+                "title": "西条市役所観光交流センター",
+                "description": "西条駅前にある観光案内と物産・土産品販売施設",
+                "note": [
+                    "レンタサイクル 普通自転車・電動アシスト 200円/1時間 400円/2時間（以降上限500円）<br>※ 保証金1,000円(自転車返却時に返金)"
+                ],
+                "links": [
+                    {
+                        "text": "__ - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/__",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "__ - Google マップ",
+                        "url": "https://maps.app.goo.gl/__",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 17
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    133.58655542,
+                    33.96742326
+                ],
+                "address": "金田町三角寺甲75"
+            },
+            "properties": {
+                "title": "三角寺",
+                "description": "四国八十八箇所第六十五番札所（さんかくじ）",
+                "note": [
+                    "由霊山（ゆれいざん）、慈尊院（じそんいん）と号す",
+                    "龍王山（標高465 m）の中腹、標高355 m辺りにあり、かつてはかなり厳しい山道を登らねばならぬ難所寺であった",
+                    "さらに大師像の参拝には、背後の法皇山脈のピークの平石山（標高825 m）の東尾根の地蔵峠（標高765 m）を越えて行かねばならなかった",
+                    "現在でも、段差の大きい73段の石段を息を切らして上り、仁王門をくぐって審判を受ける伊予の関所寺（別の寺が関所寺という説もあり）で伊予国の最後の札所",
+                    "伊予三島駅から徒歩約1時間半"
+                ],
+                "links": [
+                    {
+                        "text": "三角寺 - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/三角寺",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "三角寺 - Google マップ",
+                        "url": "https://maps.app.goo.gl/FeaZGpASMMkrqTHB8",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 17
+            }
+        }
+    ]
+}

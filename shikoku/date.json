@@ -1,0 +1,28 @@
+{
+    "events": [
+        {
+            "date": {
+                "month": null,
+                "date": null
+            },
+            "title": [
+                "__",
+                "__"
+            ],
+            "note": [
+                "__ every year",
+                "__"
+            ],
+            "description": "__",
+            "cover": {
+                "directory": null,
+                "url": null
+            },
+            "info": {
+                "markdown": null,
+                "note": null,
+                "links": null
+            }
+        }
+    ]
+}

@@ -1,0 +1,721 @@
+{
+    "url": "/nankai/?id=shikoku-tokushima&area=yoshinogawa",
+    "title": [
+        "Yoshino-gawa, Tokushima, Shikoku",
+        "吉野川"
+    ],
+    "description": "日本三大暴れ川の1つとして数えられる、高知・愛媛・徳島を流れる一級水系",
+    "info": {
+        "markdown": "shikoku/tokushima/yoshinogawa/README.md",
+        "links": [
+            {
+                "text": "吉野川 - Wikipedia",
+                "url": "https://ja.wikipedia.org/wiki/吉野川",
+                "target": "_blank"
+            },
+            {
+                "text": "徳島線 - Wikipedia",
+                "url": "https://ja.wikipedia.org/wiki/徳島線",
+                "target": "_blank"
+            },
+            {
+                "text": "麻植郡 - Wikipedia",
+                "url": "https://ja.wikipedia.org/wiki/麻植郡",
+                "target": "_blank"
+            },
+            {
+                "text": "吉野川市 - Wikipedia",
+                "url": "https://ja.wikipedia.org/wiki/吉野川市",
+                "target": "_blank"
+            },
+            {
+                "text": "美馬郡 - Wikipedia",
+                "url": "https://ja.wikipedia.org/wiki/美馬郡",
+                "target": "_blank"
+            },
+            {
+                "text": "美馬市 - Wikipedia",
+                "url": "https://ja.wikipedia.org/wiki/美馬市",
+                "target": "_blank"
+            },
+            {
+                "text": "三好市 - Wikipedia",
+                "url": "https://ja.wikipedia.org/wiki/三好市",
+                "target": "_blank"
+            }
+        ]
+    },
+    "map": {
+        "center": [
+            134.31799296,
+            34.06614018
+        ],
+        "bounds": [
+            [
+                133.6652306250902,
+                33.817842134719996
+            ],
+            [
+                134.62065374103258,
+                34.14483150832689
+            ]
+        ],
+        "zoom": 11
+    },
+    "cover": {
+        "url": null
+    },
+    "eventsJSON": [
+        "shikoku/tokushima/yoshinogawa/date.json"
+    ],
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    134.31799296,
+                    34.06614018
+                ],
+                "address": "徳島県吉野川市川島町川島"
+            },
+            "properties": {
+                "title": "岩の鼻展望台",
+                "description": "阿波九城のひとつである川島城の跡を整備した公園「川島公園」内にある、吉野川を一望できる展望台",
+                "note": [
+                    "吉野川の左岸（北岸）・讃岐山脈の南方山麓には、阿波・淡路両国の総鎮守「大麻比古神社」のほか、四国八十八箇所（四国遍路）の第一番から第十番までの札所（寺院）がある"
+                ],
+                "links": [
+                    {
+                        "text": "鳴門海峡と讃岐山脈 Tokushima - Kagawa, Shikoku",
+                        "url": "/nankai/?id=shikoku-tokushima&area=naruto",
+                        "target": "_self"
+                    }
+                ],
+                "zoom": 15
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    134.34850555525887,
+                    34.05166388882531
+                ],
+                "address": "徳島県吉野川市鴨島町飯尾1525"
+            },
+            "properties": {
+                "title": "藤井寺",
+                "description": "四国八十八箇所第十一番札所（ふじいでら）、焼山寺への遍路道は奥深い自然の地「幽玄霊谷」",
+                "note": [
+                    "空海（弘法大師）が堂宇の前に藤を植えたことから藤井寺と号したという",
+                    "以来、真言密教の道場として七堂伽藍を持つ寺に発展",
+                    "焼山寺への遍路道に入ると奥深い自然の地「幽玄霊谷」に入り込む（八十八箇所本尊を祀った祠が点在）",
+                    "その先の渓流の上には、空海が修行したといわれる八畳岩があり、その岩の上には鎮守弁財天が祀られた祠がある"
+                ],
+                "links": [
+                    {
+                        "text": "藤井寺 (吉野川市) - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/藤井寺_(吉野川市)",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "藤井寺 - Google マップ",
+                        "url": "https://maps.app.goo.gl/nJKK9nmXSx99TknE9",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 17
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    134.31022500038148,
+                    33.98494166665607
+                ],
+                "address": "徳島県名西郡神山町下分字地中318"
+            },
+            "properties": {
+                "title": "焼山寺",
+                "description": "四国八十八箇所第十二番札所（しょうさんじ）、四国山地の山深い所にある随一の難所",
+                "note": [
+                    "摩盧山（まろざん）、正寿院（しょうじゅいん）と号す",
+                    "焼山寺山中腹に位置しており、四国八十八箇所では3番目の高さ（標高707m）に位置する",
+                    "藤井寺からの遍路道「焼山寺道」で行くと、長戸庵・柳水庵・浄蓮庵（一本杉庵）を寄りながら、約6~8時間かけて焼山寺に至る",
+                    "当寺を越えると遍路道の名称は「一宮道」と変わり、約1km下ったところに霊場番外札所「杖杉庵（じょうしんあん）」がある",
+                    "毎年8月30日、おこもり法要、日没から境内におびただしい数の灯籠が灯される",
+                    "本坊左奥の登山口から焼山寺山頂上まで約1.1 kmの登山道（徒歩約1時間）が伸び、その先に奥之院「蔵王権現堂」がある"
+                ],
+                "links": [
+                    {
+                        "text": "焼山寺 - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/焼山寺",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "焼山寺 - Google マップ",
+                        "url": "https://maps.app.goo.gl/XRcM2xp7pQkCYr2Z7",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 16.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    134.31984019835454,
+                    33.9840570119207
+                ]
+            },
+            "properties": {
+                "title": "杖杉庵",
+                "description": "弘法大師伝説の残る四国八十八箇所霊場番外札所（じょうしんあん）",
+                "note": [
+                    "最初に四国八十八箇所を巡った伝説の人物とされる衛門三郎の終焉の地伝説が残る場所に建つ寺院",
+                    "伝説によれば、平安時代前期の天長年間（824年 - 833年）に、伊予国の人であった衛門三郎は四国巡錫中の弘法大師に行った無礼な行いを詫びるため弘法大師を追って旅に出たという",
+                    "21回目に逆回りを行っている途中、四国八十八箇所12番札所焼山寺近くのこの地で力尽き病に倒れた",
+                    "大師は衛門三郎をこの地に葬り、墓標として衛門三郎が遍路に使用した杉の杖を立てた。これがやがて根を張り杉の大木となったという"
+                ],
+                "links": [
+                    {
+                        "text": "杖杉庵 - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/杖杉庵",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "杖杉庵 - Google マップ",
+                        "url": "https://maps.app.goo.gl/3Y6DsL7gAbSmsTTE9",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 17
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    134.3669704017954,
+                    33.9710039570122
+                ],
+                "address": "徳島県神山町神山町神領字西上角３３０"
+            },
+            "properties": {
+                "title": "上一宮大粟神社",
+                "description": "阿波の国魂神「大宜都比売（おおげつひめ）」を祀る阿波国一宮、「天石門別八倉比売神社」の論社の1つ",
+                "note": [
+                    "伊勢国丹生の郷（現 三重県多気郡多気町丹生）から馬に乗って阿波国に来た大宜都比売神が、この地に粟を広めたという神域",
+                    "その伝説に由来し、周辺の山地は「神山」と命名された（古来より、阿波の語源ともいわれる「粟生の里」と呼ばれ栄えた地域に位置する）",
+                    "アクセス<br>JR徳島駅発着 徳島バス神山線（延命）・神山線（名東）又は佐那河内線が運行",
+                    "（参拝に不便なこの地の分祠として、平安時代に現在の徳島市一宮町に一宮神社が創建された）"
+                ],
+                "links": [
+                    {
+                        "text": "上一宮大粟神社 - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/上一宮大粟神社",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "上一宮大粟神社 - Google マップ",
+                        "url": "https://maps.app.goo.gl/TbCTTfeBx2uQ4zZ58",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 15.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    134.42361388895245,
+                    34.02276944425371
+                ],
+                "address": "徳島県名西郡神山町阿野大地459-1"
+            },
+            "properties": {
+                "title": "徳島県立神山森林公園（イルローザの森）",
+                "description": "四国八十八景5番「四季を体感できるポテレット広場の眺め」",
+                "note": [
+                    "四国八十八箇所（四国遍路）の遍路は、神山町から東北に下り、徳島市へ続く"
+                ],
+                "links": [
+                    {
+                        "text": "徳島（国府・一宮） Tokushima, Shikoku",
+                        "url": "/nankai/?id=shikoku-tokushima",
+                        "target": "_self"
+                    }
+                ],
+                "zoom": 14
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    134.26674710475663,
+                    34.05452732941848
+                ]
+            },
+            "properties": {
+                "title": "忌部神社 (吉野川市)",
+                "description": "阿波忌部氏の祖神「天日鷲命（あめのひわしのみこと）」を祀る神社の一つ",
+                "zoom": 16,
+                "note": [
+                    "神代の頃より、神社後方の「黒岩」と呼ばれる山腹に鎮座していたと伝わる古社（明治以前は「天日鷲神社」と称された）",
+                    "黒岩には、6世紀後半の築造と見られる5基の円墳からなる忌部山古墳群があり、これは6世紀前後に忽然と現れたもので、当地に移住してきた氏族集団があったのではないかと指摘されている"
+                ],
+                "links": [
+                    {
+                        "text": "忌部神社 (吉野川市) - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/忌部神社_(吉野川市)",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "忌部神社 - Google マップ",
+                        "url": "https://maps.app.goo.gl/YDaojrx8xDku8Azj8",
+                        "target": "_blank"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    134.2411813098039,
+                    34.06043601088341
+                ],
+                "address": "日本 〒779-3403 徳島県吉野川市山川町八幡"
+            },
+            "properties": {
+                "title": "川田八幡神社",
+                "description": "毎年十月二十二日「神代御宝踊り」が行われる",
+                "note": [
+                    "高越山麓の台地・50段の石段の上に鎮座する、古くから忌部氏の守護神として信仰される社",
+                    "例大祭では、神いさめの踊り「神代御宝踊り」の奉納、数台の勇み屋台が台地・50段の石段を一気に駆け上がる神輿の渡卸が行われる"
+                ],
+                "links": [
+                    {
+                        "text": "川田八幡神社 - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/川田八幡神社",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "川田八幡神社 - Google マップ",
+                        "url": "https://maps.app.goo.gl/8uXY3L9bdEaX2GS37",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 17
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    134.26028691,
+                    34.02446352
+                ],
+                "address": "徳島県吉野川市美郷平"
+            },
+            "properties": {
+                "title": "美郷のホタル生息地",
+                "description": "国の天然記念物・ふるさといきものの里100選",
+                "note": [
+                    "地区全域が国指定天然記念物「美郷のホタルおよびその発生地」であり、川田川上流を中心に5月中旬〜6月中旬にかけてゲンジボタルなど5種のホタルが乱舞する"
+                ],
+                "links": [
+                    {
+                        "text": "美郷ほたる館",
+                        "url": "https://www.misato-hotarukan.jp/",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "美郷 ホタル - Google マップ",
+                        "url": "https://maps.app.goo.gl/ogjGcmtmh9TVuc4h6",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 15
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    134.2071861113442,
+                    34.09299166679383
+                ],
+                "address": "徳島県阿波市阿波町北山540"
+            },
+            "properties": {
+                "title": "阿波の土柱",
+                "description": "高い砂岩柱の古代の地層、大地の芸術・国の天然記念物",
+                "note": [
+                    "太古の昔より土や砂礫が堆積した土地が隆起し、雨水の浸食によって削られ、長い長い年月をかけて形造られた柱状・尖塔状等の土柱",
+                    "付近一帯が県立自然公園（現・土柱高越県立自然公園）・1973（昭和48）年には自然休養村に指定され、周囲には正面展望台の他、波濤嶽頂上コース・ハイキングコースなどが整備されている"
+                ],
+                "links": [
+                    {
+                        "text": "阿波の土柱 - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/阿波の土柱",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "阿波の土柱 - Google マップ",
+                        "url": "https://maps.app.goo.gl/tkEriZiLFvbSP77HA",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 15
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    134.19423410884502,
+                    34.00288841595744
+                ],
+                "address": "日本 〒779-3406 徳島県吉野川市山川町奥野井"
+            },
+            "properties": {
+                "title": "船窪のオンツツジ群落",
+                "description": "推定樹齢300年のつつじが自然群生する国指定天然記念物",
+                "note": [
+                    "高越山（標高1,133m）から奥野々山（標高1,159m）に通じる峰筋",
+                    "見頃：5月中旬～下旬"
+                ],
+                "links": [
+                    {
+                        "text": "船窪つつじ公園 - Google マップ",
+                        "url": "https://maps.app.goo.gl/hSDuFa6yesg9mb96A",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 15
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    134.1459444448683,
+                    34.06847500006358
+                ],
+                "address": "徳島県美馬市脇町大字脇町"
+            },
+            "properties": {
+                "title": "うだつの町並み",
+                "description": "江戸時代中期から昭和初期にかけて建てられた商家が並ぶ、国の重要伝統的建造物群保存地区",
+                "note": [
+                    "四国八十八景8番・とくしま88景・にし阿波お勧めビューポイント100選・都市景観100選・日本の道100選・美しい日本の歴史的風土100選に選定"
+                ],
+                "links": [
+                    {
+                        "text": "脇町南町 - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/脇町南町",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "うだつの町並み - Google マップ",
+                        "url": "https://maps.app.goo.gl/Fqu42p8fuRLxn2Ze6",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 14.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    134.10098611109785,
+                    34.0525416665607
+                ],
+                "address": "徳島県美馬市穴吹町三島小島"
+            },
+            "properties": {
+                "title": "本楽寺",
+                "description": "阿讃山脈と吉野川を借景にした枯山水「鶴亀の庭（神泉蓬莱）」がある寺院（四国八十八景9番）",
+                "note": [
+                    "作庭は齊藤忠一"
+                ],
+                "links": [
+                    {
+                        "text": "本楽寺 (美馬市) - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/本楽寺_(美馬市)",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "本楽寺 - Google マップ",
+                        "url": "https://maps.app.goo.gl/4m3jdfGCsfV6BhPr7",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 16.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    134.062575,
+                    34.0376417
+                ],
+                "address": "〒779-4101 徳島県美馬郡つるぎ町貞光町49番地"
+            },
+            "properties": {
+                "title": "松尾神社",
+                "description": "毎年 一月一日 神社奉納歌舞「天の岩戸神楽」奉納",
+                "note": [
+                    "最寄駅の「貞光駅」は、西日本・四国第二の高峰「剣山」へのアクセス拠点"
+                ],
+                "links": [
+                    {
+                        "text": "剣山系 Mount Tsurugi (Tokushima), Shikoku",
+                        "url": "/nankai/?id=shikoku-tokushima&area=tsurugi",
+                        "target": "_self"
+                    },
+                    {
+                        "text": "松尾神社 - Google マップ",
+                        "url": "https://maps.app.goo.gl/9UwJiAZpEpCE8Azd7",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 16
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    133.94894444465638,
+                    34.03616666661368
+                ],
+                "address": "徳島県三好郡東みよし町中庄1187"
+            },
+            "properties": {
+                "title": "金丸八幡神社",
+                "description": "十月十四日「宵宮（よいみや）神事」が行われる",
+                "note": [
+                    "境内には、全国でも珍しい「列石の聖石群」がある"
+                ],
+                "links": [
+                    {
+                        "text": "金丸八幡神社 - Google マップ",
+                        "url": "https://maps.app.goo.gl/24ewKgD9Jxq2zj8BA",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 16.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    133.931933333079,
+                    34.040919444296094
+                ],
+                "address": "徳島県三好郡東みよし町加茂1482"
+            },
+            "properties": {
+                "title": "加茂の大クス",
+                "description": "旧若宮神社の社地跡に残る御神木、国指定特別天然記念物",
+                "note": [
+                    "にし阿波お勧めビューポイント100選・新日本名木百選・四国八十八景11番"
+                ],
+                "links": [
+                    {
+                        "text": "加茂の大クス - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/加茂の大クス",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "加茂の大クス - Google マップ",
+                        "url": "https://maps.app.goo.gl/4hjwPctPxJteDs2P8",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 17
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    133.893941203128,
+                    34.03479068514147
+                ]
+            },
+            "properties": {
+                "title": "美濃田の淵",
+                "description": "吉野川中流域にある長さ2km・幅100mにわたる深い淵、徳島県指定名勝天然記念物",
+                "note": [
+                    "四国のみずべ八十八カ所、とくしま88景、とくしま水紀行50選に選定"
+                ],
+                "links": [
+                    {
+                        "text": "美濃田の淵 - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/美濃田の淵",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "美濃田の淵 - Google マップ",
+                        "url": "https://maps.app.goo.gl/rXk97F8W1KeuAoBG6",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 15
+            }
+        }
+    ],
+    "line": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        134.55146358243246,
+                        34.07472891696034
+                    ],
+                    [
+                        134.53865112619576,
+                        34.08058056068364
+                    ],
+                    [
+                        134.51868329737698,
+                        34.07942692779994
+                    ],
+                    [
+                        134.5064180302927,
+                        34.077439403893464
+                    ],
+                    [
+                        134.48293577861142,
+                        34.07421779242341
+                    ],
+                    [
+                        134.4442458461429,
+                        34.07028127078841
+                    ],
+                    [
+                        134.42102437351895,
+                        34.06766715534748
+                    ],
+                    [
+                        134.397401427781,
+                        34.07678821384184
+                    ],
+                    [
+                        134.3759415021977,
+                        34.07512581889884
+                    ],
+                    [
+                        134.35659162562013,
+                        34.073705287470986
+                    ],
+                    [
+                        134.3366449504902,
+                        34.072582649589165
+                    ],
+                    [
+                        134.32087791171062,
+                        34.061834332088225
+                    ],
+                    [
+                        134.28640165222123,
+                        34.05766931776175
+                    ],
+                    [
+                        134.25633454533875,
+                        34.06015189453872
+                    ],
+                    [
+                        134.23377748375225,
+                        34.05508580384682
+                    ],
+                    [
+                        134.20431206514047,
+                        34.061367827783016
+                    ],
+                    [
+                        134.16329939796202,
+                        34.05603457591651
+                    ],
+                    [
+                        134.10664985536948,
+                        34.050416630975846
+                    ],
+                    [
+                        134.05929776447238,
+                        34.03928095158224
+                    ],
+                    [
+                        134.03591793641908,
+                        34.041065503186175
+                    ],
+                    [
+                        133.97391548468977,
+                        34.03720943493511
+                    ],
+                    [
+                        133.94874360422187,
+                        34.03585276466367
+                    ],
+                    [
+                        133.92660409059442,
+                        34.03690616219147
+                    ],
+                    [
+                        133.87333716711805,
+                        34.02919174104957
+                    ],
+                    [
+                        133.8573701769302,
+                        34.03245989454362
+                    ]
+                ]
+            },
+            "properties": {
+                "title": "徳島線",
+                "description": "吉野川に沿って徳島県の東西を結ぶ、よしの川ブルーラインの愛称を持つ鉄道路線",
+                "note": [
+                    "徳島県三好市の佃駅から徳島県徳島市の佐古駅に至る四国旅客鉄道（JR四国）の地方交通線",
+                    "歴史的に徳島駅と阿波池田駅が実質的な起終点駅となっており、阿波池田駅は土讃線に連絡、徳島駅は高徳線・鳴門線・牟岐線に連絡する"
+                ],
+                "links": [
+                    {
+                        "text": "吉野川 Yoshino-gawa, Tokushima, Shikoku",
+                        "url": "?id=shikoku-tokushima&area=yoshinogawa",
+                        "target": "_self"
+                    }
+                ],
+                "zoom": 12.5
+            }
+        }
+    ]
+}

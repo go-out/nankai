@@ -1,0 +1,133 @@
+{
+    "url": "/nankai/?id=kii",
+    "title": [
+        "Kii (Wakayama - Nara - Mie), Japan",
+        "紀伊半島"
+    ],
+    "description": "日本古来の自然崇拝・神仏習合の山岳修行の聖地、死霊がこもる場所",
+    "info": {
+        "markdown": "kii/README.md",
+        "links": [
+            {
+                "text": "大峯奥駈道 Omine-Okugake Trail",
+                "url": "?id=yoshino",
+                "target": "_self"
+            },
+            {
+                "text": "熊野三山 Kumano Sanzan, Wakayama",
+                "url": "/nankai/?id=kumano",
+                "target": "_self"
+            },
+            {
+                "text": "紀伊半島 - Wikipedia",
+                "url": "https://ja.wikipedia.org/wiki/紀伊半島",
+                "target": "_blank"
+            },
+            {
+                "text": "紀伊山地 - Wikipedia",
+                "url": "https://ja.wikipedia.org/wiki/紀伊山地",
+                "target": "_blank"
+            },
+            {
+                "text": "紀伊山地の霊場と参詣道 - Wikipedia",
+                "url": "https://ja.wikipedia.org/wiki/紀伊山地の霊場と参詣道",
+                "target": "_blank"
+            },
+            {
+                "text": "わかやまの文化財 | 文化遺産・文化財ポータルサイト",
+                "url": "https://wakayama-bunkazai.jp/",
+                "target": "_blank"
+            },
+            {
+                "text": "大峯奥駈道 | 奥大和 | JAPAN ECO TRACK",
+                "url": "https://www.japanecotrack.net/activity/1444",
+                "target": "_blank"
+            }
+        ]
+    },
+    "map": {
+        "center": [
+            135.5773763,
+            34.2276446
+        ],
+        "bounds": [
+            [
+                134.98604211868383,
+                33
+            ],
+            [
+                136.43137469428171,
+                34.31808608451466
+            ]
+        ],
+        "zoom": 8.75
+    },
+    "eventsJSON": [
+        "yoshino/nosegawa/index.json",
+        "kii/koyasan/date.json",
+        "kii/tanabe/date.json",
+		"kii/wakayama/date.json",
+		"kii/wakayama/waka-no-ura.json",
+		"kii/wakayama/nagusa-yama.json",
+		"kii/wakayama/ita-kiso-3.json",
+        "kumano/hongu/date.json",
+        "kumano/nachi/date.json",
+        "kumano/hayatama/date.json",
+        "kumano/mie/date.json"
+    ],
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.2024388888147,
+                    34.227938889397514
+                ]
+            },
+            "properties": {
+                "title": "和歌山市（名草・和歌浦）",
+                "description": "和歌に詠まれるほど風光明媚な絶景の宝庫、日本神話では「常世の国」への入口とされる神域",
+                "zoom": 12.25,
+                "links": [
+                    {
+                        "text": "和歌山市（名草・和歌浦） Wakayama City, Wakayama",
+                        "url": "/nankai/?id=kii&area=wakayama",
+                        "target": "_self"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.5773763,
+                    34.2276446
+                ]
+            },
+            "properties": {
+                "title": "高野山（金剛峯寺）",
+                "description": "周囲を1,000m級の山々に囲まれた標高約800mの山上盆地に広がる、日本仏教における聖地のひとつ",
+                "zoom": 12.25,
+                "links": [
+                    {
+                        "text": "高野山（金剛峯寺） Mount Koya, Wakayama",
+                        "url": "/nankai/?id=kii-koyasan",
+                        "target": "_self"
+                    }
+                ]
+            }
+        }
+    ],
+    "featuresJSON": [
+        "kumano/index.json"
+    ],
+    "lineJSON": [
+        "yoshino/index.json",
+        "kumano/index.json",
+        "kumano/oohechi.json",
+        "kumano/kohechi.json"
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "events": [
+        {
+            "month": [
+                5
+            ],
+            "title": [
+                "春祭り獅子舞奉納",
+                "今治市"
+            ],
+            "note": [
+                "Weekend and Holiday of May every year",
+                "毎年 五月の週末・祝日"
+            ],
+            "description": "愛媛県指定無形民俗文化財",
+            "info": {
+                "markdown": "shikoku/ehime/touyo/shishimai.md",
+                "links": null
+            }
+        }
+    ]
+}

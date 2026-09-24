@@ -1,0 +1,363 @@
+{
+    "url": "/nankai/?id=awaji&name=nushima",
+    "title": [
+        "Nushima - Mt.Yuzuruha, Minami-Awaji",
+        "沼島と諭鶴羽山"
+    ],
+    "description": "日本の国土の始まり「オノゴロ島」の伝承地「沼島（ぬしま）」と、淡路島の最高峰「諭鶴羽山（ゆずるはさん）」",
+    "info": {
+        "note": [
+            "四月第二土曜日 「春例大祭」 諭鶴羽神社 （神輿渡御・諭鶴羽山々頂初宮参り）",
+            "五月三・四日 「春祭り」 沼島八幡神社 - 厳島神社 （曳きだんじり・かきだんじり）",
+            "八月十三から十六日 「沼島盆踊り」 沼島 （沼島独特の盆踊歌「兵庫口説き」の盆踊り）"
+        ],
+        "links": [
+            {
+                "text": "沼島 - Wikipedia",
+                "url": "https://ja.wikipedia.org/wiki/沼島",
+                "target": "_blank"
+            },
+            {
+                "text": "オノゴロ島 - Wikipedia",
+                "url": "https://ja.wikipedia.org/wiki/オノゴロ島",
+                "target": "_blank"
+            }
+        ]
+    },
+    "map": {
+        "center": [
+            134.81907136780978,
+            34.171171285908855
+        ],
+        "bounds": [
+            [
+                134.5841916591756,
+                34.05640074690457
+            ],
+            [
+                134.89996163974502,
+                34.34800593195797
+            ]
+        ],
+        "zoom": 11.5
+    },
+    "events": [
+        {
+            "date": {
+                "month": 4,
+                "date": null
+            },
+            "title": [
+                "春例大祭",
+                "諭鶴羽神社"
+            ],
+            "note": [
+                "Second Saturday of April every year",
+                "毎年 四月第二土曜日"
+            ],
+            "description": "神輿渡御・諭鶴羽山々頂初宮参り",
+            "info": {
+                "note": null,
+                "links": [
+                    {
+                        "text": "沼島と諭鶴羽山 Nushima - Mt.Yuzuruha, Minami-Awaji",
+                        "url": "/nankai/?id=awaji&name=nushima",
+                        "target": "_self"
+                    }
+                ]
+            }
+        },
+        {
+            "date": {
+                "month": 5,
+                "date": [
+                    3,
+                    4
+                ]
+            },
+            "title": [
+                "春祭り",
+                "沼島八幡神社 - 厳島神社"
+            ],
+            "note": [
+                "May 3rd and 4th every year",
+                "毎年 五月三・四日"
+            ],
+            "description": "曳きだんじり・かきだんじり",
+            "info": {
+                "note": [
+                    "沼島水軍を彷彿とさせる勇壮な祭",
+                    "大漁祈願のだんじり唄を歌いながら曳く「曳きだんじり」や担ぐ「かきだんじり」とともに練り歩き、しぶきを上げながら一気に海へと滑り込む"
+                ],
+                "links": [
+                    {
+                        "text": "沼島と諭鶴羽山 Nushima - Mt.Yuzuruha, Minami-Awaji",
+                        "url": "/nankai/?id=awaji&name=nushima",
+                        "target": "_self"
+                    }
+                ]
+            }
+        },
+        {
+            "date": {
+                "month": 8,
+                "date": [
+                    13,
+                    14,
+                    15,
+                    16
+                ]
+            },
+            "title": [
+                "沼島盆踊り",
+                "沼島"
+            ],
+            "note": [
+                "August 13th - 16th every year",
+                "毎年 八月十三から十六日"
+            ],
+            "description": "沼島独特の盆踊歌「兵庫口説き」の盆踊り",
+            "info": {
+                "markdown": "awaji/bonodori.md",
+                "links": [
+                    {
+                        "text": "沼島と諭鶴羽山 Nushima - Mt.Yuzuruha, Minami-Awaji",
+                        "url": "/nankai/?id=awaji&name=nushima",
+                        "target": "_self"
+                    }
+                ]
+            }
+        }
+    ],
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    134.81595342275392,
+                    34.16609501909062
+                ],
+                "address": "日本 〒656-0961 兵庫県南あわじ市沼島７３番地"
+            },
+            "properties": {
+                "title": "おのころ（自凝）神社",
+                "description": "「おのころさん」と呼ばれる小高い山を神体山とする「イザナギ・イザナミ」を祀る神社",
+                "zoom": 16,
+                "links": [
+                    {
+                        "text": "自凝神社 - Google マップ",
+                        "url": "https://maps.app.goo.gl/9oEsmehNvEMEk7cf6",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "おのころ山 - Google マップ",
+                        "url": "https://maps.app.goo.gl/SyDfiSjH5YuDRk9D8",
+                        "target": "_blank"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    134.82839507213572,
+                    34.16239444125742
+                ],
+                "address": "日本 〒656-0961 兵庫県南あわじ市沼島"
+            },
+            "properties": {
+                "title": "上立神岩",
+                "description": "日本神話に登場する天の御柱（あめのみはしら）だとされる、沼島のシンボル",
+                "zoom": 16,
+                "links": [
+                    {
+                        "text": "上立神岩 - Google マップ",
+                        "url": "https://maps.app.goo.gl/XzALVvTpjZarAWcK9",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "上立神岩 - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/上立神岩",
+                        "target": "_blank"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    134.8195486873575,
+                    34.15611201662388
+                ],
+                "address": "日本 〒656-0961 兵庫県南あわじ市沼島"
+            },
+            "properties": {
+                "title": "下立神岩",
+                "description": "上立神岩は男性性（イザナギ）を表し、下立神岩は女性性（イザナミ）を表すとされる",
+                "zoom": 16,
+                "links": [
+                    {
+                        "text": "下立神岩 - Google マップ",
+                        "url": "https://maps.app.goo.gl/DKXbttpMcPk8YUqG9",
+                        "target": "_blank"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    134.80178905172943,
+                    34.201474859398104
+                ],
+                "address": "日本 〒656-0551 兵庫県南あわじ市灘円実"
+            },
+            "properties": {
+                "title": "沼島汽船",
+                "description": "灘線（沼島 - 淡路島土生） | 片道大人480円",
+                "zoom": 15,
+                "links": [
+                    {
+                        "text": "沼島汽船 - 運航状況・予定 | 兵庫県南あわじ市〜沼島〜",
+                        "url": "https://nushima-yoshijin.jp/go_kisen",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "レンタサイクル | 淡路島観光ガイド",
+                        "url": "https://www.awajishima-kanko.jp/rentalcycle/",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "沼島汽船 土生港のりば - Google マップ",
+                        "url": "https://maps.app.goo.gl/ko5e8ZK3fm4HMkBW6",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "沼島汽船 沼島港のりば - Google マップ",
+                        "url": "https://maps.app.goo.gl/RWmsHkoBuMProEFw5",
+                        "target": "_blank"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    134.8152024884992,
+                    34.23095804018422
+                ],
+                "address": "日本 〒656-0551 兵庫県南あわじ市灘惣川"
+            },
+            "properties": {
+                "title": "諭鶴羽神社",
+                "description": "淡路島内最高峰の「諭鶴羽（ゆづるは）山」山頂に鎮座",
+                "zoom": 16,
+                "note": [
+                    "春に古い葉が場所を譲るように新葉が生え変わる「ユズリハ」が多く見られること",
+                    "また、山に群落を成す照葉樹が、春から夏にかけて葉を更新して（若葉に譲って）いく様から名付けられたとされる",
+                    "例年九月下旬から十一月上旬、境内のフジバカマ園に準絶滅危惧種の蝶「アサギマダラ」が多数飛来する"
+                ],
+                "links": [
+                    {
+                        "text": "諭鶴羽神社公式ホームページ - 諭鶴羽神社公式ホームページ",
+                        "url": "https://yuzuruha.jimdoweb.com/",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "諭鶴羽神社 - Google マップ",
+                        "url": "https://maps.app.goo.gl/PGRadubspENVpCTB7",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "諭鶴羽山 - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/諭鶴羽山",
+                        "target": "_blank"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    134.79763525299262,
+                    34.24972348838314
+                ]
+            },
+            "properties": {
+                "title": "諭鶴羽古道（裏参道）",
+                "description": "諭鶴羽ダム - 裏参道 - 神倉神社 - 諭鶴羽山山頂 - 諭鶴羽神社",
+                "zoom": 13,
+                "links": [
+                    {
+                        "text": "神倉神社 - Google マップ",
+                        "url": "https://maps.app.goo.gl/YYkNKxYf9Ehqj9LGA",
+                        "target": "_blank"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    134.81480130648748,
+                    34.2082175406298
+                ]
+            },
+            "properties": {
+                "title": "諭鶴羽古道（表参道）",
+                "description": "バス停「黒岩」 - 表参道 - 諭鶴羽神社",
+                "zoom": 13.25,
+                "links": [
+                    {
+                        "text": "黒岩 - Google マップ",
+                        "url": "https://maps.app.goo.gl/ikRR2Ywm2V3asicMA",
+                        "target": "_blank"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    134.83548525684404,
+                    34.225639818821634
+                ]
+            },
+            "properties": {
+                "title": "灘黒岩水仙郷",
+                "description": "約500万本のニホンズイセンが自生する「なだくろいわすいせんきょう」",
+                "note": [
+                    "水仙の日本三大群生地の一つ、例年12月下旬から初春にかけて見頃を迎える"
+                ],
+                "zoom": 14.5,
+                "links": [
+                    {
+                        "text": "灘黒岩水仙郷 - Google マップ",
+                        "url": "https://maps.app.goo.gl/2tegmJE1AiS7Wcx38",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "灘黒岩水仙郷 - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/灘黒岩水仙郷",
+                        "target": "_blank"
+                    }
+                ]
+            }
+        }
+    ]
+}

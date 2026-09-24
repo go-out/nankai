@@ -1,0 +1,42 @@
+{
+    "events": [
+        {
+            "month": [
+                5,
+                10
+            ],
+            "title": [
+                "鹿島の櫂練り",
+                "鹿島神社"
+            ],
+            "note": [
+                "May 3rd and Second Monday of October every year",
+                "毎年 五月三日・十月第二月曜日"
+            ],
+            "description": "愛媛県指定無形民俗文化財",
+            "info": {
+                "markdown": "shikoku/ehime/matsuyama/kashimanokaineri.md",
+                "links": null
+            }
+        },
+        {
+            "date": {
+                "month": 10,
+                "date": "第一土曜日"
+            },
+            "title": [
+                "興居島の船踊り",
+                "船越和気比売神社"
+            ],
+            "note": [
+                "First Saturday of October every year",
+                "毎年 十月第一土曜日 午前十一時・午後一時頃"
+            ],
+            "description": "愛媛県指定無形民俗文化財",
+            "info": {
+                "markdown": "shikoku/ehime/matsuyama/gogojima-funaodori.md",
+                "links": null
+            }
+        }
+    ]
+}

@@ -1,0 +1,94 @@
+{
+    "events": [
+        {
+            "month": [
+                1,
+                11
+            ],
+            "title": [
+                "野中の獅子舞",
+                "継桜王子（つぎざくらおうじ）"
+            ],
+            "note": [
+                "January 1st, 2nd and November 3rd every year",
+                "毎年 一月二・三日／十一月三日（秋祭り）"
+            ],
+            "description": "和歌山県指定無形民俗文化財",
+            "info": {
+                "markdown": "kii/tanabe/shishimai.md",
+                "links": [
+                    {
+                        "text": "口熊野 - 本宮大社（中辺路） Tanabe City, Wakayama",
+                        "url": "/nankai/?id=kii-tanabe",
+                        "target": "_self"
+                    }
+                ]
+            }
+        },
+        {
+            "date": {
+                "month": 7,
+                "date": [
+                    24,
+                    25
+                ]
+            },
+            "title": [
+                "田辺祭",
+                "闘鶏神社"
+            ],
+            "note": [
+                "July 24th, 25th every year",
+                "毎年 七月二十四・二十五日"
+            ],
+            "description": "和歌山県指定無形民俗文化財",
+            "info": {
+                "markdown": "kii/tanabe/072425.md",
+                "links": [
+                    {
+                        "text": "田辺祭 - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/田辺祭",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "口熊野 - 本宮大社（中辺路） Tanabe City, Wakayama",
+                        "url": "/nankai/?id=kii-tanabe",
+                        "target": "_self"
+                    }
+                ]
+            }
+        },
+        {
+            "date": {
+                "month": 7,
+                "date": [
+                    24,
+                    25
+                ]
+            },
+            "title": [
+                "田辺祭",
+                "闘鶏神社"
+            ],
+            "note": [
+                "July 24th, 25th every year",
+                "毎年 七月二十四・二十五日"
+            ],
+            "description": "和歌山県指定無形民俗文化財",
+            "cover": {
+                "directory": null,
+                "url": null
+            },
+            "info": {
+                "markdown": "kii/tanabe/072425.md",
+                "links": [
+                    {
+                        "text": "口熊野 - 本宮大社（中辺路） Tanabe City, Wakayama",
+                        "url": "/nankai/?id=kii-tanabe",
+                        "target": "_self"
+                    }
+                ]
+            }
+        }
+    ]
+}

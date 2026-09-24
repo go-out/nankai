@@ -1,0 +1,471 @@
+{
+    "url": "/nankai/?id=shikoku-ehime&area=matsuyama",
+    "title": [
+        "Matsuyama, Ehime",
+        "松山市（忽那諸島）"
+    ],
+    "description": "日本三古湯の一つ「道後温泉」で知られる愛媛県の県庁所在地",
+    "info": {
+        "markdown": "shikoku/ehime/matsuyama/README.md",
+        "links": [
+            {
+                "text": "松山市 - Wikipedia",
+                "url": "https://ja.wikipedia.org/wiki/松山市",
+                "target": "_blank"
+            },
+            {
+                "text": "道後温泉 - Wikipedia",
+                "url": "https://ja.wikipedia.org/wiki/道後温泉",
+                "target": "_blank"
+            },
+            {
+                "text": "忽那諸島 - Wikipedia",
+                "url": "https://ja.wikipedia.org/wiki/忽那諸島",
+                "target": "_blank"
+            }
+        ]
+    },
+    "map": {
+        "center": [
+            132.75086428572627,
+            33.83966728483344
+        ],
+        "bounds": [
+            [
+                132.53225042039486,
+                33.785544757300855
+            ],
+            [
+                132.92021939151482,
+                34.07092329740243
+            ]
+        ],
+        "zoom": 11.5
+    },
+    "cover": {
+        "url": null
+    },
+    "eventsJSON": [
+        "shikoku/ehime/matsuyama/date.json"
+    ],
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    132.81396502703024,
+                    33.79373378822942
+                ],
+                "address": "日本 〒791-1111 愛媛県松山市高井町１００７番地"
+            },
+            "properties": {
+                "title": "西林寺",
+                "description": "四国八十八箇所第四十八番札所（さいりんじ）",
+                "note": [
+                    "滝山（せいりゅうざん）、安養院（あんよういん）と号す",
+                    "伊予の関所寺（別の寺が関所寺という説もあり）で、境内は周りより一段低い場所にあり、邪悪な者が踏み入れると無間地獄に落ちると考えられている",
+                    "伊予鉄道 横河原線 - 鷹ノ子駅 下車 (0.8 km)",
+                    "八坂寺から徒歩約1時間 - 浄土寺まで徒歩約四十五分"
+                ],
+                "links": [
+                    {
+                        "text": "西林寺 (松山市) - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/西林寺_(松山市)",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "西林寺 - Google マップ",
+                        "url": "https://maps.app.goo.gl/kwqzo9ZZ2hnjjNYs8",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 17
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    132.8084020342693,
+                    33.81669471288946
+                ],
+                "address": "日本 〒790-0925 愛媛県松山市鷹子町１１９８番地"
+            },
+            "properties": {
+                "title": "浄土寺",
+                "description": "四国八十八箇所第四十九番札所（じょうどじ）",
+                "note": [
+                    "山号は西林山（さいりんざん）、三蔵院（さんぞういん）と号す",
+                    "西林寺から徒歩約四十五分 - 繁多寺まで徒歩約三十分"
+                ],
+                "links": [
+                    {
+                        "text": "浄土寺 (松山市) - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/浄土寺_(松山市)",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "浄土寺 - Google マップ",
+                        "url": "https://maps.app.goo.gl/NoWpV9xEKy3jZBvQ6",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 17
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    132.8044619526412,
+                    33.82812540281802
+                ],
+                "address": "日本 〒790-0912 愛媛県松山市畑寺町３２番地"
+            },
+            "properties": {
+                "title": "繁多寺",
+                "description": "四国八十八箇所第五十番札所（はんたじ）",
+                "note": [
+                    "東山（ひがしやま）、瑠璃光院（るりこういん）と号す",
+                    "松山市を見下ろす淡路ヶ峠の中腹にあり、西側や南側への展望が素晴らしく、松山城や瀬戸内海までが俯瞰でき背後には鬱蒼とした樹木が繁る",
+                    "境内周辺は景観樹林保護地域に指定されており、サクラ、藤、秋の紅葉の名所",
+                    "浄土寺から徒歩約三十分 - 石手寺まで徒歩約四十五分"
+                ],
+                "links": [
+                    {
+                        "text": "繁多寺 - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/繁多寺",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "繁多寺 - Google マップ",
+                        "url": "https://maps.app.goo.gl/6rMzHypzDyLq7wH57",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 17
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    132.7964968670825,
+                    33.847873224791854
+                ],
+                "address": "日本 〒790-0852 愛媛県松山市石手２丁目"
+            },
+            "properties": {
+                "title": "石手寺",
+                "description": "四国八十八箇所第五十一番札所（いしてじ）",
+                "note": [
+                    "熊野山（くまのざん）、虚空蔵院（こくぞういん）と号す",
+                    "遍路の元祖とされる衛門三郎の再来伝説ゆかりの寺",
+                    "（道後温泉から近いため、遍路の他にも、観光客で賑わうことが多い）"
+                ],
+                "links": [
+                    {
+                        "text": "石手寺 - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/石手寺",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "石手寺 - Google マップ",
+                        "url": "https://maps.app.goo.gl/eq39ieuia9QJ39u2A",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 17
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    132.78638611104753,
+                    33.85207499994172
+                ],
+                "address": "愛媛県松山市道後湯之町５－６"
+            },
+            "properties": {
+                "title": "道後温泉本館",
+                "description": "日本三古湯の一つ、道後温泉（どうごおんせん）の中央",
+                "note": [
+                    "温泉本館前から、市内電車の道後温泉駅まで、L字型に道後商店街があり、土産物店や飲食店などが軒を連ねている",
+                    "市内電車の道後温泉駅前には、放生園という小公園があり、坊っちゃんからくり時計、足湯、湯釜などがある",
+                    "駅前広場には夜間は坊っちゃん列車の機関車と客車が留め置かれ、ライトアップされている"
+                ],
+                "links": [
+                    {
+                        "text": "【公式サイト】道後温泉",
+                        "url": "https://dogo.jp/",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "道後温泉公式エリアガイド | 日本最古のお湯・道後温泉をさらに満喫する道後エリア完全ガイド",
+                        "url": "https://www.dogo.or.jp/",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "道後温泉本館 - Google マップ",
+                        "url": "https://maps.app.goo.gl/dbkSJNmMrHVWtsP4A",
+                        "target": "_blank"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    132.7849850629289,
+                    33.852422465008146
+                ],
+                "address": "日本 〒790-0842 愛媛県松山市道後湯之町１９番２２号"
+            },
+            "properties": {
+                "title": "椿の湯",
+                "description": "松山市営で地元客が中心に利用する温泉",
+                "note": [
+                    "椿をシンボルとした松山市民の「親しみの湯」で、多くの皆さまに愛され、今でも生活には欠かすことのできない公衆浴場"
+                ],
+                "links": [
+                    {
+                        "text": "道後温泉 椿の湯 | 外湯紹介 | 【公式サイト】道後温泉",
+                        "url": "https://dogo.jp/onsen/tsubaki",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "椿の湯 - Google マップ",
+                        "url": "https://maps.app.goo.gl/38goCxr9ct2jh1Wt6",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 17
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    132.78463333328563,
+                    33.85232777780957
+                ],
+                "address": "愛媛県松山市道後湯之町１９－２２"
+            },
+            "properties": {
+                "title": "飛鳥乃湯泉",
+                "description": "飛鳥時代の建築様式を取り入れた湯屋がコンセプトの「新湯」",
+                "note": [
+                    "モダンなデザインと古風なデザインを融合した内装の温泉複合施設"
+                ],
+                "links": [
+                    {
+                        "text": "道後温泉別館 飛鳥乃湯泉(あすかのゆ) ｜外湯紹介｜【公式サイト】道後温泉",
+                        "url": "https://dogo.jp/onsen/asuka",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "道後温泉別館 飛鳥乃湯泉（あすかのゆ） - Google マップ",
+                        "url": "https://maps.app.goo.gl/RN9LpRLhkXtxW3rS7",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 17
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    132.77052222225402,
+                    33.83954166677263
+                ],
+                "address": "愛媛県松山市大街道2-6-5"
+            },
+            "properties": {
+                "title": "ドーミーイン松山",
+                "description": "天然温泉大浴場「石手の湯」を併設するドーミーインチェーンのホテル",
+                "note": [
+                    "「大街道駅」から徒歩約3分"
+                ],
+                "links": [
+                    {
+                        "text": "【公式】ドーミーイン松山",
+                        "url": "https://dormy-hotels.com/dormyinn/hotels/matsuyama/",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "ドーミーイン松山 - Google マップ",
+                        "url": "https://maps.app.goo.gl/SdaQ8jC3TZW5Sivw6",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 17
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    132.71501422236497,
+                    33.885093202571525
+                ],
+                "address": "日本 〒799-2662 愛媛県松山市太山寺町１７０８番地"
+            },
+            "properties": {
+                "title": "太山寺",
+                "description": "四国八十八箇所第五十二番札所（たいさんじ）",
+                "note": [
+                    "瀧雲山（りゅううんざん）、護持院（ごじいん）と号す",
+                    "現存の本堂（国宝）は三代目で嘉元3年（1305年）伊予国守護河野氏によって再建され、近世には松山城主加藤氏の庇護を受けて栄えた",
+                    "立礼茶室 光津庵 - 毎月17日に茶会がある",
+                    "高浜線三津駅より伊予鉄バス 三津ループ線に乗車「太山寺」下車 (0.5km)",
+                    "圓明寺まで徒歩約四十分"
+                ],
+                "links": [
+                    {
+                        "text": "太山寺 (松山市) - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/太山寺_(松山市)",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "太山寺 - Google マップ",
+                        "url": "https://maps.app.goo.gl/p32eHQnf2rNZ3L3t5",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 17
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    132.73963656003735,
+                    33.891797470353666
+                ],
+                "address": "日本 〒799-2656 愛媛県松山市和気町１丁目１９５番地１２"
+            },
+            "properties": {
+                "title": "圓明寺",
+                "description": "四国八十八箇所第五十三番札所（えんみょうじ）",
+                "note": [
+                    "須賀山（すがざん）、正智院（しょうちいん）と号す",
+                    "近年は円明寺と表記されることが多い（当初は現在地より北西約2.5 kmの和気浜の西山という海岸にあり「海岸山圓明密寺」と称する七堂伽藍を備えた大寺であったという）",
+                    "四国旅客鉄道（JR四国） 予讃線 伊予和気駅 下車 (0.3 km)",
+                    "太山寺から徒歩約四十分"
+                ],
+                "links": [
+                    {
+                        "text": "圓明寺 - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/圓明寺",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "圓明寺 - Google マップ",
+                        "url": "https://maps.app.goo.gl/YLnh3cW7AJt7ASUn7",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 17
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    132.6714361,
+                    33.8945306
+                ],
+                "address": "〒791-8093 愛媛県松山市泊町1355番地"
+            },
+            "properties": {
+                "title": "船越和気比売神社",
+                "description": "秋の祭礼にて、愛媛県指定無形民俗文化財「興居島の船踊り」が奉納される",
+                "note": [
+                    "高浜港から西へ約2キロメートル沖合にあり、定期船が結んでいる"
+                ],
+                "links": [
+                    {
+                        "text": "興居島 - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/興居島",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "船越和気比売神社 - Google マップ",
+                        "url": "https://maps.app.goo.gl/zyZAW8H9bYypC4MHA",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 17
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    132.7661049595349,
+                    33.973510336140336
+                ],
+                "address": "日本 〒799-2430 愛媛県松山市北条辻１５９５番地"
+            },
+            "properties": {
+                "title": "鹿島神社",
+                "description": "春秋例祭にて、愛媛県指定無形民俗文化財「鹿島の櫂練り」が催される",
+                "note": [
+                    "北条港から渡船に乗って約3分（ひとり往復210円駐車場完備）で渡ることができ、かつて伊予の江ノ島と呼ばれ、島には野生のキュウシュウジカが生息している"
+                ],
+                "links": [
+                    {
+                        "text": "北条鹿島 - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/北条鹿島",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "鹿島神社 - Google マップ",
+                        "url": "https://maps.app.goo.gl/pFWRasqFN3SaPwHk6",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 17
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    132.76642216,
+                    33.97489578
+                ],
+                "address": "愛媛県松山市北条辻1596-3"
+            },
+            "properties": {
+                "title": "太田屋 鹿島店",
+                "description": "名物の鯛めしの由来は、神功皇后が三韓征伐に先立って鹿島に立ち寄った際に、戦勝祈願として鯛めしが出されたことであるという言い伝えがある",
+                "note": null,
+                "links": [
+                    {
+                        "text": "太田屋 鹿島店 - Google マップ",
+                        "url": "https://maps.app.goo.gl/tZZHV2cQ5DtCmvAK8",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 17
+            }
+        }
+    ]
+}

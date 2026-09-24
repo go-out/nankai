@@ -1,0 +1,169 @@
+{
+    "events": [
+        {
+            "month": [
+                1,
+                2
+            ],
+            "title": [
+                "大三島の神楽",
+                "明日神社・大見神社"
+            ],
+            "note": [
+                "Around May every year",
+                "毎年 旧暦一月の日曜日・十二日の直前の日曜日"
+            ],
+            "description": "愛媛県指定無形民俗文化財",
+            "info": {
+                "markdown": "shikoku/ehime/geiyo/oomishima-kagura.md",
+                "links": null
+            }
+        },
+        {
+            "date": {
+                "month": 1,
+                "date": [
+                    7
+                ]
+            },
+            "title": [
+                "生土祭・福木神事",
+                "大山祇神社"
+            ],
+            "note": [
+                "January 7th every year",
+                "毎年 一月七日 午後七時"
+            ],
+            "description": "特殊神事 福木神事",
+            "info": {
+                "note": [
+                    "神前にかつての神体山である「安神山」より拝戴した赤土を供え、宮司以下、祭典奉仕者全員が額に赤土の神印を拝戴",
+                    "続いて、榊の枝（串木）を両手に持ち打ち鳴らし、素朴な楽を奏でる"
+                ],
+                "links": null
+            }
+        },
+        {
+            "date": {
+                "month": 4,
+                "date": "第三土曜日から三日間"
+            },
+            "title": [
+                "島四国へんろ市",
+                "大島"
+            ],
+            "note": [
+                "Mid April every year",
+                "毎年 四月第三土曜日から三日間"
+            ],
+            "description": "年に一度の島四国の縁日",
+            "info": {
+                "markdown": null,
+                "note": null,
+                "links": null
+            }
+        },
+        {
+            "month": [
+                5,
+                6
+            ],
+            "title": [
+                "春の大祭",
+                "大山祇神社"
+            ],
+            "note": [
+                "Around May every year",
+                "毎年 旧暦四月二十二・二十三日"
+            ],
+            "description": "例大祭・後宮祭",
+            "info": {
+                "note": [
+                    "旧暦四月二十二日 午前十時 現在の地に遷座した日に斎行、最も重要な祭典",
+                    "旧暦四月二十三日 午前十時 例大祭が無事に終えられた由を神前に奉告する祭典"
+                ],
+                "links": null
+            }
+        },
+        {
+            "month": [
+                5,
+                6
+            ],
+            "title": [
+                "御田植祭",
+                "大山祇神社"
+            ],
+            "note": [
+                "Around June every year",
+                "毎年 旧暦五月五日 正午ごろ"
+            ],
+            "description": "愛媛県指定無形民俗文化財",
+            "info": {
+                "markdown": "shikoku/ehime/geiyo/hitori-zumo.md",
+                "links": null
+            }
+        },
+        {
+            "month": [
+                9,
+                10
+            ],
+            "title": [
+                "産須奈大祭（秋祭り）",
+                "大山祇神社"
+            ],
+            "note": [
+                "Around September every year",
+                "毎年 旧暦八月二十二日に近い日曜日とその前日"
+            ],
+            "description": "獅子舞奉納・山車（だんじり）神輿渡御",
+            "info": {
+                "markdown": "shikoku/ehime/geiyo/ubusuna-taisai.md",
+                "links": null
+            }
+        },
+        {
+            "month": [
+                10,
+                11
+            ],
+            "title": [
+                "抜穂祭",
+                "大山祇神社"
+            ],
+            "note": [
+                "Around October every year",
+                "毎年 旧暦九月九日 正午ごろ"
+            ],
+            "description": "愛媛県指定無形民俗文化財",
+            "cover": {
+                "directory": null,
+                "url": null
+            },
+            "info": {
+                "markdown": "shikoku/ehime/geiyo/hitori-zumo.md",
+                "links": null
+            }
+        },
+        {
+            "month": [
+                5,
+                11
+            ],
+            "title": [
+                "御更衣御戸開祭",
+                "大山祇神社"
+            ],
+            "note": [
+                "Around May and November 22th every year",
+                "毎年 旧暦四月二十一日・十一月二十二日"
+            ],
+            "description": "神様の衣替えと御扉の開閉を行う祭事",
+            "info": {
+                "markdown": "shikoku/ehime/geiyo/okoromogae-mitobiraki.md",
+                "links": null
+            }
+        }
+    ]
+}

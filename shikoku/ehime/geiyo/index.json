@@ -1,0 +1,1153 @@
+{
+    "url": "/nankai/?id=shikoku-ehime&area=geiyo",
+    "title": [
+        "Geiyo Islands, Hiroshima - Ehime",
+        "芸予諸島"
+    ],
+    "description": "海峡横断長距離自転車道「しまなみ海道」と「安芸灘とびしま海道」が通る島々（げいよしょとう）",
+    "info": {
+        "markdown": "shikoku/ehime/geiyo/README.md",
+        "links": [
+            {
+                "text": "芸予諸島 - Wikipedia",
+                "url": "https://ja.wikipedia.org/wiki/芸予諸島",
+                "target": "_blank"
+            },
+            {
+                "text": "尾道渡船 - Wikipedia",
+                "url": "https://ja.wikipedia.org/wiki/尾道渡船",
+                "target": "_blank"
+            },
+            {
+                "text": "西瀬戸自動車道",
+                "url": "https://ja.wikipedia.org/wiki/西瀬戸自動車道",
+                "target": "_blank"
+            },
+            {
+                "text": "しまなみレンタサイクル - しまなみジャパン",
+                "url": "https://shimanami-cycle.or.jp/rental/",
+                "target": "_blank"
+            },
+            {
+                "text": "しまなみ海道サイクリングロード",
+                "url": "https://ja.wikipedia.org/wiki/しまなみ海道サイクリングロード",
+                "target": "_blank"
+            },
+            {
+                "text": "安芸灘諸島連絡架橋",
+                "url": "https://ja.wikipedia.org/wiki/安芸灘諸島連絡架橋",
+                "target": "_blank"
+            },
+            {
+                "text": "【ビギナー編】しまなみ海道サイクリングおすすめルートマップ",
+                "url": "https://www.google.com/maps/d/viewer?mid=1c08fRJhwVxoUaMFAf0pT5Brztyo&ll=34.21833198240187%2C133.03846833242187&z=11",
+                "target": "_blank"
+            },
+            {
+                "text": "日本遺産 村上海賊",
+                "url": "https://murakami-kaizoku.com/",
+                "target": "_blank"
+            },
+            {
+                "text": "瀬戸内の島々 芸予諸島完全ガイド",
+                "url": "https://onomichijp.com/island/index.html",
+                "target": "_blank"
+            }
+        ]
+    },
+    "map": {
+        "center": [
+            132.9697300334803,
+            34.21062603745962
+        ],
+        "bounds": [
+            [
+                132.64084732232345,
+                34.059519068314415
+            ],
+            [
+                133.34574898148628,
+                34.484216419565485
+            ]
+        ],
+        "zoom": 10.5
+    },
+    "cover": {
+        "url": null
+    },
+    "eventsJSON": [
+        "shikoku/ehime/geiyo/date.json"
+    ],
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    133.1936361111535,
+                    34.40480277803209
+                ],
+                "address": "広島県尾道市東御所町１－１"
+            },
+            "properties": {
+                "title": "尾道駅前レンタサイクルターミナル",
+                "description": "しまなみレンタサイクルターミナル岡山・尾道側の拠点",
+                "tag": null,
+                "zoom": 16.5,
+                "note": [
+                    "営業時間：8:00～19:00（冬季は18:00まで）"
+                ],
+                "links": [
+                    {
+                        "text": "新ターミナルについて | しまなみJAPAN",
+                        "url": "https://shimanami-cycle.or.jp/station/",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "尾道駅前レンタサイクル - Google マップ",
+                        "url": "https://maps.app.goo.gl/h2h1H8nop9Buk25t9",
+                        "target": "_blank"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    133.19284648,
+                    34.40335104
+                ],
+                "address": "日本 〒722-0035 広島県尾道市土堂１丁目１６番１４号"
+            },
+            "properties": {
+                "title": "駅前渡船（向島運航）",
+                "description": "本土と向島を結ぶ渡船の中の一つ（徒歩と二輪車が乗船可能）",
+                "tag": null,
+                "zoom": 15,
+                "note": [
+                    "往時には「本渡し」とも称され、今も昔も尾道の渡船の代表格",
+                    "始発は朝6:00～最終は向島発が22:00、尾道発向島行きが22:10",
+                    "約12分間隔で往復運航・約5分で対岸のフェリーのりばに到着"
+                ],
+                "links": [
+                    {
+                        "text": "駅前渡船（向島運航） 尾道：駅前～向島：富浜",
+                        "url": "https://onomichijp.com/shimanami/ekimae_tosen.html",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "駅前桟橋 (向島:富浜行き乗船場) - Google マップ",
+                        "url": "https://maps.app.goo.gl/rojo8pNjErJhESvh6",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "富浜桟橋 (尾道:駅前行き乗船場) - Google マップ",
+                        "url": "https://maps.app.goo.gl/oGyDoWQJTood2amj8",
+                        "target": "_blank"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    133.20066688201223,
+                    34.406647176454925
+                ]
+            },
+            "properties": {
+                "title": "尾道渡船（兼吉渡し）",
+                "description": "始発は朝6:00～最終は向島発が22:25、尾道発向島行きが22:30（徒歩と二輪車が乗船可能）",
+                "tag": null,
+                "zoom": 15,
+                "note": [
+                    "約10分間隔（通勤通学ラッシュ時は5分間隔）で往復運航・約4分で対岸のフェリーのりばに到着"
+                ],
+                "links": [
+                    {
+                        "text": "尾道渡船（兼吉渡し） 尾道：土堂～向島：兼吉",
+                        "url": "https://onomichijp.com/shimanami/onomichi_tosen.html",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "土堂桟橋 （向島（兼吉）行き乗船場） - Google マップ",
+                        "url": "https://maps.app.goo.gl/jp1fNHFiqNKf5w676",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "兼吉桟橋（尾道（土堂）行き乗船場）兼吉渡し - Google マップ",
+                        "url": "https://maps.app.goo.gl/BtWeSvDD7TRBBvAC8",
+                        "target": "_blank"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    133.19855251243877,
+                    34.39571150112647
+                ]
+            },
+            "properties": {
+                "title": "尾道市民センターむかいしま",
+                "description": "向島レンタサイクル、しまなみレンタサイクルターミナル（予約専用ターミナル）",
+                "tag": null,
+                "zoom": 16.5,
+                "note": null,
+                "links": [
+                    {
+                        "text": "しまなみレンタサイクル事前予約",
+                        "url": "https://www.shimanami-bike-rental.com/booking",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "向島レンタサイクル - Google マップ",
+                        "url": "https://maps.app.goo.gl/fvHLSmr4w1DBNRuw5",
+                        "target": "_blank"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    133.1808107282643,
+                    34.35746941727584
+                ],
+                "address": "日本 〒722-2101 広島県尾道市因島大浜町"
+            },
+            "properties": {
+                "title": "因島大橋",
+                "description": "因島と向島の間の布刈瀬戸を渡す、上下2階建ての構造の吊り橋",
+                "tag": null,
+                "zoom": 13.5,
+                "note": null,
+                "links": [
+                    {
+                        "text": "因島大橋 - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/因島大橋",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "因島大橋 - Google マップ",
+                        "url": "https://maps.app.goo.gl/i8u429X97jfwk9qv7",
+                        "target": "_blank"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    133.17940446096435,
+                    34.279716603553766
+                ]
+            },
+            "properties": {
+                "title": "生名フェリー",
+                "description": "因島（土生港） ⇔ 生名島（立石港）間を運航するフェリー",
+                "note": null,
+                "zoom": 14.5,
+                "links": [
+                    {
+                        "text": "【生名フェリー】 土生港（長崎桟橋） ～ 立石港 - 上島町公式ホームページ",
+                        "url": "https://www.town.kamijima.lg.jp/site/access/5639.html",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "土生港（長崎桟橋） - Google マップ",
+                        "url": "https://maps.app.goo.gl/3W8aBCEV556yaajb6",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "立石港 - Google マップ",
+                        "url": "https://maps.app.goo.gl/BkGxVnuNWuisVrz77",
+                        "target": "_blank"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    133.14452545337537,
+                    34.28208717470258
+                ]
+            },
+            "properties": {
+                "title": "三光汽船",
+                "description": "岩城島（小漕港） ⇔ 生口島（洲江港）間を運航するフェリー",
+                "note": null,
+                "zoom": 14.5,
+                "links": [
+                    {
+                        "text": "【三光汽船】 洲江港～ 小漕港 - 上島町公式ホームページ",
+                        "url": "https://www.town.kamijima.lg.jp/site/access/5637.html",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "小漕港 - Google マップ",
+                        "url": "https://maps.app.goo.gl/YwioDNPuPkLazkUp8",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "洲江港 - Google マップ",
+                        "url": "https://maps.app.goo.gl/PdZ5tcS8cm23uPgo6",
+                        "target": "_blank"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    133.06323313765688,
+                    34.2595852095087
+                ]
+            },
+            "properties": {
+                "title": "多々羅大橋",
+                "description": "広島県尾道市の生口島と愛媛県今治市の大三島を繋ぐ道路橋",
+                "zoom": 13.5,
+                "note": [
+                    "主塔の真下では手を叩くとパーンと空に向かって反響する「鳴き竜」が体験できる"
+                ],
+                "links": [
+                    {
+                        "text": "多々羅大橋 - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/多々羅大橋",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "多々羅大橋 - Google マップ",
+                        "url": "https://maps.app.goo.gl/AmQi8Yr7JLTBXGs98",
+                        "target": "_blank"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    133.05403560545665,
+                    34.254150070999074
+                ]
+            },
+            "properties": {
+                "title": "道の駅「多々羅しまなみ公園」",
+                "description": "大三島レンタサイクル、しまなみレンタサイクルターミナルの一つ",
+                "tag": null,
+                "zoom": 16.5,
+                "note": [
+                    "営業時間：9時～17時（不定休）",
+                    "瀬戸内海の景色を一望できるビューポイント、レストランや特産品センター・農水産物直売所を設備"
+                ],
+                "links": [
+                    {
+                        "text": "多々羅しまなみ公園 - 株式会社しまなみ",
+                        "url": "hthttps://imabari-shimanami.jp/tatara/",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "大三島レンタサイクル - Google マップ",
+                        "url": "https://maps.app.goo.gl/NMJkhVzJ2W4jCPb97",
+                        "target": "_blank"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    133.04726844034514,
+                    34.26134542649045
+                ],
+                "address": "日本 〒794-1402 愛媛県今治市上浦町井口７０７４番地２０"
+            },
+            "properties": {
+                "title": "三島の湯",
+                "description": "しまなみドームに併設された温泉施設",
+                "tag": null,
+                "zoom": null,
+                "note": null,
+                "links": [
+                    {
+                        "text": "上浦多々羅スポーツ公園運動場 | 今治市公共スポーツ施設の案内 | スポーツ振興課 | 今治市",
+                        "url": "https://www.city.imabari.ehime.jp/sports/shisetsu/tatara/",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "多々羅しまなみドーム - Google マップ",
+                        "url": "https://maps.app.goo.gl/TPPP7rDXLhLB5hyW9",
+                        "target": "_blank"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    133.03647149381175,
+                    34.264058366317485
+                ],
+                "address": "日本 〒794-1402 愛媛県今治市上浦町井口５６００番地"
+            },
+            "properties": {
+                "title": "民宿なぎさ",
+                "description": "大三島で獲れる新鮮な魚料理の夕食が評判の民宿",
+                "note": null,
+                "links": [
+                    {
+                        "text": "大三島 なぎさ",
+                        "url": "https://www.oomishima.co.jp/",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "民宿なぎさ - Google マップ",
+                        "url": "https://maps.app.goo.gl/qu19GAujRGuQinhA9",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 17
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    133.00580834991382,
+                    34.24788296928995
+                ],
+                "address": "日本 〒794-1304 愛媛県今治市大三島町宮浦３９９３番地"
+            },
+            "properties": {
+                "title": "大山祇神社",
+                "description": "日本総鎮守とも称される伊予国一宮、三島・大山祇信仰の総本社",
+                "tag": null,
+                "zoom": 15.5,
+                "note": [
+                    "イザナミとイザナギの子で、ニニギの妻となる二柱の女神「木花之佐久夜毘売（このはなのさくやびめ）」・「石長比売（いわながひめ）」を子に持つ「大山積神（おおやまづみのかみ）」を祀る神社の総本社",
+                    "鎮座地である「大三島」は、古くは「御嶋」あるいは「見嶋」と呼ばれ、これが転じて「三島」になったとも言う",
+                    "源氏・平氏をはじめ多くの武将が武具を奉納したため、古代より日本の武具類が多く集まる国宝の宝庫（特に甲冑の保存は全国一であり、国宝・国の重要文化財の指定をうけた約4割を保有する）",
+                    "その他、境内には国の天然記念物「大山祇神社のクスノキ群」・境外には3の神体山（鷲ヶ頭山・安神山・小見山）がある"
+                ],
+                "links": [
+                    {
+                        "text": "【公式】大山祇神社 愛媛県今治市大三島町",
+                        "url": "https://oomishimagu.jp/",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "大山祇神社 - Google マップ",
+                        "url": "https://maps.app.goo.gl/ZRnJ63Ck11r9iaVK6",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "大山祇神社 - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/大山祇神社",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "大三島 - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/大三島",
+                        "target": "_blank"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    133.00891053870635,
+                    34.24806696009459
+                ],
+                "address": "大三島町宮浦"
+            },
+            "properties": {
+                "title": "小見山",
+                "description": "大山祇神社の奥の院がある本社境内後方の山",
+                "note": [
+                    "山名は「お宮の山」からの変形とされる"
+                ],
+                "links": [
+                    {
+                        "text": "奥の院 - Google マップ",
+                        "url": "https://maps.app.goo.gl/27BiATp4LnCpV3dYA",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 15
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    133.01075715230195,
+                    34.24169199630387
+                ],
+                "address": "日本 〒794-1304 愛媛県今治市大三島町宮浦"
+            },
+            "properties": {
+                "title": "安神山",
+                "description": "大山祇神社 〜 鷲ヶ頭山の間に位置する霊峰",
+                "note": [
+                    "",
+                    "海の神である「竜王大権現」が祀られており、「石鎚大神」の碑が建てられている"
+                ],
+                "links": [
+                    {
+                        "text": "安神山三角点265m - Google マップ",
+                        "url": "https://maps.app.goo.gl/dwFFVvns4TeX66D57",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 14
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    133.02138876,
+                    34.23910126
+                ],
+                "address": "Omishimacho Miyaura"
+            },
+            "properties": {
+                "title": "鷲ヶ頭山",
+                "description": "大三島のほぼ中央に位置する最高峰、大山祇神社の神体山（わしがとうざん、標高約436m）",
+                "note": [
+                    "一般的な登山ルートは、「大山祇神社」付近にある登山口から「安神山」を経由し、山頂部へ通じる遊歩道状の道",
+                    "古くは、鷲峯山、神ノ山、神野山とも表記したという"
+                ],
+                "links": [
+                    {
+                        "text": "鷲ヶ頭山 - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/鷲ヶ頭山",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "鷲ヶ頭山 - Google マップ",
+                        "url": "https://maps.app.goo.gl/6dv32ez7HxYciNZa8",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 13
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    133.00482277585905,
+                    34.24613852324606
+                ],
+                "address": "日本 〒794-1304 愛媛県今治市大三島町宮浦４０５９番地"
+            },
+            "properties": {
+                "title": "東円坊",
+                "description": "かつては四国五十五番の本札所であり、大山積神の本地仏である大通智勝仏がいる"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    133.0034629419963,
+                    34.248932001593516
+                ],
+                "address": "日本 〒794-1304 愛媛県今治市大三島町宮浦５５０７番地１"
+            },
+            "properties": {
+                "title": "お食事処 大漁",
+                "description": "大山祇神社のまん前 行列のできる海鮮丼・定食屋",
+                "note": [
+                    "営業時間 11:30 - なくなり次第終了 | 定休日 土曜日（たまに日曜日）"
+                ],
+                "links": [
+                    {
+                        "text": "大漁 - Google マップ",
+                        "url": "https://maps.app.goo.gl/JywvPUHu9kz9qxHr8",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 16.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    132.99460729127242,
+                    34.252472061525225
+                ],
+                "address": "日本 〒794-1303 愛媛県今治市大三島町明日７８番地"
+            },
+            "properties": {
+                "title": "明日八幡宮",
+                "description": "毎年旧暦一月の日曜日に行われる大三島神楽を継承"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    132.99181702735962,
+                    34.261110764501936
+                ],
+                "address": "日本 〒794-1302 愛媛県今治市大三島町大見１７３７番地"
+            },
+            "properties": {
+                "title": "大見八幡太神社",
+                "description": "毎年旧暦一月十二日の直前の日曜日（大見八幡と姫坂神社の交替）にて「御美戸開神楽」（小神楽）が行われる"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    132.99380667118447,
+                    34.2608099791004
+                ],
+                "address": "日本 〒794-1302 愛媛県今治市大三島町大見２５０４番地"
+            },
+            "properties": {
+                "title": "姫坂神社",
+                "description": "毎年旧暦一月十二日の直前の日曜日（大見八幡と姫坂神社の交替）にて「御美戸開神楽」（小神楽）が行われる"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    132.99400193,
+                    34.24151755
+                ],
+                "address": "愛媛県今治市大三島町宮浦５９０２"
+            },
+            "properties": {
+                "title": "マーレ・グラッシア大三島",
+                "description": "「タラソテラピー（海洋療法）」を取り入れた海洋温浴施設",
+                "zoom": 16.5,
+                "note": [
+                    "入浴 10：00 - 20：00（19：30札止め）",
+                    "休館日 毎週水曜日（定休日）及び 2月の 第1火・水・木曜日（オーバーホール日）"
+                ],
+                "links": [
+                    {
+                        "text": "マーレ・グラッシア大三島｜愛媛県漁業協同組合大三島支所（公式ホームページ）",
+                        "url": "http://jf-omishima.or.jp/publics/index/19/",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "マーレ・グラッシア大三島 - Google マップ",
+                        "url": "https://maps.app.goo.gl/15TCJE97UV2NMHYU6",
+                        "target": "_blank"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    132.9433868702754,
+                    34.20355579198447
+                ]
+            },
+            "properties": {
+                "title": "宗方港",
+                "description": "今治港へのフェリー「大三島ブルーライン」や、大下島への旅客船「とびしま」などが運航",
+                "note": [
+                    "大三島ブルーライン 今治発（宗方行） 6:30・13:05 | 宗方発（今治行） 11:05・19:00",
+                    "とびしま 今治 - 宗方 - 大下島（大下） - 小大下 - 岡村島（岡村港） * 1日4便"
+                ],
+                "zoom": 14.5,
+                "links": [
+                    {
+                        "text": "【公式】大三島ブルーライン株式会社",
+                        "url": "https://omishima-bl.net/",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "せきぜん渡船（岡村～今治航路） | 交通政策課 | 今治市",
+                        "url": "https://www.city.imabari.ehime.jp/kotsus/tosen/sekizen/",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "宗方港 - Google マップ",
+                        "url": "https://maps.app.goo.gl/cqrREWRVjmoNkdbj9",
+                        "target": "_blank"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    133.04963164159574,
+                    34.22829205987699
+                ],
+                "address": "日本 〒794-1404 愛媛県今治市上浦町瀬戸１７５４番地"
+            },
+            "properties": {
+                "title": "向雲寺",
+                "description": "最初に大山積神を奉祀した元宮である横殿の本地仏を祀った大通庵といも地蔵堂がある"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    133.05327357481394,
+                    34.223645563356655
+                ]
+            },
+            "properties": {
+                "title": "横殿宮跡",
+                "description": "大山祇神社の旧社殿と伝わる地",
+                "tag": null,
+                "zoom": 16.5,
+                "note": null,
+                "links": [
+                    {
+                        "text": "横殿宮跡 - Google マップ",
+                        "url": "https://maps.app.goo.gl/pZ6DaJwkWSA3FBf19",
+                        "target": "_blank"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    133.07566921102796,
+                    34.20302063127414
+                ]
+            },
+            "properties": {
+                "title": "伯方Ｓ・Ｃパーク",
+                "description": "伯方レンタサイクル、しまなみレンタサイクルターミナルの一つ",
+                "tag": null,
+                "zoom": 16.5,
+                "note": [
+                    "営業時間：9:00 - 17:00（休館・元日）",
+                    "文化センターや体育センター、さらには公園・テニスコート・人工ビーチ（海水浴場）などが整備"
+                ],
+                "links": [
+                    {
+                        "text": "伯方S・Cパーク マリンオアシスはかた - 株式会社しまなみ",
+                        "url": "https://imabari-shimanami.jp/hakata/",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "伯方レンタサイクル - Google マップ",
+                        "url": "https://maps.app.goo.gl/hzD3vdasRa9bi3DN9",
+                        "target": "_blank"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    133.02181188774676,
+                    34.12774964932049
+                ]
+            },
+            "properties": {
+                "title": "道の駅「よしうみいきいき館」",
+                "description": "大島レンタサイクル、しまなみレンタサイクルターミナルの一つ",
+                "zoom": 16.5,
+                "note": [
+                    "営業時間：9:00 - 17:00（休館・元日）",
+                    "鮮な魚介類が味わえる海鮮料理や七輪バーベキューが楽しめる、食事処と特産品市場"
+                ],
+                "links": [
+                    {
+                        "text": "よしうみいきいき館 - 株式会社しまなみ",
+                        "url": "https://imabari-shimanami.jp/ikiiki/",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "吉海レンタサイクル - Google マップ",
+                        "url": "https://maps.app.goo.gl/tbcAFXsKSR4ANCuE6",
+                        "target": "_blank"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    132.9778452457076,
+                    34.10973497688633
+                ]
+            },
+            "properties": {
+                "title": "サンライズ糸山",
+                "description": "糸山サイクリングターミナル、しまなみレンタサイクルターミナルの一つ",
+                "zoom": 16,
+                "note": [
+                    "営業時間：9時～21時（無休）",
+                    "しまなみ海道で、唯一宿泊施設を持つサイクリングターミナル"
+                ],
+                "links": [
+                    {
+                        "text": "今治市サイクリングターミナル サンライズ糸山",
+                        "url": "https://www.sunrise-itoyama.jp/",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "今治糸山レンタサイクル - Google マップ",
+                        "url": "https://maps.app.goo.gl/DRcsbpZQmqEMgrRb9",
+                        "target": "_blank"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    132.993648534954,
+                    34.064812382819156
+                ],
+                "address": "日本 〒794-0028 愛媛県今治市北宝来町２丁目甲７７３番地８"
+            },
+            "properties": {
+                "title": "今治駅前サイクリングターミナル",
+                "description": "JR予讃線今治駅に隣接、愛媛・今治側のサイクリング拠点",
+                "tag": null,
+                "zoom": 17,
+                "note": [
+                    "営業時間：8:00～20:00（冬季は18:00まで）",
+                    "愛称「i.i.imabari! Cycle Station（アイアイ今治サイクルステーション）」"
+                ],
+                "links": [
+                    {
+                        "text": "今治駅前サイクリングターミナル（愛媛県今治市）｜しまなみジャパン",
+                        "url": "https://shimanami-cycle.or.jp/recommend/274/",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "今治駅前サイクリングターミナル - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/今治駅前サイクリングターミナル",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "今治駅前サイクリングターミナル - Google マップ",
+                        "url": "https://maps.app.goo.gl/K6bHGponLcn11ptw5",
+                        "target": "_blank"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    132.99253333303662,
+                    34.062713889016045
+                ],
+                "address": "愛媛県今治市中日吉町１－２－３０"
+            },
+            "properties": {
+                "title": "しまなみ温泉喜助の湯",
+                "description": "瀬戸内しまなみ海道のすぐ近くに位置する温泉施設（カプセスホテル併設）",
+                "tag": null,
+                "zoom": 16.5,
+                "note": null,
+                "links": [
+                    {
+                        "text": "しまなみ温泉 喜助の湯 | 天然温泉 | サウナ | カプセルホテル",
+                        "url": "https://kisuke.com/yu-imabari/",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "しまなみ温泉 喜助の湯 - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/しまなみ温泉_喜助の湯",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "しまなみ温泉 喜助の湯 - Google マップ",
+                        "url": "https://maps.app.goo.gl/covVs3pcHEmCT1Jf9",
+                        "target": "_blank"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    133.0050434480171,
+                    34.07047812798348
+                ],
+                "address": "日本 〒794-0013 愛媛県今治市片原町１丁目１００番地１"
+            },
+            "properties": {
+                "title": "今治港",
+                "description": "芸予諸島の島々「大三島（宗方）」「大下島（大下）」「岡村島（岡村港）」などへ運航するフェリー・高速船が発着",
+                "note": [
+                    "待合所･発券所の他、レンタサイクルターミナルなどを備える「みなと交流センター（はーばりー）」が隣接"
+                ],
+                "links": [
+                    {
+                        "text": "今治地区 | 今治港の概要 | 港湾漁港課 | 今治市",
+                        "url": "https://www.city.imabari.ehime.jp/kouwan/imabari/imabari.html",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "今治港 - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/今治港",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "今治港 - Google マップ",
+                        "url": "https://maps.app.goo.gl/xK6muoCXHT5M36P56",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 15
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    132.92219032515283,
+                    34.18879870787295
+                ]
+            },
+            "properties": {
+                "title": "大下港フェリー乗り場",
+                "description": "「大三島（宗方）」または「岡村島（岡村港）」間を運行するフェリーが発着",
+                "note": [
+                    "大半はミカン畑に覆われたミカンの島「大下島（おおげしま）」のアクセス拠点",
+                    "今治市営フェリー第二せきぜん／旅客船第三徳海が運航（海上タクシーを利用することも出来る）"
+                ],
+                "zoom": 14.5,
+                "links": [
+                    {
+                        "text": "せきぜん渡船（岡村～今治航路） | 交通政策課 | 今治市",
+                        "url": "https://www.city.imabari.ehime.jp/kotsus/tosen/sekizen/",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "大下港フェリー乗り場 - Google マップ",
+                        "url": "https://maps.app.goo.gl/afq7KL2xGNRrFMJz8",
+                        "target": "_blank"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    132.88434226932293,
+                    34.18418695242384
+                ]
+            },
+            "properties": {
+                "title": "岡村港",
+                "description": "「大下島（大下）」または「今治」間を運行するフェリーが発着",
+                "note": [
+                    "安芸灘とびしま海道の終点「岡村島（おかむらじま）」のアクセス拠点",
+                    "フェリー「第二せきぜん」 今治 - 岡村間を1日4往復（内3往復は小大下島・大下島に寄港）",
+                    "旅客船「とびしま」 今治港 - 宗方港 - 岡村港間を1日4往復",
+                    "2012年10月より宗方・木江とのフェリー航路が就航（宗方 - 岡村間は5往復）"
+                ],
+                "zoom": 14.5,
+                "links": [
+                    {
+                        "text": "せきぜん渡船（岡村～今治航路） | 交通政策課 | 今治市",
+                        "url": "https://www.city.imabari.ehime.jp/kotsus/tosen/sekizen/",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "岡村港 - Google マップ",
+                        "url": "https://maps.app.goo.gl/yWsKmcP2i71SD6mL7",
+                        "target": "_blank"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    132.8673274079216,
+                    34.179382921225226
+                ],
+                "address": ""
+            },
+            "properties": {
+                "title": "呉市豊町御手洗 伝統的建造物群保存地区",
+                "description": "江戸時代から昭和初期にかけて建てられた商家、民家、寺社が建ち並ぶ風情のある地帯",
+                "note": [
+                    "荒波を越えた男たちの夢が紡いだ異空間"
+                ],
+                "links": [
+                    {
+                        "text": "大崎下島 - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/大崎下島",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "御手洗 (呉市) - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/御手洗_(呉市)",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "呉市豊町御手洗 伝統的建造物群保存地区 - Google マップ",
+                        "url": "https://maps.app.goo.gl/5tEV5QrpPq89d1nFA",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 16.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    132.78398969606576,
+                    34.17590299335373
+                ],
+                "address": "日本 〒734-0101 広島県呉市豊浜町大字豊島"
+            },
+            "properties": {
+                "title": "豊島",
+                "description": "島の中央部に高雄山（標高約317m）があり、その東側に3つの集落がある下大崎群島の島",
+                "note": null,
+                "links": [
+                    {
+                        "text": "豊島 (広島県) - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/豊島_(広島県)",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "豊島 - Google マップ",
+                        "url": "https://maps.app.goo.gl/MTZwBshntqj2KLqSA",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 13
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    132.67006481877337,
+                    34.17203578873247
+                ],
+                "address": "日本 〒737-0302 広島県呉市下蒲刈町大地蔵８３９番地１６"
+            },
+            "properties": {
+                "title": "とびしま海道レンタサイクル 梶ヶ浜本店",
+                "description": "営業時間 8:30 - 17:00（レンタル受付は14:00まで）* 要事前予約",
+                "zoom": 15.5,
+                "note": [
+                    "キャンプ＆コテージ梶ヶ浜内 | 定休日 年末年始"
+                ],
+                "links": [
+                    {
+                        "text": "呉市下蒲刈町「コテージ梶ヶ浜」オフィシャルサイト » サイクリング",
+                        "url": "https://kajigahama.jp/rentcycle/",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "とびしま海道レンタサイクル 梶ヶ浜本店 - Google マップ",
+                        "url": "https://maps.app.goo.gl/jx4k34KM37KK3UpG8",
+                        "target": "_blank"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    132.692057539708,
+                    34.23298673583214
+                ],
+                "address": "日本 〒737-2603 広島県呉市川尻町西２丁目１７番９号"
+            },
+            "properties": {
+                "title": "とびしま海道レンタサイクル 川尻駅前支店",
+                "description": "営業時間 9:00 - 17:00（レンタル受付は14:00まで）* 要事前予約",
+                "zoom": 15.5,
+                "note": [
+                    "とびしま海道サイクリングの起点 | 定休日 毎週火曜日・年末年始"
+                ],
+                "links": [
+                    {
+                        "text": "呉市下蒲刈町「コテージ梶ヶ浜」オフィシャルサイト » サイクリング",
+                        "url": "https://kajigahama.jp/rentcycle/",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "とびしま海道レンタサイクル 川尻駅前支店 - Google マップ",
+                        "url": "https://maps.app.goo.gl/dzH1Vnej3XW9hAVv5",
+                        "target": "_blank"
+                    }
+                ]
+            }
+        }
+    ]
+}

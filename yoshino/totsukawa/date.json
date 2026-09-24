@@ -1,0 +1,85 @@
+{
+    "events": [
+        {
+            "date": {
+                "month": 8,
+                "date": [
+                    13,
+                    14,
+                    15
+                ]
+            },
+            "title": [
+                "十津川盆踊り",
+                "十津川村内各地"
+            ],
+            "note": [
+                "August 13th, 14th, 15 every year",
+                "毎年 八月十三・十四・十五日"
+            ],
+            "description": "300年以上受け継がれてきた秘境の文化遺産",
+            "cover": {
+                "directory": null,
+                "url": null
+            },
+            "info": {
+                "note": [
+                    "西川、小原、武蔵の太鼓踊りが一九八九年に「十津川の大踊」として国の重要無形民俗文化財に指定"
+                ],
+                "links": [
+                    {
+                        "text": "十津川盆踊り",
+                        "url": "https://bonodori.studio.site/",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "十津川の大踊 - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/十津川の大踊",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "十津川（玉置山） Totsukawa, Nara",
+                        "url": "/nankai/?id=yoshino-totsukawa",
+                        "target": "_self"
+                    }
+                ]
+            }
+        },
+        {
+            "date": {
+                "month": 8,
+                "date": "中旬"
+            },
+            "title": [
+                "昴の郷ふれあい物語",
+                "十津川村・昴の郷 多目的広場"
+            ],
+            "note": [
+                "Mid-August every year",
+                "例年 八月中旬 午後五時"
+            ],
+            "description": "村内の盆踊りが一堂に会する夏の風物詩",
+            "cover": {
+                "directory": null,
+                "url": null
+            },
+                "links": [
+                    {
+                        "text": "十津川盆踊り",
+                        "url": "https://bonodori.studio.site/",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "十津川の大踊 - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/十津川の大踊",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "十津川（玉置山） Totsukawa, Nara",
+                        "url": "/nankai/?id=yoshino-totsukawa",
+                        "target": "_self"
+                    }
+                ]
+        }
+    ]
+}

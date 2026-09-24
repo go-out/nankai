@@ -1,0 +1,68 @@
+{
+    "events": [
+        {
+            "date": {
+                "month": 2,
+                "date": "節分日"
+            },
+            "title": [
+                "神火大祭",
+                "大麻比古神社"
+            ],
+            "note": [
+                "Around Febrary 2nd every year",
+                "毎年 二月節分日 午後二時"
+            ],
+            "description": "焚き上げ・神楽「宇豆女舞・久米舞」奉納",
+            "info": {
+                "note": [
+                    "氏子崇敬者が願いをこめて納めた祈祷木を神火によって焚き上げ",
+                    "巫女が宇豆女舞、久米舞を奉納し災難攘却を祈念する"
+                ],
+                "links": null
+            }
+        },
+        {
+            "month": [
+                4,
+                5
+            ],
+            "title": [
+                "大御神楽祭",
+                "大麻比古神社"
+            ],
+            "note": [
+                "Around April every year",
+                "毎年 旧暦三月十二日 午後"
+            ],
+            "description": "春祭 湯立神楽 奉納",
+            "info": {
+                "note": [
+                    "本殿前庭に於て、氏子崇敬者の悪病退散・五穀豊穣を祈念する湯立神楽が奉納される"
+                ],
+                "links": null
+            }
+        },
+        {
+            "date": {
+                "month": 10,
+                "date": [
+                    13
+                ]
+            },
+            "title": [
+                "お御供",
+                "宇佐八幡神社"
+            ],
+            "note": [
+                "October 13th every year",
+                "毎年 十月十三日 午後七時"
+            ],
+            "description": "徳島県・鳴門市指定無形民俗文化財",
+            "info": {
+                "note": null,
+                "links": null
+            }
+        }
+    ]
+}

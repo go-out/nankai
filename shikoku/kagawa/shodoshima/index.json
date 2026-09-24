@@ -1,0 +1,143 @@
+{
+    "url": "/nankai/?id=shikoku-kagawa&area=shodoshima",
+    "title": [
+        "Shodoshima, Kagawa, Shikoku",
+        "小豆島"
+    ],
+    "description": "「天然の博物館」と呼ばれるほど生物の種類に富んでいる、船でしか渡れない有人島（しょうどしま）",
+    "info": {
+        "markdown": "shikoku/kagawa/shodoshima/README.md",
+        "links": [
+            {
+                "text": "小豆島 - Wikipedia",
+                "url": "https://ja.wikipedia.org/wiki/小豆島",
+                "target": "_blank"
+            },
+            {
+                "text": "大野手比売 - Wikipedia",
+                "url": "https://ja.wikipedia.org/wiki/大野手比売",
+                "target": "_blank"
+            },
+            {
+                "text": "小豆島の佃煮【亜味撰】",
+                "url": "https://www.amisen.co.jp/story/",
+                "target": "_blank"
+            }
+        ]
+    },
+    "map": {
+        "center": [
+            134.30239388613586,
+            34.517603407151285
+        ],
+        "bounds": [
+            [
+                133.9859282380594,
+                34.354120067774545
+            ],
+            [
+                134.66287192503103,
+                34.78486511890242
+            ]
+        ],
+        "zoom": 10.5
+    },
+    "cover": {
+        "url": null
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    134.18864946534808,
+                    34.47771900726991
+                ],
+                "address": "日本 〒761-4100 香川県小豆郡土庄町甲２４番地６７"
+            },
+            "properties": {
+                "title": "エンジェルロード",
+                "description": "",
+                "note": [
+                    "__"
+                ],
+                "links": [
+                    {
+                        "text": "__ - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/__",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "__ - Google マップ",
+                        "url": "https://maps.app.goo.gl/__",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 17
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    134.29637777752347,
+                    34.5085638888677
+                ],
+                "address": "香川県小豆郡小豆島町神懸通乙327-1"
+            },
+            "properties": {
+                "title": "寒霞渓ロープウェイ(山麓)",
+                "description": "",
+                "note": [
+                    "__"
+                ],
+                "links": [
+                    {
+                        "text": "__ - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/__",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "__ - Google マップ",
+                        "url": "https://maps.app.goo.gl/__",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 17
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    134.30239388613586,
+                    34.517603407151285
+                ]
+            },
+            "properties": {
+                "title": "阿豆枳島神社",
+                "description": "小豆島の島玉神「大野手比売」が祭られている、江戸後期に再興された神社",
+                "note": [
+                    "星ヶ城山（ほしがじょうさん、ほしがじょう）は瀬戸内海にある島々にある山の最高峰",
+                    "西側には日本三大渓谷美の1つに数えられる国指定の名勝「寒霞渓（三笠山）」を有する"
+                ],
+                "links": [
+                    {
+                        "text": "星ヶ城山 - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/星ヶ城山",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "阿豆枳島神社 - Google マップ",
+                        "url": "https://maps.app.goo.gl/wEuzGME7Kh1GRv746",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 13
+            }
+        }
+    ]
+}

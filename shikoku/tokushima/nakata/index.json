@@ -1,0 +1,717 @@
+{
+    "url": "/nankai/?id=shikoku-tokushima&area=nakata",
+    "title": [
+        "Tokushima, Shikoku",
+        "徳島（国府・一宮）"
+    ],
+    "description": "大いなる食物の女神「大宜都比売（おおげつひめ）」の国の中心地",
+    "info": {
+        "markdown": "shikoku/tokushima/nakata/README.md",
+        "links": [
+            {
+                "text": "名方郡 - Wikipedia",
+                "url": "https://ja.wikipedia.org/wiki/名方郡",
+                "target": "_blank"
+            },
+            {
+                "text": "国府町 (徳島県) - Wikipedia",
+                "url": "https://ja.wikipedia.org/wiki/国府町_(徳島県)",
+                "target": "_blank"
+            },
+            {
+                "text": "国府地区 (徳島市) - Wikipedia",
+                "url": "https://ja.wikipedia.org/wiki/国府地区_(徳島市)",
+                "target": "_blank"
+            },
+            {
+                "text": "一宮町 (徳島市) - Wikipedia",
+                "url": "https://ja.wikipedia.org/wiki/一宮町_(徳島市)",
+                "target": "_blank"
+            },
+            {
+                "text": "とくしま好きっぷ| 南海電鉄",
+                "url": "https://www.nankai.co.jp/traffic/otoku/skip2000.html",
+                "target": "_blank"
+            },
+            {
+                "text": "タッチ決済で南海電鉄に乗車。エリア限定 サービス継続中！ | スマート好きっぷ",
+                "url": "https://www.nankai.co.jp/contents/contactless/smartskp/index.html",
+                "target": "_blank"
+            }
+        ]
+    },
+    "map": {
+        "center": [
+            134.46006661065235,
+            34.05997243247097
+        ],
+        "bounds": [
+            [
+                134.41122156404919,
+                33.930484422550336
+            ],
+            [
+                134.69829625128722,
+                34.13260811069645
+            ]
+        ],
+        "zoom": 12
+    },
+    "cover": {
+        "url": null
+    },
+    "eventsJSON": [
+        "shikoku/tokushima/nakata/date.json"
+    ],
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    134.42361388895245,
+                    34.02276944425371
+                ],
+                "address": "徳島県名西郡神山町阿野大地459-1"
+            },
+            "properties": {
+                "title": "徳島県立神山森林公園（イルローザの森）",
+                "description": "四国八十八景5番「四季を体感できるポテレット広場の眺め」",
+                "note": [
+                    "四国八十八箇所第十二番札所「焼山寺」から第十三番札所「大日寺」へ通じる遍路道「一宮道」に位置する"
+                ],
+                "links": [
+                    {
+                        "text": "吉野川 Yoshino-gawa, Tokushima, Shikoku",
+                        "url": "/nankai/?id=shikoku-tokushima&area=yoshinogawa",
+                        "target": "_self"
+                    }
+                ],
+                "zoom": 14
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    134.4627694447835,
+                    34.038147222201026
+                ],
+                "address": "徳島県徳島市一宮町西丁263"
+            },
+            "properties": {
+                "title": "大日寺・一宮神社",
+                "description": "四国八十八箇所第十三番札所（だいにちじ）、阿波国一宮「上一宮大粟神社」の分祠「一宮神社」が隣接",
+                "note": [
+                    "大栗山（おおぐりざん）、花蔵院（けぞういん）と号す",
+                    "元は國中寺の場所にあり、船盡社（船盡神社・船盡比賣神社）の別当寺であった",
+                    "伝承では平安時代末期に、阿波一宮が神山町の上一宮大粟神社にあるのでは不便ということで当地に分詞され阿波一宮神社が造られると当寺はその別当寺となった",
+                    "（戦国時代の戦で一帯焼け野原になったが、江戸時代初期にいち早く復興され、現在に至る）"
+                ],
+                "links": [
+                    {
+                        "text": "大日寺 (徳島市) - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/大日寺_(徳島市)",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "大日寺 - Google マップ",
+                        "url": "https://maps.app.goo.gl/buGqboUprEJe3KjMA",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "一宮神社 (徳島市) - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/一宮神社_(徳島市)",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "阿波国一之宮 一宮神社 - Google マップ",
+                        "url": "https://maps.app.goo.gl/fmrQbMkF2a4RjMA69",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 15.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    134.46491477138994,
+                    34.055813732666934
+                ],
+                "address": "日本 〒779-3127 徳島県徳島市国府町西矢野５３１番地"
+            },
+            "properties": {
+                "title": "天石門別八倉比売神社",
+                "description": "鎮座する杉尾山自体を神体とする阿波国一宮（あめのいわとわけやくらひめ）",
+                "zoom": 15,
+                "note": [
+                    "はじめは気延山（きのべやま、標高約212m）の山頂にあったが、後に気延山南麓の杉尾山に鎮座",
+                    "安永2年（1773年）に書かれた文書には、鎮座から2150年と記されており、逆算すると紀元前378年（孝安天皇15年）となる",
+                    "気延山東側山麓には、西日本最大級の縄縄文時代から中世にかけての複合遺跡「矢野遺跡」があり、古代日本において重要な地だったと推測される"
+                ],
+                "links": [
+                    {
+                        "text": "天石門別八倉比売神社 - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/天石門別八倉比売神社",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "天石門別八倉比賣神社 - Google マップ",
+                        "url": "https://maps.app.goo.gl/gmj6dierr4w5rsAW8",
+                        "target": "_blank"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    134.4756361,
+                    34.0503278
+                ],
+                "address": "〒779-3128 徳島県徳島市国府町延命606番地"
+            },
+            "properties": {
+                "title": "常楽寺",
+                "description": "四国八十八箇所第十四番札所、本堂・大師堂は国の登録有形文化財（じょうらくじ）",
+                "note": [
+                    "盛寿山（せいじゅさん）、延命院（えんめいいん）と号す",
+                    "境内は断層が剥き出しとなった自然の岩盤の上にあり、その形状から流水岩といわれている"
+                ],
+                "links": [
+                    {
+                        "text": "常楽寺 (徳島市) - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/常楽寺_(徳島市)",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "常楽寺 - Google マップ",
+                        "url": "https://maps.app.goo.gl/c2vX923eH7WQkBjAA",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 16.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    134.4735999997457,
+                    34.05562222215864
+                ],
+                "address": "徳島県徳島市国府町矢野718-1"
+            },
+            "properties": {
+                "title": "阿波国分寺",
+                "description": "四国八十八箇所第十五番札所・国指定の名勝（あわこくぶんじ）",
+                "note": [
+                    "薬王山（やくおうさん）、金色院（こんじきいん）と号す",
+                    "寺伝では行基が自ら薬師如来を刻んで開基し、聖武天皇から釈迦如来像と大般若経、光明皇后の位牌厨子が納められたと伝わっている",
+                    "当初は法相宗の寺院として七堂伽藍を有する大寺院であった",
+                    "境内には、「阿波の青石」（緑色の結晶片岩）を豪快に組んだ枯山水を特徴とする安土桃山時代に築かれた（一部は江戸後期に大幅に改修された）重森三玲作の庭園「阿波国分寺庭園」がある"
+                ],
+                "links": [
+                    {
+                        "text": "阿波国分寺 - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/阿波国分寺",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "阿波国分寺 - Google マップ",
+                        "url": "https://maps.app.goo.gl/SijScpXPkmnJ32v18",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 16.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    134.47434166643356,
+                    34.06846944438087
+                ],
+                "address": "徳島県徳島市国府町観音寺49-2"
+            },
+            "properties": {
+                "title": "観音寺",
+                "description": "四国八十八箇所第十六番札所（かんおんじ）",
+                "note": [
+                    "光耀山（こうようざん）、千手院（せんじゅいん）と号す",
+                    "寺伝によれば、聖武天皇が国分寺建立の勅命を出した際に行基に命じて勅願道場として本寺を建立",
+                    "弘仁7年（816年）に空海が巡錫した際に本尊として千手観音像、脇侍に不動明王と毘沙門天を刻んで安置、現在の寺名に改めたとされる",
+                    "町名は「かんのんじ」であるが、寺名は「かんおんじ」<br>また、香川県観音寺市に同じく四国八十八箇所の一つである第六十九番札所観音寺が存在するが、こちらの市名は「かんおんじ」で寺名は「かんのんじ」であり、読みが異なる"
+                ],
+                "links": [
+                    {
+                        "text": "観音寺 (徳島市国府町観音寺) - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/観音寺_(徳島市国府町観音寺)",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "観音寺 - Google マップ",
+                        "url": "https://maps.app.goo.gl/2GYVVp39nX19ZqYo7",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 15
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    134.48547579750687,
+                    34.08516044809785
+                ],
+                "address": "日本 〒779-3118 徳島県徳島市国府町井戸北屋敷８１番地"
+            },
+            "properties": {
+                "title": "井戸寺",
+                "description": "四国八十八箇所第十七番札所（いどじ）",
+                "note": [
+                    "瑠璃山（るりざん）、真福院（しんぷくいん）と号す",
+                    "寺伝によれば、阿波の国司に隣接し天武天皇が勅願道場として673年に創建し、七堂伽藍、末寺12坊を誇る壮大な寺院となり「妙照寺」と称していた",
+                    "その後、弘仁6年（815年）に空海（弘法大師）が来錫、十一面観世音菩薩を刻んで安置したという"
+                ],
+                "links": [
+                    {
+                        "text": "井戸寺 - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/井戸寺",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "井戸寺 - Google マップ",
+                        "url": "https://maps.app.goo.gl/rar2HzR8ryR2HDjB6",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 16.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    134.50694804067803,
+                    34.037577052767574
+                ],
+                "address": "日本 〒770-8040 徳島県徳島市上八万町上中筋５５８番地"
+            },
+            "properties": {
+                "title": "宅宮神社",
+                "description": "毎年 八月十五日「神踊り」が奉納される（えのみや）",
+                "note": [
+                    "阿波国名方郡の「意富門麻比売神社（おおとまひめじんじゃ）」に比定されている古社"
+                ],
+                "links": [
+                    {
+                        "text": "宅宮神社 - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/宅宮神社",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "宅宮神社 - Google マップ",
+                        "url": "https://maps.app.goo.gl/rxeprsfp84aLt6Lk8",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 16.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    134.5455557108612,
+                    34.06021269614631
+                ]
+            },
+            "properties": {
+                "title": "忌部神社（徳島市二軒屋町）",
+                "description": "阿波忌部氏の祖神「天日鷲命（あめのひわしのみこと）」を祀る神社の一つ",
+                "zoom": 16.5,
+                "note": [
+                    "明治25年に創建されたが、昭和20年（1945年）、戦災により主要建物をほとんど焼失<br>現在の本殿は同28年（1953年）に再建されたもの"
+                ],
+                "links": [
+                    {
+                        "text": "忌部神社 - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/忌部神社",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "忌部神社 - Google マップ",
+                        "url": "https://maps.app.goo.gl/K2cGA8zAHG7md8Dp9",
+                        "target": "_blank"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    134.53774679708545,
+                    34.06683851524015
+                ],
+                "address": "徳島県徳島市眉山町"
+            },
+            "properties": {
+                "title": "眉山",
+                "description": "徳島市のシンボル的存在・徳島市の景観を代表する低山（びざん、標高約290m）",
+                "note": [
+                    "山麓には春日神社や願成寺等の神社や寺院が集中している寺町界隈や眉山湧水群がある",
+                    "山頂までハイキングコースが整備されているほか、眉山ロープウェイ、眉山ドライブウェイが通っている"
+                ],
+                "links": [
+                    {
+                        "text": "眉山 (徳島市) - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/眉山_(徳島市)",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "眉山 - Google マップ",
+                        "url": "https://maps.app.goo.gl/dQqQDsGjSFQMqCFB6",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 14
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    134.5565333334605,
+                    34.071908333566455
+                ],
+                "address": "徳島県徳島市徳島町城内1"
+            },
+            "properties": {
+                "title": "徳島中央公園",
+                "description": "徳島城跡を利用した公園、日本の都市公園100選",
+                "note": [
+                    "徳島市のほぼ中心に位置し、大規模なスポーツ施設・市民会館・徳島城博物館などを有する",
+                    "徳島市指定天然記念物である城山原生林などの自然に触れることができる「城山」があり、山頂がある本丸跡まで登ることができる"
+                ],
+                "links": [
+                    {
+                        "text": "徳島中央公園 - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/徳島中央公園",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "徳島中央公園 - Google マップ",
+                        "url": "https://maps.app.goo.gl/k7N3Z1zmW8LQ8Nex9",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 14.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    134.55927797579255,
+                    34.06575746474536
+                ],
+                "address": "万代町"
+            },
+            "properties": {
+                "title": "ケンチョピア",
+                "description": "徳島県庁前を流れる新町川一帯、四国のみずべ八十八カ所・とくしま市民遺産",
+                "note": [
+                    "ケンチョピアとは、県庁とピア（桟橋）を合わせた造語であり、ヨットやプレジャーボートの停泊地となっている"
+                ],
+                "links": [
+                    {
+                        "text": "ケンチョピア - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/ケンチョピア",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "ケンチョピア - Google マップ",
+                        "url": "https://maps.app.goo.gl/KXpcSBo9gAwGFTda9",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 15
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    134.5517003,
+                    34.07308238
+                ],
+                "address": "寺島本町東3-4-3"
+            },
+            "properties": {
+                "title": "徳島駅前地下自転車駐車場",
+                "description": "レンタサイクル 6時00分～22時00分\n5時間未満300円 5時間以上500円"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    134.58419174038886,
+                    34.05640090066814
+                ],
+                "address": "日本 〒770-0874 徳島県徳島市南沖洲５丁目７番３９号"
+            },
+            "properties": {
+                "title": "南海フェリーターミナル",
+                "description": "徳島 ⇄ 和歌山を約2時間15分で結ぶ唯一の航路",
+                "zoom": 15.5,
+                "note": [
+                    "徳島から南海電鉄全駅まで、フェリー運賃と南海電車運賃込みになっている「好きっぷ」など、お得に乗船できるサービスが多数"
+                ],
+                "links": [
+                    {
+                        "text": "南海フェリー株式会社",
+                        "url": "https://nankai-ferry.co.jp/",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "南海フェリー 徳島港のりば - Google マップ",
+                        "url": "https://maps.app.goo.gl/Fz9CMyNQBCgiKvJu5",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "南海フェリー 和歌山港のりば - Google マップ",
+                        "url": "https://maps.app.goo.gl/j2XFakfRRZwA4MZ68",
+                        "target": "_blank"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    134.59454333,
+                    34.03350534
+                ],
+                "address": "徳島県徳島市大原町"
+            },
+            "properties": {
+                "title": "日峯大神子広域公園",
+                "description": "大神子海岸から阿波三峰のひとつ日峰山一帯に広がる公園",
+                "note": [
+                    "徳島県内最大規模の都市公園、展望台からは徳島市街と小松島市街の両方を望むことができる"
+                ],
+                "links": [
+                    {
+                        "text": "日峯大神子広域公園 - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/日峯大神子広域公園",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "日峯大神子広域公園 - Google マップ",
+                        "url": "https://maps.app.goo.gl/WUKDuHEcUFv7Znes6",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 13
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    134.55547908760042,
+                    33.99865002424758
+                ],
+                "address": "日本 〒773-0012 徳島県小松島市田浦町中村１９番地"
+            },
+            "properties": {
+                "title": "田浦町日吉神社",
+                "description": "毎年十月の例祭にて、徳島県指定無形民俗文化財「田浦のたたら踏み」が行われる",
+                "note": [
+                    "境内には、大きな樹冠のクスノキの巨木がある"
+                ],
+                "links": [
+                    {
+                        "text": "日吉神社 - Google マップ",
+                        "url": "https://maps.app.goo.gl/yrEUeF9XFKGuipNf9",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 17
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    134.57823055585226,
+                    33.98596666653951
+                ],
+                "address": "徳島県小松島市田野町字恩山寺谷40"
+            },
+            "properties": {
+                "title": "恩山寺",
+                "description": "四国八十八箇所第十八番札所（おんざんじ）、遍路道は国の史跡",
+                "note": [
+                    "母養山（ぼようざん）、宝樹院（ほうじゅいん）と号す",
+                    "土佐街道から離れ恩山寺に向う間の約0.4km「恩山寺道」・恩山寺から立江寺へ向かい土佐街道に再び合流するまでの間約0.5km「立江寺道」は国の史跡"
+                ],
+                "links": [
+                    {
+                        "text": "恩山寺 - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/恩山寺",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "恩山寺 - Google マップ",
+                        "url": "https://maps.app.goo.gl/kDWa4i6DoNhE3Qct7",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 17
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    134.60752434728875, 33.9962709439032
+                ]
+            },
+            "properties": {
+                "title": "金磯弁財天",
+                "description": "恩山寺奥の院（かないそべんざいてん）",
+                "note": [
+                    "仏堂の脇の丘陵「蓬莱山」に自生する亜熱帯性植物「アコウ」は、徳島県指定天然記念物"
+                ],
+                "links": [
+                    {
+                        "text": "金磯弁財天 - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/金磯弁財天",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "金磯弁財天 - Google マップ",
+                        "url": "https://maps.app.goo.gl/nSTtUgQ4fspcMdqq8",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 16
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    134.58718919780273,
+                    33.97694456845751
+                ],
+                "address": "日本 〒773-0008 徳島県小松島市田野町鳥居本１２番地"
+            },
+            "properties": {
+                "title": "天王社",
+                "description": "毎年 十月下旬 徳島県指定無形民俗文化財「天王社稚児三番叟」が行われる"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    134.60572059573207,
+                    33.96787895352574
+                ],
+                "address": "日本 〒773-0017 徳島県小松島市立江町若松１３番地"
+            },
+            "properties": {
+                "title": "立江寺",
+                "description": "四国八十八箇所第十九番札所・四国の総関所（たつえじ）",
+                "note": [
+                    "橋池山（きょうちさん）、摩尼院（まにいん）と号す",
+                    "「四国の総関所」、また「阿波の関所」として知られる",
+                    "当時は現在地から400 mほど西の奥谷山清水寺のある場所であったという",
+                    "昭和15年に当時の住職らが発願し、旧跡を起点に新四国八十八ヶ所（天神山を一周する約4km徒歩1時間のミニ八十八ヶ所）を開創（昭和55年に大改修が行われた）"
+                ],
+                "links": [
+                    {
+                        "text": "立江寺 (小松島市) - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/立江寺_(小松島市)",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "立江寺 - Google マップ",
+                        "url": "https://maps.app.goo.gl/vhAPMdPnyiVti46T6",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "清水寺 - Google マップ",
+                        "url": "https://maps.app.goo.gl/W9LTxadhJcJ2QzH76",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 16
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    134.4112216071013,
+                    33.95518948532329
+                ],
+                "address": "日本 〒771-4102 徳島県名東郡佐那河内村上"
+            },
+            "properties": {
+                "title": "大川原高原",
+                "description": "四国八十八景16番、標高約1,020mに位置する面積120haの広大な高原",
+                "note": [
+                    "標高約1,020mに位置する広大な高原",
+                    "村営（佐那河内村）の放牧場（5月から9月）や大川原生活環境保全林（森林浴の森100選、佐那河内村から勝浦郡上勝町）である約5haのアワミツバツツジやカタクリ（4月下旬）の群生地がある",
+                    "7月上旬から下旬にかけて、約3万本の紫陽花が咲く",
+                    "徳島駅前発着 徳島バス佐那河内線「中辺」下車、徒歩180分"
+                ],
+                "links": [
+                    {
+                        "text": "大川原高原 - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/大川原高原",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "大川原高原 - Google マップ",
+                        "url": "https://maps.app.goo.gl/__",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 14
+            }
+        }
+    ]
+}

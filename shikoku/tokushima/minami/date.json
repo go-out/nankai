@@ -1,0 +1,80 @@
+{
+    "events": [
+        {
+            "date": {
+                "month": 7,
+                "date": [
+                    16,
+                    17
+                ]
+            },
+            "title": [
+                "山鉾行事",
+                "宍喰八坂神社"
+            ],
+            "note": [
+                "July 16 and 17 every year",
+                "毎年 七月十六・十七日"
+            ],
+            "description": "徳島県指定無形民俗文化財",
+            "cover": {
+                "directory": null,
+                "url": null
+            },
+            "info": {
+                "note": [
+                    "宍喰祇園祭の山鉾行事"
+                ],
+                "links": null
+            }
+        },
+        {
+            "date": {
+                "month": 9,
+                "date": "中旬"
+            },
+            "title": [
+                "うちわ踊り",
+                "西由岐八幡神社"
+            ],
+            "note": [
+                "Mid-September every year",
+                "毎年 九月中旬"
+            ],
+            "description": "徳島県指定無形民俗文化財",
+            "cover": {
+                "directory": null,
+                "url": null
+            },
+            "info": {
+                "note": null,
+                "links": null
+            }
+        },
+        {
+            "date": {
+                "month": 10,
+                "date": "体育の日の前日（日曜日）"
+            },
+            "title": [
+                "阿波の吹筒煙火",
+                "赤松神社"
+            ],
+            "note": [
+                "Sunday of Mid-October every year",
+                "毎年 十月体育の日の前日（日曜日）"
+            ],
+            "description": "徳島県指定無形民俗文化財",
+            "cover": {
+                "directory": null,
+                "url": null
+            },
+            "info": {
+                "note": [
+                    "毎年30頭前後のアカウミガメが産卵に訪れる美しい砂浜として、国の天然記念物に指定される「大浜海岸」の近くに鎮座する赤松神社で行われる、火薬を詰めた筒を吹き鳴らして花火を打ち上げる勇壮な祭り・奉納吹筒花火"
+                ],
+                "links": null
+            }
+        }
+    ]
+}

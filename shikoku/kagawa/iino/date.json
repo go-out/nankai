@@ -1,0 +1,30 @@
+{
+    "events": [
+        {
+            "date": {
+                "month": 4,
+                "date": [
+                    22
+                ]
+            },
+            "title": [
+                "讃岐富士の日",
+                "飯野山"
+            ],
+            "note": [
+                "April 22th every year",
+                "毎年 四月二十二日 午前十一時から"
+            ],
+            "description": "山頂の薬師堂が開扉され、山頂広場で柴灯護摩が焚かれる",
+            "cover": {
+                "directory": null,
+                "url": null
+            },
+            "info": {
+                "note": null,
+                "markdown": null,
+                "links": null
+            }
+        }
+    ]
+}

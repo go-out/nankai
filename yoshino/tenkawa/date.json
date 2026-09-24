@@ -1,0 +1,61 @@
+{
+    "events": [
+        {
+            "date": {
+                "month": 5,
+                "date": "中旬"
+            },
+            "title": [
+                "弥山奥宮大祭",
+                "天河大辨財天社（天河神社）"
+            ],
+            "note": [
+                "Mid-May Saturday every year",
+                "例年 五月十五日に近い土曜日"
+            ],
+            "description": "一泊二日の日程にて霊峰弥山に登拝",
+            "info": {
+                "note": null,
+                "markdown": null,
+                "links": [
+                    {
+                        "text": "弥山・八経ヶ岳（天河神社） Tenkawa, Nara",
+                        "url": "?id=yoshino-tenkawa",
+                        "target": "_self"
+                    }
+                ]
+            }
+        },
+        {
+            "date": {
+                "month": 7,
+                "date": [
+                    16,
+                    17
+                ]
+            },
+            "title": [
+                "例大祭・宵宮祭",
+                "天河大辨財天社（天河神社）"
+            ],
+            "note": [
+                "July 16th, 17th every year",
+                "毎年 七月十六・十七日"
+            ],
+            "description": "採燈護摩・能楽奉納ほか",
+            "info": {
+                "note": [
+                    "宵宮祭では午後七時から神楽殿にて音楽が奉納",
+                    "例大祭では本山修験行者による採燈大護摩・能、夜には江州音頭が奉納される"
+                ],
+                "links": [
+                    {
+                        "text": "弥山・八経ヶ岳（天河神社） Tenkawa, Nara",
+                        "url": "?id=yoshino-tenkawa",
+                        "target": "_self"
+                    }
+                ]
+            }
+        }
+    ]
+}

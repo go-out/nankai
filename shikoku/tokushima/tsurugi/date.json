@@ -1,0 +1,76 @@
+{
+    "events": [
+        {
+            "date": {
+                "month": 4,
+                "date": [
+                    29
+                ]
+            },
+            "title": [
+                "お山開き",
+                "剣山"
+            ],
+            "note": [
+                "April 29th every year",
+                "毎年 四月二十九日 午前十時半"
+            ],
+            "description": "登山リフト見ノ越駅前の劔神社で登山客の安全を願う神事",
+            "info": {
+                "note": null,
+                "links": null
+            }
+        },
+        {
+            "date": {
+                "month": 7,
+                "date": [
+                    17
+                ]
+            },
+            "title": [
+                "剣山本宮山頂大祭",
+                "剣山"
+            ],
+            "note": [
+                "July 17th every year",
+                "毎年 七月十七日 午前十時"
+            ],
+            "description": "例祭・御神輿渡御祭（れいさい・おみこしとぎょさい）",
+            "info": {
+                "note": null,
+                "links": null
+            }
+        },
+        {
+            "date": {
+                "month": 8,
+                "date": [
+                    13,
+                    14
+                ]
+            },
+            "title": [
+                "端山の踊り念仏",
+                "つるぎ町"
+            ],
+            "note": [
+                "August 13 and 14 every year",
+                "毎年 八月十三・十四日 夜"
+            ],
+            "description": "徳島県指定無形民俗文化財",
+            "cover": {
+                "directory": null,
+                "url": null
+            },
+            "info": {
+                "note": [
+                    "木屋（きや）と川見（かわみ）の2地区に伝承される念仏踊り",
+                    "木屋の踊り念仏 新仏のあった年の8月13日の夜、木屋堂の堂内で行われる",
+                    "川見の踊り念仏 毎年8月14日の夜、川見堂の堂内で行われる"
+                ],
+                "links": null
+            }
+        }
+    ]
+}

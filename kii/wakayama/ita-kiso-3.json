@@ -1,0 +1,507 @@
+{
+    "url": "/nankai/?id=kii-wakayama&name=ita-kiso-3",
+    "title": [
+        "伊太祁曽三神",
+        "いたきそさんしん"
+    ],
+    "description": "紀伊国（木の国）の由来となった神々",
+    "info": {
+        "note": [
+            "五十猛神（イタケルノミコト/イソタケルノミコト）は、木の神・林業の神として信仰される、イザナギ・イザナミの子であるスサノオの子",
+            "オオヤツヒメ・ツマツヒメ（大屋津姫命、枛津姫命）は、五十猛神の妹にあたり、スサノオの命により五十猛命と共に全国の山々に木種を撒いた樹木の女神",
+            "以上三柱の神々は、紀伊国（かつては「木の国」と言った）の国魂神「伊太祁曽三神（いたきそさんしん）」と総称され、紀伊国一宮「伊太祁曽神社」などに祀られている"
+        ],
+        "links": [
+            {
+                "text": "和歌山市（名草・和歌浦） Wakayama City, Wakayama",
+                "url": "/nankai/?id=kii&area=wakayama",
+                "target": "_self"
+            },
+            {
+                "text": "五十猛神 - Wikipedia",
+                "url": "https://ja.wikipedia.org/wiki/五十猛神",
+                "target": "_blank"
+            },
+            {
+                "text": "オオヤツヒメ・ツマツヒメ - Wikipedia",
+                "url": "https://ja.wikipedia.org/wiki/オオヤツヒメ・ツマツヒメ",
+                "target": "_blank"
+            },
+            {
+                "text": "和歌山電鐵 | 貴志川線 和歌山電鐵株式会社",
+                "url": "https://wakayama-dentetsu.co.jp/",
+                "target": "_blank"
+            },
+            {
+                "text": "1日乗車券 | 和歌山電鐵",
+                "url": "https://wakayama-dentetsu.co.jp/fare/one-day-pass/",
+                "target": "_blank"
+            },
+            {
+                "text": "たま自転車 | 和歌山電鐵",
+                "url": "https://wakayama-dentetsu.co.jp/tama-cycle/",
+                "target": "_blank"
+            }
+        ]
+    },
+    "map": {
+        "center": [
+            135.24993611123824,
+            34.201713888910085
+        ],
+        "bounds": [
+            [
+                135.207,
+                34.189
+            ],
+            [
+                135.285,
+                34.32603775789553
+            ]
+        ],
+        "zoom": 13
+    },
+    "events": [
+        {
+            "date": {
+                "month": 1,
+                "date": [
+                    14,
+                    15
+                ]
+            },
+            "title": [
+                "卯杖祭",
+                "伊太祁曽神社"
+            ],
+            "description": "古くは宮中でも行われていた祭祀（うづえさい）",
+            "note": [
+                "January 14 and 15 every year",
+                "毎年 一月十四・十五日"
+            ],
+            "info": {
+                "note": [
+                    "十四日 午後八時から「粥占（かゆうら）神事」",
+                    "十五日 午前十時 「本殿祭」 小豆粥の振る舞い"
+                ],
+                "links": [
+                    {
+                        "text": "伊太祁曽三神 いたきそさんしん",
+                        "url": "/nankai/id=kii-wakayama&name=ita-kiso-3",
+                        "target": "_self"
+                    }
+                ]
+            }
+        },
+        {
+            "date": {
+                "month": 10,
+                "date": "十五日に近い日曜日"
+            },
+            "title": [
+                "例祭・神幸祭",
+                "伊太祁曽神社"
+            ],
+            "description": "三基の神輿の渡御行列",
+            "note": [
+                "Sunday of Mid-October every year",
+                "毎年 十月十五日に近い日曜日"
+            ],
+            "info": {
+                "markdown": "kii/wakayama/ita-shinko.md",
+                "links": [
+                    {
+                        "text": "伊太祁曽三神 いたきそさんしん",
+                        "url": "/nankai/id=kii-wakayama&name=ita-kiso-3",
+                        "target": "_self"
+                    }
+                ]
+            }
+        }
+    ],
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.24993611123824,
+                    34.201713888910085
+                ],
+                "address": "和歌山県和歌山市伊太祈曽５５８"
+            },
+            "properties": {
+                "title": "伊太祁曽神社",
+                "description": "古くは現在の日前宮（日前神宮・國懸神宮）の地に祀られていたと伝わる紀伊国一宮（いたきそ）",
+                "note": [
+                    "日本神話において、大国主がスサノオのいる黄泉の国（根の国・地獄）へ逃げ隠れる際に訪れた、常世の国（死者や祖霊が帰る場所）への入り口にあたる地",
+                    "現在の日前宮から現在地に移る以前に一時的に留まったとされる「亥の森（いのもり）」には、境外社「三生神社」が鎮座する",
+                    "<u>アクセス</u><br>わかやま電鉄貴志川線「伊太祈曽」より約5分",
+                    "* 伊太祈曽駅にてレンタサイクル「たま自転車」の貸し出しあり（9:00 - 17:00）"
+                ],
+                "links": [
+                    {
+                        "text": "伊太祁曽神社 ～木の神・いのち神・厄除けの神～",
+                        "url": "https://itakiso-jinja.net/",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "伊太祁曽神社 - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/伊太祁曽神社",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "伊太祁曽神社 - Google マップ",
+                        "url": "https://maps.app.goo.gl/yKXbMN6wnEdjWjZt9",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "三生神社(亥の森：伊太祁曽神社境外社) - Google マップ",
+                        "url": "https://maps.app.goo.gl/eMa8SxUM8KkAf4TW7",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "たま自転車 | 和歌山電鐵",
+                        "url": "https://wakayama-dentetsu.co.jp/tama-cycle/",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 16.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.2471917,
+                    34.2084167
+                ],
+                "address": "〒640-0304 和歌山県和歌山市平尾957番地"
+            },
+            "properties": {
+                "title": "都麻都姫神社",
+                "description": "紀伊国に木種をもたらした神々を祀る神社のひとつ（つまつひめ、和歌山市平尾）",
+                "note": [
+                    "古名は「妻大明神社」、熊野古道の平緒王子社跡に接する",
+                    "かつて境内は2町半あり社殿も荘厳であったというが、現在は6段あまりの境内に小祠が鎮座する",
+                    "* 伊太祈曽駅からレンタサイクル「たま自転車」が便利"
+                ],
+                "links": [
+                    {
+                        "text": "都麻津姫神社 - Google マップ",
+                        "url": "https://maps.app.goo.gl/BvZDKn4ByAFeX9bM9",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 16.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.2352194,
+                    34.205125
+                ],
+                "address": "〒640-0351 和歌山県和歌山市吉礼911番地"
+            },
+            "properties": {
+                "title": "都麻津姫神社",
+                "description": "紀伊国に木種をもたらした神々を祀る神社のひとつ（つまつひめ、和歌山市吉礼）",
+                "note": [
+                    "江戸時代に式内社「都麻津姫神社」として奉斎されたが、明治に入り「吉礼津姫神社」に改称",
+                    "その後、昭和21年（1946年）に旧称の「都麻津姫神社」に復し現在に至る",
+                    "<u>アクセス</u><br>わかやま電鉄貴志川線「吉礼」より約5分"
+                ],
+                "links": [
+                    {
+                        "text": "都麻津姫神社 - Google マップ",
+                        "url": "https://maps.app.goo.gl/jAemqQqbMMvBBysq6",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 16.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.25984305981945,
+                    34.21565334412111
+                ]
+            },
+            "properties": {
+                "title": "道の駅 四季の郷公園",
+                "description": "農産物の直売店を併設する自然公園、FOOD HUNTER PARK",
+                "note": [
+                    "* 伊太祈曽駅からレンタサイクル「たま自転車」が便利"
+                ],
+                "links": [
+                    {
+                        "text": "「道の駅 四季の郷公園」 FOOD HUNTER PARK",
+                        "url": "https://fh-park.jp/",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "道の駅 四季の郷公園 - Google マップ",
+                        "url": "https://maps.app.goo.gl/hHWtu3AaqcnveFTo7",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 15
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.25855007881245,
+                    34.22267287755493
+                ]
+            },
+            "properties": {
+                "title": "丹生神社",
+                "description": "伊太祁曽神社境外社・奥宮、秋の神幸祭で渡御行列が到着する地",
+                "note": [
+                    "* 伊太祈曽駅からレンタサイクル「たま自転車」が便利"
+                ],
+                "links": [
+                    {
+                        "text": "丹生神社(伊太祁曽神社境外社) - Google マップ",
+                        "url": "https://maps.app.goo.gl/xwjtvjajAqMatmQx8",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 16.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.26136780972087,
+                    34.234919321132026
+                ]
+            },
+            "properties": {
+                "title": "高積山",
+                "description": "山頂に髙積神社の上ノ宮（山麓に下ノ宮）が鎮座する神奈備山（たかつみ、標高約235m）",
+                "note": [
+                    "通称は和佐山（わさやま）、南に連なる「城ヶ峯」と合わせて登る登山コースが一般的"
+                ],
+                "links": [
+                    {
+                        "text": "高積神社 - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/高積神社",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "髙積神社 上ノ宮 - Google マップ",
+                        "url": "https://maps.app.goo.gl/RLeCCPpN9V8SPqPo9",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 14.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.2547576071256,
+                    34.23395881058656
+                ]
+            },
+            "properties": {
+                "title": "高積山 登山口",
+                "description": "高積神社 下ノ宮の50mほど左横が、上の宮への参道・高積山登山道の起点",
+                "note": [
+                    "歩行時間 往復 約1.5時間 〜 2時間"
+                ],
+                "links": [
+                    {
+                        "text": "高積神社 下ノ宮 - Google マップ",
+                        "url": "https://maps.app.goo.gl/CkhzwvN4pJAdosxw6",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 15
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.24970275282675,
+                    34.26098430352039
+                ],
+                "address": "日本 〒649-6332 和歌山県和歌山市宇田森５９番地"
+            },
+            "properties": {
+                "title": "大屋都姫神社",
+                "description": "紀伊国に木種をもたらした神を祀る「伊太祁曽三神」のひとつ",
+                "note": [
+                    "かつて当社一帯に広大な森林があり、家屋の造成などにはその材木を使っていたために「大屋」の神名を称したという",
+                    "当社との関係は不明ながら、社地東方には弥生時代中期の環濠集落跡と見られる宇田森遺跡がある"
+                ],
+                "links": [
+                    {
+                        "text": "大屋都姫神社 - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/大屋都姫神社",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "大屋都姫神社 - Google マップ",
+                        "url": "https://maps.app.goo.gl/2Jj7bZcEuELfhVXv5",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 16.5
+            }
+        }
+    ],
+    "line": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        135.19152581094318,
+                        34.232153008443376
+                    ],
+                    [
+                        135.1922565766236,
+                        34.228218758775725
+                    ],
+                    [
+                        135.19297889814095,
+                        34.22721168457801
+                    ],
+                    [
+                        135.19510917469182,
+                        34.22630755602934
+                    ],
+                    [
+                        135.20006698641407,
+                        34.226859067588904
+                    ],
+                    [
+                        135.20176681355457,
+                        34.22648341598919
+                    ],
+                    [
+                        135.20322396958818,
+                        34.22505795512991
+                    ],
+                    [
+                        135.20512594500013,
+                        34.21323399121064
+                    ],
+                    [
+                        135.20579960385675,
+                        34.208941356556025
+                    ],
+                    [
+                        135.20726195096972,
+                        34.20726014690422
+                    ],
+                    [
+                        135.2121618775572,
+                        34.206283932533694
+                    ],
+                    [
+                        135.21515705345757,
+                        34.204458367258724
+                    ],
+                    [
+                        135.21819244718523,
+                        34.20382547981201
+                    ],
+                    [
+                        135.22490362194895,
+                        34.203470568224205
+                    ],
+                    [
+                        135.23596934334478,
+                        34.20336077069605
+                    ],
+                    [
+                        135.24122540038132,
+                        34.206097371293595
+                    ],
+                    [
+                        135.2446543019326,
+                        34.206308107102416
+                    ],
+                    [
+                        135.25158537697837,
+                        34.20417288370699
+                    ],
+                    [
+                        135.25625161262593,
+                        34.20444574704004
+                    ],
+                    [
+                        135.2625657264495,
+                        34.2058850240072
+                    ],
+                    [
+                        135.28545382871908,
+                        34.20475505423531
+                    ],
+                    [
+                        135.29126970668295,
+                        34.20978685524429
+                    ],
+                    [
+                        135.3013355723387,
+                        34.213330397612054
+                    ],
+                    [
+                        135.31067112288252,
+                        34.21187146652038
+                    ],
+                    [
+                        135.31198447883054,
+                        34.20939678399296
+                    ]
+                ]
+            },
+            "properties": {
+                "title": "わかやま電鉄貴志川線",
+                "description": "常世の国への入口・神武天皇（初代）の長兄「彦五瀬命（五瀬命）」が葬られた地として日本神話に登場する神域（三社参りで知られる古社）を結ぶローカル線",
+                "note": [
+                    "三社参りには、「1日乗車券」が便利でお得",
+                    "* 伊太祈曽駅にてレンタサイクル「たま自転車」の貸し出しあり（9:00 - 17:00）"
+                ],
+                "links": [
+                    {
+                        "text": "和歌山電鐵 | 貴志川線 和歌山電鐵株式会社",
+                        "url": "https://wakayama-dentetsu.co.jp/",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "1日乗車券 | 和歌山電鐵",
+                        "url": "https://wakayama-dentetsu.co.jp/fare/one-day-pass/",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "たま自転車 | 和歌山電鐵",
+                        "url": "https://wakayama-dentetsu.co.jp/tama-cycle/",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 13.5
+            }
+        }
+    ]
+}

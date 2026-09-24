@@ -1,0 +1,152 @@
+{
+    "events": [
+        {
+            "date": {
+                "month": 4,
+                "date": null
+            },
+            "title": [
+                "春例大祭",
+                "諭鶴羽神社"
+            ],
+            "note": [
+                "Second Saturday of April every year",
+                "毎年 四月第二土曜日"
+            ],
+            "description": "神輿渡御・諭鶴羽山々頂初宮参り",
+            "info": {
+                "note": [
+                    "10:00〜 境内にて御還座式などの神事",
+                    "山頂までの御神輿の渡御（お練り）"
+                ],
+                "links": [
+                    {
+                        "text": "沼島と諭鶴羽山 Nushima - Mt.Yuzuruha, Minami-Awaji",
+                        "url": "?id=awaji&name=nushima",
+                        "target": "_self"
+                    }
+                ]
+            }
+        },
+        {
+            "date": {
+                "month": 5,
+                "date": [
+                    3,
+                    4
+                ]
+            },
+            "title": [
+                "春祭り",
+                "沼島八幡神社 - 厳島神社"
+            ],
+            "note": [
+                "May 3rd and 4th every year",
+                "毎年 五月三・四日"
+            ],
+            "description": "曳きだんじり・かきだんじり",
+            "info": {
+                "note": [
+                    "沼島水軍を彷彿とさせる勇壮な祭",
+                    "大漁祈願のだんじり唄を歌いながら曳く「曳きだんじり」や担ぐ「かきだんじり」とともに練り歩き、しぶきを上げながら一気に海へと滑り込む"
+                ],
+                "links": [
+                    {
+                        "text": "沼島と諭鶴羽山 Nushima - Mt.Yuzuruha, Minami-Awaji",
+                        "url": "?id=awaji&name=nushima",
+                        "target": "_self"
+                    }
+                ]
+            }
+        },
+        {
+            "date": {
+                "month": 8,
+                "date": [
+                    13,
+                    14,
+                    15,
+                    16
+                ]
+            },
+            "title": [
+                "沼島盆踊り",
+                "沼島"
+            ],
+            "note": [
+                "August 13th - 16th every year",
+                "毎年 八月十三から十六日"
+            ],
+            "description": "沼島独特の盆踊歌「兵庫口説き」の盆踊り",
+            "info": {
+                "markdown": "awaji/bonodori.md",
+                "links": [
+                    {
+                        "text": "沼島と諭鶴羽山 Nushima - Mt.Yuzuruha, Minami-Awaji",
+                        "url": "?id=awaji&name=nushima",
+                        "target": "_self"
+                    }
+                ]
+            }
+        },
+        {
+            "date": {
+                "month": 8,
+                "date": [
+                    16
+                ]
+            },
+            "title": [
+                "内膳の火踊り",
+                "洲本市"
+            ],
+            "note": [
+                "August 16th every year",
+                "毎年 八月十六日 午後七時頃から"
+            ],
+            "description": "死者の霊を送り出す神秘的な炎の舞",
+            "info": {
+                "note": [
+                    "鎌倉時代から続くといわれている盆の伝統行事",
+                    "下内膳の盛光寺近くの埋葬地「三昧（さんま）」にて、太鼓や鉦・音頭に合わせて縄の先に結びつけた松明を振り回して踊る"
+                ],
+                "links": [
+                    {
+                        "text": "洲本 - 深日（大阪） Awaji Island - Osaka",
+                        "url": "?id=awaji&name=sumoto",
+                        "target": "_self"
+                    }
+                ]
+            }
+        },
+        {
+            "date": {
+                "month": 8,
+                "date": [
+                    16
+                ]
+            },
+            "title": [
+                "柴燈まつり",
+                "洲本市"
+            ],
+            "note": [
+                "August 16th every year",
+                "毎年 八月十六日 午後七時頃から"
+            ],
+            "description": "室町時代の始まりと云われるる盆の伝統行事",
+            "info": {
+                "note": [
+                    "10mほどの松の柱に柴木などを巻きつけた大松明に、昼間太陽の光から採った種火をつけ先祖の霊に祈りを捧げ、仏を送る県下でも珍しい送り盆の行事"
+                ],
+                "links": [
+                    {
+                        "text": "洲本 - 深日（大阪） Awaji Island - Osaka",
+                        "url": "?id=awaji&name=sumoto",
+                        "target": "_self"
+                    }
+                ]
+            }
+        }
+    ]
+}

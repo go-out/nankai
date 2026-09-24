@@ -1,0 +1,808 @@
+{
+    "url": "/nankai/?id=kii-koyasan",
+    "title": [
+        "Mount Koya, Wakayama",
+        "高野山（金剛峯寺）"
+    ],
+    "description": "周囲を1,000m級の山々に囲まれた標高約800mの山上盆地に広がる、日本仏教における聖地のひとつ",
+    "info": {
+        "markdown": "kii/koyasan/README.md",
+        "links": [
+            {
+                "text": "高野山真言宗 総本山金剛峯寺",
+                "url": "https://www.koyasan.or.jp/",
+                "target": "_blank"
+            },
+            {
+                "text": "高野山 - Wikipedia",
+                "url": "https://ja.wikipedia.org/wiki/高野山",
+                "target": "_blank"
+            },
+            {
+                "text": "高野参詣道 - Wikipedia",
+                "url": "https://ja.wikipedia.org/wiki/高野参詣道",
+                "target": "_blank"
+            },
+            {
+                "text": "金剛峯寺 - Wikipedia",
+                "url": "https://ja.wikipedia.org/wiki/金剛峯寺",
+                "target": "_blank"
+            },
+            {
+                "text": "空海 - Wikipedia",
+                "url": "https://ja.wikipedia.org/wiki/空海",
+                "target": "_blank"
+            },
+            {
+                "text": "高野山・世界遺産デジタルきっぷ | 南海電鉄",
+                "url": "https://www.nankai.co.jp/traffic/digital/koyasan.html",
+                "target": "_blank"
+            },
+            {
+                "text": "高野山・世界遺産きっぷ| 南海電鉄",
+                "url": "https://www.nankai.co.jp/traffic/otoku/koyasan.html",
+                "target": "_blank"
+            }
+        ]
+    },
+    "map": {
+        "center": [
+            135.5773763,
+            34.2276446
+        ],
+        "bounds": [
+            [
+                135.51363130320823,
+                34.1635429
+            ],
+            [
+                135.65175721693709,
+                34.31808608451466
+            ]
+        ],
+        "zoom": 12.25
+    },
+    "cover": {
+        "url": null
+    },
+    "events": [
+        {
+            "date": {
+                "month": 4,
+                "date": [
+                    10
+                ]
+            },
+            "title": [
+                "大曼荼羅供",
+                "金剛峯寺 伽藍金堂"
+            ],
+            "note": [
+                "April 10th every year, 9am",
+                "毎年 四月十日 午前九時"
+            ],
+            "description": "高野山の諸法会の中で最も起源が古く、非常に重要な法会",
+            "info": {
+                "note": [
+                    "金剛・胎蔵両曼荼羅を供養し、生きとし生けるもの総てに功徳を施す（だいまんだらく）",
+                    "伽藍内の「大会堂」より山内住職が「金堂」まで行道（お練り）する"
+                ],
+                "links": [
+                    {
+                        "text": "高野山（金剛峯寺） Mount Koya, Wakayama",
+                        "url": "?id=kii-koyasan",
+                        "target": "_self"
+                    }
+                ]
+            }
+        },
+        {
+            "date": {
+                "month": 5,
+                "date": [
+                    3,
+                    4,
+                    5
+                ]
+            },
+            "title": [
+                "胎蔵界結縁潅頂",
+                "金剛峯寺 伽藍金堂"
+            ],
+            "note": [
+                "May 3, 4, 5th every year",
+                "毎年 五月三・四・五日"
+            ],
+            "description": "春季胎蔵界結縁潅頂（しゅんきたいぞうかいけちえんかんじょう）",
+            "info": {
+                "note": [
+                    "仏様の世界を表す曼荼羅（まんだら）に向かって華を投ずることにより、仏（密教の尊い教え）と縁を結ばせる厳格な儀式",
+                    "初日には入壇に先立ちまして「庭儀結縁潅頂三昧耶戒」の儀式が行われる"
+                ],
+                "links": [
+                    {
+                        "text": "高野山（金剛峯寺） Mount Koya, Wakayama",
+                        "url": "?id=kii-koyasan",
+                        "target": "_self"
+                    }
+                ]
+            }
+        },
+        {
+            "date": {
+                "month": 6,
+                "date": [
+                    15
+                ]
+            },
+            "title": [
+                "宗祖降誕会（青葉まつり）",
+                "高野山"
+            ],
+            "note": [
+                "June 15th every year",
+                "毎年 六月十五日 午前九時"
+            ],
+            "description": "弘法大師（空海）の誕生日を祝う重要な法要",
+            "info": {
+                "note": [
+                    "高野山全域が、最大の盛り上がりを見せる（しゅうそごうたんえ）",
+                    "午前九時 大師教会大講堂にて弘法大師の誕生日を祝う法要が行われる"
+                ],
+                "links": [
+                    {
+                        "text": "高野山（金剛峯寺） Mount Koya, Wakayama",
+                        "url": "?id=kii-koyasan",
+                        "target": "_self"
+                    }
+                ]
+            }
+        },
+        {
+            "date": {
+                "month": 8,
+                "date": [
+                    13
+                ]
+            },
+            "title": [
+                "高野山ろうそく祭り",
+                "奥之院燈籠堂"
+            ],
+            "note": [
+                "August 13th every year, 7pm",
+                "毎年 八月十三日 午前九時"
+            ],
+            "description": "萬燈供養会（まんどうくようえ）",
+            "info": {
+                "note": [
+                    "参拝者によって一の橋から奥之院までの聖域約2キロメートルの参道を約10万本のローソクの光で荘厳し、先祖をはじめ奥之院に眠る総ての御霊（みたま）を供養する"
+                ],
+                "links": [
+                    {
+                        "text": "高野山（金剛峯寺） Mount Koya, Wakayama",
+                        "url": "?id=kii-koyasan",
+                        "target": "_self"
+                    }
+                ]
+            }
+        },
+        {
+            "date": {
+                "month": 10,
+                "date": [
+                    16
+                ]
+            },
+            "title": [
+                "明神社秋季大祭",
+                "伽藍明神社"
+            ],
+            "note": [
+                "October 16th every year, 12:30",
+                "毎年 十月十六日 十二時半"
+            ],
+            "description": "高野山の地主明神である高野明神の大祭",
+            "cover": {
+                "directory": null,
+                "url": null
+            },
+            "info": {
+                "note": [
+                    "明神社前にて法要の後、中学生の神輿が山内を練り歩く"
+                ],
+                "links": [
+                    {
+                        "text": "高野山（金剛峯寺） Mount Koya, Wakayama",
+                        "url": "?id=kii-koyasan",
+                        "target": "_self"
+                    }
+                ]
+            }
+        }
+    ],
+    "eventsJSON": [
+        "kii/koyasan/date.json"
+    ],
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.5499056,
+                    34.2952056
+                ],
+                "address": "〒648-0151 和歌山県伊都郡九度山町慈尊院832番地"
+            },
+            "properties": {
+                "title": "慈尊院",
+                "description": "「表参道・御幸道」とも呼ばれる参詣道「大門口 - 町石道」の表玄関（じそんいん）",
+                "tag": null,
+                "zoom": 17,
+                "note": [
+                    "高野山の開創直後に設けられた参詣道の起点（大門口までは徒歩6～7時間・丹生都比売神社までは約2時間）",
+                    "香川県の善通寺より尋ねた空海の母は、女人禁制だった高野山の麓にあるこの地の政所に滞在したという",
+                    "空海が母を訪ねて月に9度（それだけ頻繁）は20数kmに及ぶ山道を下りたという逸話から「九度山」という地名の由来"
+                ],
+                "links": [
+                    {
+                        "text": "慈尊院 | 和歌山県の慈尊院公式サイト",
+                        "url": "https://jison-in.org/",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "慈尊院 - Google マップ",
+                        "url": "https://maps.app.goo.gl/CHQaieVZP8AUGZEu5",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "慈尊院 - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/慈尊院",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "高野山町石道 - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/高野山町石道",
+                        "target": "_blank"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.52199166668788,
+                    34.262716666327584
+                ],
+                "address": "和歌山県伊都郡かつらぎ町上天野２３０"
+            },
+            "properties": {
+                "title": "丹生都比売神社",
+                "description": "空海が高野山を開くにあたって寄進したと伝えられる紀伊国一宮（にうつひめじんじゃ）",
+                "tag": null,
+                "zoom": 16,
+                "note": [
+                    "鎌倉幕府の保護を受け13世紀末期から日前・国懸神宮と比肩する、古くより高野山と深い関係にある別称「天野大社」「天野四所明神」",
+                    "神社背後の尾根上に高野山への表参道「町石道（ちょういしみち）」が通る",
+                    "かつては高野山参拝前に当社を参拝する習わしであったという（大門口までは徒歩4～5時間）"
+                ],
+                "links": [
+                    {
+                        "text": "丹生都比売神社｜紀伊山地の霊場と参詣道の世界文化遺産",
+                        "url": "https://niutsuhime.or.jp/",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "丹生都比売神社 - Google マップ",
+                        "url": "https://maps.app.goo.gl/kz2xw1Hf3eQFe4eq5",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "丹生都比売神社 - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/丹生都比売神社",
+                        "target": "_blank"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.52001075113714,
+                    34.28921151045125
+                ],
+                "address": "〒649-7133 和歌山県伊都郡かつらぎ町三谷６３１"
+            },
+            "properties": {
+                "title": "丹生酒殿神社",
+                "description": "丹生都比売神社とを結ぶ高野参詣道「三谷坂（みたにざか）」の起点（にうさかどのじんじゃ）",
+                "tag": null,
+                "zoom": 16,
+                "note": [
+                    "高野山の麓・紀の川のほとり・榊山の麓に鎮座する、元宮（丹生都比売大神降臨地）として重視されていた地<br>（社伝によると、榊山一体は、原初、先祖霊を祭祀する聖域だったと伝わる）",
+                    "生津比咩の大御神が高天原から最初に降りたところ「紀伊國伊都郡奄太村の石口」",
+                    "毎年8月16日に、笹に短冊で飾りを付けて踊り「笹踊り」が奉納される",
+                    "11月初旬頃から紅葉し始め、11月末頃から12月初旬にかけ落葉した葉が境内を覆い黄色に染まる「大銀杏」でも知られる"
+                ],
+                "links": [
+                    {
+                        "text": "三谷坂 - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/三谷坂",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "丹生酒殿神社 - Google マップ",
+                        "url": "https://maps.app.goo.gl/xemcJEJYmAoD7Uga7",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "丹生酒殿神社 - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/丹生酒殿神社",
+                        "target": "_blank"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.5728566438362,
+                    34.213161390960025
+                ],
+                "address": "日本 〒648-0211 和歌山県伊都郡高野町高野山１３番地"
+            },
+            "properties": {
+                "title": "大門",
+                "description": "表参道「町石道（ちょういしみち）」の高野山入口「大門口」（重要文化財）",
+                "tag": null,
+                "zoom": null,
+                "note": null,
+                "links": [
+                    {
+                        "text": "大門 - Google マップ",
+                        "url": "https://maps.app.goo.gl/YxVGN2vuFopo76Kb6",
+                        "target": "_blank"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.5729379411831,
+                    34.220461374604966
+                ],
+                "address": "日本 〒648-0211 和歌山県伊都郡高野町高野山"
+            },
+            "properties": {
+                "title": "嶽弁才天",
+                "description": "大門に向かって左側の鳥居から続く弁天岳登山道（女人道）の先にある弁財天（だけのべんてん）",
+                "tag": null,
+                "zoom": 15,
+                "note": null,
+                "links": [
+                    {
+                        "text": "嶽辯財天社 - Google マップ",
+                        "url": "https://maps.app.goo.gl/4iuE7K9gSH3ykDPY9",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "大門口女人堂跡 - Google マップ",
+                        "url": "https://maps.app.goo.gl/EjWzec8LzGBEHCLh8",
+                        "target": "_blank"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.57551264591103,
+                    34.21313381234032
+                ],
+                "address": "〒648-0211 和歌山県伊都郡高野町高野山"
+            },
+            "properties": {
+                "title": "弁天公園（祓川弁財天社）",
+                "description": "大門と壇上伽藍の間に位置する、弁財天（はらいかわべんてん）が鎮座する児童公園",
+                "tag": null,
+                "zoom": null,
+                "note": null,
+                "links": [
+                    {
+                        "text": "祓川弁財天社 - Google マップ",
+                        "url": "https://maps.app.goo.gl/ArGWtYY8JijwedUT9",
+                        "target": "_blank"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.57955311492964,
+                    34.21302563784697
+                ],
+                "address": "日本 〒648-0211 和歌山県伊都郡高野町高野山"
+            },
+            "properties": {
+                "title": "壇上伽藍（壇場伽藍）",
+                "description": "二重の結界を張り密教思想に基づく堂宇の建立をめざした場所",
+                "tag": null,
+                "zoom": 16,
+                "note": [
+                    "空海が高野山を開創した際、最初に計画した場所",
+                    "金剛峯寺の総本堂「金堂（こんどう）」・高野山の鎮守とされる「御社」などがある、主要な建物の集まり・僧侶が集まる場所"
+                ],
+                "links": [
+                    {
+                        "text": "金堂(高野山) - Google マップ",
+                        "url": "https://maps.app.goo.gl/buN7vP4FBrTPZ8sFA",
+                        "target": "_blank"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.58408879694372,
+                    34.21408584597758
+                ],
+                "address": "〒648-0211 和歌山県伊都郡高野町高野山１３２"
+            },
+            "properties": {
+                "title": "総本山金剛峯寺（本坊）",
+                "description": "高野山真言宗の管長が住む本坊である主殿が建つ区域、境内の多くの場所が重要文化財",
+                "tag": null,
+                "zoom": 16.5,
+                "note": [
+                    "南都銀行高野山支店周辺に、各々水源の位置に当たるといわれ、水に由来した綱引（または船引）と名づけられた弁財天社",
+                    "弁天嶽の山頂から伸びている尾根の先端にあたる、宿坊 一乗院の庭園内に「尾先（おさき）弁財天社」が鎮座"
+                ],
+                "links": [
+                    {
+                        "text": "金剛峯寺 - Google マップ",
+                        "url": "https://maps.app.goo.gl/E98RPoZwDJbAH76LA",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "綱引弁財天社 - Google マップ",
+                        "url": "https://maps.app.goo.gl/EykSx7NniRNmZMxWA",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "尾先弁財天社 - Google マップ",
+                        "url": "https://maps.app.goo.gl/MyCDhTr54w1KEKjR7",
+                        "target": "_blank"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.5831124641216,
+                    34.217426710490585
+                ],
+                "address": "〒648-0211 和歌山県伊都郡高野町"
+            },
+            "properties": {
+                "title": "徳川家霊台",
+                "description": "徳川家康と秀忠を祀る二棟の廟堂「徳川家霊台」が建つ区域",
+                "tag": null,
+                "zoom": 16,
+                "note": [
+                    "かつては高野聖方の代表寺院であり徳川家の菩提寺・宿坊でもあった大徳院があった",
+                    "宿坊「福智院」の門前には、旅行する人擁護を祈るに必ず感応あり「首途（門出・かどで）弁天」が鎮座"
+                ],
+                "links": [
+                    {
+                        "text": "徳川家霊台 - Google マップ",
+                        "url": "https://maps.app.goo.gl/v4SyF8B2rVvqi4JR9",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "首途弁財天社 - Google マップ",
+                        "url": "https://maps.app.goo.gl/PkfAYTpKAbvNmdcc8",
+                        "target": "_blank"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.58076177149695,
+                    34.22002436541456
+                ],
+                "address": "〒648-0211 和歌山県伊都郡高野町高野山"
+            },
+            "properties": {
+                "title": "不動坂口（いろは坂）",
+                "description": "南海高野線学文路駅・極楽橋から始まる参詣道「京大坂道（きょうおおさかみち）」の高野山入口",
+                "tag": null,
+                "zoom": 15,
+                "note": null,
+                "links": [
+                    {
+                        "text": "不動坂口 - Google マップ",
+                        "url": "https://maps.app.goo.gl/akWM5XF1YimmKFH5A",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "京大坂道 - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/京大坂道",
+                        "target": "_blank"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.58207500033907,
+                    34.23396666665872
+                ],
+                "address": "和歌山県伊都郡高野町高野山国有林"
+            },
+            "properties": {
+                "title": "極楽橋駅",
+                "description": "南海高野線の終点駅、ケーブルカーで高野山駅へ向かうことができる（ごくらくばしえき）",
+                "tag": null,
+                "zoom": 15,
+                "note": [
+                    "極楽橋から女人堂がある不動坂口までの歩行距離は約3km、歩行時間は約1時間程度"
+                ],
+                "links": [
+                    {
+                        "text": "極楽橋駅 - Google マップ",
+                        "url": "https://maps.app.goo.gl/ehUKkcQa4NweW9xUA",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "極楽橋駅 - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/極楽橋駅",
+                        "target": "_blank"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.61255044,
+                    34.30881748
+                ],
+                "address": "和歌山県橋本市賢堂２８５"
+            },
+            "properties": {
+                "title": "定福寺",
+                "description": "高野山への近道とされた和歌山県橋本市からの参詣道「黒河道（くろこみち）」の起点（じょうふくじ）",
+                "tag": null,
+                "zoom": 14,
+                "note": [
+                    "大和国からの参詣人が多いことから「大和口」とも呼ばれ、地域の産物を高野山へ奉納する「雑事（ぞうじ）のぼり」にも利用された",
+                    "高野山奥の院まで歩いた場合、歩行距離約19km、歩行時間約6時間"
+                ],
+                "links": [
+                    {
+                        "text": "定福寺 - Google マップ",
+                        "url": "https://maps.app.goo.gl/CVVCp9jpt1fuzkrc9",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "定福寺 (橋本市) - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/定福寺_(橋本市)",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "黒河道 (高野参詣道) - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/黒河道_(高野参詣道)",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "五軒畑岩掛観音（黒河道） - Google マップ",
+                        "url": "https://maps.app.goo.gl/6MpxBmhapCeB81gdA",
+                        "target": "_blank"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.61508794,
+                    34.29378685
+                ],
+                "address": "和歌山県橋本市清水"
+            },
+            "properties": {
+                "title": "明神ヶ田和",
+                "description": "橋本からの初めての峠\n一般に明星ケ田和と呼ばれ、紀伊續風土記には「明神ケ彎」と記される（みょうじんがたわ）",
+                "tag": null,
+                "zoom": 14,
+                "note": null,
+                "links": [
+                    {
+                        "text": "明神ヶ田和（みょうじんがたわ）（黒河道） - Google マップ",
+                        "url": "https://maps.app.goo.gl/BFuKaSYUaPAVyv4b8",
+                        "target": "_blank"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.61743930708235,
+                    34.27338909422599
+                ],
+                "address": "日本 〒648-0131 和歌山県伊都郡九度山町市平"
+            },
+            "properties": {
+                "title": "市平春日神社",
+                "description": "3月末から4月中旬のわずかな期間に桃から緑、そして黄色に変化する姿が知られる大カツラがある（九度山町指定文化財）",
+                "tag": null,
+                "zoom": 13.5,
+                "note": null,
+                "links": [
+                    {
+                        "text": "春日神社 - Google マップ",
+                        "url": "https://maps.app.goo.gl/5w9t4ty5zgkPEq8a6",
+                        "target": "_blank"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.6058833334181,
+                    34.2195270455034
+                ],
+                "address": "和歌山県伊都郡高野町高野山５５０"
+            },
+            "properties": {
+                "title": "墓域（奥之院）",
+                "description": "皇族から名もない人々まであらゆる階層の人々の石塔・墓碑が並ぶ",
+                "tag": null,
+                "zoom": 15.5,
+                "note": [
+                    "寺院群の東端にある奥之院入り口の一の橋から中の橋を経て御廟橋まで、約2キロメートルにわたる参道と墓域が続く",
+                    "3本の川を渡る三重構成となっており、川と橋を渡ることで仏の浄土（聖地）へ至ることができるとされている",
+                    "「化粧をしたら美人になれる」という伝承がある地蔵などがある"
+                ],
+                "links": [
+                    {
+                        "text": "奥之院 - Google マップ",
+                        "url": "https://maps.app.goo.gl/u1R1pxLw64Ehi9es9",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "お化粧地蔵 - Google マップ",
+                        "url": "https://maps.app.goo.gl/uYfKPdDA55Jw8QKx6",
+                        "target": "_blank"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.5957616092827,
+                    34.20973941059489
+                ],
+                "address": "〒648-0211 和歌山県伊都郡高野町高野山"
+            },
+            "properties": {
+                "title": "大峰道（高野山 - 大峰山）",
+                "description": "高野山と大峰山の2つの霊場を結ぶ道「大峰道（おおみねみち）」の高野山入口「大峰口」",
+                "tag": null,
+                "zoom": 13.5,
+                "note": null,
+                "links": [
+                    {
+                        "text": "山上ヶ岳（大峯山寺） Oomine-san, Nara",
+                        "url": "?id=nara-oomine",
+                        "target": "_self"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.58744145663934,
+                    34.21192578350103
+                ],
+                "address": "〒648-0211 和歌山県伊都郡高野町"
+            },
+            "properties": {
+                "title": "丸山（圓山）弁財天社",
+                "description": "浄土院谷といふにあり 大師の勧請といふ",
+                "tag": null,
+                "zoom": null,
+                "note": null,
+                "links": [
+                    {
+                        "text": "圓山弁財天社 - Google マップ",
+                        "url": "https://maps.app.goo.gl/rzfnNdRKCBxF7ugF7",
+                        "target": "_blank"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.5869527777036,
+                    34.21023055606418
+                ],
+                "address": "和歌山県伊都郡高野町高野山４２５"
+            },
+            "properties": {
+                "title": "金剛三昧院",
+                "description": "建暦元年（1211年）、北条政子の発願により源頼朝菩提のために禅定院として創建（こんごうさんまいいん）",
+                "tag": null,
+                "zoom": 17,
+                "note": [
+                    "金剛峯寺とは別個の密・禅・律の三宗兼学の禅宗寺院として経営され、しばらくすると浄土教も取り入れるようになった",
+                    "金剛峯寺の院家として扱われるのは、江戸時代初期頃と考えられている"
+                ],
+                "links": [
+                    {
+                        "text": "世界遺産 高野山 金剛三昧院",
+                        "url": "https://www.kongosanmaiin.or.jp/",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "金剛三昧院 - Google マップ",
+                        "url": "https://maps.app.goo.gl/84g5ng2ogbZ7EmGPA",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "金剛三昧院 - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/金剛三昧院",
+                        "target": "_blank"
+                    }
+                ]
+            }
+        }
+    ]
+}

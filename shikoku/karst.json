@@ -1,0 +1,70 @@
+{
+    "url": "/nankai/?id=shikoku&name=karst",
+    "title": [
+        "四国カルスト"
+    ],
+    "description": null,
+    "info": {
+        "markdown": null,
+        "note": null,
+        "links": [
+            {
+                "text": "【2026年最新版】四国カルスト完全ガイド | 絶景ドライブ・観光スポット・アクセス情報まとめ｜愛媛 旅の特集｜愛媛県の公式観光サイト【いよ観ネット】",
+                "url": "https://www.iyokannet.jp/feature/karusuto/top",
+                "target": "_blank"
+            },
+            {
+                "text": "四国カルスト・舟戸川エリア｜ジオサイト | 四国西予ジオパーク",
+                "url": "https://seiyo-geo.jp/c/geopoint/shikokukarst/",
+                "target": "_blank"
+            },
+            {
+                "text": "【公式】四国カルスト姫鶴荘",
+                "url": "https://www.karst.co.jp/",
+                "target": "_blank"
+            },
+            {
+                "text": "四国カルスト - Wikipedia",
+                "url": "https://ja.wikipedia.org/wiki/四国カルスト",
+                "target": "_blank"
+            }
+        ]
+    },
+    "map": {
+        "center": null,
+        "bounds": null,
+        "zoom": null
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    132.87720972,
+                    33.47908064
+                ],
+                "address": "愛媛県西予市野村町大野ケ原"
+            },
+            "properties": {
+                "title": "大野ヶ原",
+                "description": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    132.96048333542774,
+                    33.466679373019275
+                ],
+                "address": "日本 〒791-1802 愛媛県上浮穴郡久万高原町西谷８１１１番地"
+            },
+            "properties": {
+                "title": "四国カルストレンタサイクルステーション",
+                "description": "■ちょい乗りプラン（1時間以内）500円/15分、500円/延長15分毎■通常料金2,500円/2時間、4,000円/半日、6,000円/1日"
+            }
+        }
+    ]
+}

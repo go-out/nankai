@@ -1,0 +1,630 @@
+{
+    "url": "/nankai/?id=shikoku-kagawa&area=seisan",
+    "title": [
+        "Kanonji - Mitoyoshi, Kagawa, Shikoku",
+        "西讃"
+    ],
+    "description": "霊峰「琴弾山」と「伊吹島」「粟島」の島四国で知られる観光都市・香川県第三の都市",
+    "info": {
+        "markdown": "shikoku/kagawa/seisan/README.md",
+        "links": [
+            {
+                "text": "西讃 - Wikipedia",
+                "url": "https://ja.wikipedia.org/wiki/西讃",
+                "target": "_blank"
+            },
+            {
+                "text": "観音寺市 - Wikipedia",
+                "url": "https://ja.wikipedia.org/wiki/観音寺市",
+                "target": "_blank"
+            },
+            {
+                "text": "三豊市 - Wikipedia",
+                "url": "https://ja.wikipedia.org/wiki/三豊市",
+                "target": "_blank"
+            }
+        ]
+    },
+    "map": {
+        "center": [
+            133.64659197949396,
+            34.13292237276576
+        ],
+        "bounds": [
+            [
+                133.3322225529016,
+                34.01255780930957
+            ],
+            [
+                133.79090144768037,
+                34.36128406800681
+            ]
+        ],
+        "zoom": 11
+    },
+    "eventsJSON": [
+        "shikoku/kagawa/seisan/date.json"
+    ],
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    133.72371666643355,
+                    34.03521944443385
+                ],
+                "address": "徳島県三好市池田町白地ノロウチ763-2"
+            },
+            "properties": {
+                "title": "雲辺寺",
+                "description": "四国八十八箇所第六十六番札所、八十八箇所中で最も標高が高い位置札所は標高902m付近（うんぺんじ）",
+                "note": [
+                    "巨鼇山（きょごうざん）千手院（せんじゅいん）と号す",
+                    "夏は紫陽花が全山一面に咲き、晩秋には紅葉の名所となり、冬は雪の風景となる",
+                    "香川県観音寺市側の山麓と雲辺寺ロープウェイによって結ばれる、訪れやすい寺"
+                ],
+                "links": [
+                    {
+                        "text": "雲辺寺 - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/雲辺寺",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "雲辺寺 - Google マップ",
+                        "url": "https://maps.app.goo.gl/KKfAdkW5r2wCNhYa9",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 17
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    133.7192056,
+                    34.1021528
+                ],
+                "address": "〒768-0101 香川県三豊市山本町辻4209番地"
+            },
+            "properties": {
+                "title": "大興寺",
+                "description": "四国八十八箇所第六十七番札所（だいこうじ）",
+                "note": [
+                    "小松尾山（こまつおざん）、不動光院（ふどうこういん）と号す",
+                    "雲辺寺ロープウェイ 山麓駅から徒歩約二時間",
+                    "雲辺寺山から、コミュニティバス 谷上［教育センター］（観音寺市コミュニティ 五郷高室線） - 萩の湯 - 大興寺口（三豊市コミュニティ 琴平駅行き）"
+                ],
+                "links": [
+                    {
+                        "text": "大興寺 (三豊市) - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/大興寺_(三豊市)",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "大興寺 - Google マップ",
+                        "url": "https://maps.app.goo.gl/UMxjR8Ci1UBzQs499",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 17
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    133.6473512566143,
+                    34.13398840724156
+                ],
+                "address": "日本 〒768-0061 香川県観音寺市八幡町１丁目２番"
+            },
+            "properties": {
+                "title": "神恵院・観音寺",
+                "description": "四国八十八箇所第六十八番札所（じんねいん）と、第六十九番札所（かんのんじ）",
+                "note": [
+                    "神恵院は、七宝山（しっぽうざん）と号す（かつての札所は南に隣接する「琴弾八幡宮」）",
+                    "観音寺は、七宝山（しっぽうざん）と号す（市名は「かんおんじし」であるが、寺名は「かんのんじ」）",
+                    "同じ境内に二つの寺院があり、周辺は瀬戸内海国立公園の一部",
+                    "大興寺から徒歩約二時間"
+                ],
+                "links": [
+                    {
+                        "text": "神恵院 - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/神恵院",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "神恵院 - Google マップ",
+                        "url": "https://maps.app.goo.gl/fg62KFbAK8NeDzCk6",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "観音寺 (観音寺市) - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/観音寺_(観音寺市)",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "観音寺 - Google マップ",
+                        "url": "https://maps.app.goo.gl/s5jYbebtZD46Bugc7",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 17
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    133.64211567648283,
+                    34.13408004760879
+                ],
+                "address": "日本 〒768-0062 香川県観音寺市有明町１４番"
+            },
+            "properties": {
+                "title": "琴弾公園",
+                "description": "瀬戸内海に面する有明浜と琴弾山一帯に位置する風致公園（国の名勝）",
+                "note": [
+                    "琴弾山の山頂には琴弾八幡宮があり、西側の象ヶ鼻岩銭形展望台からは燧灘に浮かぶ伊吹島や、砂で造られた寛永通宝の銭形砂絵を眺めることができ、その景色は四国八十八景68番に選定されている"
+                ],
+                "links": [
+                    {
+                        "text": "琴弾公園 - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/琴弾公園",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "琴弾公園 - Google マップ",
+                        "url": "https://maps.app.goo.gl/b5SHFHgcPvL7H8256",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 17
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    133.63761054,
+                    34.1262814
+                ],
+                "address": "香川県観音寺市高屋町"
+            },
+            "properties": {
+                "title": "観音寺港",
+                "description": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    133.53371592,
+                    34.12575126
+                ],
+                "address": "香川県観音寺市伊吹町"
+            },
+            "properties": {
+                "title": "伊吹真浦港",
+                "description": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    133.53444494,
+                    34.12836761
+                ],
+                "address": "伊吹町923"
+            },
+            "properties": {
+                "title": "伊吹八幡神社",
+                "description": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    133.53642871,
+                    34.12947099
+                ],
+                "address": "伊吹町855"
+            },
+            "properties": {
+                "title": "泉蔵院",
+                "description": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    133.6940995049451,
+                    34.139700450651944
+                ],
+                "address": "日本 〒769-1506 香川県三豊市豊中町本山甲１４４５番地"
+            },
+            "properties": {
+                "title": "本山寺",
+                "description": "四国八十八箇所第七十番札所、鎌倉時代再建の本堂は国宝（もとやまじ）",
+                "note": [
+                    "七宝山（しっぽうざん）、持宝院（じほういん）と号す",
+                    "北東方に奥之院「妙音寺」がある（徒歩約二十分）",
+                    "観音寺（琴弾公園周辺）から徒歩約一時間・予讃線「本山駅」から徒歩約十五分"
+                ],
+                "links": [
+                    {
+                        "text": "本山寺 (三豊市) - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/本山寺_(三豊市)",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "本山寺 - Google マップ",
+                        "url": "https://maps.app.goo.gl/PwXPCMom9Abgngog6",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "妙音寺 - Google マップ",
+                        "url": "https://maps.app.goo.gl/1hY1pH87xQWgUWRN9",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 17
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    133.75539462810593,
+                    34.14804738001858
+                ],
+                "address": "日本 〒767-0022 香川県三豊市高瀬町羽方"
+            },
+            "properties": {
+                "title": "大水上神社",
+                "description": "讃岐国二宮"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    133.65252179,
+                    34.23400518
+                ],
+                "address": "香川県三豊市詫間町詫間6807-10"
+            },
+            "properties": {
+                "title": "粟島汽船チケット売り場&フェリー乗り場",
+                "description": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    133.63418140001647,
+                    34.26908680018229
+                ],
+                "address": "日本 〒769-1108 香川県三豊市詫間町粟島８６１番地"
+            },
+            "properties": {
+                "title": "粟島",
+                "description": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    133.62990876521815,
+                    34.26758893076334
+                ],
+                "address": "日本 〒769-1108 香川県三豊市詫間町粟島１６０４番地１"
+            },
+            "properties": {
+                "title": "粟島の島四国",
+                "description": "旧暦3月21日に島四国・お接待が行われている"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    133.6165245999557,
+                    34.23650838360611
+                ],
+                "address": "日本 〒769-1104 香川県三豊市詫間町大浜１６３８番地"
+            },
+            "properties": {
+                "title": "船越八幡宮",
+                "description": "毎年3月第3日曜日に伝統的な春祭り「大浜百々手祭」行われる"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    133.58034315411288,
+                    34.25128557118151
+                ],
+                "address": "日本 〒769-1107 香川県三豊市詫間町生里４７５番地２"
+            },
+            "properties": {
+                "title": "三宝荒神宮",
+                "description": "旧暦2月1日に近い日曜日 国の重要無形民俗文化財「生里百々手祭」行われる"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    133.70285382945417,
+                    34.241661450457514
+                ],
+                "address": "日本 〒767-0031 香川県三豊市三野町大見甲６８１６番地２"
+            },
+            "properties": {
+                "title": "津嶋神社 ",
+                "description": "夏季大祭のときのみ橋桁がかけられ島に渡れる"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    133.72426388899484,
+                    34.22971388922797
+                ],
+                "address": "香川県三豊市三野町大見乙70"
+            },
+            "properties": {
+                "title": "弥谷寺",
+                "description": "四国八十八箇所第七十一番札所、弥谷山自然環境保全地域（いやだにじ）",
+                "note": [
+                    "剣五山 （けんござん）、千手院（せんじゅいん）と号す",
+                    "弥谷山（標高382 m）の中腹辺りに本堂（標高221 m）があり、その背後の岩盤には創建時に千手佛が納められた岩穴が残る",
+                    "弥谷山周辺は弥谷山自然環境保全地域に指定されている",
+                    "また、山全体が霊山であるとの信仰があり、日本三大霊場（他は恐山・臼杵磨崖仏）の一つに数えられたといわれる",
+                    "四国旅客鉄道（JR四国） 予讃線 - みの駅 (3.3 km)"
+                ],
+                "links": [
+                    {
+                        "text": "弥谷寺 - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/弥谷寺",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "弥谷寺 - Google マップ",
+                        "url": "https://maps.app.goo.gl/rNMi6cciXainhx3z7",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 17
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    133.7502306,
+                    34.2233333
+                ],
+                "address": "〒765-0061 香川県善通寺市吉原町1380番地1"
+            },
+            "properties": {
+                "title": "曼荼羅寺",
+                "description": "四国八十八箇所第七十二番札所（まんだらじ）",
+                "note": [
+                    "我拜師山（がはいしざん）、延命院（えんめいいん）と号す",
+                    "弥谷寺から徒歩約一時間半"
+                ],
+                "links": [
+                    {
+                        "text": "曼荼羅寺 (善通寺市) - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/曼荼羅寺_(善通寺市)",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "曼荼羅寺 - Google マップ",
+                        "url": "https://maps.app.goo.gl/rnVycAsUppskphyc6",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 17
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    133.75018209089882,
+                    34.219459403850735
+                ],
+                "address": "日本 〒765-0061 香川県善通寺市吉原町１０９１番地"
+            },
+            "properties": {
+                "title": "出釈迦寺",
+                "description": "四国八十八箇所第七十三番札所、弘法大師出家の原点（しゅっしゃかじ）",
+                "note": [
+                    "我拜師山（がはいしざん）、求聞持院（ぐもんじいん）と号す",
+                    "弘法大師（空海）出家の原点であり一代記の中には必ず記される霊跡として大師信仰の重要な大願成就の場所",
+                    "現在の当寺の奥之院である我拝師山山上のお寺は、かつては曼陀羅寺の奥之院であった"
+                ],
+                "links": [
+                    {
+                        "text": "出釈迦寺 - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/出釈迦寺",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "出釈迦寺 - Google マップ",
+                        "url": "https://maps.app.goo.gl/869URMs3aqUgL3vt6",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 17
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    133.76574548124006,
+                    34.23322323131187
+                ],
+                "address": "日本 〒765-0071 香川県善通寺市弘田町１７６５番地１"
+            },
+            "properties": {
+                "title": "甲山寺",
+                "description": "四国八十八箇所第七十四番札所、甲山の麓（こうやまじ）",
+                "note": [
+                    "医王山、院号は多宝院と号す",
+                    "甲山（かぶとやま、標高87.2m)には、室町時代に天霧城の出城があったと云われていて、山頂に石舞台跡があり、頂上には神武天皇孝明天皇震儀石がある",
+                    "出釈迦寺から徒歩約一時間 - 善通寺まで徒歩約三十分"
+                ],
+                "links": [
+                    {
+                        "text": "甲山寺 - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/甲山寺",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "甲山寺 - Google マップ",
+                        "url": "https://maps.app.goo.gl/E9es4XmnsWSUm46h7",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 17
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    133.77397578227948,
+                    34.225023453953014
+                ],
+                "address": "香川県善通寺市善通寺町三丁目3番1号"
+            },
+            "properties": {
+                "title": "善通寺",
+                "description": "四国八十八箇所第七十五番、空海生誕地（ぜんつうじ）",
+                "note": [
+                    "屏風浦五岳山（びょうぶがうらごがくさん）、誕生院（たんじょういん）と号す",
+                    "空海の父で地元の豪族であった佐伯田公（さえきの たぎみ、諱：善通（よしみち））から土地の寄進を受け、大同2年（807年）に建立し始め、弘仁4年（813年）に落成したという",
+                    "境内は創建地である東院（伽藍）と、空海生誕地とされる西院（誕生院）に分かれる",
+                    "甲山寺から徒歩約三十分"
+                ],
+                "links": [
+                    {
+                        "text": "総本山善通寺",
+                        "url": "https://zentsuji.com/",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "善通寺 - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/善通寺",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "善通寺 - Google マップ",
+                        "url": "https://maps.app.goo.gl/bKATS4SmjPvRT6v27",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 17
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    133.7809627718874,
+                    34.250066113442415
+                ],
+                "address": "日本 〒765-0031 香川県善通寺市金蔵寺町１１６０番地"
+            },
+            "properties": {
+                "title": "金倉寺",
+                "description": "四国八十八箇所第七十六番札所、天台寺門派の宗祖である円珍（智証大師）の生誕地（こんぞうじ）",
+                "note": [
+                    "鶏足山（けいそくざん）宝幢院（ほうどういん）と号す",
+                    "四国旅客鉄道（JR四国） 土讃線 - 金蔵寺駅 (0.5 km)"
+                ],
+                "links": [
+                    {
+                        "text": "金倉寺 - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/金倉寺",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "金倉寺 - Google マップ",
+                        "url": "https://maps.app.goo.gl/x6vCGpAcZBau6MQS7",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 17
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    133.7627331609492,
+                    34.27680176722694
+                ],
+                "address": "日本 〒764-0022 香川県仲多度郡多度津町北鴨１丁目３番"
+            },
+            "properties": {
+                "title": "道隆寺",
+                "description": "四国八十八箇所第七十七番札所（どうりゅうじ）",
+                "note": [
+                    "桑多山（そうたざん）、明王院（みょうおういん）と号す",
+                    "四国旅客鉄道（JR四国） 予讃線 - 多度津駅 (1.2 km)"
+                ],
+                "links": [
+                    {
+                        "text": "道隆寺 - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/道隆寺",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "道隆寺 - Google マップ",
+                        "url": "https://maps.app.goo.gl/YdUyfismL2mhyLWy8",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 17
+            }
+        }
+    ]
+}

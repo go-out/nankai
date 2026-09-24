@@ -1,0 +1,153 @@
+{
+    "type": "FeatureCollection",
+    "url": "?id=awaji&name=keino",
+    "title": [
+        "Keino - Goshiki, Awaji Island",
+        "慶野松原・五色浜"
+    ],
+    "description": "播磨灘に面した淡路島の西側、白い砂浜に約5万本の黒松が生い茂る海岸・五色に輝く小石に覆われた海岸",
+    "info": {
+        "note": [
+            "八月十六日 「柴燈まつり」（室町時代の始まりと云われるる盆の伝統行事）",
+            "___",
+            "五色浜は南北約2kmに渡ってメノウ、コハク、ルリ、白、斑紋など五色に輝く色鮮やかな小石に覆われた美しい海岸"
+        ],
+        "links": []
+    },
+    "map": {
+        "center": [
+            134.7514575574774,
+            34.376770884012984
+        ],
+        "bounds": [
+            [
+                134.67564350001857,
+                34.31732524428462
+            ],
+            [
+                134.83311796050342,
+                34.46945372043817
+            ]
+        ],
+        "zoom": 12
+    },
+    "events": [
+        {
+            "date": {
+                "month": 8,
+                "date": [
+                    16
+                ]
+            },
+            "title": [
+                "柴燈まつり",
+                "洲本市"
+            ],
+            "note": [
+                "August 16th every year",
+                "毎年 八月十六日 午後七時頃から"
+            ],
+            "description": "室町時代の始まりと云われるる盆の伝統行事",
+            "info": {
+                "note": [
+                    "10mほどの松の柱に柴木などを巻きつけた大松明に、昼間太陽の光から採った種火をつけ先祖の霊に祈りを捧げ、仏を送る県下でも珍しい送り盆の行事"
+                ],
+                "links": [
+                    {
+                        "text": "慶野松原・五色浜 Keino - Goshiki, Awaji Island",
+                        "url": "/nankai/?id=awaji&name=keino",
+                        "target": "_self"
+                    }
+                ]
+            }
+        }
+    ],
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    134.73786232070762,
+                    34.34190077708125
+                ],
+                "address": "日本 〒656-0306 兵庫県南あわじ市松帆慶野"
+            },
+            "properties": {
+                "title": "慶野松原",
+                "description": "約2.5kmにのびる白い砂浜は瀬戸内海でも随一の白砂青松の松原（けいのまつばら）",
+                "zoom": 15,
+                "note": [
+                    "「国指定名勝」「日本の渚百選」「日本の夕陽百選」",
+                    " 松林内にはキャンプ場があるほか、夏季は海水浴場が開かれ、7月下旬には花火大会が開催される"
+                ],
+                "links": [
+                    {
+                        "text": "国指定 名勝 慶野松原 - Google マップ",
+                        "url": "https://maps.app.goo.gl/meT38jG4DD3K44N69",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "慶野松原 - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/慶野松原",
+                        "target": "_blank"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    134.7912450771209,
+                    34.415912254491786
+                ],
+                "address": "日本 〒656-1301 兵庫県洲本市五色町都志１０８７"
+            },
+            "properties": {
+                "title": "ウエルネスパーク五色",
+                "description": "温泉・遊具のある広場・ログハウス・キャンプ場などがある広大な複合施設、高田屋嘉兵衛公園",
+                "zoom": 16,
+                "links": [
+                    {
+                        "text": "【公式】ウェルネスパーク五色・高田屋嘉兵衛公園／淡路島・洲本市",
+                        "url": "https://www.takataya.jp/",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "ウェルネスパーク五色 高田屋嘉兵衛公園 - Google マップ",
+                        "url": "https://maps.app.goo.gl/hXZCXnWxgeLkaQPP9",
+                        "target": "_blank"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    134.81098358167907,
+                    34.382655391699856
+                ]
+            },
+            "properties": {
+                "title": "栢野薬師堂",
+                "description": "毎年 八月十六日 午後七時頃から「柴燈まつり」",
+                "note": [
+                    "室町時代の始まりと云われるる盆の伝統行事",
+                    "10mほどの松の柱に柴木などを巻きつけた大松明に、昼間太陽の光から採った種火をつけ先祖の霊に祈りを捧げ、仏を送る県下でも珍しい送り盆の行事"
+                ],
+                "links": [
+                    {
+                        "text": "栢野薬師堂 - Google マップ",
+                        "url": "https://maps.app.goo.gl/qvmDhhRmu4CTF7KNA",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 16.5
+            }
+        }
+    ]
+}

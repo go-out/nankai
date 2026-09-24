@@ -1,0 +1,142 @@
+{
+    "url": "/nankai/?id=shikoku-kouchi",
+    "title": [
+        "Kouchi (Tosa), Shikoku",
+        "高知県（土佐国）"
+    ],
+    "description": "現在の高知県のほぼ全域、勇猛な霊が依り憑く男性を意味するとされる「建依別（たけよりわけ）」",
+    "info": {
+        "markdown": "shikoku/kouchi/README.md",
+        "links": [
+            {
+                "text": "高知県 - Wikipedia",
+                "url": "https://ja.wikipedia.org/wiki/高知県",
+                "target": "_blank"
+            },
+            {
+                "text": "土佐国 - Wikipedia",
+                "url": "https://ja.wikipedia.org/wiki/土佐国",
+                "target": "_blank"
+            }
+        ]
+    },
+    "map": {
+        "center": [
+            133.57700555589463,
+            33.59259722179837
+        ],
+        "bounds": [
+            [
+                132.45370740406076,
+                32.53964351100919
+            ],
+            [
+                134.35631512625662,
+                33.91157279988806
+            ]
+        ],
+        "zoom": 9
+    },
+    "eventsJSON": [
+        "shikoku/kouchi/higashi/date.json",
+        "shikoku/kouchi/mannaka/date.json"
+    ],
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    134.17603211356493,
+                    33.24548592421617
+                ]
+            },
+            "properties": {
+                "title": "ひがしこうち",
+                "description": "南は暖かな太平洋・北は雄大な山々に囲まれる高知県東南部（国の名勝・世界ジオパーク）",
+                "note": [
+                    "県総面積の約75%室戸半島の先端「室戸岬」は、冬でも温暖で亜熱帯性樹林および海岸植物群落が繁茂する、国の名勝・天然記念物のひとつ"
+                ],
+                "links": [
+                    {
+                        "text": "ひがしこうち Muroto - Aki, Kouchi, Shikoku",
+                        "url": "/nankai/?id=shikoku-kouchi&area=higashi",
+                        "target": "_self"
+                    }
+                ],
+                "zoom": 11
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    133.57700555589463,
+                    33.59259722179837
+                ]
+            },
+            "properties": {
+                "title": "高知まんなか",
+                "description": "南は太平洋、北・東・西の三方は四国山地に挟まれた狭い地形「高知平地」に広がる高知の中心地",
+                "links": [
+                    {
+                        "text": "高知まんなか Kouchi, Shikoku",
+                        "url": "/nankai/?id=shikoku-kouchi&area=mannaka",
+                        "target": "_self"
+                    }
+                ],
+                "zoom": 11
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    133.17113303563582,
+                    33.57521062194181
+                ]
+            },
+            "properties": {
+                "title": "仁淀川",
+                "description": "西日本の最高峰「石鎚山」に源を発する「仁淀川」が流れる、すばらしい自然と風情のあるまち並みが共存する地域",
+                "zoom": 10.5,
+                "links": [
+                    {
+                        "text": "仁淀川 Niyodogawa, Kouchi, Shikoku",
+                        "url": "/nankai/?id=shikoku-kouchi&area=niyodogawa",
+                        "target": "_self"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    133.00491534,
+                    32.73372747
+                ]
+            },
+            "properties": {
+                "title": "四万十・足摺",
+                "description": "日本最後の清流「四万十川」が流れる豊かな山林、四国最南端の「足摺岬」などの海岸",
+                "zoom": 10.5,
+                "links": [
+                    {
+                        "text": "四万十・足摺 Shimanto - Ashizuri, Kouchi",
+                        "url": "/nankai/?id=shikoku-kouchi&area=shimanto",
+                        "target": "_self"
+                    }
+                ]
+            }
+        }
+    ],
+    "lineJSON": [
+        "shikoku/kouchi/higashi/index.json",
+        "shikoku/kouchi/shimanto/index.json",
+        "shikoku/dosan.json"
+    ]
+}

@@ -1,0 +1,188 @@
+{
+    "url": "/nankai/?id=shikoku-ehime",
+    "title": [
+        "Ehime (Iyo), Shikoku",
+        "愛媛県（伊予国）"
+    ],
+    "description": "現在の愛媛県全域、「愛媛」の由来となった「うるわしい女性」や「美しい女性」を意味する女神「愛比売（えひめ）」",
+    "info": {
+        "markdown": "shikoku/ehime/README.md",
+        "links": [
+            {
+                "text": "愛媛県 - Wikipedia",
+                "url": "https://ja.wikipedia.org/wiki/愛媛県",
+                "target": "_blank"
+            },
+            {
+                "text": "伊予国 - Wikipedia",
+                "url": "https://ja.wikipedia.org/wiki/伊予国",
+                "target": "_blank"
+            }
+        ]
+    },
+    "map": {
+        "center": [
+            132.73876888475326,
+            33.777683638351505
+        ],
+        "bounds": [
+            [
+                131.99378328198696,
+                32.864274764617406
+            ],
+            [
+                133.5331888697915,
+                34.484216419565485
+            ]
+        ],
+        "zoom": 8.5
+    },
+    "cover": {
+        "url": null
+    },
+    "eventsJSON": [
+        "shikoku/ehime/nanyo/date.json",
+        "shikoku/ehime/iyo/date.json",
+        "shikoku/ehime/matsuyama/date.json",
+        "shikoku/ehime/geiyo/date.json",
+        "shikoku/ehime/touyo/date.json"
+    ],
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    132.56749669472333,
+                    33.225791979913424
+                ]
+            },
+            "properties": {
+                "title": "南予地方",
+                "description": "内陸部から海辺まで緑深い山地が広がる、独特の風土・文化が息づく地域",
+                "note": [
+                    "かつては山を越さないと隣町に出ることができなかったため、各地に独自の文化が起こり、伝統文化として継承されている"
+                ],
+                "links": [
+                    {
+                        "text": "南予地方 Nanyo (Southern Ehime), Shikoku",
+                        "url": "/nankai/?id=shikoku-ehime&area=nanyo",
+                        "target": "_self"
+                    }
+                ],
+                "zoom": 10
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    132.73876888475326,
+                    33.777683638351505
+                ]
+            },
+            "properties": {
+                "title": "伊予国（伊予市・伊予郡）",
+                "description": "うるわしく美しい女性、伊予（豫）の国魂神「愛比売命（えひめのみこと）」の国（いよ）",
+                "links": [
+                    {
+                        "text": "伊予国（伊予市・伊予郡） Ehime (Iyo), Shikoku",
+                        "url": "/nankai/?id=shikoku-ehime&area=iyo",
+                        "target": "_self"
+                    }
+                ],
+                "zoom": 11.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    132.78638611104753,
+                    33.85207499994172
+                ]
+            },
+            "properties": {
+                "title": "松山市（忽那諸島）",
+                "description": "日本三古湯の一つ「道後温泉」で知られる愛媛県の県庁所在地",
+                "links": [
+                    {
+                        "text": "松山市 Matsuyama, Ehime",
+                        "url": "/nankai/?id=shikoku-ehime&area=matsuyama",
+                        "target": "_self"
+                    }
+                ],
+                "zoom": 11.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    132.9697300334803,
+                    34.21062603745962
+                ]
+            },
+            "properties": {
+                "title": "芸予諸島",
+                "description": "海峡横断長距離自転車道「しまなみ海道」と「安芸灘とびしま海道」が通る島々（げいよしょとう）",
+                "links": [
+                    {
+                        "text": "芸予諸島 Geiyo Islands, Hiroshima - Ehime",
+                        "url": "/nankai/?id=shikoku-ehime&area=geiyo",
+                        "target": "_self"
+                    }
+                ],
+                "zoom": 10.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    132.97702833093024,
+                    34.03267135569766
+                ]
+            },
+            "properties": {
+                "title": "東予地方",
+                "description": "瀬戸内海に突き出る「高縄半島」の東側から香川県の境までに広がる、古くは瀬戸内海の海上交通の要所だった港湾が連なる海浜工業団地",
+                "links": [
+                    {
+                        "text": "東予地方 Imabari - Saijyo - Niihama - Shikoku Chuou, Ehime",
+                        "url": "/nankai/?id=shikoku-ehime&area=touyo",
+                        "target": "_self"
+                    }
+                ],
+                "zoom": 11
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    133.11431662,
+                    33.76823755
+                ]
+            },
+            "properties": {
+                "title": "石鎚山系",
+                "description": "山岳信仰（修験道）の山として知られる西日本の最高峰、伊予の高嶺（いしづちさん、標高約1982m）",
+                "note": [],
+                "links": [
+                    {
+                        "text": "石鎚山系 Mount Ishizuchi, Shikoku",
+                        "url": "/nankai/?id=shikoku-ehime&area=ishizuchi",
+                        "target": "_self"
+                    }
+                ],
+                "zoom": 11.11
+            }
+        }
+    ]
+}

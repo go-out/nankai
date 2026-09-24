@@ -1,0 +1,164 @@
+{
+    "url": "/nankai/?id=shikoku-kagawa&area=kojima",
+    "title": [
+        "The Great Seto Bridge (Okayama - Kagawa)",
+        "吉備児島"
+    ],
+    "description": "瀬戸内海に面した岡山県最南端\n瀬戸大橋（本州四国連絡橋のうちの「児島・坂出（香川県）ルート」）の本州側起点（きびのこじま）",
+    "info": {
+        "note": [
+            "かつて吉備国および備前国児島郡にあった島嶼 建日方別（たけひかたわけ） - 吉備児島（きびのこじま）",
+            "江戸時代中期頃の新田干拓によって人工的に繋がり「児島半島」となった",
+            "島嶼であった地域は、現在の岡山県倉敷市南西部から岡山市南区南部、および玉野市に至る",
+            "児島および周辺の島々と本土により囲まれた海域は「吉備穴海」と呼ばれ、重要な海洋交通路であった"
+        ],
+        "links": [
+            {
+                "text": "児島 - Wikipedia",
+                "url": "https://ja.wikipedia.org/wiki/児島",
+                "target": "_blank"
+            },
+            {
+                "text": "児島半島 - Wikipedia",
+                "url": "https://ja.wikipedia.org/wiki/児島半島",
+                "target": "_blank"
+            },
+            {
+                "text": "児島地域 - Wikipedia",
+                "url": "https://ja.wikipedia.org/wiki/児島地域",
+                "target": "_blank"
+            },
+            {
+                "text": "児島地域 (倉敷市) - Wikipedia",
+                "url": "https://ja.wikipedia.org/wiki/児島地域_(倉敷市)",
+                "target": "_blank"
+            },
+            {
+                "text": "玉野市 - Wikipedia",
+                "url": "https://ja.wikipedia.org/wiki/玉野市",
+                "target": "_blank"
+            },
+            {
+                "text": "児島地域 (岡山市) - Wikipedia",
+                "url": "https://ja.wikipedia.org/wiki/児島地域_(岡山市)",
+                "target": "_blank"
+            },
+            {
+                "text": "児島郡 - Wikipedia",
+                "url": "https://ja.wikipedia.org/wiki/児島郡",
+                "target": "_blank"
+            }
+        ]
+    },
+    "map": {
+        "center": [
+            133.81200123553754,
+            34.43602185764155
+        ],
+        "bounds": [
+            [
+                133.61188603476802,
+                34.25202047304869
+            ],
+            [
+                134.06049305162912,
+                34.60618141020899
+            ]
+        ],
+        "zoom": 10.75
+    },
+    "cover": {
+        "url": null
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    133.81200123553754,
+                    34.43602185764155
+                ]
+            },
+            "properties": {
+                "title": "鷲羽山（わしゅうざん）",
+                "description": "瀬戸内海に面し、瀬戸大橋全景や備讃瀬戸に浮かぶ塩飽諸島の島々を望める展望台となっている、国の名勝・下津井鷲羽山（しもついわしゅうざん）",
+                "zoom": 15,
+                "note": null,
+                "links": [
+                    {
+                        "text": "瀬戸内海国立公園 鷲羽山ビジターセンター",
+                        "url": "http://wasyuzan-vc.jp/",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "鷲羽山 - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/鷲羽山",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "鷲羽山ビジターセンター - Google マップ",
+                        "url": "https://maps.app.goo.gl/L9PiXHvykep6pn3t8",
+                        "target": "_blank"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    133.9036631581452,
+                    34.45477284673845
+                ]
+            },
+            "properties": {
+                "title": "渋川海岸（しぶかわかいがん）",
+                "description": "日本の渚百選・日本の白砂青松100選、岡山県下最大の海水浴場",
+                "zoom": 16,
+                "note": null,
+                "links": [
+                    {
+                        "text": "渋川海岸 - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/渋川海岸",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "渋川海岸 - Google マップ",
+                        "url": "https://maps.app.goo.gl/K4vYu6UbCJx7k4B98",
+                        "target": "_blank"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    133.9642717093331,
+                    34.55908683208385
+                ]
+            },
+            "properties": {
+                "title": "金甲山（きんこうざん）",
+                "description": "神の峰（こうのみね）とも呼ばれており、山頂にレストハウスが出来るまでは、磐座や、国生み神話に出てくる児島の神である「建日方別」を祀る祠があった",
+                "zoom": 14.5,
+                "note": null,
+                "links": [
+                    {
+                        "text": "金甲山 - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/金甲山",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "金甲山 - Google マップ",
+                        "url": "https://maps.app.goo.gl/rVSjnnPtzsKSd2FA7",
+                        "target": "_blank"
+                    }
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,110 @@
+{
+    "events": [
+        {
+            "date": {
+                "month": 8,
+                "date": [
+                    13,
+                    14,
+                    15
+                ]
+            },
+            "title": [
+                "十津川盆踊り",
+                "十津川村内各地"
+            ],
+            "note": [
+                "August 13th, 14th, 15 every year",
+                "毎年 八月十三・十四・十五日"
+            ],
+            "description": "300年以上受け継がれてきた秘境の文化遺産",
+            "cover": {
+                "directory": null,
+                "url": null
+            },
+            "info": {
+                "note": [
+                    "西川、小原、武蔵の太鼓踊りが一九八九年に「十津川の大踊」として国の重要無形民俗文化財に指定"
+                ],
+                "links": [
+                    {
+                        "text": "十津川（玉置山） Totsukawa, Nara",
+                        "url": "?id=nara-totsukawa",
+                        "target": "_self"
+                    }
+                ]
+            }
+        }
+    ],
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.79082222196791,
+                    33.98375277777513
+                ],
+                "address": "奈良県吉野郡十津川村大字小原７０７"
+            },
+            "properties": {
+                "title": "小原の大踊り",
+                "description": "毎年8月13日 20：00から 十津川第一小学校にて",
+                "note": null,
+                "links": [
+                    {
+                        "text": "十津川第一小学校 - Google マップ",
+                        "url": "https://maps.app.goo.gl/oqumGrqKmodJcVkU6",
+                        "target": "_blank"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.81206334,
+                    33.99342012
+                ],
+                "address": "奈良県吉野郡十津川村武蔵５３０"
+            },
+            "properties": {
+                "title": "武蔵の大踊り",
+                "description": "毎年8月14日 20：00から 十津川村教育資料館にて",
+                "note": null,
+                "links": [
+                    {
+                        "text": "十津川村教育資料館 - Google マップ",
+                        "url": "https://maps.app.goo.gl/WxiG6zpB6kDw3J3S8",
+                        "target": "_blank"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.73770914653795,
+                    33.96140286611323
+                ],
+                "address": "奈良県吉野郡十津川村重里"
+            },
+            "properties": {
+                "title": "西川の大踊り",
+                "description": "毎年8月15日 19：30から 旧西川第一小学校校庭にて",
+                "note": null,
+                "links": [
+                    {
+                        "text": "重里郵便局 - Google マップ",
+                        "url": "https://maps.app.goo.gl/rWMsEJjAvXpTvS4R8",
+                        "target": "_blank"
+                    }
+                ]
+            }
+        }
+    ]
+}

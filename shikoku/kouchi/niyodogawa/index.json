@@ -1,0 +1,578 @@
+{
+    "url": "/nankai/?id=shikoku-kouchi&area=niyodogawa",
+    "title": [
+        "Niyodogawa, Kouchi, Shikoku",
+        "仁淀川"
+    ],
+    "description": "西日本の最高峰「石鎚山」に源を発する「仁淀川」が流れる、すばらしい自然と風情のあるまち並みが共存する地域",
+    "info": {
+        "markdown": "shikoku/kouchi/niyodogawa/README.md",
+        "links": [
+            {
+                "text": "仁淀川 - Wikipedia",
+                "url": "https://ja.wikipedia.org/wiki/仁淀川",
+                "target": "_blank"
+            }
+        ]
+    },
+    "map": {
+        "center": [
+            133.17113303563582,
+            33.57521062194181
+        ],
+        "bounds": [
+            [
+                133.01217991422675,
+                33.33279927869934
+            ],
+            [
+                133.48543125278172,
+                33.828219403661464
+            ]
+        ],
+        "zoom": 10.5
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    133.34121867,
+                    33.70511107
+                ],
+                "address": "1278 Kiyomizukamibun"
+            },
+            "properties": {
+                "title": "にこ淵",
+                "description": "仁淀川の支流である枝川川にある淵、四国八十八景（29番）「碧の秘境」",
+                "note": [
+                    "水神の化身とされる大蛇が棲む所とされ、地元の人々は近づかない神聖な所であり、入水・飲食・トイレは禁止",
+                    "JR伊野駅から→県交北部交通バス「長沢行き」乗車→乗車約50分『程野入口』下車（または、県交北部交通バス「土居行き」乗車→終点の『土居』下車、徒歩10分で『程野入口』）→グリーンパーク方向へ徒歩約20分"
+                ],
+                "links": [
+                    {
+                        "text": "にこ淵 - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/にこ淵",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "にこ淵 - Google マップ",
+                        "url": "https://maps.app.goo.gl/2DDCkUrs7xfsFLtV7",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 15
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    133.18922988895474,
+                    33.67279588525315
+                ],
+                "address": "日本 〒781-1628 高知県吾川郡仁淀川町大屋１６３０番地３"
+            },
+            "properties": {
+                "title": "安居渓谷",
+                "description": "仁淀川の上流にある支流のひとつ安居川の上流部にある景勝地",
+                "note": [
+                    "手箱山中腹で滝の精を祭祀する大滝神社（おおたびじんじゃ）付近から、安居渓谷までの1,287ヘクタールあまりの山林が安居渓谷県立自然公園に指定されている",
+                    "「水晶淵」は仁淀ブルースポットとして四国八十八景30番に選ばれている"
+                ],
+                "links": [
+                    {
+                        "text": "安居川 - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/安居川",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "安居渓谷 - Google マップ",
+                        "url": "https://maps.app.goo.gl/whL6vMHjNuinnv6i9",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 14.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    133.10938182360508,
+                    33.56409707409999
+                ],
+                "address": "日本 〒781-1762 高知県吾川郡仁淀川町下名野川３８１番地２"
+            },
+            "properties": {
+                "title": "中津渓谷",
+                "description": "仁淀川の上流にある支流のひとつ「中津川」にある景勝地",
+                "note": [
+                    "渓谷内には四国八十八景31番に雄大さで選ばれている落差20mの「雨竜の滝」、高さ約8mの「石柱」、「紅葉の滝」、「竜宮淵」などの景勝地があり、11月頃の紅葉の名所としても知られている",
+                    "上流の上名野川地区一帯や中津川の両岸は中津渓谷県立自然公園に指定され、「四国の水辺88か所」に選出されている"
+                ],
+                "links": [
+                    {
+                        "text": "中津川 (仁淀川町) - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/中津川_(仁淀川町)",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "中津渓谷県立自然公園 - Google マップ",
+                        "url": "https://maps.app.goo.gl/Nkpr4VTg69tLfCVm8",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 14.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    133.1302527777354,
+                    33.56138333320617
+                ],
+                "address": "高知県吾川郡仁淀川町名野川258-1"
+            },
+            "properties": {
+                "title": "中津渓谷 ゆの森",
+                "description": "中津渓谷の玄関ともいえる場所にある宿泊施設やレストランを併設する温泉施設",
+                "note": [
+                    "日帰り入浴 11:00～20:30 (受付は19:30まで)",
+                    "JR佐川駅下車→黒川観光バスで名野川バス停（約35分）下車後、徒歩約7分"
+                ],
+                "links": [
+                    {
+                        "text": "中津渓谷 ゆの森 | 仁淀川町「宿泊・温泉・観光」",
+                        "url": "https://www.yunomori.jp/",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "中津渓谷 ゆの森 - Google マップ",
+                        "url": "https://maps.app.goo.gl/mxLJT7E2bNVuCmc56",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 16.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    133.05300705242138,
+                    33.53106729966265
+                ],
+                "address": "日本 〒781-1803 高知県吾川郡仁淀川町別枝１３３５番地"
+            },
+            "properties": {
+                "title": "秋葉神社",
+                "description": "毎年2月11日 土佐三大祭の一つ「秋葉まつり」が開催される",
+                "note": [
+                    "__"
+                ],
+                "links": [
+                    {
+                        "text": "秋葉神社 - Google マップ",
+                        "url": "https://maps.app.goo.gl/vFQCbbBreq85fvJw7",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 17
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    133.20329772,
+                    33.53503654
+                ],
+                "address": "越知町五味"
+            },
+            "properties": {
+                "title": "横倉山",
+                "description": "古い歴史、多様な植生、独自の地質など、様々な特色をもつ山（よこぐらやま、標高約775m）",
+                "note": [
+                    "東側山麓には、安藤忠雄氏の設計による「横倉山自然の森博物館」がある"
+                ],
+                "links": [
+                    {
+                        "text": "横倉山 (高知県) - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/横倉山_(高知県)",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "横倉山 - Google マップ",
+                        "url": "https://maps.app.goo.gl/ooyRaTgQpp1i4Sk76",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 13.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    133.25592027580177,
+                    33.56778689843772
+                ],
+                "address": "日本 〒781-1321 高知県高岡郡越知町鎌井田本村"
+            },
+            "properties": {
+                "title": "浅尾沈下橋",
+                "description": "映画のロケ地にもなった風光明媚な橋",
+                "note": [
+                    "__"
+                ],
+                "links": [
+                    {
+                        "text": "浅尾沈下橋 - Google マップ",
+                        "url": "https://maps.app.goo.gl/vLRb3fFhgPnKFh3X8",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 17
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    133.30412958529388,
+                    33.590040622189804
+                ],
+                "address": "日本 〒781-1327 高知県高岡郡越知町黒瀬１５６５番地"
+            },
+            "properties": {
+                "title": "天石門別安國玉主天神社",
+                "description": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    133.3562248105422,
+                    33.57247109517894
+                ],
+                "address": "日本 〒781-2141 高知県吾川郡いの町勝賀瀬"
+            },
+            "properties": {
+                "title": "名越屋沈下橋",
+                "description": "仁淀川最下流にある全長191mの沈下橋",
+                "note": [
+                    "__"
+                ],
+                "links": [
+                    {
+                        "text": "名越屋沈下橋 - Google マップ",
+                        "url": "https://maps.app.goo.gl/rAkjK7RaNPG4MUcDA",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 16
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    133.36623055564033,
+                    33.57348611089919
+                ],
+                "address": "高知県吾川郡いの町鹿敷1226"
+            },
+            "properties": {
+                "title": "土佐和紙工芸村くらうど",
+                "description": "レンタサイクル 1,000円/1日 台数等 クロスバイク 5台",
+                "note": [
+                    "施設内にはレストランの他、周辺観光の拠点として利用出来る宿泊棟などがある「道の駅」"
+                ],
+                "links": [
+                    {
+                        "text": "いの町レンタサイクル | 高知県いの町観光ガイド",
+                        "url": "https://www.inofan.jp/spot/recommended/n330/",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "QRAUD",
+                        "url": "https://www.qraud-kochi.jp/",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "土佐和紙工芸村くらうど - Google マップ",
+                        "url": "https://maps.app.goo.gl/cZJKARRgWKVGewcy7",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 17
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    133.38876752945782,
+                    33.55329846876981
+                ],
+                "address": "日本 〒781-2134 高知県吾川郡いの町神谷７５５番地"
+            },
+            "properties": {
+                "title": "天石門別安國玉主天神社",
+                "description": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    133.39299883358592,
+                    33.54324145334046
+                ]
+            },
+            "properties": {
+                "title": "小村神社",
+                "description": "国土開発の神として国常立命を祀り、国宝の金銅荘環頭大刀を神体とする土佐国二宮",
+                "note": [
+                    "今日まで完全な姿で伝わる日本で唯一の伝世品で最古の宝剣は、毎年11月15日の秋例大祭時にのみ一般の拝観ができる",
+                    "社殿を見守るように背後にそびえ立つ大木は、樹齢千年を超えると伝えられる牡丹杉で、有事の前に光るという伝統から「燈明杉」と称される御神木"
+                ],
+                "links": [
+                    {
+                        "text": "小村神社 - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/小村神社",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "小村神社 - Google マップ",
+                        "url": "https://maps.app.goo.gl/5iRctv1fpMrJ7oo39",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 17
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    133.40951388,
+                    33.51249651
+                ],
+                "address": "高岡町丁568-1"
+            },
+            "properties": {
+                "title": "清滝寺",
+                "description": "四国八十八箇所第三十五番札所（きよたきじ）",
+                "note": [
+                    "醫王山（いおうざん）、鏡池院（きょうちいん）と号す",
+                    "清滝山（標高378 m）の中腹に位置する、札所の標高は137m"
+                ],
+                "links": [
+                    {
+                        "text": "清瀧寺 (土佐市) - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/清瀧寺_(土佐市)",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "清滝寺 - Google マップ",
+                        "url": "https://maps.app.goo.gl/49Tdb24pAxC53oBG9",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 17
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    133.28487752289192,
+                    33.53333695590989
+                ],
+                "address": "日本 〒789-1215 高知県高岡郡佐川町瑞応１３３番地"
+            },
+            "properties": {
+                "title": "瑞応寺",
+                "description": "8月16日、仁淀川流域の代表的な盆踊り「瑞応の盆踊り」が奉納される",
+                "note": [
+                    "__"
+                ],
+                "links": [
+                    {
+                        "text": "瑞応寺 - Google マップ",
+                        "url": "https://maps.app.goo.gl/Ck1YgTUiGzzXwoQN8",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 17
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    133.316824999998,
+                    33.50303888877233
+                ],
+                "address": "高知県高岡郡佐川町加茂2711-1"
+            },
+            "properties": {
+                "title": "まきのさんの道の駅佐川",
+                "description": " 仁淀川流域の新鮮な野菜などが並ぶ直産市や、地場産品・地酒をとりそろえた土産店",
+                "note": [
+                    "__"
+                ],
+                "links": [
+                    {
+                        "text": "まきのさんの道の駅・佐川 | 佐川町と仁淀川流域の「ごちそう」が集う道の駅",
+                        "url": "https://makinosan.jp/",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "まきのさんの道の駅・佐川 - Google マップ",
+                        "url": "https://maps.app.goo.gl/Ew9uEHfsNSQ4Ly8s8",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 17
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    133.33678341419284,
+                    33.453971902446696
+                ],
+                "address": "日本 〒781-1132 高知県土佐市市野々１６２７番地"
+            },
+            "properties": {
+                "title": "市野々天満宮",
+                "description": "旧暦九月十五日（最近は旧暦当日直近の新暦の日曜日）に、「市野々の神踊り」が奉納される",
+                "note": [
+                    "__"
+                ],
+                "links": [
+                    {
+                        "text": "市野々天満宮 - Google マップ",
+                        "url": "https://maps.app.goo.gl/uJqJcuY5FEhHaDW7A",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 17
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    133.4508029578423,
+                    33.42602558766117
+                ],
+                "address": "日本 〒781-1165 高知県土佐市宇佐町竜６０１番地"
+            },
+            "properties": {
+                "title": "青龍寺",
+                "description": "四国八十八箇所第三十六番札所（しょうりゅうじ）",
+                "note": [
+                    "独鈷山（とっこうざん）、伊舎那院（いしゃないん）と号す",
+                    "本堂のある上段が如意山で、客殿のあるところが摩尼山の麓で、奥の院のある所が独鈷山であり、薬師如来が本尊の寺があった如意山に、奥の院の本尊不動明王を移し、その薬師如来は横に置かれ、そのあと大師堂を造ってずらっと並んだ伽藍の一つの寺になったとみられる",
+                    "とさでん交通・土佐市ドラゴンバス「宮前スカイライン入り口」下車 (3.1 km)"
+                ],
+                "links": [
+                    {
+                        "text": "青龍寺 (土佐市) - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/青龍寺_(土佐市)",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "青龍寺 - Google マップ",
+                        "url": "https://maps.app.goo.gl/NaFh9K6SP8sU7SDc8",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 17
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    133.36885328025437,
+                    33.41423104352238
+                ],
+                "address": "日本 〒785-0162 高知県須崎市浦ノ内東分３５７９番地"
+            },
+            "properties": {
+                "title": "鳴無神社",
+                "description": "旧暦8月23日、県指定保護無形民俗文化財「鳴無（おとなし）神社の神踊（こおどり）」が奉納される",
+                "note": [
+                    "参道が海に向かって延びており、「土佐の宮島」とも称される",
+                    "北方対岸の横浪港に遥拝所があり、市営巡航船の貸切運行を利用することで、そこから湾内の海を縦断して参拝することも可能",
+                    "志那禰祭（しなねまつり）は、毎年8月24日から翌8月25日にかけて行われる夏祭 本祭では祭のクライマックスとして、漁船3隻に神輿を乗せ供船として漁船20を従え大漁旗をなびかせて海上を船渡御が行われる"
+                ],
+                "links": [
+                    {
+                        "text": "鳴無神社 - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/鳴無神社",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "鳴無神社 - Google マップ",
+                        "url": "https://maps.app.goo.gl/qNNgGu3L7Uwstz4s9",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 17
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    133.3120664896885,
+                    33.37603271402625
+                ],
+                "address": "日本 〒785-0056 高知県須崎市野見"
+            },
+            "properties": {
+                "title": "野見潮ばかり公園",
+                "description": "毎年旧暦1月14日の夜、県指定無形民俗文化財「野見の潮ばかり」が行われる",
+                "note": [
+                    "__"
+                ],
+                "links": [
+                    {
+                        "text": "野見潮ばかり公園 - Google マップ",
+                        "url": "https://maps.app.goo.gl/s4tW9rbmyXtxDR4A8",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 17
+            }
+        }
+    ]
+}

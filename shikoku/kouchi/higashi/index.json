@@ -1,0 +1,623 @@
+{
+    "url": "/nankai/?id=shikoku-kouchi&area=higashi",
+    "title": [
+        "Muroto - Aki, Kouchi, Shikoku",
+        "ひがしこうち"
+    ],
+    "description": "南は暖かな太平洋・北は雄大な山々に囲まれる、世界ジオパークに認定される地域",
+    "info": {
+        "note": [
+            "東洋町 室戸市 奈半利町 田野町 安田町 北川村 馬路村 安芸市 芸西村"
+        ],
+        "markdown": "shikoku/kouchi/higashi/README.md",
+        "links": [
+            {
+                "text": "阿佐海岸鉄道株式会社",
+                "url": "https://asatetu.com/",
+                "target": "_blank"
+            },
+            {
+                "text": "阿佐海岸鉄道 - Wikipedia",
+                "url": "https://ja.wikipedia.org/wiki/阿佐海岸鉄道",
+                "target": "_blank"
+            },
+            {
+                "text": "徳島・室戸・高知55フリーきっぷ",
+                "url": "https://asatetu.com/GoGoFreePass/",
+                "target": "_blank"
+            },
+            {
+                "text": "土佐くろしお鉄道ごめん・なはり線 - Wikipedia",
+                "url": "https://ja.wikipedia.org/wiki/土佐くろしお鉄道ごめん・なはり線",
+                "target": "_blank"
+            },
+            {
+                "text": "お得なきっぷ | ごめん・なはり線 中村・宿毛線 土佐くろしお鉄道株式会社",
+                "url": "https://www.tosakuro.com/discounts-tickets",
+                "target": "_blank"
+            },
+            {
+                "text": "室戸ジオパーク - Wikipedia",
+                "url": "https://ja.wikipedia.org/wiki/室戸ジオパーク",
+                "target": "_blank"
+            }
+        ]
+    },
+    "map": {
+        "center": [
+            134.11581662716833,
+            33.35887955544867
+        ],
+        "bounds": [
+            [
+                133.76410272004358,
+                33.238383416271446
+            ],
+            [
+                134.35631512625662,
+                33.61333628489312
+            ]
+        ],
+        "zoom": 11
+    },
+    "eventsJSON": [
+        "shikoku/kouchi/higashi/date.json"
+    ],
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    134.17574256510835,
+                    33.249010506412944
+                ],
+                "address": "高知県室戸市室戸岬町4058-1"
+            },
+            "properties": {
+                "title": "最御崎寺",
+                "description": "四国八十八箇所第二十四番札所、室戸岬のシンボル（ほつみさきじ）",
+                "note": [
+                    "室戸山（むろとざん）、明星院（みょうじょういん）と号す",
+                    "空海の『三教指帰』には「土州室戸崎に勤念す」（原文は漢文）とあり、室戸岬にほど近い洞窟（御厨人窟）で虚空蔵求聞持法に励んだとされる",
+                    "寺伝によれば空海は大同2年（807年）に、嵯峨天皇の勅願を受けて本尊の虚空蔵菩薩を刻み、本寺を開創したとされる",
+                    "境外には、空海が一夜にして建立したという伝説により「一夜建立の岩屋」と言われる観音窟などの奥の院・霊場がある（宿坊あり）"
+                ],
+                "links": [
+                    {
+                        "text": "最御崎寺 - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/最御崎寺",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "最御崎寺 - Google マップ",
+                        "url": "https://maps.app.goo.gl/oxsvgTt334fYiwa8A",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "一夜建立の岩屋 - Google マップ",
+                        "url": "https://maps.app.goo.gl/XMjwbh6pkYM4Kt7ZA",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 16
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    134.18026446647394,
+                    33.251477595023346
+                ],
+                "address": "高知県室戸市室戸岬町"
+            },
+            "properties": {
+                "title": "御厨人窟",
+                "description": "室戸岬の突端付近にある、弘法大師伝説の残る海蝕洞",
+                "zoom": 17,
+                "note": [
+                    "御厨人窟（みくろど）と神明窟（しんめいくつ）の2つの海食洞が並んでおり、これらを総称して御蔵洞（みくらど）ということもある",
+                    "「御厨人窟の波音」は日本の音風景100選にも選ばれている"
+                ],
+                "links": [
+                    {
+                        "text": "御厨人窟・神明窟 - Google マップ",
+                        "url": "https://maps.app.goo.gl/axaYJS6aDEc8GqSS7",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "御厨人窟 - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/御厨人窟",
+                        "target": "_blank"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    134.14842002488223,
+                    33.28822252040051
+                ],
+                "address": "日本 〒781-7102 高知県室戸市室津２６５２番地イ"
+            },
+            "properties": {
+                "title": "津照寺",
+                "description": "四国八十八箇所第二十五番札所（しんしょうじ）",
+                "note": [
+                    "宝珠山（ほうしゅざん）、真言院（しんごんいん）と号す",
+                    "寺伝によれば、大同2年（807年）に空海がこの地を巡錫した際、山の形が宝珠に似ておりこの地が霊地であると感得し、宝珠に合わせ、一刀三礼して延命地蔵菩薩を刻み堂宇を建立し開創したという"
+                ],
+                "links": [
+                    {
+                        "text": "津照寺 - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/津照寺",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "津照寺 - Google マップ",
+                        "url": "https://maps.app.goo.gl/hEHeJcKs2X4r2vr56",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 16.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    134.12284722222222,
+                    33.3072055557039
+                ],
+                "address": "高知県室戸市元乙523"
+            },
+            "properties": {
+                "title": "金剛頂寺",
+                "description": "四国八十八箇所第二十六番札所（こんごうちょうじ）",
+                "note": [
+                    "龍頭山（りゅうずざん）、光明院（こうみょういん）と号す",
+                    "三角山の中腹にあり、室戸岬を臨め眼下に太平洋が広がる行当岬上部の景勝地にある（室戸市周辺では西寺とよばれる）",
+                    "北東の鬼門に約7km離れた池山池に池山神社、南西の裏鬼門に約1.5km離れた崎山地区に法満宮を配して創建された",
+                    "寺から南に下がった海岸は行当岬の東側にあたり、硯（すずり）が産出されたことから硯が浦とも呼ばれる"
+                ],
+                "links": [
+                    {
+                        "text": "金剛頂寺 (室戸市) - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/金剛頂寺_(室戸市)",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "金剛頂寺 - Google マップ",
+                        "url": "https://maps.app.goo.gl/dyQ529JoT2ggEEGQ9",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 17
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    134.1152584496648,
+                    33.29483656217225
+                ],
+                "address": "〒781-7107 高知県室戸市元甲"
+            },
+            "properties": {
+                "title": "恵比寿神社",
+                "description": "毎年 旧暦六月十日 高知県指定無形民俗文化財「シットロト踊り」",
+                "note": null,
+                "links": [
+                    {
+                        "text": "シットロト踊り - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/シットロト踊り",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "恵比寿神社 - Google マップ",
+                        "url": "https://maps.app.goo.gl/DmgAx1c3ebi2GPMs6",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 14
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    134.10096661829414,
+                    33.33207866858953
+                ],
+                "address": "日本 〒781-6832 高知県室戸市吉良川町甲２４１３番地"
+            },
+            "properties": {
+                "title": "御田八幡宮",
+                "description": "「吉良川の御田祭」「秋祭（神祭）」で知られる、吉良川地域の総鎮守",
+                "note": [
+                    "西暦奇数年 五月 日本三大奇祭・国の重要無形民俗文化財「吉良川の御田祭」",
+                    "毎年十月 国の選択無形民俗文化財「秋祭（神祭）」が行われる"
+                ],
+                "links": [
+                    {
+                        "text": "御田八幡宮 - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/御田八幡宮",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "御田八幡宮 - Google マップ",
+                        "url": "https://maps.app.goo.gl/KipYzjrNwoFXWjvb9",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 17
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    134.1090668941872,
+                    33.4191860313494
+                ],
+                "address": "日本 〒781-6403 高知県安芸郡奈半利町丙"
+            },
+            "properties": {
+                "title": "義長神社",
+                "description": "毎年 十一月 国の選択無形民俗文化財「義長神社の大祭」",
+                "note": null,
+                "links": [
+                    {
+                        "text": "義長神社 - Google マップ",
+                        "url": "https://maps.app.goo.gl/VuwqMhgH1bxmaEjg8",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 17
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    134.0603083335029,
+                    33.482180555131706
+                ],
+                "address": "高知県安芸郡北川村木積"
+            },
+            "properties": {
+                "title": "木積星神社",
+                "description": "2年に一度 高知県指定無形民俗文化財「星神社のお弓祭り」",
+                "note": null,
+                "links": [
+                    {
+                        "text": "お弓祭りの星神社 - Google マップ",
+                        "url": "https://maps.app.goo.gl/5P9yVYG4i1p31ZQj7",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 17
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    134.01813037725196, 33.424843793197454
+                ],
+                "address": "〒781-6402 高知県安芸郡奈半利町乙"
+            },
+            "properties": {
+                "title": "奈半利駅",
+                "description": "高知県内最東端に位置する、土佐くろしお鉄道（TKT）ごめん・なはり線の終着駅",
+                "note": null,
+                "links": [
+                    {
+                        "text": "奈半利駅 - Google マップ",
+                        "url": "https://maps.app.goo.gl/C2zgKceX3PSYz6fN6",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 17
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    133.9747250000636,
+                    33.4673888888624
+                ],
+                "address": "高知県安芸郡安田町唐浜2594"
+            },
+            "properties": {
+                "title": "神峯寺",
+                "description": "八十八箇所第二十七番札所（こうのみねじ）",
+                "note": [
+                    "竹林山（ちくりんざん）、地蔵院（じぞういん）と号す",
+                    "真っ縦（まったて）と呼ばれる急な山道を登った神峰山（標高569.9 m）の中腹（標高430 m付近）にあり四国八十八箇所で9番目の高さで高知県では一番",
+                    "「土佐の関所」また「遍路ころがし」と呼ばれる屈指の難所",
+                    "境外北側に、奥之院「神峯神社」が鎮座する（神武天皇が東征の際、この山を神の峯とし石を積み神籬を立てて祀ったことが起源と伝えられている）"
+                ],
+                "links": [
+                    {
+                        "text": "神峯寺 - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/神峯寺",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "神峯寺 - Google マップ",
+                        "url": "https://maps.app.goo.gl/RGowU3YmVSX6wtbd7",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "神峯神社 - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/神峯神社",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "神峯神社 - Google マップ",
+                        "url": "https://maps.app.goo.gl/83W77NNK2HQgVoR79",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 17
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    133.93409666,
+                    33.49178161
+                ],
+                "address": "高知県安芸市伊尾木117"
+            },
+            "properties": {
+                "title": "伊尾木洞",
+                "description": "洞窟を通り抜けると崖に囲まれ、シダ群落による神秘的な光景が広がる",
+                "note": [
+                    "約310万年～230前（鮮新世から更新世）に海の中で堆積した地層（穴内層）が隆起して、水成岩が渓谷からの水で浸食されてできた天然の洞窟",
+                    "長さは約40m、幅約3m、高さ約5mの規模"
+                ],
+                "links": [
+                    {
+                        "text": "伊尾木洞 - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/伊尾木洞",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "伊尾木洞のシダ群落 - Google マップ",
+                        "url": "https://maps.app.goo.gl/kGXb2PHirm7HkPZg7",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 17
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    133.9064177105799,
+                    33.50433740272594
+                ],
+                "address": "日本 〒784-0001 高知県安芸市矢ノ丸４丁目２番３０号"
+            },
+            "properties": {
+                "title": "安芸駅ぢばさん市場",
+                "description": "地元の恵みが集うプラットフォーム（レンタサイクルの無料貸出あり）",
+                "note": [
+                    "地元でとれた野菜や加工品、鮮魚等の特産品、ごめん・なはり線グッズなどを販売"
+                ],
+                "links": [
+                    {
+                        "text": "安芸駅ぢばさん市場",
+                        "url": "https://www.akikanko.or.jp/chokuhanjo/dibasan.html",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "安芸駅ぢばさん市場 - Google マップ",
+                        "url": "https://maps.app.goo.gl/RXCKTAd9UuwiUkPd8",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 17
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    134.20939061460797,
+                    33.4009055564115
+                ],
+                "address": "日本 〒781-7220 高知県室戸市佐喜浜町５６２１番地"
+            },
+            "properties": {
+                "title": "佐喜浜八幡宮",
+                "description": "毎年十月 高知県指定無形民俗文化財「秋祭・佐喜浜八幡宮古式行事」",
+                "note": null,
+                "links": [
+                    {
+                        "text": "佐喜浜八幡宮 - Google マップ",
+                        "url": "https://maps.app.goo.gl/qKT3EqEW9ZoztvFMA",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 17
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    134.2877417,
+                    33.5471778
+                ],
+                "address": "〒781-7412 高知県安芸郡東洋町河内662番地"
+            },
+            "properties": {
+                "title": "甲浦八幡宮",
+                "description": "三年に一度 高知県指定無形民俗文化財 太刀踊り「ひよこち踊り」",
+                "note": null,
+                "links": [
+                    {
+                        "text": "甲浦八幡宮 - Google マップ",
+                        "url": "https://maps.app.goo.gl/HueqicBTzabUKi4w8",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 17
+            }
+        }
+    ],
+    "line": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        134.35631512625662,
+                        33.61333628489312
+                    ],
+                    [
+                        134.35096820568322,
+                        33.60618642976752
+                    ],
+                    [
+                        134.35200803850267,
+                        33.59365291168878
+                    ],
+                    [
+                        134.34901805105687,
+                        33.58665523222248
+                    ],
+                    [
+                        134.33756851999783,
+                        33.58651007829731
+                    ],
+                    [
+                        134.3167674225328,
+                        33.58230947235121
+                    ],
+                    [
+                        134.30065234269057,
+                        33.56687544590024
+                    ],
+                    [
+                        134.28809714038994,
+                        33.546983703708364
+                    ],
+                    [
+                        134.29138647890136,
+                        33.541911120750626
+                    ],
+                    [
+                        134.29548939209042,
+                        33.543997074811074
+                    ],
+                    [
+                        134.30410774221826,
+                        33.54750880742047
+                    ],
+                    [
+                        134.3085191257731,
+                        33.56223888931571
+                    ],
+                    [
+                        134.30754054572822,
+                        33.56887575908395
+                    ],
+                    [
+                        134.3085191257731,
+                        33.56223888931571
+                    ],
+                    [
+                        134.30410774221826,
+                        33.54750880742047
+                    ],
+                    [
+                        134.29548939209042,
+                        33.543997074811074
+                    ],
+                    [
+                        134.29138647890136,
+                        33.541911120750626
+                    ],
+                    [
+                        134.28120186959734,
+                        33.52908508501464
+                    ],
+                    [
+                        134.28088716703888,
+                        33.51421525671992
+                    ],
+                    [
+                        134.26672752637285,
+                        33.50008059020725
+                    ],
+                    [
+                        134.2399651183813,
+                        33.46439406992556
+                    ],
+                    [
+                        134.20637267641519,
+                        33.39760207001707
+                    ],
+                    [
+                        134.20150895068002,
+                        33.35372145607589
+                    ],
+                    [
+                        134.19617003879182,
+                        33.32581342710725
+                    ],
+                    [
+                        134.18668219859637,
+                        33.29932221565693
+                    ],
+                    [
+                        134.1766037498611,
+                        33.24568903952864
+                    ]
+                ]
+            },
+            "properties": {
+                "title": "阿佐海岸鉄道",
+                "description": "徳島・高知県境の海岸線（阿波海南文化村 - 室戸岬）を颯爽と走る、世界初の「DMV」路線",
+                "note": [
+                    "道路から線路・線路から道路へ変形運行する「DMV（デュアル・モード・ビークル）」の鉄道路線および路線バス",
+                    "* 道の駅宍喰温泉から室戸岬（海の駅 とろむ）までのバス区間は、土休日1便のみ",
+                    "平日・土日祝日ともに「高知東部交通バス（安芸 - 馬路・魚梁瀬線）」が国道55号線を運行"
+                ],
+                "links": [
+                    {
+                        "text": "ひがしこうち Muroto - Aki, Kouchi, Shikoku",
+                        "url": "?id=shikoku-kouchi&area=higashi",
+                        "target": "_self"
+                    }
+                ],
+                "zoom": 12.5
+            }
+        }
+    ]
+}

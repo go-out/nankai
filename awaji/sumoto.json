@@ -1,0 +1,260 @@
+{
+    "url": "/nankai/?id=awaji&name=sumoto",
+    "title": [
+        "Awaji Island - Osaka",
+        "洲本 - 深日（大阪）"
+    ],
+    "description": "例年春から秋の土日祝日限定で深日洲本ライナーが運行（一日8便（4往復）運行）",
+    "info": {
+        "note": [
+            "八月十六日 「内膳の火踊り」（死者の霊を送り出す神秘的な炎の舞）",
+            "___",
+            "大阪・岬町 - 淡路島・洲本 | 片道大人1,800円",
+            "※ 洲本観光案内所のレンタサイクルやウェルネスパーク五色利用料の割引など、乗船特典あり"
+        ],
+        "links": [
+            {
+                "text": "深日洲本ライナー - 大阪湾つながる海の旅づくりプロジェクト",
+                "url": "https://fuke-sumotoliner.com/",
+                "target": "_blank"
+            },
+            {
+                "text": "南海うみまち39きっぷ | 南海電鉄",
+                "url": "https://www.nankai.co.jp/traffic/otoku/umimachi.html",
+                "target": "_blank"
+            }
+        ]
+    },
+    "map": {
+        "center": [
+            134.89960578,
+            34.34644013
+        ],
+        "bounds": [
+            [
+                134.83311796050342,
+                34.23856010227681
+            ],
+            [
+                135.1611287360832,
+                34.3987576449487
+            ]
+        ],
+        "zoom": 12
+    },
+    "events": [
+        {
+            "date": {
+                "month": 8,
+                "date": [
+                    16
+                ]
+            },
+            "title": [
+                "内膳の火踊り",
+                "洲本市"
+            ],
+            "note": [
+                "August 16th every year",
+                "毎年 八月十六日 午後七時頃から"
+            ],
+            "description": "死者の霊を送り出す神秘的な炎の舞",
+            "info": {
+                "note": [
+                    "鎌倉時代から続くといわれている盆の伝統行事",
+                    "下内膳の盛光寺近くの埋葬地「三昧（さんま）」にて、太鼓や鉦・音頭に合わせて縄の先に結びつけた松明を振り回して踊る"
+                ],
+                "links": [
+                    {
+                        "text": "洲本 - 深日（大阪） Awaji Island - Osaka",
+                        "url": "/nankai/?id=awaji&name=sumoto",
+                        "target": "_self"
+                    }
+                ]
+            }
+        }
+    ],
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.14246709132345,
+                    34.31888125059815
+                ]
+            },
+            "properties": {
+                "title": "深日港",
+                "description": "大阪・岬町 - 淡路島・洲本 | 片道大人1,800円",
+                "zoom": 16.5,
+                "note": [
+                    "深日港観光案内所「さんぽるた」にレンタサイクル（電動アシスト付 1日500円）"
+                ],
+                "links": [
+                    {
+                        "text": "深日洲本ライナー深日港のりば - Google マップ",
+                        "url": "https://maps.app.goo.gl/M8TAJsQUfctVzqmQ8",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "深日港観光案内所 さんぽるた - Google マップ",
+                        "url": "https://maps.app.goo.gl/URBjSNTduqCiJtuQ6",
+                        "target": "_blank"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    134.89960578,
+                    34.34644013
+                ]
+            },
+            "properties": {
+                "title": "洲本ポートターミナルビル",
+                "description": "大阪・岬町 - 淡路島・洲本 | 片道大人1,800円",
+                "zoom": 16.5,
+                "note": [
+                    "洲本市（洲本港周辺）「洲本観光案内所」にレンタサイクル（普通 1日800円・電動アシスト付 1日3000円）"
+                ],
+                "links": [
+                    {
+                        "text": "洲本ポートターミナルビル - Google マップ",
+                        "url": "https://maps.app.goo.gl/2o2oHnDk9kaGwAPb9",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "洲本観光案内所 - Google マップ",
+                        "url": "https://maps.app.goo.gl/ZRQ7cM25bBAsZmf6A",
+                        "target": "_blank"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    134.89447795,
+                    34.33965084
+                ],
+                "address": "兵庫県洲本市山手３"
+            },
+            "properties": {
+                "title": "旧益習館庭園",
+                "description": "「巨岩を配した独特な意匠」を持つ、石切場跡を庭園としためずらしい庭園",
+                "note": [
+                    "淡路島の庭園として初の国名勝、きゅうえきしゅうかんていえん（池泉 回遊式庭園）",
+                    "※ 開園時間:10時～16時 土日祝のみ公開"
+                ],
+                "links": [
+                    {
+                        "text": "国名勝旧益習館庭園 - 淡路文化史料館",
+                        "url": "https://awajishimamuseum.com/kyu_ekishukan/",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "国名勝 旧益習館庭園 - Google マップ",
+                        "url": "https://maps.app.goo.gl/P1JAV7UMr1kZvFeu9",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "旧益習館庭園 - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/旧益習館庭園",
+                        "target": "_blank"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    134.85670705610983,
+                    34.351203818573865
+                ]
+            },
+            "properties": {
+                "title": "盛光寺",
+                "description": "毎年 八月十六日 午後七時頃から「内膳の火踊り」",
+                "note": [
+                    "鎌倉時代から続くといわれている盆の伝統行事、死者の霊を送り出す神秘的な炎の舞",
+                    "下内膳の盛光寺近くの埋葬地「三昧（さんま）」にて、太鼓や鉦・音頭に合わせて縄の先に結びつけた松明を振り回して踊る"
+                ],
+                "links": [
+                    {
+                        "text": "盛光寺 - Google マップ",
+                        "url": "https://maps.app.goo.gl/QeGVRSXBaSFr3bcW6",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 16.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    134.84371057169005,
+                    34.3021420873424
+                ]
+            },
+            "properties": {
+                "title": "鮎屋の滝",
+                "description": "淡路島随一の高さ14.5mを誇る滝、周辺は、自然観察や森林浴に最適な鮎屋の森",
+                "zoom": 17,
+                "links": [
+                    {
+                        "text": "鮎屋の滝 - Google マップ",
+                        "url": "https://maps.app.goo.gl/UeYefuHUiLX3ZncD6",
+                        "target": "_blank"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    134.95247499615692,
+                    34.29019288686264
+                ]
+            },
+            "properties": {
+                "title": "由良・成ヶ島",
+                "description": "淡路橋立とも呼ばれる、由良沖に浮かぶ細長い島（なるがしま）",
+                "note": [
+                    "北端の新川口と南端の今川口の水路で淡路島から約100m離れている<br>（由良港から渡し船があり約2分で島に連絡している）",
+                    "北端の成山の東の紀淡海峡側には成ヶ島海水浴場があり、周辺には由良要塞の砲台跡が成山にわずかに残っている",
+                    "島内には、天日槍の「出石の刀子」ゆかりの生石神社がある"
+                ],
+                "links": [
+                    {
+                        "text": "成ヶ島渡船（淡路島と国立公園成ヶ島を結ぶ唯一の航路） - 洲本市ホームページ",
+                        "url": "https://www.city.sumoto.lg.jp/soshiki/19/10513.html",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "成ヶ島 - Google マップ",
+                        "url": "https://maps.app.goo.gl/pVo6vKvEEB18xEbM9",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "成ヶ島 - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/成ヶ島",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 13.5
+            }
+        }
+    ]
+}

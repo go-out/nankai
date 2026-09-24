@@ -1,0 +1,648 @@
+{
+    "url": "/nankai/?id=kumano-hayatama",
+    "title": [
+        "Kumano Hayatama, Wakayama",
+        "熊野速玉大社（新宮）"
+    ],
+    "description": "山上ヶ岳を源に本宮大社から熊野灘に流れる「熊野川」の河口付近、熊野大神の始まりの地",
+    "info": {
+        "markdown": "kumano/hayatama/README.md",
+        "links": [
+            {
+                "text": "熊野速玉大社公式サイト｜和歌山県新宮市鎮座 根本熊野大権現 世界遺産",
+                "url": "https://kumanohayatama.jp/",
+                "target": "_blank"
+            },
+            {
+                "text": "熊野速玉大社 - Google マップ",
+                "url": "https://maps.app.goo.gl/EoVQteDSsGdc691v7",
+                "target": "_blank"
+            },
+            {
+                "text": "熊野速玉大社 - Wikipedia",
+                "url": "https://ja.wikipedia.org/wiki/熊野速玉大社",
+                "target": "_blank"
+            },
+            {
+                "text": "千穂ヶ峯 - Wikipedia",
+                "url": "https://ja.wikipedia.org/wiki/千穂ヶ峯",
+                "target": "_blank"
+            },
+            {
+                "text": "熊野川 - Wikipedia",
+                "url": "https://ja.wikipedia.org/wiki/熊野川",
+                "target": "_blank"
+            },
+            {
+                "text": "熊野灘 - Wikipedia",
+                "url": "https://ja.wikipedia.org/wiki/熊野灘",
+                "target": "_blank"
+            },
+            {
+                "text": "[PDF] 熊野速玉大社～那智駅のマップ｜和歌山県公式観光サイト",
+                "url": "https://www.wakayama-kanko.or.jp/asset/map/nakahechi-kaido-map_8.pdf",
+                "target": "_blank"
+            }
+        ]
+    },
+    "map": {
+        "center": [
+            135.98351216424356,
+            33.73216160426189
+        ],
+        "bounds": [
+            [
+                135.777,
+                33.669
+            ],
+            [
+                136.035,
+                33.92500166155706
+            ]
+        ],
+        "zoom": 12
+    },
+    "cover": {
+        "url": null
+    },
+    "eventsJSON": [
+        "kumano/hayatama/date.json"
+    ],
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.99536666658187,
+                    33.72409722222223
+                ],
+                "address": "和歌山県新宮市徐福２－１－３１"
+            },
+            "properties": {
+                "title": "ステーションホテル新宮",
+                "description": "新宮駅から徒歩わずか3分、4980円から泊まれる観光・ビジネスホテル",
+                "tag": null,
+                "zoom": null,
+                "note": null,
+                "links": [
+                    {
+                        "text": "ステーションホテル新宮",
+                        "url": "https://www.stationhotel-s.jp/",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "ステーションホテル新宮 - Google マップ",
+                        "url": "https://maps.app.goo.gl/mYnLimFmn7zMc4tY7",
+                        "target": "_blank"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.99141944461397,
+                    33.727916666666665
+                ],
+                "address": "和歌山県新宮市丹鶴２－２－２２"
+            },
+            "properties": {
+                "title": "ホテルニューパレス",
+                "description": "新宮駅から徒歩5分、大浴場があるシティホテル（シングル6,600円から）",
+                "tag": null,
+                "zoom": null,
+                "note": null,
+                "links": [
+                    {
+                        "text": "ホテルニューパレス 公式ページ",
+                        "url": "https://www.hotel-newpalace.com/",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "ホテルニューパレス ( New palace Hotel ) - Google マップ",
+                        "url": "https://maps.app.goo.gl/5jmp7CEG8TuCxAMEA",
+                        "target": "_blank"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.99160000006356,
+                    33.72271388901605
+                ],
+                "address": "和歌山県新宮市井の沢３－１２"
+            },
+            "properties": {
+                "title": "新宮ユーアイホテル",
+                "description": "宿泊、食事、宴会・会議、ウェディングなどに対応、新宮駅から徒歩6分（シングル6,800円〜）",
+                "tag": null,
+                "zoom": null,
+                "note": null,
+                "links": [
+                    {
+                        "text": "新宮ユーアイホテル【公式】JR新宮駅から徒歩6分、駐車場無料",
+                        "url": "https://www.ui-hotel.co.jp/",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "新宮ユーアイホテル - Google マップ",
+                        "url": "https://maps.app.goo.gl/VhUN6m4HuJC1AvMJ9",
+                        "target": "_blank"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    136.00126090014294,
+                    33.735840823300805
+                ],
+                "address": "〒519-5701 三重県南牟婁郡紀宝町鵜殿"
+            },
+            "properties": {
+                "title": "貴禰谷神社",
+                "description": "熊野三所権現を後に勧請したとされる貴祢谷（きねがだに）にある祠、紀宝町指定の史跡",
+                "tag": null,
+                "zoom": 16.5,
+                "note": [
+                    "地元では権現谷・矢淵（やぶち）権現・石淵（いわぶち）権現などと呼ばれる紀宝町指定の史跡",
+                    "烏止野神社背後からの山越えルート、矢渕中学校の東側の道を昇るルートなどがある"
+                ],
+                "links": [
+                    {
+                        "text": "貴祢谷社 - Google マップ",
+                        "url": "https://maps.app.goo.gl/92hoGzYGDfMSSAiA8",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "貴禰谷神社 - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/貴禰谷神社",
+                        "target": "_blank"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    136.00594889698777,
+                    33.761136750810365
+                ],
+                "address": "日本 〒519-5712 三重県南牟婁郡紀宝町神内９５８番地"
+            },
+            "properties": {
+                "title": "神内神社",
+                "description": "神殿はなく、背後の岩窟（がんくつ）を御神体とする神社\nかつての熊野の自然崇拝の有り様を現在に伝える神社のひとつ",
+                "tag": null,
+                "zoom": 16,
+                "note": null,
+                "links": [
+                    {
+                        "text": "神内神社 - Google マップ",
+                        "url": "https://maps.app.goo.gl/izBnNz89RSziuANN6",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "子安神社 (紀宝町) - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/子安神社_(紀宝町)",
+                        "target": "_blank"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    136.00718926,
+                    33.75826563
+                ],
+                "address": "三重県南牟婁郡紀宝町神内９２０－４"
+            },
+            "properties": {
+                "title": "古神殿",
+                "description": "神内神社のご神体手前（神内神社本宮）、熊野の原始信仰の形を象徴する巨石群",
+                "tag": null,
+                "zoom": null,
+                "note": null,
+                "links": [
+                    {
+                        "text": "古神殿 - Google マップ",
+                        "url": "https://maps.app.goo.gl/TYEJcXUCogPahxrh6",
+                        "target": "_blank"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.98411458642659,
+                    33.72434623874095
+                ],
+                "address": "和歌山県新宮市神倉１－１３－８"
+            },
+            "properties": {
+                "title": "神倉神社（かみくら、かんのくら）",
+                "description": "神倉山に鎮座する元宮・旧宮、自然信仰（巨岩信仰・磐座信仰）の社",
+                "zoom": 15.5,
+                "note": [
+                    "熊野速玉大社の運営にあたった修験者の集団・神倉聖（かんのくらひじり）の本拠地だったとされる",
+                    "境内外縁は断崖絶壁になっていて、急勾配の鎌倉積み石段538段（源頼朝が寄進したと伝えられる）を登らなければ山上へ行けない"
+                ],
+                "links": [
+                    {
+                        "text": "神倉神社 - Google マップ",
+                        "url": "https://maps.app.goo.gl/xNG5WUUfMHVuMqQG8",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "神倉神社社務所 - Google マップ",
+                        "url": "https://maps.app.goo.gl/qKy35BB9HBsf9W6N8",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "神倉神社 - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/神倉神社",
+                        "target": "_blank"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.97447021701328,
+                    33.73335856477108
+                ],
+                "address": "日本 〒519-5714 三重県南牟婁郡紀宝町鮒田"
+            },
+            "properties": {
+                "title": "杉ノ仮宮",
+                "description": "速玉大社本殿の西方500mほどの河原 ｢乙基河原（おともがわら）｣に位置する、御船島を望む御旅所",
+                "tag": null,
+                "zoom": 16.25,
+                "note": null,
+                "links": [
+                    {
+                        "text": "御旅所 - Google マップ",
+                        "url": "https://maps.app.goo.gl/KtQPvhpGikNkQJ8w9",
+                        "target": "_blank"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.97319851310556,
+                    33.73592087587831
+                ],
+                "address": "日本 〒519-5714 三重県南牟婁郡紀宝町鮒田"
+            },
+            "properties": {
+                "title": "御船島",
+                "description": "熊野川河口近くに位置する無人の川中島、御船明神が祀られる熊野速玉大社の社地",
+                "tag": null,
+                "zoom": 16.25,
+                "note": [
+                    "熊野速玉祭の御船祭では、神輿を奉じた神幸船の渡御に合わせて、この島の周りで早船の競漕が行われる"
+                ],
+                "links": [
+                    {
+                        "text": "御船島 - Google マップ",
+                        "url": "https://maps.app.goo.gl/X5U5aRCwNgVsopxU6",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "御船島 - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/御船島",
+                        "target": "_blank"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.99728055530122,
+                    33.72847222222222
+                ],
+                "address": "和歌山県新宮市阿須賀１－２－２５"
+            },
+            "properties": {
+                "title": "阿須賀神社",
+                "description": "古代より社殿裏にそびえる神奈備山｢蓬莱山（飛鳥山）｣をご神体とする社",
+                "tag": null,
+                "zoom": 16.5,
+                "note": [
+                    "熊野大神が神倉山に次いで降臨したとされる「阿須賀の森」"
+                ],
+                "links": [
+                    {
+                        "text": "崇敬会 | 阿須賀神社崇敬会",
+                        "url": "https://iesui.com/nisi/suukeikai/",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "阿須賀神社 - Google マップ",
+                        "url": "https://maps.app.goo.gl/93hqa1GLrwXKnKWn8",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "阿須賀神社 - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/阿須賀神社",
+                        "target": "_blank"
+                    }
+                ]
+            }
+        }
+    ],
+    "featuresJSON": [
+        "kumano/index.json"
+    ],
+    "line": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        135.9915298,
+                        33.7018122
+                    ],
+                    [
+                        135.9916297,
+                        33.7017555
+                    ],
+                    [
+                        135.9915798,
+                        33.701599
+                    ],
+                    [
+                        135.9915115,
+                        33.7014923
+                    ],
+                    [
+                        135.9915432,
+                        33.7013968
+                    ],
+                    [
+                        135.9916081,
+                        33.701304
+                    ],
+                    [
+                        135.9915814,
+                        33.7012084
+                    ],
+                    [
+                        135.9914999,
+                        33.701171
+                    ],
+                    [
+                        135.9915237,
+                        33.7010658
+                    ],
+                    [
+                        135.9914305,
+                        33.7009952
+                    ],
+                    [
+                        135.9913548,
+                        33.7008277
+                    ],
+                    [
+                        135.9909353,
+                        33.7003846
+                    ],
+                    [
+                        135.9913981,
+                        33.700433
+                    ],
+                    [
+                        135.991641,
+                        33.7002376
+                    ],
+                    [
+                        135.9916993,
+                        33.7000576
+                    ],
+                    [
+                        135.9915744,
+                        33.6999329
+                    ],
+                    [
+                        135.9914579,
+                        33.699865
+                    ],
+                    [
+                        135.9914279,
+                        33.6997681
+                    ],
+                    [
+                        135.9912136,
+                        33.6996887
+                    ],
+                    [
+                        135.9911021,
+                        33.6993259
+                    ],
+                    [
+                        135.9911653,
+                        33.6992414
+                    ],
+                    [
+                        135.9913418,
+                        33.6993591
+                    ],
+                    [
+                        135.9914467,
+                        33.6993661
+                    ],
+                    [
+                        135.991557,
+                        33.6994505
+                    ],
+                    [
+                        135.9917667,
+                        33.6994823
+                    ],
+                    [
+                        135.991756,
+                        33.699392
+                    ],
+                    [
+                        135.9917793,
+                        33.699302
+                    ],
+                    [
+                        135.9917377,
+                        33.6992217
+                    ],
+                    [
+                        135.991756,
+                        33.6991275
+                    ],
+                    [
+                        135.9916928,
+                        33.6990319
+                    ],
+                    [
+                        135.9915644,
+                        33.698957
+                    ],
+                    [
+                        135.9912997,
+                        33.6988615
+                    ],
+                    [
+                        135.9912676,
+                        33.6987727
+                    ],
+                    [
+                        135.9910978,
+                        33.6984015
+                    ],
+                    [
+                        135.9910148,
+                        33.6983318
+                    ],
+                    [
+                        135.9909639,
+                        33.6982306
+                    ],
+                    [
+                        135.9909836,
+                        33.6981403
+                    ],
+                    [
+                        135.9910888,
+                        33.6980254
+                    ],
+                    [
+                        135.9910635,
+                        33.6979028
+                    ],
+                    [
+                        135.9908955,
+                        33.6977141
+                    ],
+                    [
+                        135.9906409,
+                        33.6975908
+                    ],
+                    [
+                        135.9905776,
+                        33.6975382
+                    ],
+                    [
+                        135.9905743,
+                        33.6974745
+                    ],
+                    [
+                        135.9906991,
+                        33.6974121
+                    ],
+                    [
+                        135.9905526,
+                        33.6973076
+                    ],
+                    [
+                        135.9902715,
+                        33.6967764
+                    ],
+                    [
+                        135.9899898,
+                        33.6964555
+                    ],
+                    [
+                        135.9897935,
+                        33.6961799
+                    ],
+                    [
+                        135.9895532,
+                        33.6955885
+                    ],
+                    [
+                        135.9895357,
+                        33.6953229
+                    ],
+                    [
+                        135.9897041,
+                        33.6944633
+                    ],
+                    [
+                        135.9892317,
+                        33.6938551
+                    ],
+                    [
+                        135.9888477,
+                        33.6933302
+                    ],
+                    [
+                        135.9886023,
+                        33.6930948
+                    ],
+                    [
+                        135.9881116,
+                        33.6923576
+                    ],
+                    [
+                        135.9880957,
+                        33.6922286
+                    ],
+                    [
+                        135.9881757,
+                        33.6919938
+                    ],
+                    [
+                        135.9878276,
+                        33.6916441
+                    ]
+                ]
+            },
+            "properties": {
+                "title": "高野坂",
+                "description": "古道の雰囲気が色濃く残る中辺路でも珍しい海沿いの道を歩くコース",
+                "zoom": 11.5,
+                "note": [
+                    "高野坂では、古道の雰囲気が色濃く残り、苔生した石畳や熊野灘の雄大な眺め",
+                    "歩行距離：約6.5km 歩行時間：約2時間"
+                ],
+                "links": [
+                    {
+                        "text": "熊野那智大社（那智山） Kumano Nachi, Wakayama",
+                        "url": "/nankai/?id=kumano-nachi",
+                        "target": "_self"
+                    },
+                    {
+                        "text": "小雲取越（小口～請川） - 田辺市熊野ツーリズムビューロー",
+                        "url": "https://www.tb-kumano.jp/kumano-kodo/nakahechi/kogumotori-goe/",
+                        "target": "_self"
+                    }
+                ]
+            }
+        }
+    ]
+}

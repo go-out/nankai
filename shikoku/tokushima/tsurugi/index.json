@@ -1,0 +1,406 @@
+{
+    "url": "/nankai/?id=shikoku-tokushima&area=tsurugi",
+    "title": [
+        "Mount Tsurugi (Tokushima), Shikoku",
+        "剣山系"
+    ],
+    "description": "石鎚山に次ぐ西日本第二の高峰、霊峰つるぎと秘境の里（標高約1955m）",
+    "info": {
+        "markdown": "shikoku/tokushima/tsurugi/README.md",
+        "links": [
+            {
+                "text": "剣山 - Wikipedia",
+                "url": "https://ja.wikipedia.org/wiki/剣山",
+                "target": "_blank"
+            },
+            {
+                "text": "道案内｜劔山本宮劔神社",
+                "url": "https://www.tsurugisan.jp/access.php",
+                "target": "_blank"
+            },
+            {
+                "text": "剣山自然休養林：林野庁",
+                "url": "https://www.rinya.maff.go.jp/j/kokuyu_rinya/kokumin_mori/katuyo/reku/rekumori/tsurugisan.html",
+                "target": "_blank"
+            },
+            {
+                "text": "つるぎ町コミバス - つるぎ町",
+                "url": "https://www.town.tokushima-tsurugi.lg.jp/kurashi/comibus/",
+                "target": "_blank"
+            }
+        ]
+    },
+    "map": {
+        "center": [
+            134.0946752473302,
+            33.85406332384264
+        ],
+        "bounds": [
+            [
+                133.75382235912213,
+                33.74343302612637
+            ],
+            [
+                134.23696207082418,
+                34.07027318167461
+            ]
+        ],
+        "zoom": 11
+    },
+    "cover": {
+        "url": null
+    },
+    "eventsJSON": [
+        "shikoku/tokushima/tsurugi/date.json"
+    ],
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    134.1207983918344,
+                    33.87446710169995
+                ],
+                "address": "日本 〒777-0007 徳島県美馬市穴吹町古宮"
+            },
+            "properties": {
+                "title": "コリトリ",
+                "description": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    134.1198800716408,
+                    33.86574993927995
+                ],
+                "address": "日本 〒777-0303 徳島県美馬市木屋平川上カケ１番地"
+            },
+            "properties": {
+                "title": "劔山本宮 劔神社",
+                "description": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    134.12067993,
+                    33.86618914
+                ],
+                "address": "徳島県美馬市木屋平川上カケ"
+            },
+            "properties": {
+                "title": "剣山龍光寺 藤之池 本坊",
+                "description": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    134.11043593045588,
+                    33.8536659165955
+                ],
+                "address": "日本 〒771-6118 徳島県那賀郡那賀町岩倉"
+            },
+            "properties": {
+                "title": "剣山 一ノ森 - 二ノ森",
+                "description": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    134.09604471728812,
+                    33.855225576258604
+                ],
+                "address": "日本 〒771-6118 徳島県那賀郡那賀町岩倉"
+            },
+            "properties": {
+                "title": "劔山本宮 宝蔵石神社",
+                "description": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    134.09192581,
+                    33.8552851
+                ],
+                "address": "徳島県三好市東祖谷菅生"
+            },
+            "properties": {
+                "title": "剣山御神水",
+                "description": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    134.09822228290267,
+                    33.858492434258324
+                ],
+                "address": "日本 〒771-6118 徳島県那賀郡那賀町岩倉"
+            },
+            "properties": {
+                "title": "劔山本宮 古劔神社",
+                "description": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    134.09810197847446,
+                    33.85776717239226
+                ],
+                "address": "日本 〒771-6118 徳島県那賀郡那賀町岩倉"
+            },
+            "properties": {
+                "title": "劔山本宮 両劔神社",
+                "description": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    134.09876938527054,
+                    33.85834494879994
+                ],
+                "address": "日本 〒771-6118 徳島県那賀郡那賀町岩倉"
+            },
+            "properties": {
+                "title": "三十五社",
+                "description": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    134.09230763,
+                    33.8605087
+                ],
+                "address": "徳島県三好市東祖谷菅生205-2"
+            },
+            "properties": {
+                "title": "剣山登山リフト西島駅",
+                "description": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    134.0889746582984,
+                    33.86665963458658
+                ],
+                "address": "日本 〒778-0201 徳島県三好市東祖谷菅生２０５番地２５"
+            },
+            "properties": {
+                "title": "剣山観光登山リフト見ノ越駅",
+                "description": "三好市営バス 名頃線\n剣山登山バス"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    134.06914603,
+                    33.95168195
+                ],
+                "address": "Ichiu"
+            },
+            "properties": {
+                "title": "赤羽根大師の大エノキ",
+                "description": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    134.07408333354525,
+                    33.97811944431729
+                ],
+                "address": "徳島県美馬郡つるぎ町貞光猿飼"
+            },
+            "properties": {
+                "title": "鳴滝",
+                "description": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    134.09134525,
+                    33.9897909
+                ],
+                "address": "徳島県美馬郡つるぎ町貞光川見"
+            },
+            "properties": {
+                "title": "川見堂",
+                "description": "川見の踊り念仏 - 徳島県指定無形民俗文化財。川見堂で8月14日夜に行われる"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    134.07300996,
+                    34.00520394
+                ],
+                "address": "徳島県美馬郡つるぎ町貞光木屋"
+            },
+            "properties": {
+                "title": "木屋堂",
+                "description": "木屋の踊り念仏 - 徳島県指定無形民俗文化財。木屋堂で8月13日夜に行われる",
+                "note": [
+                    "一宇の雨乞い踊り - 新仏のあった年の8月13日の夜"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    134.07573356171025,
+                    33.993823439189185
+                ]
+            },
+            "properties": {
+                "title": "御所神社 (つるぎ町)",
+                "description": "阿波忌部氏の祖神「天日鷲命（あめのひわしのみこと）」を祀る神社の一つ",
+                "zoom": 15,
+                "note": [
+                    "当地に蟠踞した忌部氏の後裔氏族、三木氏（みき）が奉斎",
+                    "忌部神社の論社として吉野川市の山崎忌部神社と長く論争が続いたが、1881年（明治14年）に当地を忌部社地と確定",
+                    "その後、山崎忌神社から反発があり、御所神社は徳島市の忌部神社の摂社となった"
+                ],
+                "links": [
+                    {
+                        "text": "忌部神社 (御所神社) - Google マップ",
+                        "url": "https://maps.app.goo.gl/3ysFMEpyvBT4HtL19",
+                        "target": "_blank"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    134.08444444444444,
+                    34.00083888888359
+                ],
+                "address": "徳島県美馬郡つるぎ町貞光長瀬127-2"
+            },
+            "properties": {
+                "title": "つるぎ町剣山木綿麻温泉",
+                "description": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    134.0711813,
+                    34.02857235
+                ],
+                "address": "つるぎ町貞光町"
+            },
+            "properties": {
+                "title": "二層うだつの町並み",
+                "description": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    134.06273865,
+                    34.03353244
+                ],
+                "address": "徳島県美馬郡つるぎ町貞光町"
+            },
+            "properties": {
+                "title": "織本屋",
+                "description": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    134.0587750000424,
+                    34.03935277779897
+                ],
+                "address": "徳島県美馬郡つるぎ町貞光"
+            },
+            "properties": {
+                "title": "貞光駅",
+                "description": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    134.06002526457422,
+                    34.042656458834514
+                ],
+                "address": "徳島県美馬郡つるぎ町貞光"
+            },
+            "properties": {
+                "title": "シンボルタワー(道の駅 貞光ゆうゆう館)",
+                "description": "レンタサイクル※1台のみ 貸出無料",
+                "note": [
+                    "休業日 第3水曜日 | 営業時間 9時00分～17時00分"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    134.1631805557675,
+                    34.056172222031485
+                ],
+                "address": "徳島県美馬市穴吹町穴吹岩手"
+            },
+            "properties": {
+                "title": "穴吹駅",
+                "description": ""
+            }
+        }
+    ]
+}

@@ -1,0 +1,200 @@
+{
+    "url": "/nankai/?id=awaji&name=iwaya",
+    "title": [
+        "Akashi Kaikyo National Government Park",
+        "国営明石海峡公園"
+    ],
+    "description": "明石海峡を隔てて本州（神戸）と接する淡路島の北端地域（岩屋・夢舞台）",
+    "info": {
+        "note": [
+            "神戸地区は、六甲山の北麓にある大都市近郊で奇跡的に残った里山を保全する「あいな里山公園」"
+        ],
+        "links": [
+            {
+                "text": "国営明石海峡公園 - Wikipedia",
+                "url": "https://ja.wikipedia.org/wiki/国営明石海峡公園",
+                "target": "_blank"
+            }
+        ]
+    },
+    "map": {
+        "center": [
+            135.02039831745714,
+            34.59031128484044
+        ],
+        "bounds": [
+            [
+                134.9302792268861,
+                34.5362172856366
+            ],
+            [
+                135.11814188561817,
+                34.73247545558344
+            ]
+        ],
+        "zoom": 12
+    },
+    "cover": {
+        "url": null
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.02039831745714,
+                    34.59031128484044
+                ],
+                "address": "日本 〒656-2401 兵庫県淡路市岩屋９２５番地２７"
+            },
+            "properties": {
+                "title": "淡路ジェノバライン",
+                "description": "兵庫・明石 - 淡路島・岩屋 | 片道大人700円",
+                "note": [
+                    "明石港⇔岩屋港（所要時間 約13分）1時間に1〜2本運行（5時台から23時台まで）"
+                ],
+                "links": [
+                    {
+                        "text": "明石と淡路島を結ぶ高速船 淡路ジェノバライン",
+                        "url": "https://www.jenova-line.co.jp/",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "淡路ジェノバライン 明石港のりば - Google マップ",
+                        "url": "https://maps.app.goo.gl/vywsQ3ypJf5knEHR9",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "淡路ジェノバライン 岩屋港のりば - Google マップ",
+                        "url": "https://maps.app.goo.gl/5sBfDPAStPcjZNnMA",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "淡路ジェノバライン - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/淡路ジェノバライン",
+                        "target": "_blank"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.0215712527007,
+                    34.589853369063405
+                ],
+                "address": "日本 〒656-2401 兵庫県淡路市岩屋９２５番地８"
+            },
+            "properties": {
+                "title": "絵島",
+                "description": "長年の風波に洗われ描き出された造形美、浸食により切り離されてできた小島",
+                "links": [
+                    {
+                        "text": "絵島 - Google マップ",
+                        "url": "https://maps.app.goo.gl/XK7xKDdt1gfbEzCa9",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "絵島 (淡路市) - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/絵島_(淡路市)",
+                        "target": "_blank"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.0202454871045,
+                    34.58925997498045
+                ],
+                "address": "日本 〒656-2401 兵庫県淡路市岩屋９２５番地１"
+            },
+            "properties": {
+                "title": "岩樟神社",
+                "description": "岩屋港の向かいの恵比須神社奥、岩屋城跡がある城山の崖下の洞窟に祀られた神社（いわくすじんじゃ）",
+                "links": [
+                    {
+                        "text": "岩樟神社 - Google マップ",
+                        "url": "https://maps.app.goo.gl/GThY5TyTQ5MNrCni6",
+                        "target": "_blank"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.0001980419804,
+                    34.59125122362022
+                ]
+            },
+            "properties": {
+                "title": "あわじ石の寝屋緑地",
+                "description": "明石海峡を望む淡路島の北の端、「石の寝屋古墳群」がある淡路島の里山",
+                "zoom": 14.5,
+                "links": [
+                    {
+                        "text": "兵庫県立あわじ石の寝屋緑地 - Google マップ",
+                        "url": "https://maps.app.goo.gl/z8KQG5HAuzxnZ5YHA",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "兵庫県立あわじ石の寝屋緑地ホームページ",
+                        "url": "https://www.hyogo-park.or.jp/ishinoneya/",
+                        "target": "_blank"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.008178725388,
+                    34.55831655053379
+                ],
+                "address": "日本 〒656-2306 兵庫県淡路市夢舞台１番地"
+            },
+            "properties": {
+                "title": "淡路夢舞台",
+                "description": "安藤忠雄の設計により2000年にオープンした複合文化リゾート施設",
+                "zoom": 15,
+                "note": [
+                    "関西国際空港造成のための土砂採取場所として使用された「灘山（なだやま）」の跡地において、自然環境を再生させるプロジェクトとして整備・建設",
+                    "国際会議場やリゾートホテル、野外劇場、植物園等の施設が点在する敷地内は、百段苑をはじめ複数の個性的な庭園が存在し、それらは遊歩道やデッキなどで結ばれ、全体が回遊式庭園の構造"
+                ],
+                "links": [
+                    {
+                        "text": "淡路夢舞台",
+                        "url": "https://www.yumebutai.co.jp/",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "淡路夢舞台 - Google マップ",
+                        "url": "https://maps.app.goo.gl/VL3JXwH5756sC2VQ7",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "淡路夢舞台 - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/淡路夢舞台",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "灘山 - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/灘山",
+                        "target": "_blank"
+                    }
+                ]
+            }
+        }
+    ]
+}

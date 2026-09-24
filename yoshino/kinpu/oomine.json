@@ -1,0 +1,190 @@
+{
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.8878541093918,
+                    34.34171530911652
+                ]
+            },
+            "properties": {
+                "title": "吉野山（青根ヶ峰）",
+                "description": "吉野山の最奥部・最南端、吉野から山上ヶ岳へと「大峯奥駈道」が通る",
+                "zoom": 13
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.93956615097096,
+                    34.25407290545316
+                ],
+                "address": "日本 〒638-0431 奈良県吉野郡天川村洞川７０３番地"
+            },
+            "properties": {
+                "title": "宿坊 櫻本坊",
+                "description": "山伏文化の殿堂といえるほど多くの文化財が残されている宿坊",
+                "note": [
+                    "金峯山修験本宗の別格本山の寺院 （予約・問い合わせ先 0747-68-9188）"
+                ],
+                "links": [
+                    {
+                        "text": "大峯山護持院 櫻本坊（桜本坊）",
+                        "url": "https://sakuramotobou.or.jp/",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "桜本坊 - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/桜本坊",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "宿坊 櫻本坊 - Google マップ",
+                        "url": "https://maps.app.goo.gl/UkFixFAzW57HfSAq9",
+                        "target": "_blank"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.94011716108827,
+                    34.254184617164455
+                ],
+                "address": "日本 〒638-0431 奈良県吉野郡天川村洞川７０３番地"
+            },
+            "properties": {
+                "title": "竹林院",
+                "description": "一万坪の敷地の中に大和三庭園の一つ「群芳園」を有する静寂と名園の宿",
+                "note": [
+                    "寺伝によれば、聖徳太子が開創して椿山寺と号し、その後弘仁年間（810年～824年）空海が入り常泉寺と称したという",
+                    "吉野を一望する大浴場や客室風呂があり、名物「利休鍋」をはじめ、地元食材を生かした会席料理や地酒を堪能できる"
+                ],
+                "links": [
+                    {
+                        "text": "吉野山 名園の宿 竹林院群芳園",
+                        "url": "https://chikurinin.com/",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "竹林院 (奈良県吉野町) - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/竹林院_(奈良県吉野町)",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "宿坊 竹林院 - Google マップ",
+                        "url": "https://maps.app.goo.gl/ckSfUA63DdETETE47",
+                        "target": "_blank"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.94004633331053,
+                    34.25402699440981
+                ],
+                "address": "日本 〒638-0431 奈良県吉野郡天川村洞川７０３番地"
+            },
+            "properties": {
+                "title": "宿坊 東南院",
+                "description": "役行者が金峯山寺建立時にその東南に建てたと伝わる金峯山修験本宗の別格本山の寺院",
+                "note": [
+                    "予約・問い合わせ先 TEL 0746-32-3005"
+                ],
+                "links": [
+                    {
+                        "text": "東南院 (奈良県吉野町) - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/東南院_(奈良県吉野町)",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "東南院 - Google マップ",
+                        "url": "https://maps.app.goo.gl/s4qNr17tFpn5Qh646",
+                        "target": "_blank"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.93994938956638,
+                    34.2538675651418
+                ],
+                "address": "日本 〒638-0431 奈良県吉野郡天川村洞川７０３番地"
+            },
+            "properties": {
+                "title": "宿坊 喜蔵院",
+                "description": "現在は宿坊も営む、本山修験宗の大峯奥駈修行の重要寺院のひとつ、大峰山の護持院",
+                "note": [
+                    "予約・問い合わせ先 0747-68-9187"
+                ],
+                "links": [
+                    {
+                        "text": "護法山 喜蔵院",
+                        "url": "https://kizoin.jp/",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "喜蔵院 - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/喜蔵院",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "喜蔵院 - Google マップ",
+                        "url": "https://maps.app.goo.gl/UttWpA7TwZn4cV9S8",
+                        "target": "_blank"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.93910243732893,
+                    34.25461118009093
+                ],
+                "address": "日本 〒638-0431 奈良県吉野郡天川村洞川"
+            },
+            "properties": {
+                "title": "宿坊 龍泉寺",
+                "description": "奈良県天川村（洞川地区）にある真言宗醍醐派の大本山の寺院が管理する宿坊",
+                "note": [
+                    "宿泊料（1泊2食）12,000円 素泊まり料 8,000円（予約・問い合わせ先 0747-68-9184）"
+                ],
+                "links": [
+                    {
+                        "text": "参籠所 | 大峯山 龍泉寺",
+                        "url": "https://ohminesan-ryusenji.or.jp/stay/",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "龍泉寺 (奈良県天川村) - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/龍泉寺_(奈良県天川村)",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "宿坊 龍泉寺 - Google マップ",
+                        "url": "https://maps.app.goo.gl/k95WTJLS2neAK2766",
+                        "target": "_blank"
+                    }
+                ]
+            }
+        }
+    ]
+}

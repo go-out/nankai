@@ -1,0 +1,180 @@
+{
+    "url": "/nankai/?id=shikoku-tokushima",
+    "title": [
+        "Tokushima (Awa), Shikoku",
+        "徳島県（阿波国）"
+    ],
+    "description": "現在の「徳島県」に相当する、大いなる食物の女神「大宜都比売（おおげつひめのかみ）」",
+    "info": {
+        "markdown": "shikoku/tokushima/README.md",
+        "links": [
+            {
+                "text": "阿波国 - Wikipedia",
+                "url": "https://ja.wikipedia.org/wiki/阿波国",
+                "target": "_blank"
+            },
+            {
+                "text": "徳島県 - Wikipedia",
+                "url": "https://ja.wikipedia.org/wiki/徳島県",
+                "target": "_blank"
+            }
+        ]
+    },
+    "map": {
+        "center": [
+            134.3669704017954,
+            33.9710039570122
+        ],
+        "bounds": [
+            [
+                133.63009945538602,
+                33.51997708774735
+            ],
+            [
+                134.88760074251013,
+                34.259851974050065
+            ]
+        ],
+        "zoom": 10
+    },
+    "cover": {
+        "url": null
+    },
+    "eventsJSON": [
+        "shikoku/tokushima/naruto/date.json",
+        "shikoku/tokushima/yoshinogawa/date.json",
+        "shikoku/tokushima/nakata/date.json",
+        "shikoku/tokushima/tsurugi/date.json",
+        "shikoku/tokushima/minami/date.json"
+    ],
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    134.4995789272338,
+                    34.18632384879679
+                ]
+            },
+            "properties": {
+                "title": "鳴門海峡と讃岐山脈",
+                "description": "「鳴門の渦潮」で知られる海峡（日本百景）と、阿波・淡路の総鎮守を祀る霊峰",
+                "note": [
+                    "国産み神話の始まりの地「淡路島」と四国の間にある日本の海の三大難所のひとつ「鳴門（なると）海峡」の西側に位置する京阪神からの玄関口、四国八十八箇所（四国遍路）の起点"
+                ],
+                "links": [
+                    {
+                        "text": "鳴門海峡と讃岐山脈 Tokushima - Kagawa, Shikoku",
+                        "url": "/nankai/?id=shikoku-tokushima&area=naruto",
+                        "target": "_self"
+                    }
+                ],
+                "zoom": 11.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    134.3669704017954,
+                    33.9710039570122
+                ],
+                "address": "徳島県神山町神山町神領字西上角３３０"
+            },
+            "properties": {
+                "title": "神山",
+                "description": "阿波国の国魂神「大宜都比売（おおげつひめ）」が開いた神域（かみやま）",
+                "note": [
+                    "伊勢国丹生の郷（現 三重県多気郡多気町丹生）から馬に乗って阿波国に来た大宜都比売神が、この地に粟を広めたという神域<br>（古来より、阿波の語源ともいわれる「粟生の里」と呼ばれ栄えた地域）"
+                ],
+                "links": [
+                    {
+                        "text": "吉野川 Yoshino-gawa, Tokushima, Shikoku",
+                        "url": "/nankai/?id=shikoku-tokushima&area=yoshinogawa",
+                        "target": "_self"
+                    }
+                ],
+                "zoom": 12
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    134.46006661065235,
+                    34.05997243247097
+                ],
+                "address": "日本 〒779-3127 徳島県徳島市国府町西矢野５３１番地"
+            },
+            "properties": {
+                "title": "徳島（国府・一宮）",
+                "description": "大いなる食物の女神「大宜都比売（おおげつひめ）」の国の中心地",
+                "note": [
+                    "鮎喰川左岸・気延山東側山麓に広がる扇状地と沖積地域には、西日本最大級の縄縄文時代から中世にかけての複合遺跡「矢野遺跡」があり、古代日本において重要な地だったと推測される"
+                ],
+                "links": [
+                    {
+                        "text": "徳島市（名方郡） Tokushima City, Shikoku",
+                        "url": "/nankai/?id=shikoku-tokushima&area=nakata",
+                        "target": "_self"
+                    }
+                ],
+                "zoom": 12
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    134.0946752473302,
+                    33.85406332384264
+                ]
+            },
+            "properties": {
+                "title": "剣山系",
+                "description": "石鎚山に次ぐ西日本第二の高峰、霊峰つるぎと秘境の里（標高約1955m）",
+                "note": [
+                    "北側から至るルートには毎年四月中旬から十一月中旬まで運行する登山リフトが整備されているため、初心者でも1時間ほどで山頂へ到達できる"
+                ],
+                "links": [
+                    {
+                        "text": "剣山系 Mount Tsurugi (Tokushima), Shikoku",
+                        "url": "/nankai/?id=shikoku-tokushima&area=tsurugi",
+                        "target": "_self"
+                    }
+                ],
+                "zoom": 11
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    134.50226434,
+                    33.86280806
+                ]
+            },
+            "properties": {
+                "title": "みなみ阿波",
+                "description": "四国有数の険しい山岳地帯・日本有数の多雨地帯に位置する徳島県南部地域",
+                "links": [
+                    {
+                        "text": "みなみ阿波 Southern Tokushima, Shikoku",
+                        "url": "/nankai/?id=shikoku-tokushima&area=minami",
+                        "target": "_self"
+                    }
+                ],
+                "zoom": 11.5
+            }
+        }
+    ],
+    "lineJSON": [
+        "shikoku/tokushima/yoshinogawa/index.json",
+        "shikoku/dosan.json"
+    ]
+}

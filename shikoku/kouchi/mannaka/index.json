@@ -1,0 +1,629 @@
+{
+    "url": "/nankai/?id=shikoku-kouchi&area=mannaka",
+    "title": [
+        "Kouchi, Shikoku",
+        "高知まんなか"
+    ],
+    "description": "南は太平洋、北・東・西の三方は四国山地に挟まれた狭い地形「高知平地」に広がる高知の中心地",
+    "info": {
+        "markdown": "shikoku/kouchi/mannaka/README.md",
+        "links": [
+            {
+                "text": "土佐国 - Wikipedia",
+                "url": "https://ja.wikipedia.org/wiki/土佐国",
+                "target": "_blank"
+            },
+            {
+                "text": "高知市 - Wikipedia",
+                "url": "https://ja.wikipedia.org/wiki/高知市",
+                "target": "_blank"
+            },
+            {
+                "text": "南国市 - Wikipedia",
+                "url": "https://ja.wikipedia.org/wiki/南国市",
+                "target": "_blank"
+            },
+            {
+                "text": "香美市 - Wikipedia",
+                "url": "https://ja.wikipedia.org/wiki/香美市",
+                "target": "_blank"
+            },
+            {
+                "text": "香南市 - Wikipedia",
+                "url": "https://ja.wikipedia.org/wiki/香南市",
+                "target": "_blank"
+            },
+            {
+                "text": "電車・一般路線バスお得な割引情報 - とさでん交通株式会社",
+                "url": "https://www.tosaden.co.jp/info/waribiki.php",
+                "target": "_blank"
+            }
+        ]
+    },
+    "map": {
+        "center": [
+            133.57700555589463,
+            33.59259722179837
+        ],
+        "bounds": [
+            [
+                133.39691988540972,
+                33.43881587887766
+            ],
+            [
+                134.0876104086472,
+                33.83947116551329
+            ]
+        ],
+        "zoom": 11
+    },
+    "eventsJSON": [
+        "shikoku/kouchi/mannaka/date.json"
+    ],
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    133.7054111,
+                    33.577575
+                ],
+                "address": "〒781-5222 高知県香南市野市町母代寺476番地"
+            },
+            "properties": {
+                "title": "大日寺",
+                "description": "四国八十八箇所第二十八番札所（だいにちじ）",
+                "note": [
+                    "法界山（ほうかいさん）、高照院（こうしょういん）と号す",
+                    "寺伝によれば天平年間（729年 - 749年）に聖武天皇の勅願により、行基が大日如来像を刻んで堂宇を建立して開創したという",
+                    "弘仁6年（815年）に空海が楠の大木に爪で薬師如来像を彫って荒廃していた本寺を復興",
+                    "土佐くろしお鉄道ごめん・なはり線 - のいち駅下車 (2.0 km)"
+                ],
+                "links": [
+                    {
+                        "text": "大日寺 (香南市) - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/大日寺_(香南市)",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "28番 大日寺 - Google マップ",
+                        "url": "https://maps.app.goo.gl/XZjAinjpnsBcJE5o9",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 17
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    133.6404417,
+                    33.5986639
+                ],
+                "address": "〒783-0053 高知県南国市国分546番地"
+            },
+            "properties": {
+                "title": "国分寺",
+                "description": "四国八十八箇所二十九番札所（とさ こくぶんじ）",
+                "note": [
+                    "摩尼山（まにざん）、宝蔵院（ほうぞういん）と号す",
+                    "聖武天皇が発した「国分寺建立の詔」により全国に建立された国分寺（金光明四天王護国之寺）の一つ",
+                    "周辺は古代から中世まで土佐国の国府の所在地（国府の中心である国庁は国分寺から徒歩15分の位置にあり、かつてその近くにあった土佐国総社は現在当寺境内に移されている）",
+                    "四国旅客鉄道（JR四国） 土讃線「後免駅」下車 (3.0 km)<br>南国市コミュニティバス「国分寺通」下車 (0.5 km)"
+                ],
+                "links": [
+                    {
+                        "text": "土佐国分寺 - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/土佐国分寺",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "国分寺 - Google マップ",
+                        "url": "https://maps.app.goo.gl/n95aPXEQ7FRVDdGR8",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 17
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    133.61956531509782,
+                    33.59236833558106
+                ],
+                "address": "日本 〒783-0047 高知県南国市岡豊町常通寺島６１８番地"
+            },
+            "properties": {
+                "title": "豊岡上天神社",
+                "description": "当地の開拓にあたり農業神の豊宇気姫命（豊受姫命）を奉斎したことに始まるといわれる"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    133.601583707396,
+                    33.58823186860073
+                ],
+                "address": "日本 〒781-5101 高知県高知市布師田１３５８番地"
+            },
+            "properties": {
+                "title": "葛木男神社・葛木咩神社",
+                "description": "元は両社とも現社地の南東方（現・字下附の集落南方）において同じ境内に鎮座したが、葛木咩神社は東南方に移り、葛木男神社も国分川の増水を避け北西方の現在地に移ったという"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    133.5774944,
+                    33.5919139
+                ],
+                "address": "〒781-8131 高知県高知市一宮しなね2丁目23番11号"
+            },
+            "properties": {
+                "title": "善楽寺",
+                "description": "四国八十八箇所第三十番札所（ぜんらくじ）",
+                "note": [
+                    "百々山（どどさん）、東明院（とうみょういん）と号す",
+                    "寺伝によれば、大同5年（810年）空海（弘法大師）が高鴨大明神（土佐国一宮で現在の土佐神社）の別当寺として、神宮寺とともに創建したといわれている"
+                ],
+                "links": [
+                    {
+                        "text": "善楽寺 - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/善楽寺",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "善楽寺 - Google マップ",
+                        "url": "https://maps.app.goo.gl/t3EhNqA4evLrU9rT7",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 17
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    133.57700555589463,
+                    33.59259722179837
+                ],
+                "address": "高知県高知市一宮２４９９"
+            },
+            "properties": {
+                "title": "土佐神社",
+                "description": "土佐国の総鎮守として崇敬される高知県を代表する神社",
+                "note": [
+                    "主祭神であるアヂスキタカヒコネは、賀茂氏の氏神とされる",
+                    "（賀茂氏の一族は、摂津国三嶋県（大阪府北部）から阿波国を経て土佐に土着したと考えられる）"
+                ],
+                "links": [
+                    {
+                        "text": "土佐神社 - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/土佐神社",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "土佐一ノ宮 土佐神社 - Google マップ",
+                        "url": "https://maps.app.goo.gl/k4BYeHb9A6z9i5Xc7",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 17
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    133.5773444,
+                    33.5465778
+                ],
+                "address": "〒781-8125 高知県高知市五台山3577番地"
+            },
+            "properties": {
+                "title": "竹林寺",
+                "description": "四国八十八箇所第三十一番札所（ちくりんじ）",
+                "note": [
+                    "五臺山（ごだいさん）、金色院（こんじきいん）と号す",
+                    "切戸文殊・安倍文殊とともに日本三文殊の一つに数えられる",
+                    "境内には、鎌倉時代後期に作庭された重要文化財である庭園がある",
+                    "MY遊バス 「竹林寺前」下車 (0.1 km) <br>とさでん交通 前浜・パークタウン線「五台山農協前」「坂本前」下車"
+                ],
+                "links": [
+                    {
+                        "text": "竹林寺 (高知市) - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/竹林寺_(高知市)",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "竹林寺 - Google マップ",
+                        "url": "https://maps.app.goo.gl/VKLuKkRTuP5wECou5",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 17
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    133.61140023681088,
+                    33.52672904701126
+                ],
+                "address": "日本 〒783-0085 高知県南国市十市３０８４番地"
+            },
+            "properties": {
+                "title": "禅師峰寺",
+                "description": "四国八十八箇所第三十二番札所（ぜんじぶじ）",
+                "note": [
+                    "八葉山（はちようざん）、求聞持院（ぐもんじいん）と号す",
+                    "地元では、峰寺（みねんじ、みねじ）と呼ばれることが多く、山上からは土佐湾が一望できる",
+                    "南国市コミュニティバス 「峰寺通」下車 (0.8 km)、とさでん交通前浜パークタウン線「緑ヶ丘三丁目」下車(1.9km)"
+                ],
+                "links": [
+                    {
+                        "text": "禅師峰寺 - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/禅師峰寺",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "禅師峰寺 - Google マップ",
+                        "url": "https://maps.app.goo.gl/tfJvtNMHrqynMnnx8",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 17
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    133.54310987904114,
+                    33.50083528211435
+                ],
+                "address": "日本 〒781-0270 高知県高知市長浜８５７番地３"
+            },
+            "properties": {
+                "title": "雪蹊寺",
+                "description": "四国八十八箇所第三十三番札所（せっけいじ）",
+                "note": [
+                    "高福山（こうふくざん）、幸福院（こうふくいん）と号す",
+                    "寺伝によれば空海（弘法大師）の開基で、創建当初は真言宗に属し、「少林山高福寺」と称したという",
+                    "とさでん交通 長浜行き・桂浜行き「長浜」下車 (0.3 km)"
+                ],
+                "links": [
+                    {
+                        "text": "雪蹊寺 - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/雪蹊寺",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "雪蹊寺 - Google マップ",
+                        "url": "https://maps.app.goo.gl/oyPNDVvqpomJGKV97",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 17
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    133.48759084466457,
+                    33.49172430561467
+                ],
+                "address": "日本 〒781-0321 高知県高知市春野町秋山７２番地１"
+            },
+            "properties": {
+                "title": "種間寺",
+                "description": "四国八十八箇所第三十四番札所（たねまじ）",
+                "note": [
+                    "本尾山（もとおざん）、朱雀院（すざくいん）と号す",
+                    "安産祈願の寺",
+                    "とさでん交通 「春野庁舎前」下車 (0.8 km)"
+                ],
+                "links": [
+                    {
+                        "text": "種間寺 - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/種間寺",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "種間寺 - Google マップ",
+                        "url": "https://maps.app.goo.gl/oETKhsdYmmGLWPSBA",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 17
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    133.48168207571075,
+                    33.55344995281342
+                ],
+                "address": "日本 〒780-8063 高知県高知市朝倉丙２１００番地イ"
+            },
+            "properties": {
+                "title": "朝倉神社",
+                "description": "神社後背の赤鬼山（あかぎやま）が神奈備山、土佐国二宮を称する朝倉郷の開拓神（あさくら）",
+                "note": [
+                    "赤鬼山山頂への登り口は境内西方約500メートルに所在"
+                ],
+                "links": [
+                    {
+                        "text": "朝倉神社 (高知市) - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/朝倉神社_(高知市)",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "朝倉神社 - Google マップ",
+                        "url": "https://maps.app.goo.gl/27dQwu7h2cxsTJHk7",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 17
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    133.49913195016558,
+                    33.55187033788029
+                ],
+                "address": "日本 〒780-8051 高知県高知市鴨部上町５番８号"
+            },
+            "properties": {
+                "title": "郡頭神社",
+                "description": "鴨部一帯に居住した鴨氏・鴨部氏（賀茂氏の部民）が、祖先神として大国主命を祀ったのが当社の創祀といわれる"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    133.55298558,
+                    33.57938443
+                ],
+                "address": "薊野北町1-10-3"
+            },
+            "properties": {
+                "title": "沢田マンション",
+                "description": "アマチュア建築家が建てた風変わりな建築物",
+                "note": [
+                    "増築に増築を重ねた外観から、軍艦島と並んで「日本の九龍城」とも呼ばれ、建築物探訪の名所のひとつとして知られる"
+                ],
+                "links": [
+                    {
+                        "text": "沢田マンション - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/沢田マンション",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "沢田マンション - Google マップ",
+                        "url": "https://maps.app.goo.gl/XZGChTE1yeuFwQSk8",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 17
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    133.6105195,
+                    33.55875497
+                ],
+                "address": "介良乙1927"
+            },
+            "properties": {
+                "title": "朝峯神社",
+                "description": "秋祭 （10月第3日曜） - 祭礼は高知市指定無形民俗文化財"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    133.74505833307902,
+                    33.60336666663488
+                ],
+                "address": "高知県香美市土佐山田町逆川1424"
+            },
+            "properties": {
+                "title": "龍河洞",
+                "description": "日本三大鍾乳洞の1つに数えられる鍾乳洞",
+                "note": [
+                    "国の天然記念物および国の史跡、日本の地質百選",
+                    "JR土讃線の土佐山田駅からとさでん交通「龍河洞」行きバスで20分、終点下車、徒歩直ぐ"
+                ],
+                "links": [
+                    {
+                        "text": "龍河洞 - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/龍河洞",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "龍河洞 - Google マップ",
+                        "url": "https://maps.app.goo.gl/UYEM4b7NFgkE7cVF6",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 15.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    133.78391388886504,
+                    33.64986388842265
+                ],
+                "address": "高知県香美市香北町韮生野243-イ"
+            },
+            "properties": {
+                "title": "大川上美良布神社",
+                "description": "十一月三日 高知県指定無形民俗文化財「御神幸（おなばれ）」が行われる",
+                "note": [
+                    "JR土佐山田駅よりバスで約25分"
+                ],
+                "links": [
+                    {
+                        "text": "大川上美良布神社 - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/大川上美良布神社",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "大川上美良布神社 - Google マップ",
+                        "url": "https://maps.app.goo.gl/DMW5FWiF53Sabbk87",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 17
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    133.74029688,
+                    33.58291385
+                ],
+                "address": "高知県香南市香我美町山北4071"
+            },
+            "properties": {
+                "title": "浅上王子宮",
+                "description": "十一月十八日 高知県指定保護無形民俗文化財「棒踊」が奉納される",
+                "note": [
+                    "__"
+                ],
+                "links": [
+                    {
+                        "text": "浅上王子宮 - Google マップ",
+                        "url": "https://maps.app.goo.gl/UgMScXnnRXmeUutk7",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 17
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    133.7606532661698,
+                    33.544680672714165
+                ],
+                "address": "日本 〒781-5603 高知県香南市夜須町西山２５４番地"
+            },
+            "properties": {
+                "title": "西山八幡宮",
+                "description": "神無月のお立ちの宵、高知県指定保護無形民俗文化財「手結のつんつく踊り」が奉納される",
+                "note": [
+                    "__"
+                ],
+                "links": [
+                    {
+                        "text": "夜須大宮八幡宮 - Google マップ",
+                        "url": "https://maps.app.goo.gl/KW5RDhuLDisHXSfy7",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 17
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    133.75456322275545,
+                    33.52082976528237
+                ],
+                "address": "日本 〒781-5622 高知県香南市夜須町手結山１７５８番地"
+            },
+            "properties": {
+                "title": "八大龍王宮",
+                "description": "旧暦九月二十六日 高知県指定保護無形民俗文化財「手結のつんつく踊り」が踊られる",
+                "note": [
+                    "__"
+                ],
+                "links": [
+                    {
+                        "text": "八大龍王宮 - Google マップ",
+                        "url": "https://maps.app.goo.gl/PFmtJQVwNyEjjym69",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 17
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    133.7524388888147,
+                    33.5343388888571
+                ],
+                "address": "高知県香南市夜須町坪井"
+            },
+            "properties": {
+                "title": "ヤ・シィパーク",
+                "description": "ごめんなはり線夜須駅に隣接し、道の駅もある複合施設",
+                "note": [
+                    "毎年8月15日 高知県指定保護無形民俗文化財「手結盆踊り」が行われる"
+                ],
+                "links": [
+                    {
+                        "text": "株式会社ヤ・シィ｜ヤ・シィパーク｜道の駅やす",
+                        "url": "https://yasea.jp/",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "ヤ・シィパーク／香南市",
+                        "url": "https://www.city.kochi-konan.lg.jp/soshikikarasagasu/shokokankoka/kankojoho/5/2586.html",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "ヤ・シィパーク - Google マップ",
+                        "url": "https://maps.app.goo.gl/mx1EuQNgRU5bNuev8",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 15
+            }
+        }
+    ]
+}

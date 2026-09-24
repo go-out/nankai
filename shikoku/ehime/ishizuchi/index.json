@@ -1,0 +1,275 @@
+{
+    "url": "/nankai/?id=shikoku-ehime&area=ishizuchi",
+    "title": [
+        "Mount Ishizuchi, Shikoku",
+        "石鎚山系"
+    ],
+    "description": "山岳信仰（修験道）の山として知られる西日本の最高峰、伊予の高嶺（いしづちさん、標高約1982m）を代表とする山脈",
+    "info": {
+        "markdown": "shikoku/ehime/ishizuchi/README.md",
+        "links": [
+            {
+                "text": "石鎚山系公式WEBサイト | 石鎚山系連携事業協議会",
+                "url": "https://ishizuchisankei.com/",
+                "target": "_blank"
+            },
+            {
+                "text": "いしづちジャーニー｜いしづちエリアの観光プログラムガイド",
+                "url": "https://ishizuchijourney.com/",
+                "target": "_blank"
+            },
+            {
+                "text": "石鎚山 - Wikipedia",
+                "url": "https://ja.wikipedia.org/wiki/石鎚山",
+                "target": "_blank"
+            }
+        ]
+    },
+    "map": {
+        "center": [
+            133.11508981950783,
+            33.7677444407491
+        ],
+        "bounds": [
+            [
+                132.8844309344018,
+                33.61842944504704
+            ],
+            [
+                133.5331888697915,
+                34.011147055256444
+            ]
+        ],
+        "zoom": 11
+    },
+    "cover": {
+        "url": null
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    133.13328888893128,
+                    33.79490555551317
+                ],
+                "address": "愛媛県西条市西之川丁"
+            },
+            "properties": {
+                "title": "山頂成就駅",
+                "description": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    133.1285756646202,
+                    33.79023493690357
+                ],
+                "address": "日本 〒799-1112 愛媛県西条市小松町石鎚４２２番地"
+            },
+            "properties": {
+                "title": "石鎚神社 中宮",
+                "description": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    133.15084259,
+                    33.7485047
+                ],
+                "address": "Wakayama"
+            },
+            "properties": {
+                "title": "石鎚スカイライン",
+                "description": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    133.07684257258683,
+                    33.68283652041745
+                ],
+                "address": "日本 〒791-1709 愛媛県上浮穴郡久万高原町相の木２６番地"
+            },
+            "properties": {
+                "title": "おもごふるさとの駅",
+                "description": "1,000円/1日 ※保証金 E-Bike2,000円、クロスバイク1,000 円（自転車返却時に返金）"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    133.01328918717275,
+                    33.76745442844468
+                ],
+                "address": "日本 〒791-0323 愛媛県東温市明河"
+            },
+            "properties": {
+                "title": "滑川渓谷",
+                "description": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    133.06692119210334,
+                    33.7562627071467
+                ],
+                "address": "日本 〒791-0543 愛媛県西条市丹原町明河"
+            },
+            "properties": {
+                "title": "堂ヶ森",
+                "description": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    133.1875777777036,
+                    33.912491667005746
+                ],
+                "address": "愛媛県西条市大町福森"
+            },
+            "properties": {
+                "title": "伊予西条駅",
+                "description": "西条駅前 バス西之川線西之川（ロープウェイ 経由）"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    133.19319437800266,
+                    33.79455959569657
+                ],
+                "address": "日本 〒793-0216 愛媛県西条市東之川甲"
+            },
+            "properties": {
+                "title": "瓶ヶ森",
+                "description": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    133.24613055547078,
+                    33.78894999980926
+                ],
+                "address": "高知県"
+            },
+            "properties": {
+                "title": "伊予富士",
+                "description": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    133.30769426,
+                    33.77971446
+                ],
+                "address": "いの町桑瀬225-16"
+            },
+            "properties": {
+                "title": "道の駅木の香温泉",
+                "description": "営業時間 9：00～17：00 \n料金1,000円/1日 台数等 クロスバイク 2台 ※要予約"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    133.26166144,
+                    33.81167059
+                ],
+                "address": "愛媛県西条市藤之石丁"
+            },
+            "properties": {
+                "title": "寒風山",
+                "description": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    133.27472011,
+                    33.82840938
+                ],
+                "address": "いの町"
+            },
+            "properties": {
+                "title": "笹ヶ峰",
+                "description": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    133.32638043,
+                    33.81470236
+                ],
+                "address": "高知県吾川郡いの町足谷"
+            },
+            "properties": {
+                "title": "平家平",
+                "description": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    133.39418762,
+                    33.82092525
+                ],
+                "address": "土佐郡"
+            },
+            "properties": {
+                "title": "大座礼山",
+                "description": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    133.3093919,
+                    33.9013077
+                ],
+                "address": "愛媛県新居浜市立川町707-3"
+            },
+            "properties": {
+                "title": "マイントピア別子",
+                "description": ""
+            }
+        }
+    ]
+}

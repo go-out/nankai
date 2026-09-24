@@ -1,0 +1,26 @@
+{
+    "events": [
+        {
+            "date": {
+                "month": 8,
+                "date": [
+                    13,
+                    14
+                ]
+            },
+            "title": [
+                "青島の盆踊り",
+                "青島"
+            ],
+            "note": [
+                "August 13 and 14 every year",
+                "毎年 八月十三・十四日"
+            ],
+            "description": "愛媛県指定無形民俗文化財",
+            "info": {
+                "markdown": "shikoku/ehime/iyo/aoshima-bonodori.md",
+                "links": null
+            }
+        }
+    ]
+}

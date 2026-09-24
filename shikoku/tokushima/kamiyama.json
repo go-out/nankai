@@ -1,0 +1,48 @@
+{
+    "url": "/nankai/?id=shikoku-tokushima&name=kamiyama",
+    "title": [
+        "Kamiyama, Tokushima, Shikoku",
+        "神山"
+    ],
+    "description": "阿波国の国魂神「大宜都比売（おおげつひめ）」が開いた神域（かみやま）",
+    "info": {
+        "note": [
+            "徳島県のほぼ中央、大宜都比売命によって早くから開かれたという伝説がある",
+            "大粟谷と呼ばれていたが、その開耕地は神領として耕作され、未開の山地は「神山」と呼ばれていたことが地名の由来"
+        ],
+        "links": [
+            {
+                "text": "神山町 - Wikipedia",
+                "url": "https://ja.wikipedia.org/wiki/神山町",
+                "target": "_blank"
+            },
+            {
+                "text": "神山を知る・楽しむ | 神山町役場",
+                "url": "https://www.town.kamiyama.lg.jp/enjoy/",
+                "target": "_blank"
+            }
+        ]
+    },
+    "map": {
+        "center": [
+            134.3669704017954,
+            33.9710039570122
+        ],
+        "bounds": [
+            [
+                134.21855378145239,
+                33.897536937663276
+            ],
+            [
+                134.4626744271339,
+                34.03781324623276
+            ]
+        ],
+        "zoom": 12
+    },
+    "cover": {
+        "url": null
+    },
+    "features": [
+    ]
+}

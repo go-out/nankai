@@ -1,0 +1,557 @@
+{
+	"url": "/nankai/?id=kii&area=wakayama",
+	"title": [
+		"Wakayama City, Wakayama",
+		"和歌山市（名草・和歌浦）"
+	],
+	"description": "和歌に詠まれるほど風光明媚な絶景の宝庫\n日本神話では「常世の国」への入口とされる神域",
+	"info": {
+		"markdown": "kii/wakayama/README.md",
+		"links": [
+			{
+				"text": "日本遺産 絶景の宝庫 和歌の浦 | オフィシャルサイト",
+				"url": "https://wakanoura-nihonisan.jp/",
+				"target": "_blank"
+			},
+			{
+				"text": "和歌の浦観光協会 | 和歌山県 和歌山市",
+				"url": "https://www.wakaura-kanko.com/",
+				"target": "_blank"
+			},
+			{
+				"text": "和歌山市 - Wikipedia",
+				"url": "https://ja.wikipedia.org/wiki/和歌山市",
+				"target": "_blank"
+			},
+			{
+				"text": "和歌浦 - Wikipedia",
+				"url": "https://ja.wikipedia.org/wiki/和歌浦",
+				"target": "_blank"
+			},
+			{
+				"text": "名草郡 - Wikipedia",
+				"url": "https://ja.wikipedia.org/wiki/名草郡",
+				"target": "_blank"
+			},
+			{
+				"text": "三社参り - Wikipedia",
+				"url": "https://ja.wikipedia.org/wiki/三社参り",
+				"target": "_blank"
+			},
+			{
+				"text": "都麻都比売神社 - Wikipedia",
+				"url": "https://ja.wikipedia.org/wiki/都麻都比売神社",
+				"target": "_blank"
+			},
+			{
+				"text": "和歌山観光デジタルきっぷ | 南海電鉄",
+				"url": "https://www.nankai.co.jp/traffic/digital/kwakayama_kanko.html",
+				"target": "_blank"
+			},
+			{
+				"text": "わかやま交通案内 | 和歌山バス",
+				"url": "https://transfer-cloud.navitime.biz/wakayamabus",
+				"target": "_blank"
+			},
+			{
+				"text": "お得な乗車券 | 和歌山バス株式会社",
+				"url": "https://www.wakayamabus.co.jp/ticket/",
+				"target": "_blank"
+			}
+		]
+	},
+	"map": {
+		"center": [
+			135.1760270954975,
+			34.18555324438208
+		],
+		"bounds": [
+			[
+				135.12583329874883,
+				34.147020017391455
+			],
+			[
+				135.33917469461306,
+				34.32603775789553
+			]
+		],
+		"zoom": 12.25
+	},
+	"cover": {
+		"directory": "https://archive.org/download/kii-wakayama/kii-wakayama.thumbs/",
+		"url": [
+			"20260517/001_000005.jpg",
+			"20260517/001_000020.jpg",
+			"20260517/003_000015.jpg",
+			"20260517/023_000025.jpg",
+			"20260517/032_000015.jpg",
+			"20260517/037_000020.jpg"
+		]
+	},
+	"events": [
+		{
+			"month": [
+				11,
+				12
+			],
+			"title": [
+				"紅葉",
+				"和歌山市"
+			],
+			"description": "和歌山城 - 紀三井寺 - 和歌浦",
+			"note": [
+				"Late November - Early December every year",
+				"例年 十一月下旬から十二月上旬"
+			],
+			"info": {
+				"markdown": "kii/koyo.md",
+				"links": [
+					{
+						"text": "和歌浦 Waka no Ura",
+						"url": "../date/?map=kii-wakayama&name=waka-no-ura",
+						"target": "_self"
+					}
+				]
+			}
+		}
+	],
+	"eventsJSON": [
+		"kii/wakayama/date.json",
+		"kii/wakayama/waka-no-ura.json",
+		"kii/wakayama/nagusa-yama.json",
+		"kii/wakayama/ita-kiso-3.json"
+	],
+	"features": [
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					135.1666025982227,
+					34.235911808242804
+				]
+			},
+			"properties": {
+				"title": "南海和歌山市駅",
+				"description": "大阪（なんば・天下茶屋・住吉大社）方面からのアクセス拠点",
+				"note": [
+					"南海電気鉄道の南海本線と和歌山港線のほか、JR西日本の紀勢本線が乗り入れるターミナル駅",
+					"2020年には、和歌山の特産品などを販売するスーパーや和歌山市民図書館などからなる複合施設「キーノ和歌山」を併設"
+				],
+				"links": [
+					{
+						"text": "南海和歌山市駅 - Google マップ",
+						"url": "https://maps.app.goo.gl/9EWij996GPk1MXF86",
+						"target": "_blank"
+					}
+				],
+				"zoom": 16
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					135.17570056599612,
+					34.18476937795968
+				]
+			},
+			"properties": {
+				"title": "和歌浦",
+				"description": "万葉のころから名勝で名高い、和歌山という地名の由来となった海岸部（国の名勝・日本遺産）",
+				"note": [
+					"潮の満ち引きによってその姿を変える干潟は、多様な生き物たちの楽園",
+					"干潟に浮かぶ岩山「玉津島」は、和歌の名人・和歌の神「衣通姫」が祀られる和歌の聖地として崇められている",
+					"（朝と夕の満潮時に干潟から鳥が飛び立つ様、入り江を取り巻く山の緑・紅葉や寺社が見どころ）",
+					"<u>アクセス</u><br>南海和歌山市駅・ＪＲ和歌山駅から和歌山バスが運行"
+				],
+				"links": [
+					{
+						"text": "和歌浦 Waka no Ura",
+						"url": "/nankai/?id=kii-wakayama&name=waka-no-ura",
+						"target": "_self"
+					}
+				],
+				"archive": [
+					{
+						"year": 2026,
+						"month": 5,
+						"date": [
+							17
+						],
+						"title": null,
+						"identifier": "kii-wakayama",
+						"count": 3,
+						"formats": ".ia.mp4",
+						"files": [
+							"20260517/008",
+							"20260517/010",
+							"20260517/014",
+							"20260517/017",
+							"20260517/028",
+							"20260517/033"
+						],
+						"cover": "20260517/032_000015.jpg"
+					}
+				],
+				"zoom": 14
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					135.19557590555894,
+					34.18444233792762
+				]
+			},
+			"properties": {
+				"title": "名草山",
+				"description": "和歌山市の象徴、神話にも記述される神奈備山（なぐさやま、標高約228m）",
+				"note": [
+					"登山道の起点は、東方の「紀三井寺」「高皇神社」、北方の「はさみ池（竈山神社）」・南方の「内原神社」など多数"
+				],
+				"links": [
+					{
+						"text": "名草山 Mt. Nagusa",
+						"url": "/nankai/?id=kii-wakayama&name=nagusa-yama",
+						"target": "_self"
+					}
+				],
+				"zoom": 14
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					135.24993611123824,
+					34.201713888910085
+				]
+			},
+			"properties": {
+				"title": "伊太祁曽三神",
+				"description": "紀伊国（木の国）の由来となった神々",
+				"note": [
+					"五十猛神（イタケルノミコト/イソタケルノミコト）は、木の神・林業の神として信仰される、イザナギ・イザナミの子であるスサノオの子",
+					"オオヤツヒメ・ツマツヒメ（大屋津姫命、枛津姫命）は、五十猛神の妹にあたり、スサノオの命により五十猛命と共に全国の山々に木種を撒いた樹木の女神",
+					"以上三柱の神々は、紀伊国（かつては「木の国」と言った）の国魂神「伊太祁曽三神（いたきそさんしん）」と総称され、紀伊国一宮「伊太祁曽神社」などに祀られている"
+				],
+				"links": [
+					{
+						"text": "伊太祁曽三神 いたきそさんしん",
+						"url": "/nankai/?id=kii-wakayama&name=ita-kiso-3",
+						"target": "_self"
+					}
+				],
+				"zoom": 13
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					135.2024388888147,
+					34.227938889397514
+				],
+				"address": "和歌山県和歌山市秋月３６５"
+			},
+			"properties": {
+				"title": "日前神宮・國懸神宮",
+				"description": "神宮内宮にある「八咫鏡（天照大御神の御神体）」に先立って造られた「日像鏡・日矛鏡（ひがたのかがみ・ひぼこのかがみ）」が御神体（紀伊国一宮）",
+				"note": [
+					"大和国への東の出口「伊勢国」に対する西の出口「紀伊國」の一宮",
+					"古来より伊勢神宮とほぼ同等の力を持っていたといわれている特別な神社（現在は神社本庁などの包括宗教法人に属さない単立神社）",
+					"境内には二つの神社（入口から向かって左が「日前（ひのくま）」・右が「國懸（くにかかす）」）があり、総称して「日前宮（にちぜんぐう）あるいは名草宮」とも呼ばれる",
+					"（当初は名草郡毛見郷浜宮に祀られ、垂仁天皇16年（3世紀後半から4世紀前半頃）に、かつて伊太祁曽神社があった現在地に遷座したと伝わる）"
+				],
+				"links": [
+					{
+						"text": "和歌山市内の由緒ある神社、日前神宮・國懸神宮【公式サイト】",
+						"url": "https://hinokuma-jingu.com/",
+						"target": "_blank"
+					},
+					{
+						"text": "日前神宮・國懸神宮 - Wikipedia",
+						"url": "https://ja.wikipedia.org/wiki/日前神宮・國懸神宮",
+						"target": "_blank"
+					},
+					{
+						"text": "日前神宮・國懸神宮 - Google マップ",
+						"url": "https://maps.app.goo.gl/eeFdGneBEx2wiLrPA",
+						"target": "_blank"
+					}
+				],
+				"archive": [
+					{
+						"year": 2026,
+						"month": 5,
+						"date": [
+							17
+						],
+						"title": null,
+						"identifier": "kii-wakayama",
+						"count": 2,
+						"formats": ".ia.mp4",
+						"files": [
+							"20260517/nichizen-hama/001",
+							"20260517/nichizen-hama/002",
+							"20260517/nichizen-hama/003",
+							"20260517/nichizen-hama/004"
+						],
+						"cover": "20260517/nichizen-hama/004_000001.jpg"
+					}
+				],
+				"zoom": 16
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					135.18567073835544,
+					34.16105927374123
+				],
+				"address": "和歌山県和歌山市毛見1303"
+			},
+			"properties": {
+				"title": "濱宮",
+				"description": "日前神宮・國懸神宮（日前宮）の旧鎮座地・元摂社（はまのみや）",
+				"note": [
+					"元伊勢（神宮元宮）のひとつ「奈久佐浜宮（なぐさのはまのみや）」の比定地にあたる、古くは「名草の浜」と呼ばれた地",
+					"（日前・國懸が初めて鎮座した浜の周辺は埋め立てられ、現在は住友金属の工場・関西電力の発電所、マリーナシティなどが立地する）",
+					"鳥居に東川の山道は、「城ヶ峰 - 船尾山」登山道の起点・西側（海側）の駐車場の奥には、濱宮の奥にある山（奥宮）への登拝口がある"
+				],
+				"links": [
+					{
+						"text": "濱宮 - Wikipedia",
+						"url": "https://ja.wikipedia.org/wiki/濱宮",
+						"target": "_blank"
+					},
+					{
+						"text": "濱宮 (伝･元伊勢 紀伊国 奈久佐濱宮) - Google マップ",
+						"url": "https://maps.app.goo.gl/zwrqhkNNRisHiTYM9",
+						"target": "_blank"
+					}
+				],
+				"archive": [
+					{
+						"year": 2026,
+						"month": 5,
+						"date": [
+							17
+						],
+						"title": null,
+						"identifier": "kii-wakayama",
+						"count": 3,
+						"formats": ".ia.mp4",
+						"files": [
+							"20260517/nichizen-hama/005",
+							"20260517/nichizen-hama/006",
+							"20260517/nichizen-hama/007",
+							"20260517/nichizen-hama/008"
+						],
+						"cover": "20260517/nichizen-hama/008_000010.jpg"
+					}
+				],
+				"zoom": 17
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					135.19272084656984,
+					34.16535437650326
+				],
+				"address": " 和歌山県和歌山市毛見501"
+			},
+			"properties": {
+				"title": "市幸すし",
+				"description": " 紀三井寺団地で長く愛される老舗の鮨店と日本料理店（いちこう）",
+				"note": [
+					"営業時間 11:00 - 22:00 | 定休日木曜日"
+				],
+				"links": [
+					{
+						"text": "市幸 - Google マップ",
+						"url": "https://maps.app.goo.gl/75XQ4mdQfYJNHYUZ6",
+						"target": "_blank"
+					}
+				],
+				"zoom": 17.5
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					135.1755644452877,
+					34.154683463354615
+				]
+			},
+			"properties": {
+				"title": "和歌山マリーナシティ",
+				"description": "魚市場・地元の青果を販売する店、テーマパーク・温泉を備えたマリーナ",
+				"note": null,
+				"links": [
+					{
+						"text": "和歌山マリーナシティ - Google マップ",
+						"url": "https://maps.app.goo.gl/WegLnt63AQQjsqz9A",
+						"target": "_blank"
+					}
+				],
+				"zoom": 15
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					135.19471238246223,
+					34.157901419994616
+				]
+			},
+			"properties": {
+				"title": "温山荘園",
+				"description": "紀州の名園として名高い国名勝指定庭園・重要文化財指定建造物",
+				"note": [
+					"開園時間 9 - 17時 | 休業日 月曜日・12月1日 - 2月末"
+				],
+				"links": [
+					{
+						"text": "琴ノ浦 温山荘園 - 国名勝指定庭園 重要文化財指定建造物",
+						"url": "https://www.onzanso.or.jp/",
+						"target": "_blank"
+					},
+					{
+						"text": "温山荘園 - Wikipedia",
+						"url": "https://ja.wikipedia.org/wiki/温山荘園",
+						"target": "_blank"
+					},
+					{
+						"text": "琴ノ浦温山荘園 - Google マップ",
+						"url": "https://maps.app.goo.gl/RJ1jDFwcqszKyd269",
+						"target": "_blank"
+					}
+				],
+				"zoom": 16
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					135.1713972933331,
+					34.227651172366066
+				]
+			},
+			"properties": {
+				"title": "和歌山城",
+				"description": "徳川御三家の一つ紀州藩紀州徳川家の居城",
+				"note": null,
+				"links": [
+					{
+						"text": "和歌山城 - Wikipedia",
+						"url": "https://ja.wikipedia.org/wiki/和歌山城",
+						"target": "_blank"
+					},
+					{
+						"text": "和歌山城 - Google マップ",
+						"url": "https://maps.app.goo.gl/iPcFsGLcsvq7YnN3A",
+						"target": "_blank"
+					}
+				],
+				"zoom": 15
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					135.18725176584906,
+					34.23159845128538
+				]
+			},
+			"properties": {
+				"title": "ドーミーインPREMIUM和歌山",
+				"description": "天然温泉「紀州の湯」を備えるドーミーインチェーンのホテル",
+				"note": null,
+				"links": [
+					{
+						"text": "【公式】ドーミーインPREMIUM和歌山",
+						"url": "https://dormy-hotels.com/dormyinn/hotels/wakayama/",
+						"target": "_blank"
+					},
+					{
+						"text": "ドーミーインPREMIUM和歌山 - Google マップ",
+						"url": "https://maps.app.goo.gl/jCWQraAhou6pHoxbA",
+						"target": "_blank"
+					}
+				],
+				"zoom": 17.5
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					135.19042420767977,
+					34.23204319562629
+				]
+			},
+			"properties": {
+				"title": "JR和歌山駅",
+				"description": "JR・和歌山電鐵の玄関口・ターミナル駅、駅ビル「和歌山MIO」「近鉄百貨店」がある西口は和歌山市の中心部",
+				"note": [
+					"JR和歌山駅すぐの地下道に、普通自転車・スポーツタイプ・電動アシスト自転車を貸出する観光案内所がある<br>営業時間 9:00 - 18:00（日祝は9:00 - 17:00）"
+				],
+				"links": [
+					{
+						"text": "和歌山駅 - Wikipedia",
+						"url": "https://ja.wikipedia.org/wiki/和歌山駅",
+						"target": "_blank"
+					},
+					{
+						"text": "観光交流センター - Google マップ",
+						"url": "https://maps.app.goo.gl/E4EJpyUkaBbhYQvS6",
+						"target": "_blank"
+					}
+				],
+				"archive": [
+					{
+						"year": 2026,
+						"month": 5,
+						"date": [
+							17
+						],
+						"title": null,
+						"identifier": "kii-wakayama",
+						"count": 1,
+						"formats": ".ia.mp4",
+						"files": [
+							"20260517/1000"
+						],
+						"cover": "20260517/1000_000010.jpg"
+					}
+				],
+				"zoom": 17
+			}
+		}
+	],
+	"lineJSON": [
+		"kii/wakayama/ita-kiso-3.json",
+		"kii/awashima.json"
+	]
+}

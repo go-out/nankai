@@ -1,0 +1,243 @@
+{
+    "url": "/nankai/?id=shikoku-ehime&area=iyo",
+    "title": [
+        "Ehime (Iyo), Shikoku",
+        "伊予国（伊予市・伊予郡）"
+    ],
+    "description": "うるわしく美しい女性、伊予（豫）の国魂神「愛比売命（えひめのみこと）」の国（いよ）",
+    "info": {
+        "markdown": "shikoku/ehime/iyo/README.md",
+        "links": [
+            {
+                "text": "伊予市色々| 愛媛県伊予市観光公式Webサイト",
+                "url": "https://iyokankou.jp/",
+                "target": "_blank"
+            },
+            {
+                "text": "伊予国 - Wikipedia",
+                "url": "https://ja.wikipedia.org/wiki/伊予国",
+                "target": "_blank"
+            },
+            {
+                "text": "伊予郡 - Wikipedia",
+                "url": "https://ja.wikipedia.org/wiki/伊予郡",
+                "target": "_blank"
+            },
+            {
+                "text": "伊予市 - Wikipedia",
+                "url": "https://ja.wikipedia.org/wiki/伊予市",
+                "target": "_blank"
+            },
+            {
+                "text": "伊予灘 - Wikipedia",
+                "url": "https://ja.wikipedia.org/wiki/伊予灘",
+                "target": "_blank"
+            },
+            {
+                "text": "伊予神社 - Wikipedia",
+                "url": "https://ja.wikipedia.org/wiki/伊予神社",
+                "target": "_blank"
+            }
+        ]
+    },
+    "map": {
+        "center": [
+            132.73876888475326,
+            33.777683638351505
+        ],
+        "bounds": [
+            [
+                132.47732978428013,
+                33.59387126488157
+            ],
+            [
+                132.9977543713136,
+                33.81512785787399
+            ]
+        ],
+        "zoom": 11.5
+    },
+    "cover": {
+        "url": null
+    },
+    "eventsJSON": [
+        "shikoku/ehime/iyo/date.json"
+    ],
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    132.7443763661418,
+                    33.77055334832497
+                ],
+                "address": "日本 〒799-3103 愛媛県伊予市上野２４８５番地"
+            },
+            "properties": {
+                "title": "伊予神社（伊予市）",
+                "description": "かつて約8ha（甲子園球場2個半分）もあった、伊予国の中心に位置する神社",
+                "note": [
+                    "祭神は、「月夜見尊（ツクヨミノミコト）」と、伊予の国魂神「愛比売命」",
+                    "境内には、神社の原始形態とされる「磐境（いわさか）」という祭祀遺跡がある",
+                    "伊予神社の社地にあった弥光井神社（別名真名井神社）の祠近くは年中きれいな水が湧き出る場所で、この湧き水が「いゆ」と呼晴れ、転じて「いよ（伊予）」という地名の由来になったという説がある"
+                ],
+                "links": [
+                    {
+                        "text": "伊豫神社 - Google マップ",
+                        "url": "https://maps.app.goo.gl/qxrntoECwn8YdQuWA",
+                        "target": "_blank"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    132.7431999071295,
+                    33.78388216103063
+                ],
+                "address": "日本 〒791-3161 愛媛県伊予郡松前町神崎１９３番地"
+            },
+            "properties": {
+                "title": "伊予神社（伊予郡松前町）",
+                "description": "配神に伊予国の国魂神を祀る、ヤマト王権と関係が深い神社（通称「親玉宮」）",
+                "note": [
+                    "主祭神は、欠史八代の1人「孝霊天皇（第7代 こうれいてんのう）」の皇子「彦狭島命（ひこさしまのみこと）」",
+                    "（ヤマト王権に反発する民を制圧するために派遣され、現社地にあたる神崎庄に鎮座したとされる）"
+                ],
+                "links": [
+                    {
+                        "text": "伊豫神社 - Google マップ",
+                        "url": "https://maps.app.goo.gl/H5wmpqmP528zKksH9",
+                        "target": "_blank"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    132.71710491518604,
+                    33.77010647594932
+                ]
+            },
+            "properties": {
+                "title": "ウェルピア伊予",
+                "description": "宿泊・会議・宴会・レストラン・スポーツ施設が揃う伊予市都市総合文化施設",
+                "note": null,
+                "links": [
+                    {
+                        "text": "ウェルピア伊予〈伊予市都市総合文化施設〉公式サイト",
+                        "url": "https://welpiaiyo.jp/",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "ウェルピア伊予 - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/ウェルピア伊予",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "ウェルピア伊予 - Google マップ",
+                        "url": "https://maps.app.goo.gl/9rgKe8TkopeCSwZy5",
+                        "target": "_blank"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    132.4807738467274,
+                    33.73662536824223
+                ],
+                "address": "日本 〒799-3470 愛媛県大洲市長浜町青島"
+            },
+            "properties": {
+                "title": "青島",
+                "description": "愛媛県指定無形民俗文化財「青島の盆踊り」が伝わる、長浜港の沖合い13.5kmに位置する有人島"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    132.9121042303612,
+                    33.660921140935
+                ],
+                "address": "日本 〒791-1205 愛媛県上浮穴郡久万高原町菅生２番地１１７３－２"
+            },
+            "properties": {
+                "title": "大寶寺",
+                "description": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    132.98071811188026,
+                    33.65867302309792
+                ],
+                "address": "日本 〒791-1511 愛媛県上浮穴郡久万高原町七鳥１４６８番地"
+            },
+            "properties": {
+                "title": "岩屋寺",
+                "description": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    132.97306111123828,
+                    33.667683333357175
+                ],
+                "address": "愛媛県上浮穴郡久万高原町直瀬乙1636"
+            },
+            "properties": {
+                "title": "国民宿舎古岩屋荘",
+                "description": "クロスバイク 1,000円/1日 ※要事前予約、保証金1,000円(自転車返却時に返金)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    132.8191372090788,
+                    33.75359081510618
+                ],
+                "address": "日本 〒791-1133 愛媛県松山市浄瑠璃町２８２番地"
+            },
+            "properties": {
+                "title": "浄瑠璃寺",
+                "description": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    132.8128249994914,
+                    33.757961111068724
+                ],
+                "address": "愛媛県松山市浄瑠璃町八坂773"
+            },
+            "properties": {
+                "title": "熊野山八坂寺",
+                "description": ""
+            }
+        }
+    ]
+}

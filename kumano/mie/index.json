@@ -1,0 +1,98 @@
+{
+    "type": "FeatureCollection",
+    "url": "/nankai/?id=kumano&area=mie",
+    "title": [
+        "Ise ji, Wakayama - Mie",
+        "伊勢路"
+    ],
+    "description": "二大聖地「熊野三山」と「伊勢神宮」を結ぶ「祈りの道」",
+    "info": {
+        "note": [
+            "伊勢神宮からいくつもの峠を越え、熊野三山を詣でるために通った道",
+            "海路を併用しながら利用したと思われる"
+        ],
+        "links": [
+            {
+                "text": "伊勢路 (熊野古道) - Wikipedia",
+                "url": "https://ja.wikipedia.org/wiki/伊勢路_(熊野古道)",
+                "target": "_blank"
+            },
+            {
+                "text": "熊野古道伊勢路",
+                "url": "https://www.kodo.pref.mie.lg.jp/",
+                "target": "_blank"
+            },
+            {
+                "text": "モデルコース一覧 - 熊野古道伊勢路巡礼ガイド",
+                "url": "https://iseji-trailguide.com/course/",
+                "target": "_blank"
+            },
+            {
+                "text": "熊野古道伊勢路とは | 三重県立熊野古道センター",
+                "url": "https://kumanokodocenter.com/kodo/",
+                "target": "_blank"
+            },
+            {
+                "text": "伊勢路の旅おすすめコース | 熊野古道のまるごと観光ガイド",
+                "url": "https://www.kankomie.or.jp/special/kumanokodo/course/course4/",
+                "target": "_blank"
+            },
+            {
+                "text": "熊野古道 伊勢路 - 田辺市熊野ツーリズムビューロー",
+                "url": "https://www.tb-kumano.jp/kumano-kodo/iseji/",
+                "target": "_blank"
+            },
+            {
+                "text": "伊勢路の旅おすすめコース | 熊野古道のまるごと観光ガイド",
+                "url": "https://www.kankomie.or.jp/special/kumanokodo/course/course4/",
+                "target": "_blank"
+            }
+        ]
+    },
+    "map": {
+        "center": [
+            135.77339166641238,
+            33.840572222073874
+        ],
+        "bounds": [
+            [
+                135.2340834522683,
+                33.4246834625211
+            ],
+            [
+                136.33658100004186,
+                34.14065812482855
+            ]
+        ],
+        "zoom": 9.75
+    },
+    "cover": {
+        "url": null
+    },
+    "events": [],
+    "features": [],
+    "line": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": []
+            },
+            "properties": {
+                "title": "伊勢路（熊野三山 - 神宮）",
+                "description": "",
+                "note": [
+                    ""
+                ],
+                "links": [
+                    {
+                        "text": "伊勢路 Ise ji, Wakayama - Mie",
+                        "url": "/nankai/?id=kumano&name=iseji",
+                        "target": "_self"
+                    }
+                ],
+                "zoom": 10
+            }
+        }
+    ]
+}

@@ -1,0 +1,299 @@
+{
+    "url": "/nankai/?id=awaji",
+    "title": [
+        "Awaji Island, Japan",
+        "淡路島"
+    ],
+    "description": "伊弉諾尊（いざなぎのみこと）・伊弉冉尊（いざなみのみこと）が、最初に創造した島",
+    "info": {
+        "markdown": "awaji/README.md",
+        "links": [
+            {
+                "text": "【公式】淡路島観光ガイド・あわじナビ",
+                "url": "https://www.awajishima-kanko.jp/",
+                "target": "_blank"
+            },
+            {
+                "text": "淡路地域のだんじりの出る祭り（だんじりカレンダー） - 淡路島のだんじり祭り",
+                "url": "https://awajidanjiri.jimdofree.com/",
+                "target": "_blank"
+            },
+            {
+                "text": "淡路島 - Wikipedia",
+                "url": "https://ja.wikipedia.org/wiki/淡路島",
+                "target": "_blank"
+            },
+            {
+                "text": "南海うみまち39きっぷ | 南海電鉄",
+                "url": "https://www.nankai.co.jp/traffic/otoku/umimachi.html",
+                "target": "_blank"
+            }
+        ]
+    },
+    "map": {
+        "center": [
+            134.85249479948374,
+            34.46004432296252
+        ],
+        "bounds": [
+            [
+                134.5841916591756,
+                34.05640074690457
+            ],
+            [
+                135.11814188561817,
+                34.73247545558344
+            ]
+        ],
+        "zoom": 9.75
+    },
+    "eventsJSON": [
+        "awaji/nushima.json",
+        "awaji/sumoto.json",
+        "awaji/keino.json"
+    ],
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    134.81907136780978,
+                    34.171171285908855
+                ]
+            },
+            "properties": {
+                "title": "沼島と諭鶴羽山",
+                "description": "日本の国土の始まり「オノゴロ島」の伝承地「沼島（ぬしま）」と、淡路島の最高峰「諭鶴羽山（ゆずるはさん）」",
+                "zoom": 11.5,
+                "links": [
+                    {
+                        "text": "沼島と諭鶴羽山 Nushima - Mt.Yuzuruha, Minami-Awaji",
+                        "url": "/nankai/?id=awaji&name=nushima",
+                        "target": "_self"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    134.89960578,
+                    34.34644013
+                ]
+            },
+            "properties": {
+                "title": "洲本 - 深日（大阪）",
+                "description": "例年春から秋の土日祝日限定で深日洲本ライナーが運行（一日8便（4往復）運行）",
+                "note": null,
+                "links": [
+                    {
+                        "text": "洲本 - 深日（大阪） Awaji Island - Osaka",
+                        "url": "/nankai/?id=awaji&name=sumoto",
+                        "target": "_self"
+                    }
+                ],
+                "zoom": 12
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    134.71181387872383,
+                    34.23371827579638
+                ]
+            },
+            "properties": {
+                "title": "大見山・若人の広場",
+                "description": "福良港を見下ろす高台に位置する、はるかに鳴門海峡を眺望できる山頂広場・公園",
+                "zoom": 15,
+                "note": [
+                    "開園時間 午前9時～午後5時",
+                    "太平洋戦争で戦没した全国約20万人の学徒ら若者を祈念して昭和42年に建設",
+                    "世界的建築家である丹下健三氏が設計した高さ25mの太平洋戦争の戦没学徒の鎮魂の塔「慰霊塔・永遠のともしび」がある"
+                ],
+                "links": [
+                    {
+                        "text": "若人の広場 - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/若人の広場",
+                        "target": "_blank"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    134.73786232070762,
+                    34.34190077708125
+                ]
+            },
+            "properties": {
+                "title": "慶野松原・五色浜",
+                "description": "播磨灘に面した淡路島の西側、白い砂浜に約5万本の黒松が生い茂る海岸・五色に輝く小石に覆われた海岸",
+                "zoom": 16,
+                "links": [
+                    {
+                        "text": "慶野松原・五色浜 Keino - Goshiki, Awaji Island",
+                        "url": "/nankai/?id=awaji&name=keino",
+                        "target": "_self"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.02039831745714,
+                    34.59031128484044
+                ]
+            },
+            "properties": {
+                "title": "国営明石海峡公園",
+                "description": "明石海峡を隔てて本州（神戸）と接する淡路島の北端地域（岩屋・夢舞台）",
+                "note": null,
+                "links": [
+                    {
+                        "text": "国営明石海峡公園 Akashi Kaikyo National Government Park",
+                        "url": "/nankai/?id=awaji&name=iwaya",
+                        "target": "_self"
+                    }
+                ],
+                "zoom": 12
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    134.95164632108214,
+                    34.54082048024385
+                ],
+                "address": "日本 〒656-1734 兵庫県淡路市舟木５１４番地１１"
+            },
+            "properties": {
+                "title": "舟木石上神社",
+                "description": "北緯34度32分線上「太陽の道」に位置する、女人禁制の祠・岩石群（ふなきいそのかみじんじゃ）",
+                "note": [
+                    "向かいには、(株)ハウスホールディングス「淡路記念館」がある"
+                ],
+                "links": [
+                    {
+                        "text": "舟木石上神社 - Google マップ",
+                        "url": "https://maps.app.goo.gl/DgN3v6LtbZgK8TYS9",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "淡路記念館 HOUSE HOLDINGS",
+                        "url": "https://amh.householdings.co.jp/",
+                        "target": "_blank"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    134.90840377665103,
+                    34.503962077225026
+                ]
+            },
+            "properties": {
+                "title": "五斗長垣内遺跡",
+                "description": "弥生時代後期における日本列島最大規模の鉄器生産集落跡（国指定史跡）",
+                "note": [
+                    "開館時間:9時00分～17時00分"
+                ],
+                "zoom": 16,
+                "links": [
+                    {
+                        "text": "ごっさ-五斗長-GOSSA",
+                        "url": "https://gossa-awaji.jp/",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "五斗長垣内遺跡 - Google マップ",
+                        "url": "https://maps.app.goo.gl/YRwBbA416rBSsVAQ6",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "五斗長垣内遺跡 - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/五斗長垣内遺跡",
+                        "target": "_blank"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    134.85247222211626,
+                    34.46000277731154
+                ],
+                "address": "兵庫県淡路市多賀７４０"
+            },
+            "properties": {
+                "title": "伊弉諾神宮",
+                "description": "「イザナギ・イザナミ」を祀る日本遺産、淡路国一宮（いざなぎじんぐう）",
+                "zoom": 17,
+                "note": [
+                    "国産み・神産みを終えた伊弉諾尊（イザナギ）が鎮まった「多賀の地の幽宮」が起源<br>幽宮御記によると、本来はイザナギのみを祀ったと考えられる",
+                    "イザナギ・イザナミの神話にちなみ、男女和合へといざなう御神鳥「鶺鴒（せきれい）」を御神鳥として崇めている"
+                ],
+                "links": [
+                    {
+                        "text": "せきれいの里 伊弉諾神宮境内 | 『国生みの島・淡路』",
+                        "url": "https://kuniuminoshima.jp/",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "淡路國一宮 伊弉諾神宮 - Google マップ",
+                        "url": "https://maps.app.goo.gl/2emHeTLgy1ao7ibQ7",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "伊弉諾神宮 - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/伊弉諾神宮",
+                        "target": "_blank"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.0664805560642,
+                    34.27369722207387
+                ],
+                "address": "和歌山県和歌山市加太１１８"
+            },
+            "properties": {
+                "title": "淡島神（あわしまのかみ）",
+                "description": "イザナギとイザナミが産んだ不具の子を祀る、淡島神社・粟島神社・淡路神社の総本社",
+                "zoom": 14,
+                "links": [
+                    {
+                        "text": "淡島神（あわしまのかみ） Awashima, Wakayama",
+                        "url": "/nankai/?id=kii&name=awashima",
+                        "target": "_self"
+                    }
+                ]
+            }
+        }
+    ]
+}

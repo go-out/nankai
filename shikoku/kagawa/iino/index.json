@@ -1,0 +1,572 @@
+{
+    "url": "/nankai/?id=shikoku-kagawa&area=iino",
+    "title": [
+        "Iino (Sakaide - Marugame), Kagawa, Shikoku",
+        "飯野山（飯依比古）"
+    ],
+    "description": "讃岐国の国魂神、飯の霊が依り憑く男神が宿る地（いいのやま）",
+    "info": {
+        "markdown": "shikoku/kagawa/iino/README.md",
+        "note": [
+            "侵食によって、屋島のような台地状のメサと呼ばれる状態になり、その後さらに侵食が進み、ビュートと呼ばれる孤立した丘となった",
+            "麓付近は花崗岩で、中腹から上には硬い火山岩であるサヌカイト（安山岩の一種）<br>山頂付近ではそのサヌカイトが風化した赤い粘土が堆積している",
+            "山頂周辺はレクリエーションの森として飯野山風景林に指定され、麓から山腹にかけてはモモなどが栽培されている"
+        ],
+        "links": [
+            {
+                "text": "飯依比古 - Wikipedia",
+                "url": "https://ja.wikipedia.org/wiki/飯依比古",
+                "target": "_blank"
+            },
+            {
+                "text": "飯野山 - Wikipedia",
+                "url": "https://ja.wikipedia.org/wiki/飯野山",
+                "target": "_blank"
+            },
+            {
+                "text": "塩飽諸島 - Wikipedia",
+                "url": "https://ja.wikipedia.org/wiki/塩飽諸島",
+                "target": "_blank"
+            }
+        ]
+    },
+    "map": {
+        "center": [
+            133.84603888935513,
+            34.274336111280654
+        ],
+        "bounds": [
+            [
+                133.64892535866784,
+                34.11745644595888
+            ],
+            [
+                133.96524121228708,
+                34.43602190917136
+            ]
+        ],
+        "zoom": 11.5
+    },
+    "cover": {
+        "url": null
+    },
+    "eventsJSON": [
+        "shikoku/kagawa/iino/date.json"
+    ],
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    133.84603598104553,
+                    34.274333160751326
+                ],
+                "address": "日本 〒762-0082 香川県丸亀市飯山町川原"
+            },
+            "properties": {
+                "title": "飯野山",
+                "description": "丸亀市・坂出市にまたがる新日本百名山・四国百名山（いいのやま、標高422m）",
+                "note": [
+                    "__"
+                ],
+                "links": [
+                    {
+                        "text": "飯野山 - 丸亀市公式ホームページ",
+                        "url": "https://www.city.marugame.lg.jp/page/3063.html",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "飯野山 - Google マップ",
+                        "url": "https://maps.app.goo.gl/muuErsGFWVaJo1VEA",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 13.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    133.84030909712493,
+                    34.26996988984759
+                ],
+                "address": "日本 〒763-0084 香川県丸亀市飯野町東二２０番地"
+            },
+            "properties": {
+                "title": "飯神社",
+                "description": "飯野山の西南麓に鎮座し、飯野山自体を神体山として伊予の国魂神を祀る（いいじんじゃ）",
+                "note": [
+                    "創建時期は不明、先史時代に飯野山山頂の岩石群を磐座としたのが始まりという",
+                    "（飯野山山腹に遷座後、康保元年（964年）に現在地に遷座される）",
+                    "神体山とする飯野山の山頂までは登山口から約30分",
+                    "播磨国風土記では、妾の「飯盛大刀自（イイモリノオオトジ）」が「飯盛山」に渡り住み、山名の故になったとされる"
+                ],
+                "links": [
+                    {
+                        "text": "飯神社 - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/飯神社",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "飯神社（いいじんじゃ） - Google マップ",
+                        "url": "https://maps.app.goo.gl/677cfeGvHFGaAHA1A",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 16
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    133.8343730492934,
+                    34.27444090392939
+                ]
+            },
+            "properties": {
+                "title": "コミュニティバス「飯野山登山口バス停」",
+                "description": "丸亀側登山口付近",
+                "note": null,
+                "links": [
+                    {
+                        "text": "飯野山登山口 - Google マップ",
+                        "url": "https://maps.app.goo.gl/sCF7PMvpt42JprkL8",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 16
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    133.84606696886783,
+                    34.26797212724638
+                ]
+            },
+            "properties": {
+                "title": "坂元神社",
+                "description": "飯野山の南側山麓に鎮座、讃岐国の国魂神を祀る",
+                "note": null,
+                "links": [
+                    {
+                        "text": "坂元神社 - Google マップ",
+                        "url": "https://maps.app.goo.gl/cZYabU6vU8HJgmmN8",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 16
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    133.8521915918691,
+                    34.270599186568134
+                ]
+            },
+            "properties": {
+                "title": "一王子神社",
+                "description": "飯山側登山口付近",
+                "note": null,
+                "links": [
+                    {
+                        "text": "一王子神社 - Google マップ",
+                        "url": "https://maps.app.goo.gl/VHM9wkq1xejrpzcbA",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 16
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    133.84654162244397,
+                    34.28123922846842
+                ]
+            },
+            "properties": {
+                "title": "幸神社",
+                "description": "坂出側（川津町）登山口付近",
+                "note": [
+                    "坂出駅からレンタサイクル 約20分（4.5km）、山頂までは約1時間"
+                ],
+                "links": [
+                    {
+                        "text": "幸神社 - Google マップ",
+                        "url": "https://maps.app.goo.gl/jup5htrvrbqwDY4f7",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 16
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    133.85654749081368,
+                    34.31336158530797
+                ]
+            },
+            "properties": {
+                "title": "レンタサイクル 坂出市観光案内所",
+                "description": "営業時間 9:00 - 16：30（定休日 年末年始）",
+                "note": null,
+                "links": [
+                    {
+                        "text": "飯野山へ登ろう（レンタサイクルで行く） - 【公式】香川県坂出市の観光・旅行情報サイト",
+                        "url": "https://sakaide-kankou.com/specials/1097/",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "坂出市観光案内所 レンタサイクル予約",
+                        "url": "https://airrsv.net/sakaide-kankou/calendar",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "坂出市観光案内所 - Google マップ",
+                        "url": "https://maps.app.goo.gl/esuFCAhUuZxzJVae6",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 16
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    133.82454690706209,
+                    34.306683228464394
+                ],
+                "address": "日本 〒769-0210 香川県綾歌郡宇多津町山下"
+            },
+            "properties": {
+                "title": "郷照寺",
+                "description": "四国八十八箇所第七十八番札所（ごうしょうじ）",
+                "note": [
+                    "仏光山（ぶっこうざん）、広徳院（こうとくいん）と号す",
+                    "四国八十八箇所では珍しい異なる時宗と真言宗の2つの宗派が共存する寺",
+                    "四国旅客鉄道（JR四国） 予讃線 – 宇多津駅 (1.5 km)"
+                ],
+                "links": [
+                    {
+                        "text": "郷照寺 - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/郷照寺",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "郷照寺 - Google マップ",
+                        "url": "https://maps.app.goo.gl/vVqJNdf6z1ppqz4k9",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 17
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    133.88271095984862,
+                    34.31141959628708
+                ],
+                "address": "日本 〒762-0021 香川県坂出市西庄町１７１３番地２"
+            },
+            "properties": {
+                "title": "天皇寺",
+                "description": "四国八十八箇所第七十九番札所（てんのうじ）",
+                "note": [
+                    "山号は金華山（きんかざん）、高照院（こうしょういん）と号す",
+                    "境内は崇徳上皇を祀っていた白峰宮に隣接し、白峰宮が崇徳天皇社であったときその別当寺であった",
+                    "八十場の泉から墓地の左側を約0.5 km上がりきったころ右に50 mほど進むと広い荒れた境内があり、八十場の泉の源泉地と云われている小さな池がある",
+                    "四国旅客鉄道（JR四国）予讃線 八十場駅 (0.4 km)"
+                ],
+                "links": [
+                    {
+                        "text": "天皇寺 (坂出市) - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/天皇寺_(坂出市)",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "天皇寺 - Google マップ",
+                        "url": "https://maps.app.goo.gl/BjBvigGiNexmAEsB9",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 17
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    133.94412798564701,
+                    34.30319308823587
+                ],
+                "address": "日本 〒769-0102 香川県高松市国分寺町国分２０６５番地"
+            },
+            "properties": {
+                "title": "讃岐国分寺",
+                "description": "四国八十八箇所第八十番札所（さぬきこくぶんじ）",
+                "note": [
+                    "白牛山（はくぎゅうざん）、千手院（せんじゅいん）と号す",
+                    "一帯は讃岐国の中心地であり多くの遺跡が発掘されている",
+                    "伽藍跡は全国に残る国分寺跡の中でも保存状態が良く、国の特別史跡に指定されている",
+                    "四国旅客鉄道（JR四国）予讃線 – 国分駅 (0.3 km)"
+                ],
+                "links": [
+                    {
+                        "text": "讃岐国分寺 - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/讃岐国分寺",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "讃岐国分寺 - Google マップ",
+                        "url": "https://maps.app.goo.gl/v4P7pzjvAKhN8q8M7",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 17
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    133.9267918875061,
+                    34.333481739110624
+                ],
+                "address": "日本 〒762-0016 香川県坂出市青海町２６３５番地"
+            },
+            "properties": {
+                "title": "白峯寺",
+                "description": "四国八十八箇所第八十一番札所（しろみねじ）",
+                "note": [
+                    "綾松山（りょうしょうざん）、 洞林院（どうりんいん）と号す",
+                    "四国で唯一の御陵である白峯陵（毎年9月21日午前9時より正辰祭・詳細は下記）が隣接する",
+                    "一年中花が楽しめ、特に春は桜、夏は紫陽花、秋は紅葉が有名",
+                    "四国旅客鉄道（JR四国）予讃線 - 鴨川駅 (9.9 km)"
+                ],
+                "links": [
+                    {
+                        "text": "白峯寺 - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/白峯寺",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "白峯寺 - Google マップ",
+                        "url": "https://maps.app.goo.gl/2m2ffoVVrnKjrVBX7",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 17
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    133.9606386323611,
+                    34.34443591720397
+                ],
+                "address": "日本 〒761-8004 香川県高松市中山町１５０６番地"
+            },
+            "properties": {
+                "title": "根香寺",
+                "description": "四国八十八箇所第八十二番札所（ねごろじ）",
+                "note": [
+                    "青峰山（あおみねさん）、千手院（せんじゅいん）と号す",
+                    "五色台の青峰（標高449.3 m）の中腹（標高362 m付近）に位置し霊場中10番目の高さ",
+                    "四国旅客鉄道（JR四国） 予讃線 - 鬼無駅 (5.5 km)"
+                ],
+                "links": [
+                    {
+                        "text": "根香寺 - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/根香寺",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "根香寺 - Google マップ",
+                        "url": "https://maps.app.goo.gl/ysWpihmz5VY22Tzv6",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 17
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    133.92966291,
+                    34.38068155
+                ],
+                "address": "香川県高松市亀水町"
+            },
+            "properties": {
+                "title": "五色台",
+                "description": "高松エリアとの境には瀬戸内海に張り出した山塊（ごしきだい）",
+                "note": null,
+                "links": [
+                    {
+                        "text": "五色台 - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/五色台",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "五色台展望台 - Google マップ",
+                        "url": "https://maps.app.goo.gl/vpCcurM9PpGHTmHf8",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 13.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    133.79204017068878,
+                    34.2912469697048
+                ],
+                "address": "日本 〒763-0022 香川県丸亀市浜町８０番地１"
+            },
+            "properties": {
+                "title": "丸亀市猪熊弦一郎現代美術館（MIMOCA）",
+                "description": "猪熊弦一郎を中心に、現代アーティストの作品を展示している広々とした現代美術館",
+                "note": null,
+                "links": [
+                    {
+                        "text": "MIMOCA 丸亀市猪熊弦一郎現代美術館",
+                        "url": "https://www.mimoca.jp/",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "丸亀市猪熊弦一郎現代美術館（MIMOCA） - Google マップ",
+                        "url": "https://maps.app.goo.gl/xWHSxWcL6GWyy9TP9",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 17
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    133.7909805557463,
+                    34.295147221883134
+                ],
+                "address": "香川県丸亀市福島町127-16"
+            },
+            "properties": {
+                "title": "丸亀港",
+                "description": "塩飽諸島（牛島 - 本島・広島 - 手島 - 小手島）へフェリーが運航",
+                "note": [
+                    "本島汽船フェリー「ほんじま丸」・旅客船「にじまる」：丸亀港 - 牛島 - 本島",
+                    "備讃フェリーフェリー「ひろておん」・旅客船「ニュービサン」：丸亀港 - 広島 - 手島 - 小手島",
+                    "江戸時代に金刀比羅宮の玄関港として四国一の港として栄え、城下町と共に発展した歴史を持つ"
+                ],
+                "links": [
+                    {
+                        "text": "丸亀港 - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/丸亀港",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "丸亀港 - Google マップ",
+                        "url": "https://maps.app.goo.gl/4Av2anRdrQapr2Zh7",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 17
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    133.78799962,
+                    34.39433807
+                ],
+                "address": "香川県丸亀市本島町笠島256"
+            },
+            "properties": {
+                "title": "丸亀市塩飽本島町笠島伝統的建造物群保存地区",
+                "description": "塩飽諸島の本島の中心部、江戸時代からの古い町並みがよく残っている国の重要伝統的建造物群保存地区",
+                "note": [
+                    "JR丸亀駅から徒歩5分の丸亀港からフェリー（本島汽船）に乗り35分で本島（泊港）着、徒歩25分"
+                ],
+                "links": [
+                    {
+                        "text": "本島町笠島 - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/本島町笠島",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "笠島重要伝統的建造物群保存地区 - Google マップ",
+                        "url": "https://maps.app.goo.gl/tCXnxEZgrMk7nuZg8",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 17
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    133.8094250000848,
+                    34.18396944443384
+                ],
+                "address": "香川県仲多度郡琴平町892-1"
+            },
+            "properties": {
+                "title": "金刀比羅宮",
+                "description": "全国の金刀比羅神社の総本宮（ことひらぐう）、通称「こんぴらさん」",
+                "note": [
+                    "当初はあらゆる分野の人々に信仰されていたが、19世紀中頃以降は特に海上交通の守り神として信仰されており、漁師、船員など海事関係者の崇敬を集める",
+                    ""
+                ],
+                "links": [
+                    {
+                        "text": "金刀比羅宮 - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/金刀比羅宮",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "金刀比羅宮 - Google マップ",
+                        "url": "https://maps.app.goo.gl/35y4ysdD1epXEqDR8",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 17
+            }
+        }
+    ]
+}

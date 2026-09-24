@@ -1,0 +1,550 @@
+{
+	"url": "/nankai/?id=kii-wakayama&name=waka-no-ura",
+	"date": null,
+	"title": [
+		"Waka no Ura",
+		"和歌浦"
+	],
+	"description": "和歌に詠まれるほど風光明媚な絶景の宝庫",
+	"info": {
+		"note": [
+			"玉津島と片男波を結ぶ砂嘴と周辺一帯は、潮の満ち引きによってその姿を変える干潟は、多様な生き物たちの楽園",
+			"周辺には、干満に応じて作庭された紀州を代表する三つの日本庭園がある"
+		],
+		"links": [
+			{
+				"text": "和歌山観光デジタルきっぷ | 南海電鉄",
+				"url": "https://www.nankai.co.jp/traffic/digital/kwakayama_kanko.html",
+				"target": "_blank"
+			},
+			{
+				"text": "わかやま交通案内 | 和歌山バス",
+				"url": "https://transfer-cloud.navitime.biz/wakayamabus",
+				"target": "_blank"
+			}
+		]
+	},
+	"map": {
+		"center": [
+			135.17570056599612,
+			34.18476937795968
+		],
+		"bounds": [
+			[
+				135.12583329874883,
+				34.166
+			],
+			[
+				135.186,
+				34.203
+			]
+		],
+		"zoom": 14
+	},
+	"events": [
+		{
+			"date": {
+				"month": 5,
+				"date": "中旬 日曜日"
+			},
+			"title": [
+				"和歌祭",
+				"和歌浦"
+			],
+			"description": "紀州徳川家 風流の時代絵巻",
+			"note": [
+				"Sunday of Mid-May every year",
+				"毎年 五月中旬 日曜日"
+			],
+			"info": {
+				"markdown": "kii/wakayama/waka-matsuri.md",
+				"links": [
+					{
+						"text": "和歌祭公式サイト",
+						"url": "http://wakamatsuri.com/",
+						"target": "_blank"
+					},
+					{
+						"text": "和歌浦 Waka no Ura",
+						"url": "/nankai/id=kii-wakayama&name=waka-no-ura",
+						"target": "_self"
+					}
+				]
+			}
+		}
+	],
+	"features": [
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					135.17345570924937,
+					34.1816388702278
+				]
+			},
+			"properties": {
+				"title": "片男波",
+				"description": "和歌の浦に突き出る約2.5kmの細長い砂州半島（かたおなみ）",
+				"note": [
+					"全域には「片男波公園」が整備（日本庭園や芝生広場がある）、西側には快水浴場百選のひとつに選ばれている人工海浜・海水浴場が広がる（総延長1,200m）",
+					"中央部にある「万葉館」にて、レンタサイクル「サイクリングDE和歌の浦」貸し出しあり",
+					"* レンタサイクルの申し込みは9時 - 16時まで（利用は17時まで）<br>1か月前から予約可能 先着順受付（4台） Tel: 073-446-5553 （片男波公園管理事務所）",
+					"<u>アクセス</u><br>和歌山バス「不老橋（ふろうばし）」バス停より、不老橋を渡って南へ（約10分）"
+				],
+				"links": [
+					{
+						"text": "不老橋 - Google マップ",
+						"url": "https://maps.app.goo.gl/sMGX8xLQz1BrLmuEA",
+						"target": "_blank"
+					},
+					{
+						"text": "片男波公園 - Google マップ",
+						"url": "https://maps.app.goo.gl/vCiTH6AyFXJbpznd8",
+						"target": "_blank"
+					},
+					{
+						"text": "お知らせ（和歌公園） - 紀三井寺公園・和歌公園（和歌山）",
+						"url": "https://www.kimiidera-park.com/wakapark/news/#gsc.tab=0",
+						"target": "_blank"
+					}
+				],
+				"archive": [
+					{
+						"year": 2026,
+						"month": 5,
+						"date": [
+							17
+						],
+						"title": null,
+						"identifier": "kii-wakayama",
+						"count": 3,
+						"formats": ".ia.mp4",
+						"files": [
+							"20260517/005",
+							"20260517/006",
+							"20260517/007",
+							"20260517/008",
+							"20260517/009"
+						],
+						"cover": "20260517/008_000015.jpg"
+					}
+				],
+				"zoom": 14
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					135.17437730262645,
+					34.18755793391388
+				]
+			},
+			"properties": {
+				"title": "玉津島",
+				"description": "和歌の名人・和歌の神「衣通姫」が祀られる、和歌の浦の干潟に浮かぶ小島（たまつしま）",
+				"note": [
+					"島の中央の岩山「妹背山（いもせやま、標高約14m）」の山頂は、和歌の浦を一望できる展望スポット",
+					"西側には、徳川頼宣が紀三井寺を遥拝するために作ったとされる建物「観海閣」、妹背山の中腹には「日蓮宗 海禅院多宝塔」がある",
+					"<u>アクセス</u><br>和歌山バス「玉津島神社前」または「不老橋」バス停より、徒歩約5分"
+				],
+				"links": [
+					{
+						"text": "妹背山 - Google マップ",
+						"url": "https://maps.app.goo.gl/bqq9q57jHqCUZGPj9",
+						"target": "_blank"
+					}
+				],
+				"archive": [
+					{
+						"year": 2026,
+						"month": 5,
+						"date": [
+							17
+						],
+						"title": null,
+						"identifier": "kii-wakayama",
+						"count": 2,
+						"formats": ".ia.mp4",
+						"files": [
+							"20260517/033",
+							"20260517/034",
+							"20260517/035",
+							"20260517/036",
+							"20260517/037"
+						],
+						"cover": "20260517/033_000001.jpg"
+					}
+				],
+				"zoom": 16.5
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					135.17293427002488,
+					34.18741633771086
+				]
+			},
+			"properties": {
+				"title": "鏡山",
+				"description": "曝れた木理のような岩肌から「伽羅岩（きゃらいわ）」と呼ばれる結晶片岩でできた低山",
+				"note": [
+					"海産物・安産の神「塩槌翁尊（シオツチオジ）」が宿る「鹽竈神社（しおがま）」の神体とされる岩山",
+					"山頂までは、玉津島神社に近い山の北西麓の駐車場から徒歩約5分ほど"
+				],
+				"links": [
+					{
+						"text": "塩竈神社 (和歌山市) - Wikipedia",
+						"url": "https://ja.wikipedia.org/wiki/塩竈神社_(和歌山市)",
+						"target": "_blank"
+					},
+					{
+						"text": "鏡山 - Google マップ",
+						"url": "https://maps.app.goo.gl/QNxMgKYUCSzLm9Sh8",
+						"target": "_blank"
+					}
+				],
+				"archive": [
+					{
+						"year": 2026,
+						"month": 5,
+						"date": [
+							17
+						],
+						"title": null,
+						"identifier": "kii-wakayama",
+						"count": 3,
+						"formats": ".ia.mp4",
+						"files": [
+							"20260517/027",
+							"20260517/028",
+							"20260517/029",
+							"20260517/030",
+							"20260517/031",
+							"20260517/032"
+						],
+						"cover": "20260517/028_000010.jpg"
+					}
+				],
+				"zoom": 16.5
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					135.17150983002085,
+					34.18765406917986
+				]
+			},
+			"properties": {
+				"title": "奠供山",
+				"description": "絶景の宝庫「和歌の浦」の象徴、伽羅岩と松が組み合わさる美しい低山（てんぐやま、標高約35m）",
+				"note": [
+					"山麓には、この絶景を守るために創建された、和歌の神として住吉明神・北野天満宮と並ぶ和歌3神の1柱「玉津島神社」が鎮座",
+					"和歌の浦の絶景を一望できる山頂までは、玉津島神社の登山口から約15分ほど（一帯が、国指定史跡・名勝）"
+				],
+				"links": [
+					{
+						"text": "奠供山 - Wikipedia",
+						"url": "https://ja.wikipedia.org/wiki/奠供山",
+						"target": "_blank"
+					},
+					{
+						"text": "奠供山 - Google マップ",
+						"url": "https://maps.app.goo.gl/tGWjheZK2AuRDBHf7",
+						"target": "_blank"
+					},
+					{
+						"text": "玉津島神社 - Wikipedia",
+						"url": "https://ja.wikipedia.org/wiki/玉津島神社",
+						"target": "_blank"
+					},
+					{
+						"text": "玉津島神社 - Google マップ",
+						"url": "https://maps.app.goo.gl/PaPuPjgqVCvBZb2B8",
+						"target": "_blank"
+					}
+				],
+				"archive": [
+					{
+						"year": 2026,
+						"month": 5,
+						"date": [
+							17
+						],
+						"title": null,
+						"identifier": "kii-wakayama",
+						"count": 3,
+						"formats": ".ia.mp4",
+						"files": [
+							"20260517/016",
+							"20260517/017",
+							"20260517/018",
+							"20260517/019",
+							"20260517/020",
+							"20260517/021",
+							"20260517/022",
+							"20260517/023",
+							"20260517/024",
+							"20260517/025",
+							"20260517/026"
+						],
+						"cover": "20260517/017_000010.jpg"
+					}
+				],
+				"zoom": 16
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					135.16598920874435,
+					34.191875847360194
+				]
+			},
+			"properties": {
+				"title": "紀州東照宮",
+				"description": "江戸幕府初代将軍の徳川家康と紀州藩初代藩主・徳川頼宣を祀る、和歌山市の重要文化財（きしゅう とうしょうぐう）",
+				"note": [
+					"和歌浦湾の入り江を眼下に納める「雑賀山」に鎮座"
+				],
+				"links": [
+					{
+						"text": "紀州東照宮 - Google マップ",
+						"url": "https://maps.app.goo.gl/HDhWiHiTCqXSfvRv6",
+						"target": "_blank"
+					}
+				],
+				"archive": [
+					{
+						"year": 2026,
+						"month": 5,
+						"date": [
+							17
+						],
+						"title": null,
+						"identifier": "kii-wakayama",
+						"count": 2,
+						"formats": ".ia.mp4",
+						"files": [
+							"20260517/011",
+							"20260517/012",
+							"20260517/013",
+							"20260517/014"
+						],
+						"cover": "20260517/014_000015.jpg"
+					}
+				],
+				"zoom": 15.5
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					135.1521722222699,
+					34.1938638888465
+				],
+				"address": "和歌山県和歌山市西浜1164"
+			},
+			"properties": {
+				"title": "養翠園",
+				"description": "和歌浦の潮の干満に応じて細波が立つ「汐入り」の池をもつ、徳川家の大名庭園",
+				"note": [
+					"開園時間 9時 - 17時（1月1日のみ 11時 - 17時） | 年中無休"
+				],
+				"links": [
+					{
+						"text": "養翠園",
+						"url": "https://yosuien.com/",
+						"target": "_blank"
+					},
+					{
+						"text": "養翠園 - Wikipedia",
+						"url": "https://ja.wikipedia.org/wiki/養翠園",
+						"target": "_blank"
+					},
+					{
+						"text": "養翠園 - Google マップ",
+						"url": "https://maps.app.goo.gl/B5JsQKVe1xGfnGa68",
+						"target": "_blank"
+					}
+				],
+				"zoom": 15.5
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					135.14016944461395,
+					34.19054722203148
+				],
+				"address": "和歌山県和歌山市雑賀崎629"
+			},
+			"properties": {
+				"title": "番所庭園",
+				"description": "奥和歌浦とも呼ばれる「雑賀崎（さいかざき）」の岬「番所の鼻」にある庭園",
+				"note": [
+					"紀伊水道に浮かぶ大島（男島）、中ノ島（女島）、双子島を眼前に望む景勝の地であり、夕日の名所としても知られる",
+					"開園時間 8:00 - 17:00（4 - 8月は9:00 - 18:00） | 年中無休",
+					"___",
+					"古くから漁師が多く居住する雑賀崎漁港周囲の丘陵部に名立ち並ぶ家々を望む風景は、「日本のアマルフィ（海洋国家であったイタリア・アマルフィ海岸の中心都市であり世界遺産）」とも呼ばれる"
+				],
+				"links": [
+					{
+						"text": "番所庭園 - Wikipedia",
+						"url": "https://ja.wikipedia.org/wiki/番所庭園",
+						"target": "_blank"
+					},
+					{
+						"text": "番所庭園 - Google マップ",
+						"url": "https://maps.app.goo.gl/JUtTX1VS5HYf3BQ68",
+						"target": "_blank"
+					}
+				],
+				"zoom": 14
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					135.14469567859902,
+					34.1925711753923
+				],
+				"address": " 和歌山県和歌山市雑賀崎１５０"
+			},
+			"properties": {
+				"title": "あせ寿司なかぐち",
+				"description": "和歌山の郷土食「鯖の早ずし」を製造販売（売り切れ次第終了）",
+				"note": [
+					"営業時間 7:00 - 14:00 | 定休日水曜日"
+				],
+				"links": [
+					{
+						"text": "あせ寿司なかぐち - Google マップ",
+						"url": "https://maps.app.goo.gl/SwPtF3x5xyPt5pRP6",
+						"target": "_blank"
+					}
+				],
+				"zoom": 18
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					135.16151068119922,
+					34.18734256626098
+				],
+				"address": "〒641-0023 和歌山県和歌山市新和歌浦１−１"
+			},
+			"properties": {
+				"title": "ベイサイド和歌浦",
+				"description": "和歌浦湾の「わかしらす」「あさり」「アシアカエビ」など新鮮な魚介類や水産加工品を直販価格で販売",
+				"note": [
+					"和歌浦港の交流・情報発信の拠点",
+					"営業日 土曜・日曜・祝日 | 営業時間 10:00 - 14:00"
+				],
+				"links": [
+					{
+						"text": "ベイサイド和歌浦",
+						"url": "https://bayside-w.com/",
+						"target": "_blank"
+					},
+					{
+						"text": "和歌浦漁港 おっとっと広場 - Google マップ",
+						"url": "https://maps.app.goo.gl/LhgwYM8jYJfXULY7A",
+						"target": "_blank"
+					}
+				],
+				"archive": [
+					{
+						"year": 2026,
+						"month": 5,
+						"date": [
+							17
+						],
+						"title": null,
+						"identifier": "kii-wakayama",
+						"count": 1,
+						"formats": ".ia.mp4",
+						"files": [
+							"20260517/010"
+						],
+						"cover": "20260517/010_000030.jpg"
+					}
+				],
+				"zoom": 17
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					135.1608122,
+					34.18813328
+				],
+				"address": "和歌山県和歌山市新和歌浦4-16"
+			},
+			"properties": {
+				"title": "わかうら食堂",
+				"description": "老舗料亭旅館をリノベーションし、2019年春にオープンした和歌浦湾を見渡せる丘の上の食堂",
+				"note": [
+					"ランチは全日、土日祝はディナータイム営業もあり"
+				],
+				"links": [
+					{
+						"text": "[公式] わかうら食堂",
+						"url": "https://wakaurashokudou.foodre.jp/",
+						"target": "_blank"
+					},
+					{
+						"text": "わかうら食堂 - Google マップ",
+						"url": "https://maps.app.goo.gl/ekdNjzScHb5JVyGH8",
+						"target": "_blank"
+					}
+				],
+				"zoom": 17.5
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					135.15652421092483,
+					34.18496942969219
+				]
+			},
+			"properties": {
+				"title": "和歌の浦温泉 萬波",
+				"description": "和歌山の海絶景を望む静かな温泉宿（日帰り入浴は11:00 - 14:00）",
+				"note": null,
+				"links": [
+					{
+						"text": "和歌の浦温泉 萬波 - Google マップ",
+						"url": "https://maps.app.goo.gl/v7sZXrLhTfS1tbx96",
+						"target": "_blank"
+					}
+				],
+				"zoom": 17
+			}
+		}
+	]
+}

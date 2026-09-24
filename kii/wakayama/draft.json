@@ -1,0 +1,63 @@
+{
+    "type": "FeatureCollection",
+    "url": "?id=kii&name=draft",
+    "title": [
+        "Kii (Wakayama - Nara - Mie), Japan",
+        "紀伊山地（大峰・熊野三山・高野山）"
+    ],
+    "description": null,
+    "info": {
+        "markdown": null,
+        "note": null,
+        "links": null
+    },
+    "map": {
+        "center": [
+            135.77339166641238,
+            33.840572222073874
+        ],
+        "bounds": [
+            [
+                134.98604211868383,
+                33.4246834625211
+            ],
+            [
+                136.43137469428171,
+                34.676959895021824
+            ]
+        ],
+        "zoom": 8.75
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.1808833,
+                    34.2402278
+                ],
+                "address": "〒640-8392 和歌山県和歌山市中之島677番地"
+            },
+            "properties": {
+                "title": "志磨神社",
+                "description": "https://ja.wikipedia.org/wiki/志磨神社"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.19648794,
+                    34.26306021
+                ],
+                "address": "園部1581-7"
+            },
+            "properties": {
+                "title": "伊達神社",
+                "description": ""
+            }
+        }
+    ]
+}

@@ -1,0 +1,442 @@
+{
+    "url": "/nankai/?id=shikoku-kagawa&area=takamatsu",
+    "title": [
+        "Takamatsu - Higashikagawa, Kagawa",
+        "高松都市圏"
+    ],
+    "description": "瀬戸内海の島々や本州の都市とを結ぶ四国の玄関口「高松」を中心とする都市圏",
+    "info": {
+        "markdown": "shikoku/kagawa/takamatsu/README.md",
+        "links": [
+            {
+                "text": "讃岐国 - Wikipedia",
+                "url": "https://ja.wikipedia.org/wiki/讃岐国",
+                "target": "_blank"
+            },
+            {
+                "text": "高松都市圏 - Wikipedia",
+                "url": "https://ja.wikipedia.org/wiki/高松都市圏",
+                "target": "_blank"
+            }
+        ]
+    },
+    "map": {
+        "center": [
+            134.0273412593407,
+            34.28655868428184
+        ],
+        "bounds": [
+            [
+                133.93964667123691,
+                34.11226701988093
+            ],
+            [
+                134.4417583803193,
+                34.48088083553007
+            ]
+        ],
+        "zoom": 11
+    },
+    "cover": {
+        "url": null
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    134.048655364456,
+                    34.354121197449686
+                ],
+                "address": "〒760-0019 香川県高松市サンポート８"
+            },
+            "properties": {
+                "title": "高松港",
+                "description": "小豆島、直島などの県内の離島や神戸市と結ぶフェリーが発着",
+                "note": [
+                    "小豆島航路 高松港 ～ 土庄港・高松港 ～ 池田港 が運行",
+                    "直島諸島航路 高松港 ～ 女木港 ～ 男木港・高松港 ～ 宮浦港（直島）・高松港 ～ 豊島家浦港が運行"
+                ],
+                "links": [
+                    {
+                        "text": "高松港 - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/高松港",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "高松港 - Google マップ",
+                        "url": "https://maps.app.goo.gl/VepYhxLWdtEX7bQ46",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 14.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    134.05034286140454,
+                    34.34138207164402
+                ],
+                "address": "〒760-0052 香川県高松市瓦町１丁目１０−１０"
+            },
+            "properties": {
+                "title": "ドーミーイン高松",
+                "description": "男女別大浴場「さぬきの湯」を有するドーミーインチェーンのホテル",
+                "note": null,
+                "links": [
+                    {
+                        "text": "【公式】ドーミーイン高松",
+                        "url": "https://dormy-hotels.com/dormyinn/hotels/takamatsu/",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "ドーミーイン高松 - Google マップ",
+                        "url": "https://maps.app.goo.gl/1mMFZr4STWXsQhHdA",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 17
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    134.0471562195201,
+                    34.339840198927774
+                ],
+                "address": "〒760-0018 香川県高松市天神前１−３"
+            },
+            "properties": {
+                "title": "ドーミーイン高松中央公園前",
+                "description": "男女別天然温泉大浴場「玉藻の湯」を有するドーミーインチェーンのホテル",
+                "note": null,
+                "links": [
+                    {
+                        "text": "【公式】ドーミーイン高松中央公園前",
+                        "url": "https://dormy-hotels.com/dormyinn/hotels/takamatsuchuo/",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "ドーミーイン高松中央公園前 - Google マップ",
+                        "url": "https://maps.app.goo.gl/Te3gjpedNKFpGKRb8",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 17
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    134.04375833299426,
+                    34.32973888927036
+                ],
+                "address": "香川県高松市栗林町１"
+            },
+            "properties": {
+                "title": "栗林公園",
+                "description": "江戸時代初期に築庭された回遊式大名庭園、国の特別名勝に指定された歴史公園",
+                "note": [
+                    "『ミシュラン・グリーン・ガイド・ジャポン』に最高評価の3つ星に選定"
+                ],
+                "links": [
+                    {
+                        "text": "栗林公園 - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/栗林公園",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "栗林公園 - Google マップ",
+                        "url": "https://maps.app.goo.gl/LpSUxNg6NYxae1qn9",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 15.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    134.02662227711647,
+                    34.2866266276518
+                ],
+                "address": "日本 〒761-8084 香川県高松市一宮町６０７番地"
+            },
+            "properties": {
+                "title": "一宮寺",
+                "description": "四国八十八箇所第八十三番札所、讃岐国一宮の田村神社に隣接（いちのみやじ）",
+                "note": [
+                    "神毫山（しんごうざん）、大宝院（だいほういん）と号す",
+                    "寺伝によれば、義淵により法相宗の寺院として大宝年間（701年 - 704年）に「大宝院」と称して建立され、讃岐一宮・田村神社の第一別当として行基が堂宇を改修し一宮寺と改めたという",
+                    "琴電（ことでん） 琴平線 - 一宮駅 (0.9 km)"
+                ],
+                "links": [
+                    {
+                        "text": "一宮寺 - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/一宮寺",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "一宮寺 - Google マップ",
+                        "url": "https://maps.app.goo.gl/vQQRBwu83V48SMjb6",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 17
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    134.0273412593407,
+                    34.28655868428184
+                ],
+                "address": "〒761-8084 香川県高松市一宮町２８６"
+            },
+            "properties": {
+                "title": "田村神社",
+                "description": "高松市街地から南に約7kmの地、一帯は湧水地であり水神信仰を基盤とした讃岐国一宮（たむら）",
+                "note": [
+                    "毎週日曜の午前中に朝市が開かれており、社脇の建物では讃岐うどんの店が開かれる"
+                ],
+                "links": [
+                    {
+                        "text": "田村神社 (高松市) - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/田村神社_(高松市)",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "田村神社 - Google マップ",
+                        "url": "https://maps.app.goo.gl/wxuUEJ2MhhBDPPZEA",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 17
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    134.10125665331816,
+                    34.35793966618378
+                ],
+                "address": "日本 〒761-0111 香川県高松市屋島東町１８０８番地"
+            },
+            "properties": {
+                "title": "屋島寺",
+                "description": "四国八十八箇所第八十四番札所（やしまじ）",
+                "note": [
+                    "南面山（なんめんざん）、千光院（せんこういん）と号す",
+                    "庭園：宝物館の中からガラス越しに眺めることができる。白い凝灰岩が露出してるため雪の庭という",
+                    "江戸時代初期まで本土と離れた島であったが、寛永14年（1637年）高松藩主・生駒高俊により陸続きとなった",
+                    "琴電（ことでん） 志度線 - 潟元駅 (2.6 km)"
+                ],
+                "links": [
+                    {
+                        "text": "屋島寺 - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/屋島寺",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "屋島寺 - Google マップ",
+                        "url": "https://maps.app.goo.gl/ngaBrS8KjRFev8JP7",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 17
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    134.13944172080403,
+                    34.359812893522005
+                ],
+                "address": "日本 〒761-0121 香川県高松市牟礼町牟礼３４１６番地"
+            },
+            "properties": {
+                "title": "八栗寺",
+                "description": "四国八十八箇所第八十五番札所（やくりじ）",
+                "note": [
+                    "五剣山（ごけんざん）、観自在院（かんじざいいん）と号す",
+                    "歓喜天霊場として知られ、木食以空が東福門院から賜った伝・弘法大師作の歓喜天が祀られていて「八栗の聖天さん」と呼ばれる"
+                ],
+                "links": [
+                    {
+                        "text": "八栗寺 - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/八栗寺",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "八栗寺 - Google マップ",
+                        "url": "https://maps.app.goo.gl/Fh9wiRa3DCBoLPZY9",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 17
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    134.17968414468095,
+                    34.323614865520426
+                ],
+                "address": "日本 〒769-2101 香川県さぬき市志度１２１３番地１"
+            },
+            "properties": {
+                "title": "志度寺",
+                "description": "四国八十八箇所第八十六番札所（しどじ/しどうじ）",
+                "note": [
+                    "補陀洛山（ふだらくさん） 、清浄光院（せいじょうこういん）と号す",
+                    "境内には「海女の墓」が五輪塔群として現存する",
+                    "琴電（ことでん） 志度線 - 琴電志度駅 (0.6 km)"
+                ],
+                "links": [
+                    {
+                        "text": "志度寺 - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/志度寺",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "志度寺 - Google マップ",
+                        "url": "https://maps.app.goo.gl/yBw7841FMmtbeeC26",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 17
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    134.17475555578866,
+                    34.32356944455041
+                ],
+                "address": "香川県さぬき市志度587-1"
+            },
+            "properties": {
+                "title": "平賀源内記念館",
+                "description": "観光レンタサイクル 源チャリ | 貸出時間 午前9時〜午後4時30分"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    134.2114439967496,
+                    34.36318816601728
+                ],
+                "address": "日本 〒769-2103 香川県さぬき市小田２６７１番地１００"
+            },
+            "properties": {
+                "title": "大串自然公園",
+                "description": "小豆島の南の瀬戸内海に突き出た瀬戸内海国立公園大串半島の北部の面積100ヘクタールにおよぶ風光明媚な公園",
+                "note": [
+                    "__"
+                ],
+                "links": [
+                    {
+                        "text": "大串自然公園 - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/大串自然公園",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "大串自然公園 - Google マップ",
+                        "url": "https://maps.app.goo.gl/tuuChAbQgGpWsmGY9",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 17
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    134.17173090079763,
+                    34.26669616676024
+                ],
+                "address": "日本 〒769-2302 香川県さぬき市長尾西６５８番地"
+            },
+            "properties": {
+                "title": "長尾寺",
+                "description": "四国八十八箇所第八十七番札所（ながおじ）",
+                "note": [
+                    "補陀洛山（ふだらくさん）、観音院（かんおんいん）と号す",
+                    "琴電（ことでん） 長尾線 - 長尾駅 (0.2 km)"
+                ],
+                "links": [
+                    {
+                        "text": "長尾寺 - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/長尾寺",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "長尾寺 - Google マップ",
+                        "url": "https://maps.app.goo.gl/8U8Crv6QNN8dynfi9",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 17
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    134.2068427899543,
+                    34.19141993126058
+                ],
+                "address": "日本 〒769-2306 香川県さぬき市多和兼割９６番地"
+            },
+            "properties": {
+                "title": "大窪寺",
+                "description": "四国八十八箇所第八十八番札所（おおくぼじ）",
+                "note": [
+                    "医王山（いおうざん）遍照光院（へんじょうこういん）大窪寺と号する",
+                    "標高450m辺りにあり八十八箇所中8番目の高さのため厳冬期は積雪に注意が必要",
+                    "境内から女体山への登山道を0.68 km上がると奥の院との分岐があり、その0.2 km先に堂がある",
+                    "長尾寺近くのバス停「東町」から志度・造田・多和線で「大窪寺」下車",
+                    "長尾寺から徒歩約4時間"
+                ],
+                "links": [
+                    {
+                        "text": "大窪寺 - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/大窪寺",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "大窪寺 - Google マップ",
+                        "url": "https://maps.app.goo.gl/bri8zeDTFay45DNQ9",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 17
+            }
+        }
+    ]
+}

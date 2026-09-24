@@ -1,0 +1,165 @@
+{
+    "type": "FeatureCollection",
+    "url": "/nankai/?id=shikoku-kagawa",
+    "title": [
+        "Kagawa (Sanuki), Shikoku",
+        "香川県（讃岐国）"
+    ],
+    "description": "現在の香川県のほぼ全域、飯の霊が依り憑く男性を意味するとされる「飯依比古（いいよりひこ）」",
+    "info": {
+        "markdown": "shikoku/kagawa/README.md",
+        "note": null,
+        "links": [
+            {
+                "text": "香川県 - Wikipedia",
+                "url": "https://ja.wikipedia.org/wiki/香川県",
+                "target": "_blank"
+            },
+            {
+                "text": "讃岐国 - Wikipedia",
+                "url": "https://ja.wikipedia.org/wiki/讃岐国",
+                "target": "_blank"
+            }
+        ]
+    },
+    "map": {
+        "center": [
+            133.84603888935513,
+            34.274336111280654
+        ],
+        "bounds": [
+            [
+                133.3322225529016,
+                33.815762703998246
+            ],
+            [
+                134.66287192503103,
+                34.78486511890242
+            ]
+        ],
+        "zoom": 9.5
+    },
+    "cover": {
+        "url": null
+    },
+    "eventsJSON": [
+        "shikoku/kagawa/seisan/date.json",
+        "shikoku/kagawa/iino/date.json"
+    ],
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    133.64659197949396,
+                    34.13292237276576
+                ]
+            },
+            "properties": {
+                "title": "西讃",
+                "description": "霊峰「琴弾山」と「伊吹島」「粟島」の島四国で知られる観光都市・香川県第三の都市",
+                "links": [
+                    {
+                        "text": "西讃 Seisan, Kagawa",
+                        "url": "/nankai/?id=shikoku-kagawa&area=seisan",
+                        "target": "_self"
+                    }
+                ],
+                "zoom": 10.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    133.84603888935513,
+                    34.274336111280654
+                ],
+                "address": "香川県"
+            },
+            "properties": {
+                "title": "飯野山（飯依比古）",
+                "description": "讃岐国の国魂神、飯の霊が依り憑く男神が宿る地（いいのやま）",
+                "links": [
+                    {
+                        "text": "飯野山（飯依比古） Iino (Sakaide - Marugame), Kagawa, Shikoku",
+                        "url": "/nankai/?id=shikoku-kagawa&area=iino",
+                        "target": "_self"
+                    }
+                ],
+                "zoom": 11.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    133.81200123553754,
+                    34.43602185764155
+                ]
+            },
+            "properties": {
+                "title": "吉備児島",
+                "description": "瀬戸大橋（本州四国連絡橋のうちの「児島・坂出（香川県）ルート」）の本州側起点（きびのこじま）",
+                "links": [
+                    {
+                        "text": "吉備児島 The Great Seto Bridge (Okayama - Kagawa)",
+                        "url": "/nankai/?id=shikoku-kagawa&area=kojima",
+                        "target": "_self"
+                    }
+                ],
+                "zoom": 13
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    134.0273412593407,
+                    34.28655868428184
+                ]
+            },
+            "properties": {
+                "title": "高松都市圏",
+                "description": "瀬戸内海の島々や本州の都市とを結ぶ四国の玄関口「高松」を中心とする都市圏",
+                "links": [
+                    {
+                        "text": "高松都市圏 Takamatsu - Higashikagawa, Kagawa",
+                        "url": "/nankai/?id=shikoku-kagawa&area=takamatsu",
+                        "target": "_self"
+                    }
+                ],
+                "zoom": 11
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    134.30239388613586,
+                    34.517603407151285
+                ]
+            },
+            "properties": {
+                "title": "小豆島",
+                "description": "「天然の博物館」と呼ばれるほど生物の種類に富んでいる、船でしか渡れない有人島（しょうどしま）",
+                "links": [
+                    {
+                        "text": "小豆島 Shodoshima, Kagawa, Shikoku",
+                        "url": "/nankai/?id=shikoku-kagawa&area=shodoshima",
+                        "target": "_self"
+                    }
+                ],
+                "zoom": 10.5
+            }
+        }
+    ],
+    "lineJSON": [
+        "shikoku/dosan.json"
+    ]
+}

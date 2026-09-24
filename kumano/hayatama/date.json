@@ -1,0 +1,69 @@
+{
+    "events": [
+        {
+            "date": {
+                "month": 2,
+                "date": [
+                    6
+                ]
+            },
+            "title": [
+                "御燈祭（おとうまつり）",
+                "神倉神社"
+            ],
+            "note": [
+                "Febrary 6th every year",
+                "毎年 二月六日 夕刻から夜"
+            ],
+            "description": "国指定重要無形民俗文化財",
+            "info": {
+                "markdown": "kumano/hayatama/0206.md",
+                "links": [
+                    {
+                        "text": "御燈祭 - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/御燈祭",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "熊野速玉大社（新宮） Kumano Hayatama, Wakayama",
+                        "url": "/nankai/?id=kumano-hayatama",
+                        "target": "_self"
+                    }
+                ]
+            }
+        },
+        {
+            "date": {
+                "month": 10,
+                "date": [
+                    15,
+                    16
+                ]
+            },
+            "title": [
+                "神馬渡御式・御船祭",
+                "熊野速玉大祭"
+            ],
+            "note": [
+                "October 15th and 16 every year",
+                "毎年 十月十五・十六日"
+            ],
+            "description": "国指定重要無形民俗文化財",
+            "info": {
+                "markdown": "kumano/hayatama/101516.md",
+                "links": [
+                    {
+                        "text": "熊野速玉祭 - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/熊野速玉祭",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "熊野速玉大社（新宮） Kumano Hayatama, Wakayama",
+                        "url": "/nankai/?id=kumano-hayatama",
+                        "target": "_self"
+                    }
+                ]
+            }
+        }
+    ]
+}

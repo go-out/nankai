@@ -1,0 +1,51 @@
+{
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.07108267122248,
+                    33.97688833785028
+                ]
+            },
+            "properties": {
+                "title": "白崎海岸",
+                "description": "「日本のエーゲ海」白亜の石灰岩と紺碧の海のコントラスト",
+                "zoom": 12.25,
+                "links": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.532111206046,
+                    34.080233117653776
+                ]
+            },
+            "properties": {
+                "title": "日光神社",
+                "description": "笹ノ茶屋峠あたりを山頂とする日光山の山頂近くに鎮座する",
+                "note": [
+                    "東斜面は十津川の支流弓手原川の水源地となっていて、これらの河川の分水嶺をなしている",
+                    "笹ノ茶屋峠の北斜面一帯は日光山国有林で、その中央部、標高900メートルの高地が境内地"
+                ],
+                "zoom": 12.25,
+                "links": [
+                    {
+                        "text": "日光神社 - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/日光神社",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "日光神社 - Google マップ",
+                        "url": "https://maps.app.goo.gl/Qzf13ymvVoDTh11R8",
+                        "target": "_blank"
+                    }
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,487 @@
+{
+    "url": "/nankai/?id=shikoku-tokushima&area=minami",
+    "title": [
+        "Southern Tokushima, Shikoku",
+        "みなみ阿波"
+    ],
+    "description": "四国有数の険しい山岳地帯・日本有数の多雨地帯に位置する徳島県南部地域",
+    "info": {
+        "note": [
+            "阿南市 那賀郡（那賀町・海部郡） 牟岐町（美波町・海陽町）"
+        ],
+        "markdown": "shikoku/tokushima/minami/README.md",
+        "links": [
+            {
+                "text": "みなみ阿波 | 徳島の観光案内、体験・宿泊予約ができる",
+                "url": "https://minamiawa.jp/",
+                "target": "_blank"
+            },
+            {
+                "text": "四国山地 - Wikipedia",
+                "url": "https://ja.wikipedia.org/wiki/四国山地",
+                "target": "_blank"
+            },
+            {
+                "text": "牟岐線 - Wikipedia",
+                "url": "https://ja.wikipedia.org/wiki/牟岐線",
+                "target": "_blank"
+            },
+            {
+                "text": "那賀川 - Wikipedia",
+                "url": "https://ja.wikipedia.org/wiki/那賀川",
+                "target": "_blank"
+            },
+            {
+                "text": "日本の川 - 四国 - 那賀川 - 国土交通省水管理・国土保全局",
+                "url": "https://www.mlit.go.jp/river/toukei_chousa/kasen/jiten/nihon_kawa/0802_nakagawa/0802_nakagawa_01.html",
+                "target": "_blank"
+            },
+            {
+                "text": "徳島・室戸・高知55フリーきっぷ",
+                "url": "https://asatetu.com/GoGoFreePass/",
+                "target": "_blank"
+            }
+        ]
+    },
+    "map": {
+        "center": [
+            134.50226434,
+            33.86280806
+        ],
+        "bounds": [
+            [
+                134.03342052031496,
+                33.51997708774735
+            ],
+            [
+                134.88760074251013,
+                33.954484272517476
+            ]
+        ],
+        "zoom": 10.5
+    },
+    "cover": {
+        "url": null
+    },
+    "eventsJSON": [
+        "shikoku/tokushima/minami/date.json"
+    ],
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    134.505588889122,
+                    33.91384722179836
+                ],
+                "address": "徳島県勝浦郡勝浦町生名字鷲ヶ尾14"
+            },
+            "properties": {
+                "title": "鶴林寺",
+                "description": "四国八十八箇所第二十番札所（かくりんじ）、遍路道は国の史跡",
+                "note": [
+                    "山号は霊鷲山（りょうじゅさん）、院号は宝珠院（ほうじゅいん）と号する",
+                    "鶴林寺山（標高516.1 m）の山頂近くに位置する「一に焼山、二にお鶴、三に太龍」と並び称される阿波の難所の一つ",
+                    "表参道は「へんろころがし」といわれる急傾斜の山道",
+                    "弘法大師が杖を突くと水が噴き出たという伝説の所「水呑大師」から鶴林寺の間約1.27km「鶴林寺道」と、太龍寺道へ続く遍路のうち大井集落手前までの約1.3 km「太龍寺道（前半）」は国の史跡",
+                    "アクセス<br>JR徳島駅発着 徳島バス 勝浦線（横瀬行）「生名」下車 (徒歩約1時間、約5km)"
+                ],
+                "links": [
+                    {
+                        "text": "鶴林寺 (徳島県勝浦町) - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/鶴林寺_(徳島県勝浦町)",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "鶴林寺 - Google マップ",
+                        "url": "https://maps.app.goo.gl/b2YH9zWRqiLzaP2fA",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "水呑大師 - Google マップ",
+                        "url": "https://maps.app.goo.gl/zptse3EBBv5ZZukQA",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "徳島バス勝浦線「生名」 - Google マップ",
+                        "url": "https://maps.app.goo.gl/iYDWT8ehcSoqdPjJ8",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 16
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    134.52187222215866,
+                    33.88253611140781
+                ],
+                "address": "徳島県阿南市加茂町龍山2"
+            },
+            "properties": {
+                "title": "太龍寺",
+                "description": "四国八十八箇所の第二十一番札所（たいりゅうじ）、西の高野と称される大伽藍を有する",
+                "note": [
+                    "舎心山（しゃしんざん）、常住院（じょうじゅういん）と号す",
+                    "大伽藍は西の高野と称され、阿南室戸歴史文化道に指定・とくしま88景に選定される",
+                    "阿波では「一に焼山、二にお鶴、三に太龍」と称され、へんろころがしと呼ばれる難所の一つ"
+                ],
+                "links": [
+                    {
+                        "text": "太龍寺 - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/太龍寺",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "太龍寺 - Google マップ",
+                        "url": "https://maps.app.goo.gl/Pn1uJPpeGFoE43ET6",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 16
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    134.50226434,
+                    33.86280806
+                ],
+                "address": "那賀町和食郷字田野76"
+            },
+            "properties": {
+                "title": "太龍寺ロープウェイ",
+                "description": "全長2,775mで西日本で最長、日本で最初の山越えを行うロープウェイ",
+                "note": [
+                    "四国八十八景第17番「西日本最長ロープウェイからの和歌山まで望める雄大な眺め」",
+                    "乗車時間11分で一挙に標高476メートルに到達し本堂への石段下に至る",
+                    "アクセス<br>徳島バス南部（88 丹生谷線）「桑野上（JR桑野駅前）」 - 「那賀警察前（太龍寺ロープウェイ付近）」が2時間に1本程度運行"
+                ],
+                "links": [
+                    {
+                        "text": "太龍寺ロープウェイ - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/太龍寺ロープウェイ",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "太龍寺駅 - Google マップ",
+                        "url": "https://maps.app.goo.gl/XZbZCpHTwJwfrHhJ9",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "太龍寺ロープウェイ 鷲の里駅 - Google マップ",
+                        "url": "https://maps.app.goo.gl/HpkkyTR2QU9KDS9w5",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 15
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    134.58274166636997,
+                    33.85195277783606
+                ],
+                "address": "徳島県阿南市新野町秋山177"
+            },
+            "properties": {
+                "title": "平等寺",
+                "description": "四国八十八箇所第二十二番札所（びょうどうじ）、四国八十八景18番「涅槃大師に見える風景」",
+                "note": [
+                    "白水山（はくすいざん）、医王院（いおういん）と号す",
+                    "周辺には、「月夜御水大師」・「弥谷観音堂」など複数の奥之院・霊跡がある",
+                    "22 平等寺 --- 22番奥の院 月夜御水大師 --- 鉦打大師・鉦打坂薬師 --- 22番奥の院 弥谷観音堂 --- 23 薬王寺"
+                ],
+                "links": [
+                    {
+                        "text": "平等寺 (阿南市) - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/平等寺_(阿南市)",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "平等寺 - Google マップ",
+                        "url": "https://maps.app.goo.gl/GuPVSDRzxbqDigS99",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 16.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    134.63897831,
+                    33.87742167
+                ],
+                "address": "橘町荒神ノ上付近"
+            },
+            "properties": {
+                "title": "橘湾展望地",
+                "description": "日本一の火力発電所と大小のさまざまの島々が点在するリアス式海岸「橘湾」を一望できる展望スポット"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    134.59027382592842,
+                    33.77365294556641
+                ],
+                "address": "日本 〒779-2103 徳島県海部郡美波町西の地西地２番地"
+            },
+            "properties": {
+                "title": "西由岐八幡神社",
+                "description": "毎年 九月中旬 秋祭りで徳島県指定無形民俗文化財「うちわ踊り」が行われる"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    134.53035979420662,
+                    33.72937105249024
+                ],
+                "address": "日本 〒779-2305 徳島県海部郡美波町奥河内弁才天７５番地４"
+            },
+            "properties": {
+                "title": "美波町観光案内所",
+                "description": "レンタサイクル 電動アシスト付き　1日1,000円\n営業時間 9時00分～17時00分\n"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    134.5275417,
+                    33.7323472
+                ],
+                "address": "〒779-2305 徳島県海部郡美波町奥河内寺前285番地1"
+            },
+            "properties": {
+                "title": "薬王寺",
+                "description": "四国八十八箇所の第二十三番札所（やくおうじ）、四国八十八景19番「一望する日和佐の町並み」",
+                "note": [
+                    "医王山（いおうざん）、無量寿院（むりょうじゅいん）と号す",
+                    "寺伝によれば、神亀3年（726年）に聖武天皇の勅願により行基が創建と伝わる",
+                    "弘仁6年（815年）には平城上皇の勅命によって空海（弘法大師）が厄除けのため薬師如来像を刻み、伽藍を建立"
+                ],
+                "links": [
+                    {
+                        "text": "薬王寺 (徳島県美波町) - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/薬王寺_(徳島県美波町)",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "薬王寺 - Google マップ",
+                        "url": "https://maps.app.goo.gl/pZoc6Hay3BgLh17X6",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 17
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    134.49910400237297,
+                    33.7761902862911
+                ],
+                "address": "〒779-2301 徳島県海部郡美波町赤松阿地屋"
+            },
+            "properties": {
+                "title": "赤松神社",
+                "description": "毎年 十月に徳島県指定無形民俗文化財「阿波の吹筒煙火」が行われる"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    134.54153132739305,
+                    33.73372303717582
+                ],
+                "address": "日本 〒779-2304 徳島県海部郡美波町日和佐浦３６８番地１"
+            },
+            "properties": {
+                "title": "大浜海岸",
+                "description": "国の天然記念物「大浜海岸のウミガメおよびその産卵地」",
+                "note": [
+                    "ウミガメの産卵地として知られ、毎年5月20日から8月20日までの期間は立入禁止や諸車通行禁止の区域が設けられる"
+                ],
+                "links": [
+                    {
+                        "text": "大浜海岸 (美波町) - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/大浜海岸_(美波町)",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "大浜海岸 - Google マップ",
+                        "url": "https://maps.app.goo.gl/36pNbNGVdS5BPRaH7",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 14.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    134.44524322632952,
+                    33.666083998662
+                ],
+                "address": "日本 〒775-0005 徳島県海部郡牟岐町灘"
+            },
+            "properties": {
+                "title": "松ヶ磯",
+                "description": "四国八十八景20番「潮の満ち引きで姿を変える松ヶ磯」"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    134.25405833323796,
+                    33.69731666670905
+                ],
+                "address": "徳島県海部郡海陽町平井王余魚谷"
+            },
+            "properties": {
+                "title": "轟九十九滝",
+                "description": "日本の滝百選のひとつ四国有数の大滝「轟の滝」",
+                "note": [
+                    "滝の上流には、それぞれの趣をもった大小さまざまな滝が連続してあり、総称して轟九十九滝と呼ばれる",
+                    "遊歩道が整備されており、往復2時間あれば、ゆっくりと散策できる",
+                    "JR阿波海南駅より町営バス（平井線）利用して轟神社で下車（所要時間55分）",
+                    "毎年11月第2日曜日には秋祭りが行われ、御輿が滝壺に入る滝渡御（たきとぎょ）は祭の勇壮なクライマックス"
+                ],
+                "links": [
+                    {
+                        "text": "轟九十九滝 - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/轟九十九滝",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "轟九十九滝 - Google マップ",
+                        "url": "https://maps.app.goo.gl/frNuuveBuDxDDPHh8",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 14
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    134.350988888873,
+                    33.60668333318498
+                ],
+                "address": "徳島県海部郡海陽町四方原"
+            },
+            "properties": {
+                "title": "阿波海南",
+                "description": "四国旅客鉄道（JR四国）牟岐線の終着駅・阿佐海岸鉄道阿佐東線の起点（あわかいなん）"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    134.3009345299983,
+                    33.569079064832906
+                ],
+                "address": "日本 〒775-0502 徳島県海部郡海陽町久保久保３番地"
+            },
+            "properties": {
+                "title": "宍喰八坂神社",
+                "description": "毎年 七月十六・十七日に徳島県指定無形民俗文化財「宍喰祇園祭の山鉾行事」が行われる"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    134.3110529592372,
+                    33.56030204358649
+                ],
+                "address": "日本 〒775-0501 徳島県海部郡海陽町宍喰浦古目８４番地６"
+            },
+            "properties": {
+                "title": "宍喰浦の化石漣痕",
+                "description": "国の天然記念物・日本の地質百選に指定されている日本最大級の連痕"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    134.31613164,
+                    33.54591375
+                ],
+                "address": "Shishikuiura"
+            },
+            "properties": {
+                "title": "竹ヶ島海中公園",
+                "description": "四国八十八景21番「海中観光船による竹ケ島海域公園幻想クルーズ」"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    134.07887187397137,
+                    33.78851864135575
+                ],
+                "address": "日本 〒771-6512 徳島県那賀郡那賀町木頭北川"
+            },
+            "properties": {
+                "title": "高の瀬峡",
+                "description": "那賀川の源流域で剣山国定公園に属す、特に紅葉では四国随一と賞賛される",
+                "note": [
+                    "見頃 10月下旬 - 11月中旬"
+                ],
+                "links": [
+                    {
+                        "text": "高の瀬峡 - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/高の瀬峡",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "高の瀬峡 - Google マップ",
+                        "url": "https://maps.app.goo.gl/bqJajR32Rv7xkkey5",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 14
+            }
+        }
+    ],
+    "lineJSON": [
+        "/nankai/shikoku/kouchi/higashi/index.json"
+    ]
+}

@@ -1,0 +1,853 @@
+{
+    "url": "/nankai/?id=shikoku-tokushima&area=naruto",
+    "title": [
+        "Tokushima - Kagawa, Shikoku",
+        "鳴門海峡と讃岐山脈"
+    ],
+    "description": "「鳴門の渦潮」で知られる海峡（日本百景）と、阿波・淡路の総鎮守を祀る霊峰",
+    "info": {
+        "note": [
+            "鳴門市 板野郡（北島町 - 松茂町 - 藍住町 - 板野町 - 上板町） 阿波市"
+        ],
+        "markdown": "shikoku/tokushima/naruto/README.md",
+        "links": [
+            {
+                "text": "鳴門海峡 - Wikipedia",
+                "url": "https://ja.wikipedia.org/wiki/鳴門海峡",
+                "target": "_blank"
+            },
+            {
+                "text": "大麻山 (徳島県) - Wikipedia",
+                "url": "https://ja.wikipedia.org/wiki/大麻山_(徳島県)",
+                "target": "_blank"
+            },
+            {
+                "text": "天日鷲神 - Wikipedia",
+                "url": "https://ja.wikipedia.org/wiki/天日鷲神",
+                "target": "_blank"
+            },
+            {
+                "text": "天富命 - Wikipedia",
+                "url": "https://ja.wikipedia.org/wiki/天富命",
+                "target": "_blank"
+            },
+            {
+                "text": "一般社団法人 忌部文化研究所",
+                "url": "https://www.awainbe.jp/",
+                "target": "_blank"
+            },
+            {
+                "text": "大麻山探勝のみち | 徳島県版四国のみちガイド",
+                "url": "https://www.pref.tokushima.lg.jp/shikoku-nature-trail/course/course02/",
+                "target": "_blank"
+            }
+        ]
+    },
+    "map": {
+        "center": [
+            134.4995789272338,
+            34.18632384879679
+        ],
+        "bounds": [
+            [
+                134.16809498060462,
+                34.05672398486864
+            ],
+            [
+                134.68551630757418,
+                34.259851974050065
+            ]
+        ],
+        "zoom": 11.5
+    },
+    "cover": {
+        "url": null
+    },
+    "events": [
+        {
+            "date": {
+                "month": 8,
+                "date": [
+                    18
+                ]
+            },
+            "title": [
+                "奥宮例祭",
+                "大麻比古神社"
+            ],
+            "note": [
+                "August 18th every year",
+                "毎年 八月十八日 午後二時"
+            ],
+            "description": "大麻山山頂に鎮座する奥宮峯神社の例祭",
+            "info": {
+                "note": [
+                    "当日は氏子を初め信者たちによって神輿の渡御",
+                    "宵宮（十七日）には、夜を徹して氏子崇敬者の繁栄を祈願する大祈祷祭が行われる"
+                ],
+                "links": null
+            }
+        },
+        {
+            "date": {
+                "month": 11,
+                "date": [
+                    1
+                ]
+            },
+            "title": [
+                "例祭",
+                "大麻比古神社"
+            ],
+            "note": [
+                "Novenber 1st every year",
+                "毎年 十一月一日 午後二時"
+            ],
+            "description": "大麻さんの秋祭り",
+            "info": {
+                "note": [
+                    "大鳥居そばの御旅所まで、約1kmの参道を氏子に担がれた神輿を先頭に、装束をつけた大勢のお供が行列する"
+                ],
+                "links": null
+            }
+        }
+    ],
+    "eventsJSON": [
+        "shikoku/tokushima/naruto/date.json"
+    ],
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    134.64791388935512,
+                    34.237869444423254
+                ],
+                "address": "徳島県鳴門市鳴門町土佐泊浦"
+            },
+            "properties": {
+                "title": "渦の道（大鳴門橋遊歩道）",
+                "description": "うずしおベストタイムは、夕方の満潮時と朝の干潮時",
+                "note": [
+                    "四国八十八景「海上45mより見下ろす迫力の渦潮」",
+                    "関西方面から高速バス「鳴門公園口」下車徒歩すぐ<br>JR徳島駅前・JR鳴門駅前から路線バス「鳴門公園」下車徒歩5分"
+                ],
+                "links": [
+                    {
+                        "text": "大鳴門橋遊歩道 渦の道 | 渦潮が真下に見える道",
+                        "url": "https://www.uzunomichi.jp/",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "大鳴門橋遊歩道 渦の道 - Google マップ",
+                        "url": "https://maps.app.goo.gl/nkvsWxZ4QfgjMgNPA",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 13.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    134.6418690457552,
+                    34.23720912980451
+                ],
+                "address": "日本 〒772-0053 徳島県鳴門市鳴門町土佐泊浦福池６５番地６"
+            },
+            "properties": {
+                "title": "うづ乃家",
+                "description": "鳴門の特産物屋を併設する懐石料理の食事処"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    134.61211797,
+                    34.24271265
+                ],
+                "address": "瀬戸町大島田中山1-1"
+            },
+            "properties": {
+                "title": "レストラン カリフォルニア テーブル",
+                "description": "ホテルリッジ内にある、鳴門海峡を一望できるレストラン（ランチ・ディナーともに要予約）",
+                "note": [
+                    "営業時間 11:00 - 16:00・17:30 - 20:00（定休日 月曜日）"
+                ],
+                "links": [
+                    {
+                        "text": "カリフォルニアテーブル | Hotel RIDGE ホテルリッジ公式",
+                        "url": "https://hotelridge.jp/california-table/",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "カリフォルニアテーブル - Google マップ",
+                        "url": "https://maps.app.goo.gl/Fq8rBSkbozywRZqu8",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 15.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    134.5936880966625,
+                    34.19645708922802
+                ],
+                "address": "日本 〒772-0060 徳島県鳴門市瀬戸町明神弐軒家９０番地１"
+            },
+            "properties": {
+                "title": "海鮮市場 魚大将",
+                "description": "その日の漁の獲れたての魚介を活かしたお寿司や海鮮丼が味わえる海鮮料理店"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    134.60361633144402,
+                    34.18911775827567
+                ],
+                "address": "日本 〒772-0011 徳島県鳴門市撫養町大桑島北ノ浜５１番地１"
+            },
+            "properties": {
+                "title": "味処 あらし",
+                "description": "鳴門海峡の海の幸と地元徳島産の食材を中心とした徳島の旬が味わえる日本料理店"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    134.60853539280112,
+                    34.179250046284935
+                ]
+            },
+            "properties": {
+                "title": "鳴門駅",
+                "description": "JR四国「鳴門線」の終点、徳島・阿南方面へのアクセス拠点駅",
+                "note": [
+                    "電車の発着は、1時間に1本程度",
+                    "駅周辺にある「鳴門市観光情報センター」「なると物産館」にてレンタサイクル貸出あり<br>（なると物産館⇔鳴門市観光情報センター相互乗り捨て可）"
+                ],
+                "links": [
+                    {
+                        "text": "観光情報センター｜鳴門市観光コンベンション株式会社",
+                        "url": "https://www.narutokc.com/center.php",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "鳴門の地場産品紹介｜なると物産館｜鳴門市うずしお観光協会",
+                        "url": "https://www.naruto-bussan.jp/",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "鳴門駅 - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/鳴門駅",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "鳴門駅 - Google マップ",
+                        "url": "https://maps.app.goo.gl/5x58gCdhn1oKSeeQ9",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "鳴門市観光情報センター - Google マップ",
+                        "url": "https://maps.app.goo.gl/SLDNFbMLfSbTmvq86",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "なると物産館 - Google マップ",
+                        "url": "https://maps.app.goo.gl/X4fKov6L8K1n99Hu9",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 15
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    134.5926194,
+                    34.1847778
+                ],
+                "address": "〒772-0001 徳島県鳴門市撫養町黒崎八幡130番地"
+            },
+            "properties": {
+                "title": "宇佐八幡神社",
+                "description": "毎年 十月十三日 特殊神事「宇佐八幡神社のお御供」が行われる",
+                "note": [
+                    "元は八幡祠と称し、西方の八幡山麓に創建されたと伝わる",
+                    "江戸時代（1599（慶長4）年）頃に始まったとされる「お御供（女性だけが神前に進み、お供え物を献上する珍しい神事）」は、徳島県・鳴門市指定無形民俗文化財"
+                ],
+                "links": [
+                    {
+                        "text": "宇佐八幡神社 (鳴門市) - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/宇佐八幡神社_(鳴門市)",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "宇佐八幡神社 - Google マップ",
+                        "url": "https://maps.app.goo.gl/F7FtZcHtTMoPLek67",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 16.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    134.5352774628068,
+                    34.16034261554971
+                ],
+                "address": "日本 〒779-0303 徳島県鳴門市大麻町池谷大石７５番地２"
+            },
+            "properties": {
+                "title": "阿波神社・東林院",
+                "description": "宮内庁管轄の土御門天皇火葬塚がある「阿波神社」と、霊山寺の奥之院とされる「東林院」"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    134.52890602513924,
+                    34.15293020091012
+                ]
+            },
+            "properties": {
+                "title": "池谷駅",
+                "description": "香川・高松方面へ向かう「高徳線」と、鳴門〜徳島・阿南方面を結ぶ「鳴門線」の分岐駅",
+                "note": [
+                    "電車の発着は、高松方面へ1時間に1~2本・徳島方面へ1時間に2~4本程度"
+                ],
+                "links": [
+                    {
+                        "text": "池谷駅 - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/池谷駅",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "池谷駅 - Google マップ",
+                        "url": "https://maps.app.goo.gl/2NW3uQjNUH1KB4rP6",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 15
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    134.49955864766662,
+                    34.18624512012509
+                ],
+                "address": "日本 〒779-0225 徳島県鳴門市大麻町桧"
+            },
+            "properties": {
+                "title": "大麻山",
+                "description": "鳴門市最高峰（おおあさやま、標高約538m）、別名「弥山（十八山・大麻さん）」",
+                "note": [
+                    "頂上からは北に瀬戸内海、南に徳島平野が一望でき、一帯は大麻山県立自然公園に指定されている"
+                ],
+                "links": [
+                    {
+                        "text": "大麻山探勝のみち | 徳島県版四国のみちガイド",
+                        "url": "https://www.pref.tokushima.lg.jp/shikoku-nature-trail/course/course02/",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "大麻山 (徳島県) - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/大麻山_(徳島県)",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "大麻山 - Google マップ",
+                        "url": "https://maps.app.goo.gl/C8Th6RtP4q25xNUQ8",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 13.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    134.50258055554497,
+                    34.17095000002119
+                ],
+                "address": "徳島県鳴門市大麻町板東字広塚１３"
+            },
+            "properties": {
+                "title": "大麻比古神社",
+                "description": "大麻山の麓に鎮座する「阿波・淡路」両国の総鎮守（おおあさひこじんじゃ）",
+                "note": [
+                    "（古くは大麻山山頂にあった猿田彦大神が祭神だったが、神社・神主は阿波忌部氏の祖神「大麻比古神」を祭神としている）",
+                    "境内は大麻山県立自然公園に指定・大麻山登山道の起点（大麻山山頂までは約1時間から1時間半）"
+                ],
+                "links": [
+                    {
+                        "text": "阿波國一の宮 大麻比古神社",
+                        "url": "https://www.ooasahikojinja.jp/",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "大麻比古神社 - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/大麻比古神社",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "大麻比古神社 - Google マップ",
+                        "url": "https://maps.app.goo.gl/KwwnYxHZt5brPie16",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 15
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    134.5029761839582,
+                    34.1594230744262
+                ],
+                "address": "日本 〒779-0230 徳島県鳴門市大麻町板東塚鼻１２６番地"
+            },
+            "properties": {
+                "title": "霊山寺",
+                "description": "四国八十八箇所第一番札所・とくしま88景（りょうぜんじ）",
+                "note": [
+                    "山号は竺和山（じくわさん）・院号は一乗院（いちじょういん）",
+                    "寺伝によれば奈良時代に聖武天皇の勅願により、行基によって開創",
+                    "弘仁6年（815年）に空海（弘法大師）が21日間（三七日）留まって修行したという"
+                ],
+                "links": [
+                    {
+                        "text": "霊山寺 (鳴門市) - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/霊山寺_(鳴門市)",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "霊山寺 - Google マップ",
+                        "url": "https://maps.app.goo.gl/JPu5qoe1WH9GvdQr6",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 16.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    134.49034939999189,
+                    34.15565208826703
+                ],
+                "address": "日本 〒779-0225 徳島県鳴門市大麻町桧ダンノ上１２番地"
+            },
+            "properties": {
+                "title": "極楽寺",
+                "description": "四国八十八箇所第二番札所（ごくらくじ）",
+                "note": [
+                    "日照山（にっしょうざん）無量寿院（むりょうじゅいん）と号す",
+                    "寺伝によれば、奈良時代（710年 - 784年）に行基が開基",
+                    "弘仁6年（815年）に空海（弘法大師）が21日間（三七日）留まって修行したという",
+                    "困った漁民たちが本堂の前に山を築いて光をさえぎったということから「日照山」と号するとされる"
+                ],
+                "links": [
+                    {
+                        "text": "極楽寺 (鳴門市) - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/極楽寺_(鳴門市)",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "極楽寺 二番札所 - Google マップ",
+                        "url": "https://maps.app.goo.gl/BQMhLxSv2UyGb14y9",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 16.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    134.46854166666668,
+                    34.147427778244015
+                ],
+                "address": "徳島県板野郡板野町大寺亀山下66"
+            },
+            "properties": {
+                "title": "金泉寺",
+                "description": "四国八十八箇所第三番札所（こんせんじ）",
+                "note": [
+                    "亀光山（きこうざん）釈迦院（しゃかいん）と号す",
+                    "寺伝によれば、奈良時代に聖武天皇の勅願により行基が本尊を刻み、金光明寺と称したという",
+                    "その後、空海（弘法大師）が訪れた際に、水不足解消のため井戸を掘り、黄金井の霊水が湧出したことから寺号を金泉寺としたという"
+                ],
+                "links": [
+                    {
+                        "text": "金泉寺 - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/金泉寺",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "金泉寺 - Google マップ",
+                        "url": "https://maps.app.goo.gl/3KogRmk3sPVcmFtS9",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 16.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    134.4736249997881,
+                    34.136691666709055
+                ],
+                "address": "徳島県板野郡板野町川端字中手崎39-5"
+            },
+            "properties": {
+                "title": "道の駅「いたの」",
+                "description": "特産物直売所、レストラン及び軽飲食コーナーや地域情報コーナーのほか、レンタサイクルなどを整備"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    134.4392386315335,
+                    34.139911991977826
+                ]
+            },
+            "properties": {
+                "title": "愛染院",
+                "description": "第三番札所金泉寺の奥の院（あいぜんいん）",
+                "note": [
+                    "山号は金鶏山・別名は那東のお不動さん",
+                    "平安時代前期の弘仁7年（816年）四国を巡錫中の弘法大師（空海）がこの地に霊気を感じ、みずから不動明王を刻み、本尊として安置したのが始まりと伝わる",
+                    "三番札所金泉寺より西へ約3km、大日寺へ向かう遍路道の途中にあり、地元では「那東のお不動さん」として親しまれている",
+                    "明治・大正時代までは「阿弥陀寺（あみだん）)」と呼ばれていたが、大正10年に四国二十一番札所太龍寺の境内にあった「愛染院」と合併し、現在の寺名となった"
+                ],
+                "links": [
+                    {
+                        "text": "愛染院 (徳島県板野町) - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/愛染院_(徳島県板野町)",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "愛染院 - Google マップ",
+                        "url": "https://maps.app.goo.gl/s5qtNkszNCnKM8Fd9",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 17
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    134.4308333,
+                    34.1513472
+                ],
+                "address": "〒779-0113 徳島県板野郡板野町黒谷居内5番地"
+            },
+            "properties": {
+                "title": "大日寺",
+                "description": "四国八十八箇所第四番札所・境内に「国の史跡・遍路道」が残る（だいにちじ）",
+                "note": [
+                    "山号は黒巌山（こくがんざん）、院号は遍照院（へんじょういん）と号す",
+                    "寺伝によれば空海（弘法大師）がこの地での修行中に大日如来を感得、一刀三礼して1尺8寸（約55cm）の大日如来像を刻み、これを本尊として創建",
+                    "この地が三方を山に囲まれ黒谷と呼ばれていたのが由来で、黒谷寺（くろたにでら）とも呼ばれていたという"
+                ],
+                "links": [
+                    {
+                        "text": "大日寺 (徳島県板野町) - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/大日寺_(徳島県板野町)",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "大日寺 - Google マップ",
+                        "url": "https://maps.app.goo.gl/noZ8MuYCi8QhnGoE9",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 16.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    134.43195555580985,
+                    34.13716388887829
+                ],
+                "address": "徳島県板野郡板野町羅漢字林東5"
+            },
+            "properties": {
+                "title": "地蔵寺",
+                "description": "四国八十八箇所第五番札所・境内に「国の史跡・遍路道」が残る（じぞうじ）",
+                "note": [
+                    "無尽山（むじんざん）荘厳院（しょうごんいん）と号す",
+                    "寺伝によれば弘仁12年（821年）、嵯峨天皇の勅願により空海（弘法大師）が一寸8分の甲冑を身にまとい馬にまたがる姿をしていると云われる勝軍地蔵菩薩を自ら刻み、本尊として開創したと伝えられる",
+                    "当時は伽藍の規模も壮大で26の塔頭と、阿波・讃岐・伊予の3国で300あまりの末寺を持ったという",
+                    "本寺の北側には、安永4年（1775年）に実聞・実名という兄弟の僧によって創建された奥之院「五百羅漢堂（五百羅漢）」がある",
+                    "大護摩供養が、毎年3月第1日曜日に行われる"
+                ],
+                "links": [
+                    {
+                        "text": "地蔵寺 (徳島県板野町) - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/地蔵寺_(徳島県板野町)",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "地蔵寺 - Google マップ",
+                        "url": "https://maps.app.goo.gl/SNXhcXA38YNTQmcx9",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 16.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    134.38838055557673,
+                    34.11805555555556
+                ],
+                "address": "徳島県板野郡上板町引野寺ノ西北8"
+            },
+            "properties": {
+                "title": "安楽寺",
+                "description": "四国八十八箇所第六番札所・お遍路で一番最初の宿坊（あんらくじ）",
+                "note": [
+                    "温泉山（おんせんざん）瑠璃光院（るりこういん）と号す",
+                    "寺伝によれば弘仁6年（815年）に現在地よりおよそ2km離れた安楽寺谷に、空海（弘法大師）が堂宇を建立し薬師如来を刻んで本尊としたという",
+                    "万治年間（1658年 - 1661年）に現在地に駅路寺であった瑞運寺を併合して再建",
+                    "境内には、大師堂前から湧き出るラジウム鉱泉入りの薬湯温泉を持つ宿坊（寺院に設けられた宿泊施設）がある"
+                ],
+                "links": [
+                    {
+                        "text": "【公式】徳島県 温泉山 安楽寺",
+                        "url": "https://shikoku6.or.jp/",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "安楽寺 (徳島県上板町) - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/安楽寺_(徳島県上板町)",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "安楽寺 - Google マップ",
+                        "url": "https://maps.app.goo.gl/TMY4nKD3wv735cFD8",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 16.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    134.378004,
+                    34.12073763
+                ],
+                "address": "土成町高尾字法教田58"
+            },
+            "properties": {
+                "title": "十楽寺",
+                "description": "四国八十八箇所第七番札所（じゅうらくじ）",
+                "note": [
+                    "光明山（こうみょうざん）、蓮華院（れんげいん）と号す",
+                    "寺伝によれば、空海（弘法大師）がこの地に逗留した際に阿弥陀如来を感得し、楠にその像を刻み本尊として祀ったとされる",
+                    "当初は現在地よりおよそ3km離れた十楽寺谷の堂ヶ原に堂宇を建立したものと推定されている",
+                    "空海は人間の持つ八苦（生、老、病、死、愛別離苦、怨憎会苦、求不得苦、五陰盛苦）を離れ、極楽浄土に往生すると受けられる十の光明に輝く楽しみ（聖衆来迎楽、蓮華初会楽、身相神通楽、五妙境界楽、快楽無退楽、引接結縁楽、聖衆倶会楽、見仏聞法楽、随心供仏楽、増進仏道楽）が得られるようにと山号・寺号を「光明山十楽寺」とした"
+                ],
+                "links": [
+                    {
+                        "text": "十楽寺 (阿波市) - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/十楽寺_(阿波市)",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "十楽寺 - Google マップ",
+                        "url": "https://maps.app.goo.gl/7iC1hgG2N1FrcSTs8",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 16.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    134.34003881062324,
+                    34.12276313991222
+                ],
+                "address": "日本 〒771-1506 徳島県阿波市土成町土成前田１８５番地"
+            },
+            "properties": {
+                "title": "熊谷寺",
+                "description": "四国八十八箇所第八番札所（くまだにじ）",
+                "note": [
+                    "普明山（ふみょうざん）真光院（しんこういん）と号す",
+                    "毎月18日ライトアップされた本尊千手観音菩薩が黄金に輝く"
+                ],
+                "links": [
+                    {
+                        "text": "熊谷寺 (阿波市) - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/熊谷寺_(阿波市)",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "熊谷寺 - Google マップ",
+                        "url": "https://maps.app.goo.gl/mVvg7Poz1CrxNX9RA",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 16.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    134.33376666665075,
+                    34.10438888894187
+                ],
+                "address": "徳島県阿波市土成町土成田中198-2"
+            },
+            "properties": {
+                "title": "法輪寺",
+                "description": "四国八十八箇所第九番札所（ほうりんじ）",
+                "note": [
+                    "正覚山（しょうかくざん）菩提院（ぼだいいん）と号す",
+                    "本尊は涅槃釈迦如来で毎年2月15日に開帳される",
+                    "巡錫中の空海（弘法大師）が白蛇を見、白蛇が仏の使いといわれていることから釈迦涅槃像を刻んで本尊として開基したと伝えられている",
+                    "当初は現在地より4キロメートル北方の法地ヶ渓にあり白蛇山法林寺もしくは法淋寺と号した",
+                    "周辺には、空海が水不足に苦しむ農民を哀れみ、小豆を洗った水を加持して清水を湧出させたと云われる霊跡「小豆洗大師堂（あずきあらいだいしどう）」がある"
+                ],
+                "links": [
+                    {
+                        "text": "法輪寺 (阿波市) - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/法輪寺_(阿波市)",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "法輪寺 - Google マップ",
+                        "url": "https://maps.app.goo.gl/uvFz3UDYJYtfA9ek9",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "小豆洗大師 - Google マップ",
+                        "url": "https://maps.app.goo.gl/utBXWmbaByYLADQP7",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 16.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    134.30426944441265,
+                    34.107761111259464
+                ],
+                "address": "徳島県阿波市市場町切幡観音129"
+            },
+            "properties": {
+                "title": "切幡寺",
+                "description": "四国八十八箇所第十番札所・境内に「国の史跡・遍路道」が残る（きりはたじ）",
+                "note": [
+                    "得度山（とくどざん）灌頂院（かんじょういん）と号す",
+                    "大塔の奥に進んだところに「八祖大師」があるほか、周辺には番外霊場「犬墓大師堂」がある"
+                ],
+                "links": [
+                    {
+                        "text": "切幡寺 - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/切幡寺",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "切幡寺 - Google マップ",
+                        "url": "https://maps.app.goo.gl/AeDRA3ShbLrnzwBY9",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "犬墓大師堂 - Google マップ",
+                        "url": "https://maps.app.goo.gl/sn3VyKVGC2adwjcK7",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 16
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    134.31799296,
+                    34.06614018
+                ],
+                "address": "徳島県吉野川市川島町川島"
+            },
+            "properties": {
+                "title": "岩の鼻展望台",
+                "description": "阿波九城のひとつである川島城の跡を整備した公園「川島公園」内にある、吉野川を一望できる展望台",
+                "note": [
+                    "遍路は、四国八十八箇所第十番札所（吉野川左岸）から吉野川を渡った右岸（南岸）へ通じる"
+                ],
+                "links": [
+                    {
+                        "text": "吉野川 Yoshino-gawa, Tokushima, Shikoku",
+                        "url": "/nankai/?id=shikoku-tokushima&area=yoshinogawa",
+                        "target": "_self"
+                    }
+                ],
+                "zoom": 15
+            }
+        }
+    ]
+}

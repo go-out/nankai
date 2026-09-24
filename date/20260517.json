@@ -1,0 +1,249 @@
+{
+    "path": "../",
+    "url": "date/",
+    "date": null,
+    "cover": {
+        "title": [
+            "和歌祭",
+            "Waka Matsuri"
+        ],
+        "description": "堺駅 七時二十分発 - 和歌山市駅 八時九分着（特急サザン1号）",
+        "note": [
+            "電車＋バスで巡る和歌山市（名草・和歌浦）",
+            "和歌山観光デジタルきっぷ"
+        ],
+        "directory": null,
+        "url": null
+    },
+    "info": {
+        "index": "二〇二六年五月十七日",
+        "note": [
+            "1. 電車往復乗車券（乗車券のみ、座席指定券付き）",
+            "2. 和歌山バス、和歌山バス那賀の1日フリー乗車券",
+            "3. 対象店舗・施設で利用できる特典クーポン付き",
+            "発売額 大人：2,080円<br>特急サザン往復座席指定券付き 大人：2,630円"
+        ],
+        "links": [
+            {
+                "text": "和歌山市（名草・和歌浦） Wakayama City, Wakayama",
+                "url": "?id=kii&area=wakayama",
+                "target": "_self"
+            },
+            {
+                "text": "和歌山観光デジタルきっぷ | 南海電鉄",
+                "url": "https://www.nankai.co.jp/traffic/digital/kwakayama_kanko.html",
+                "target": "_blank"
+            },
+            {
+                "text": "わかやま交通案内 | 和歌山バス",
+                "url": "https://transfer-cloud.navitime.biz/wakayamabus",
+                "target": "_blank"
+            }
+        ]
+    },
+    "events": [
+        {
+            "date": null,
+            "title": [
+                "日前宮",
+                "（日前神宮・國懸神宮）"
+            ],
+            "description": "南海和歌山市駅からJR和歌山駅まで約15分・JR和歌山駅から日前宮前まで約5分",
+            "note": [
+                "和歌山バス（乗換1回 約36分）",
+                "南海和歌山市駅 - JR和歌山駅・JR和歌山駅東口 - 日前宮前"
+            ],
+            "info": {
+                "note": [
+                    "伊勢国が大和国への東の出口に対する西の出口にあたり、伊勢神宮とほぼ同等の力を持っていたといわれている特別な神社（現在は神社本庁などの包括宗教法人に属さない単立神社）",
+                    "境内には二つの神社（入口から向かって左が「日前（ひのくま）」・右が「國懸（くにかかす）」）があり、総称して「日前宮（にちぜんぐう）あるいは名草宮」とも呼ばれる",
+                    "（当初は名草郡毛見郷浜宮に祀られ、垂仁天皇16年（3世紀後半から4世紀前半頃）に、かつて伊太祁曽神社があった現在地に遷座したと伝わる）"
+                ],
+                "links": [
+                    {
+                        "text": "南海和歌山市駅から日前宮前までの運賃・経路 | わかやま交通案内 | 和歌山バス",
+                        "url": "https://transfer-cloud.navitime.biz/wakayamabus/transfers?origin=00220533&destination=00220122&datetime=2026-05-17T08:10:00%2B09:00&mode=departure&order=time&walking-speed=standard&mobility=bus,train,walking",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "南海和歌山市駅 - Google マップ",
+                        "url": "https://maps.app.goo.gl/NYg2SKspPENbe29T9",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "ＪＲ和歌山駅東口 - Google マップ",
+                        "url": "https://maps.app.goo.gl/GMtogwoW9HzZgnir9",
+                        "target": "_blank"
+                    }
+                ]
+            }
+        },
+        {
+            "date": null,
+            "title": [
+                "日前宮 - 不老橋",
+                "10:00 - 11:00"
+            ],
+            "description": "日前宮からJR和歌山駅東口・JR和歌山駅 - 不老橋",
+            "note": [
+                "和歌山バス（和歌山電鐵）",
+                "日前宮前 - 不老橋"
+            ],
+            "info": {
+                "note": null,
+                "links": [
+                    {
+                        "text": "日前宮前から不老橋までの運賃・経路 | わかやま交通案内 | 和歌山バス",
+                        "url": "https://transfer-cloud.navitime.biz/wakayamabus/transfers?origin=00220122&destination=00220196&datetime=2026-05-17T11:00:00%2B09:00&mode=arrival&order=time&walking-speed=standard&mobility=bus,train,walking",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "日前宮前 - Google マップ",
+                        "url": "https://maps.app.goo.gl/ks146nRSnY9c4XwG7",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "ＪＲ和歌山駅 - Google マップ",
+                        "url": "https://maps.app.goo.gl/hr7EQAdznffnk8a37",
+                        "target": "_blank"
+                    }
+                ]
+            }
+        },
+        {
+            "date": null,
+            "title": [
+                "サイクリングDE和歌の浦",
+                "片男波公園"
+            ],
+            "description": "Tel: 073-446-5553 （片男波公園管理事務所）",
+            "note": [
+                "（利用は17時まで）",
+                "申し込みは9時 - 16時まで"
+            ],
+            "info": {
+                "note": [
+                    "干潮 12:26 | 和歌の浦に巨大な砂地が現れる"
+                ],
+                "links": [
+                    {
+                        "text": "お知らせ（和歌公園） - 紀三井寺公園・和歌公園（和歌山）",
+                        "url": "https://www.kimiidera-park.com/wakapark/news/#gsc.tab=0",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "片男波公園 - Google マップ",
+                        "url": "https://maps.app.goo.gl/vCiTH6AyFXJbpznd8",
+                        "target": "_blank"
+                    }
+                ]
+            }
+        },
+        {
+            "date": null,
+            "title": [
+                "和歌祭",
+                "11:00 - 16:00"
+            ],
+            "description": "紀州徳川家 風流の時代絵巻",
+            "note": [
+                "正午 - 午後四時 渡御行列",
+                "午前十一時 神輿おろし"
+            ],
+            "info": {
+                "note": [
+                    "江戸時代の元和8（1622）年に始まったとされる、和歌浦にある紀州東照宮の大祭の渡御行列",
+                    "陸上では紀州の武勇を示すものや紀州人の心意気を表現した行列が神輿に従い、海上には御関船（おせきふね）が浮かぶ"
+                ],
+                "links": [
+                    {
+                        "text": "和歌祭公式サイト",
+                        "url": "http://wakamatsuri.com/",
+                        "target": "_blank"
+                    }
+                ]
+            }
+        },
+        {
+            "date": null,
+            "title": [
+                "濱宮・温山荘園",
+                "16:00 - 17:00"
+            ],
+            "description": "濱宮 - 温山荘園は徒歩約10分",
+            "note": [
+                "和歌山バス",
+                "和歌浦 - 琴の浦（和歌山バス）"
+            ],
+            "info": {
+                "note": [
+                    "15:00頃 和歌浦発（予定）"
+                ],
+                "links": [
+                    {
+                        "text": "和歌浦から琴の浦までの運賃・経路 | わかやま交通案内 | 和歌山バス",
+                        "url": "https://transfer-cloud.navitime.biz/wakayamabus/transfers?origin=00220091&destination=00220146&datetime=2026-05-17T16:00:00%2B09:00&mode=arrival&order=time&walking-speed=standard&mobility=bus,train,walking",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "和歌浦 - Google マップ",
+                        "url": "https://maps.app.goo.gl/Asf8UTCtLuAQjhRh9",
+                        "target": "_blank"
+                    }
+                ]
+            }
+        },
+        {
+            "date": null,
+            "title": [
+                "市幸すし",
+                "17:00 - 18:00"
+            ],
+            "description": "紀三井寺団地で長く愛される老舗の鮨店と日本料理店（いちこう）",
+            "note": [
+                "濱宮から徒歩約10分",
+                "営業時間 11:00 - 22:00 | 定休日木曜日"
+            ],
+            "info": {
+                "note": null,
+                "links": [
+                    {
+                        "text": "市幸 - Google マップ",
+                        "url": "https://maps.app.goo.gl/75XQ4mdQfYJNHYUZ6",
+                        "target": "_blank"
+                    }
+                ]
+            }
+        },
+        {
+            "date": null,
+            "title": [
+                "名草ノ浜 - 名草大橋",
+                "18:30 - 19:30"
+            ],
+            "description": "バス 紀三井寺 - 和歌山市駅（19:30 - 20:30）",
+            "note": [
+                "日没時刻 18:56 | 満潮 19:10",
+                "和歌浦の海岸沿い"
+            ],
+            "info": {
+                "note": [
+                    "特急サザン 和歌山市 - なんば",
+                    "18:00 - 22:27 （毎時 00・30分発）"
+                ],
+                "links": [
+                    {
+                        "text": "紀三井寺から南海和歌山市駅までの運賃・経路 | わかやま交通案内 | 和歌山バス",
+                        "url": "https://transfer-cloud.navitime.biz/wakayamabus/transfers?origin=00220119&destination=00220533&datetime=2026-05-17T19:30:00%2B09:00&mode=departure&order=time&walking-speed=standard&mobility=bus,train,walking",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "紀三井寺 - Google マップ",
+                        "url": "https://maps.app.goo.gl/nT8V8UZz5AhL2kdq5",
+                        "target": "_blank"
+                    }
+                ]
+            }
+        }
+    ]
+}

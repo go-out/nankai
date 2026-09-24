@@ -1,0 +1,85 @@
+{
+    "url": "/nankai/?id=shikoku",
+    "title": [
+        "Shikoku",
+        "四国「伊豫之二名島」"
+    ],
+    "description": "国産み/大八島No.2（いよのふたなのしま）\n「この島は、身（み）一つにして面（おも）四つあり」",
+    "info": {
+        "markdown": "shikoku/README.md",
+        "links": [
+            {
+                "text": "四国 - Wikipedia",
+                "url": "https://ja.wikipedia.org/wiki/四国",
+                "target": "_blank"
+            },
+            {
+                "text": "四国八十八箇所 - Wikipedia",
+                "url": "https://ja.wikipedia.org/wiki/四国八十八箇所",
+                "target": "_blank"
+            },
+            {
+                "text": "四国フリーきっぷ ｜四国旅行 JR四国ツアー（駅コミ）",
+                "url": "https://www.jr-eki.com/ticket/brand/2-3V6",
+                "target": "_blank"
+            },
+            {
+                "text": "週末乗り放題きっぷ ｜四国旅行 JR四国ツアー（駅コミ）",
+                "url": "https://www.jr-eki.com/ticket/brand/2-3VQ",
+                "target": "_blank"
+            },
+            {
+                "text": "四国再発見早トクきっぷ ｜四国旅行 JR四国ツアー（駅コミ）",
+                "url": "https://www.jr-eki.com/ticket/brand/2-3W0",
+                "target": "_blank"
+            }
+        ]
+    },
+    "map": {
+        "center": [
+            133.4905052204657,
+            33.76595712252919
+        ],
+        "bounds": [
+            [
+                131.46468157121063,
+                31.913846399994938
+            ],
+            [
+                135.1988832443492,
+                34.68246983295066
+            ]
+        ],
+        "zoom": 7.75
+    },
+    "events": [],
+    "eventsJSON": [
+        "shikoku/tokushima/naruto/date.json",
+        "shikoku/tokushima/yoshinogawa/date.json",
+        "shikoku/tokushima/nakata/date.json",
+        "shikoku/tokushima/tsurugi/date.json",
+        "shikoku/tokushima/minami/date.json",
+        "shikoku/kouchi/higashi/date.json",
+        "shikoku/kouchi/mannaka/date.json",
+        "shikoku/ehime/nanyo/date.json",
+        "shikoku/ehime/iyo/date.json",
+        "shikoku/ehime/matsuyama/date.json",
+        "shikoku/ehime/geiyo/date.json",
+        "shikoku/ehime/touyo/date.json",
+        "shikoku/kagawa/seisan/date.json",
+        "shikoku/kagawa/iino/date.json"
+    ],
+    "features": [],
+    "featuresJSON": [
+        "shikoku/tokushima/index.json",
+        "shikoku/kouchi/index.json",
+        "shikoku/ehime/index.json",
+        "shikoku/kagawa/index.json"
+    ],
+    "lineJSON": [
+        "shikoku/tokushima/yoshinogawa/index.json",
+        "shikoku/kouchi/higashi/index.json",
+        "shikoku/kouchi/shimanto/index.json",
+        "shikoku/dosan.json"
+    ]
+}

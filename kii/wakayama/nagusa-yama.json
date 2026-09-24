@@ -1,0 +1,221 @@
+{
+    "url": "/nankai/?id=kii-wakayama&name=nagusa-yama",
+    "title": [
+        "Mt. Nagusa",
+        "名草山"
+    ],
+    "description": "和歌山市の象徴、神話にも記述される神奈備山（なぐさやま、標高約228m）",
+    "info": {
+        "note": [
+            "登山道の起点は、東方の「紀三井寺」「高皇神社」、北方の「はさみ池（竈山神社）」・南方の「内原神社」など多数"
+        ],
+        "links": [
+            {
+                "text": "名草山 - Wikipedia",
+                "url": "https://ja.wikipedia.org/wiki/名草山",
+                "target": "_blank"
+            },
+            {
+                "text": "名草山 - Google マップ",
+                "url": "https://maps.app.goo.gl/QYEoEHDyR9k7Ashs8",
+                "target": "_blank"
+            },
+            {
+                "text": "内原神社 - Google マップ",
+                "url": "https://maps.app.goo.gl/ZPgx9nswYui3MyRb7",
+                "target": "_blank"
+            }
+        ]
+    },
+    "map": {
+        "center": [
+            135.19557590555894,
+            34.18444233792762
+        ],
+        "bounds": [
+            [
+                135.17570056599612,
+                34.166
+            ],
+            [
+                135.225,
+                34.207
+            ]
+        ],
+        "zoom": 14
+    },
+    "events": [
+        {
+            "date": {
+                "month": 5,
+                "date": [
+                    8
+                ]
+            },
+            "title": [
+                "雄叫祭",
+                "竈山神社"
+            ],
+            "description": "祭神・彦五瀬命（イツセ）の命日",
+            "note": [
+                "May 8th every year",
+                "毎年 五月八日"
+            ],
+            "info": {
+                "note": [
+                    "竈山神社で最も重要な祭典のひとつ"
+                ],
+                "links": [
+                    {
+                        "text": "名草山 Mt. Nagusa",
+						"url": "/nankai/?id=kii-wakayama&name=nagusa-yama",
+                        "target": "_self"
+                    }
+                ]
+            }
+        },
+        {
+            "date": {
+                "month": 10,
+                "date": [
+                    13
+                ]
+            },
+            "title": [
+                "例祭（秋の大祭）",
+                "竈山神社"
+            ],
+            "description": "合祀神社例祭",
+            "note": [
+                "October 13th every year",
+                "毎年 十月十三日"
+            ],
+            "info": {
+                "note": [
+                    "竈山神社で最も重要な祭典のひとつ"
+                ],
+                "links": [
+                    {
+                        "text": "名草山 Mt. Nagusa",
+						"url": "/nankai/?id=kii-wakayama&name=nagusa-yama",
+                        "target": "_self"
+                    }
+                ]
+            }
+        }
+    ],
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.19002220865303,
+                    34.18516674624381
+                ],
+                "address": "和歌山県和歌山市紀三井寺1201"
+            },
+            "properties": {
+                "title": "紀三井寺",
+                "description": "名草山の西側中腹（標高50m辺り）にあり、境内から和歌浦湾を一望できる（きみいでら）",
+                "note": [
+                    "救世観音宗（ぐぜかんのんしゅう）の総本山の寺院（寺号は金剛宝寺と称し、宗教法人としての公称は護国院）",
+                    "山内に涌く三井水（さんせいすい：吉祥水・清浄水・楊柳水）が名の由来と言われる",
+                    "本堂向かって左の桜の木が和歌山地方気象台のソメイヨシノの標本木に指定されており、近畿地方では最も早く開花する"
+                ],
+                "links": [
+                    {
+                        "text": "紀三井寺 - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/紀三井寺",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "紀三井寺 - Google マップ",
+                        "url": "https://maps.app.goo.gl/RCJp67sWFWq3LCHp8",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 16.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.1924901627936,
+                    34.19055420774278
+                ],
+                "address": "〒641-0011 和歌山県和歌山市三葛１００６"
+            },
+            "properties": {
+                "title": "高皇神社",
+                "description": "古代の紀伊国名草を支配した女王「名草戸畔（なぐさとべ）」を祀る古社",
+                "note": [
+                    "南海和歌山市駅 - JR和歌山駅 発着（和歌山バス）",
+                    "JR和歌山駅 - 紀三井寺（JRきのくに線）",
+                    "「紀三井寺」下車（和歌山バス）",
+                    "名草山登山道の西側起点（山頂まで片道約1時間）"
+                ],
+                "links": [
+                    {
+                        "text": "高皇神社 - Google マップ",
+                        "url": "https://maps.app.goo.gl/qFVqAaLg3x6M5Awg8",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 15
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.20447748,
+                    34.20101236
+                ],
+                "address": "和歌山県和歌山市和田４３８"
+            },
+            "properties": {
+                "title": "竈山神社",
+                "description": "名草山の北麓、神武天皇の長兄「五瀬命（イツセ）」の神霊を祀る神社",
+                "note": [
+                    "明治初期までは小さな社であったが、戦前の国家神道の発展に伴って最高の社格である官幣大社に位置づけられ、さらに社殿等が整備されて現在に至る",
+                    "神社後背にある「竈山墓（かまやまのはか）」は、神武天皇の長兄「五瀬命（イツセ）」の墓に治定されている",
+                    "現在の社殿1939年は（昭和14年）の造営、本殿などは寛文9年（1669年）に徳川頼宣によって再建（かつては東南約100メートルの地にあったという）",
+                    "境外摂社の静火神社（しずひ）は、紀伊国の「鎮火の神」であったとする説もある「紀三所社」のひとつ",
+                    "（神社の南方にある「はさみ池」から、名草山への登山道が整備されている）"
+                ],
+                "links": [
+                    {
+                        "text": "竈山神社 - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/竈山神社",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "竈山神社 - Google マップ",
+                        "url": "https://maps.app.goo.gl/6gmcz3H486Y3rHJs8",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "靜火神社 - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/靜火神社",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "靜火神社 - Google マップ",
+                        "url": "https://maps.app.goo.gl/sFgob7fFLafpoa2M9",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "はさみ池 - Google マップ",
+                        "url": "https://maps.app.goo.gl/RwZH6tb3XyPoYRfi9",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 15
+            }
+        }
+    ]
+}
