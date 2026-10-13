@@ -57,14 +57,17 @@
         "zoom": 12.5
     },
     "events": [],
+    "eventsJSON": [
+        "odaigahara/date.json"
+    ],
     "features": [
         {
             "type": "Feature",
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-          136.094142,
-          34.1935173
+                    136.094142,
+                    34.1935173
                 ]
             },
             "properties": {

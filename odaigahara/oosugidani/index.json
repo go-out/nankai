@@ -67,6 +67,9 @@
         "zoom": 11.5
     },
     "events": [],
+    "eventsJSON": [
+        "odaigahara/oosugidani/date.json"
+    ],
     "features": [
         {
             "type": "Feature",
