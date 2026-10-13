@@ -63,17 +63,40 @@
         "zoom": 8.75
     },
     "eventsJSON": [
-        "yoshino/nosegawa/index.json",
         "kii/koyasan/date.json",
+        "kii/koyasan/index.json",
         "kii/tanabe/date.json",
-		"kii/wakayama/date.json",
-		"kii/wakayama/waka-no-ura.json",
-		"kii/wakayama/nagusa-yama.json",
-		"kii/wakayama/ita-kiso-3.json",
+        "kii/tanabe/index.json",
+        "kii/shirahama/date.json",
+        "kii/shirahama/index.json",
+        "kii/susami/date.json",
+        "kii/susami/index.json",
+        "kii/kushimoto/date.json",
+        "kii/kushimoto/index.json",
+        "kii/wakayama/date.json",
+        "kii/wakayama/waka-no-ura.json",
+        "kii/wakayama/nagusa-yama.json",
+        "kii/wakayama/ita-kiso-3.json",
         "kumano/hongu/date.json",
+        "kumano/hongu/index.json",
         "kumano/nachi/date.json",
+        "kumano/nachi/index.json",
         "kumano/hayatama/date.json",
-        "kumano/mie/date.json"
+        "kumano/hayatama/index.json",
+        "kumano/mie/date.json",
+        "kumano/mie/index.json",
+        "yoshino/kinpu/index.json",
+        "yoshino/kinpu/date.json",
+        "yoshino/tenkawa/index.json",
+        "yoshino/tenkawa/date.json",
+        "yoshino/kamikitayama/index.json",
+        "yoshino/kamikitayama/date.json",
+        "yoshino/shimokitayama/index.json",
+        "yoshino/shimokitayama/date.json",
+        "yoshino/totsukawa/index.json",
+        "yoshino/totsukawa/date.json",
+        "yoshino/nosegawa/index.json",
+        "yoshino/nosegawa/date.json"
     ],
     "features": [
         {
@@ -122,12 +145,14 @@
         }
     ],
     "featuresJSON": [
+        "kumano/oohechi.json",
         "kumano/index.json"
     ],
     "lineJSON": [
         "yoshino/index.json",
         "kumano/index.json",
         "kumano/oohechi.json",
-        "kumano/kohechi.json"
+        "kumano/kohechi.json",
+        "/nankai/odaigahara/oosugidani/index.json"
     ]
 }

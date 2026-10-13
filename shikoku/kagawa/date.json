@@ -1,0 +1,86 @@
+{
+    "events": [
+        {
+            "month": [
+                3,
+                4
+            ],
+            "title": [
+                "百々手祭",
+                "香川県三豊市"
+            ],
+            "note": [
+                "Around March - April every year",
+                "毎年 三月 - 四月"
+            ],
+            "description": "厄払いと大漁・豊作、海上安全など祈願して行われる春の風物詩",
+            "info": {
+                "markdown": null,
+                "links": [
+                    {
+                        "text": "西讃 Kanonji - Mitoyoshi, Kagawa, Shikoku",
+                        "url": "?id=shikoku-kagawa&area=seisan",
+                        "target": "_self"
+                    }
+                ]
+            }
+        },
+        {
+            "month": [
+                4,
+                5
+            ],
+            "title": [
+                "島四国",
+                "粟島・伊吹島"
+            ],
+            "note": [
+                "Around April - May every year",
+                "毎年 旧暦三月二十一日"
+            ],
+            "description": "島内の八十八カ所を巡拝",
+            "info": {
+                "markdown": null,
+                "links": [
+                    {
+                        "text": "西讃 Kanonji - Mitoyoshi, Kagawa, Shikoku",
+                        "url": "?id=shikoku-kagawa&area=seisan",
+                        "target": "_self"
+                    }
+                ]
+            }
+        },
+        {
+            "date": {
+                "month": 4,
+                "date": [
+                    22
+                ]
+            },
+            "title": [
+                "讃岐富士の日",
+                "飯野山"
+            ],
+            "note": [
+                "April 22th every year",
+                "毎年 四月二十二日 午前十一時から"
+            ],
+            "description": "山頂の薬師堂が開扉され、山頂広場で柴灯護摩が焚かれる",
+            "cover": {
+                "directory": null,
+                "url": null
+            },
+            "info": {
+                "note": null,
+                "markdown": null,
+                "links": [
+                    {
+                        "text": "飯野山（飯依比古） Iino (Sakaide - Marugame), Kagawa, Shikoku",
+                        "url": "/nankai/?id=shikoku-kagawa&area=iino",
+                        "target": "_self"
+                    }
+                ]
+            }
+        }
+    ]
+}

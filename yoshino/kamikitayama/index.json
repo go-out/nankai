@@ -1,0 +1,57 @@
+{
+    "url": "/nankai/?id=yoshino&area=kamikitayama",
+    "title": [
+        "Kami-Kitayama, Yoshino, Nara",
+        "上北山村"
+    ],
+    "description": "西に大峰山脈の稜線、東に台高山脈・大台ヶ原を要する自然豊かな山村（かみきたやまむら）",
+    "info": {
+        "markdown": "yoshino/kamikitayama/README.md",
+        "links": [
+            {
+                "text": "ホーム／上北山村",
+                "url": "https://www.vill.kamikitayama.nara.jp/",
+                "target": "_blank"
+            },
+            {
+                "text": "上北山村 - Wikipedia",
+                "url": "https://ja.wikipedia.org/wiki/上北山村",
+                "target": "_blank"
+            }
+        ]
+    },
+    "cover": {
+        "directory": null,
+        "url": null
+    },
+    "map": {
+        "center": [
+            136.0003923423906,
+            34.13428648875763
+        ],
+        "bounds": [
+            [
+                135.959,
+                34.071
+            ],
+            [
+                136.120,
+                34.237
+            ]
+        ],
+        "zoom": 12
+    },
+    "events": [],
+    "eventsJSON": [
+        "yoshino/kamikitayama/date.json"
+    ],
+    "features": [],
+    "featuresJSON": [
+        "yoshino/index.json",
+        "odaigahara/index.json"
+    ],
+    "line": [],
+    "lineJSON": [
+        "odaigahara/index.json"
+    ]
+}

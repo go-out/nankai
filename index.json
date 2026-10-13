@@ -48,15 +48,23 @@
         "zoom": 7.75
     },
     "eventsJSON": [
-        "awaji/nushima.json",
-        "awaji/sumoto.json",
-        "awaji/keino.json",
-        "kii/awashima.json",
-        "yoshino/nosegawa/index.json",
+        "awaji/date.json",
+        "kii/koyasan/date.json",
+        "kii/tanabe/date.json",
+        "kii/shirahama/date.json",
+        "kii/susami/date.json",
+        "kii/kushimoto/date.json",
+        "kii/wakayama/date.json",
         "kumano/hongu/date.json",
         "kumano/nachi/date.json",
         "kumano/hayatama/date.json",
-        "kumano/mie/date.json"
+        "kumano/mie/date.json",
+        "yoshino/kinpu/date.json",
+        "yoshino/tenkawa/date.json",
+        "yoshino/kamikitayama/date.json",
+        "yoshino/shimokitayama/date.json",
+        "yoshino/totsukawa/date.json",
+        "yoshino/nosegawa/date.json"
     ],
     "features": [
         {
@@ -80,114 +88,10 @@
                 ],
                 "zoom": 10.25
             }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    134.3669704017954,
-                    33.9710039570122
-                ],
-                "address": "徳島県（阿波国） Tokushima (Awa), Shikoku"
-            },
-            "properties": {
-                "title": "粟国（阿波国）",
-                "description": "現在の「徳島県」に相当する、大いなる食物の女神「大宜都比売（おおげつひめのかみ）」",
-                "note": [
-                    "国産みの後に、イザナギ・イザナミが行った「神産み」の際に、五穀の起源に関わる女神として現れる「大宜都比売神（オオゲツヒメ）」と同一神とされる",
-                    "また、高天原を追放された須佐之男命（スサノオ）に料理を振る舞う（後にスサノオに殺され、たくさんの穀物を生む）神としても登場する"
-                ],
-                "links": [
-                    {
-                        "text": "徳島県（阿波国） Tokushima (Awa), Shikoku",
-                        "url": "/nankai/?id=shikoku-tokushima",
-                        "target": "_self"
-                    }
-                ],
-                "zoom": 10
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    133.57700555589463,
-                    33.59259722179837
-                ],
-                "address": "高知県（土佐国） Kouchi (Tosa), Shikoku"
-            },
-            "properties": {
-                "title": "土佐国",
-                "description": "現在の高知県のほぼ全域、勇猛な霊が依り憑く男性を意味するとされる「建依別（たけよりわけ）」",
-                "note": [
-                    "古来の表記は「土左」「都佐」"
-                ],
-                "links": [
-                    {
-                        "text": "高知県（土佐国） Kouchi (Tosa), Shikoku",
-                        "url": "/nankai/?id=shikoku-kouchi",
-                        "target": "_self"
-                    }
-                ],
-                "zoom": 9
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    132.73876888475326,
-                    33.777683638351505
-                ],
-                "address": "愛媛県（伊予国） Ehime (Iyo), Shikoku"
-            },
-            "properties": {
-                "title": "伊予国",
-                "description": "現在の愛媛県全域、「愛媛」の由来となった「うるわしい女性」や「美しい女性」を意味する女神「愛比売（えひめ）」",
-                "note": [
-                    "古来の表記は「伊豫」（「伊与」の表記も用いられたという）"
-                ],
-                "links": [
-                    {
-                        "text": "愛媛県（伊予国） Ehime (Iyo), Shikoku",
-                        "url": "/nankai/?id=shikoku-ehime",
-                        "target": "_self"
-                    }
-                ],
-                "zoom": 8.5
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    133.84603888935513,
-                    34.274336111280654
-                ],
-                "address": "香川県（讃岐国） Kagawa (Sanuki), Shikoku"
-            },
-            "properties": {
-                "title": "讃岐国",
-                "description": "現在の香川県のほぼ全域、飯の霊が依り憑く男性を意味するとされる「飯依比古（いいよりひこ）」",
-                "note": [
-                    "古来の表記は「讃伎」「賛支」（四国内の他の国よりも緯が狭いために「狭緯（さぬき）」とも称された）"
-                ],
-                "links": [
-                    {
-                        "text": "香川県（讃岐国） Kagawa (Sanuki), Shikoku",
-                        "url": "/nankai/?id=shikoku-kagawa",
-                        "target": "_self"
-                    }
-                ],
-                "zoom": 9.5
-            }
         }
     ],
     "featuresJSON": [
+        "shikoku/index.json",
         "kii/index.json"
     ],
     "lineJSON": [
@@ -195,9 +99,6 @@
         "kumano/index.json",
         "kumano/oohechi.json",
         "yoshino/index.json",
-        "shikoku/tokushima/yoshinogawa/index.json",
-        "shikoku/kouchi/higashi/index.json",
-        "shikoku/kouchi/shimanto/index.json",
-        "shikoku/dosan.json"
+        "odaigahara/oosugidani/index.json"
     ]
 }

@@ -1,0 +1,128 @@
+{
+    "url": "/nankai/?id=shikoku-ehime&area=nanyo-kita",
+    "title": [
+        "Kita, Ehime, Shikoku",
+        "喜多（南予地方北部）"
+    ],
+    "description": "「伊予の小京都」と呼ばれる城下町や白壁の町並みなど、往時の豊かな歴史文化が残る地域「大洲・内子地区（肱川流域）」",
+    "info": {
+        "markdown": "shikoku/ehime/nanyo/kita/README.md",
+        "links": [
+            {
+                "text": "喜多郡 - Wikipedia",
+                "url": "https://ja.wikipedia.org/wiki/喜多郡",
+                "target": "_blank"
+            }
+        ]
+    },
+    "map": {
+        "center": [
+            132.5448781799269,
+            33.51849542549296
+        ],
+        "bounds": [
+            [
+                132.420,
+                33.340
+            ],
+            [
+                132.927,
+                33.657
+            ]
+        ],
+        "zoom": 11.5
+    },
+    "events": [],
+    "eventsJSON": [
+        "shikoku/ehime/nanyo/kita/date.json"
+    ],
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    132.54150077582347,
+                    33.50929748061522
+                ],
+                "address": "日本 〒795-0012 愛媛県大洲市大洲９０３番地"
+            },
+            "properties": {
+                "title": "大洲城",
+                "description": "「伊予の小京都」と呼ばれる大洲城を中心に発展した旧城下町や、江戸時代後期の町並み"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    132.5448781799269,
+                    33.51849542549296
+                ],
+                "address": "日本 〒795-0054 愛媛県大洲市中村１１９番地"
+            },
+            "properties": {
+                "title": "伊予大洲駅",
+                "description": "大洲市の中心駅",
+                "note": [
+                    "__"
+                ],
+                "links": [
+                    {
+                        "text": "__ - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/__",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "__ - Google マップ",
+                        "url": "https://maps.app.goo.gl/__",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 17
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    132.65323012,
+                    33.55585186
+                ],
+                "address": "内子町内子"
+            },
+            "properties": {
+                "title": "八日市・護国の町並み",
+                "description": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    132.7982694,
+                    33.415
+                ],
+                "address": "〒797-1703 愛媛県西予市城川町窪野2816番地"
+            },
+            "properties": {
+                "title": "三瀧神社",
+                "description": "4月17日 滝神社の大祭の日に「窪野の八つ鹿踊り」が奉納される",
+                "note": null,
+                "links": [
+                    {
+                        "text": "三瀧神社 - Google マップ",
+                        "url": "https://maps.app.goo.gl/G19URVcZy4E7u3YS6",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 17
+            }
+        }
+    ],
+    "featuresJSON": [],
+    "lineJSON": []
+}

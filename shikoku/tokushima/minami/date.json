@@ -25,7 +25,13 @@
                 "note": [
                     "宍喰祇園祭の山鉾行事"
                 ],
-                "links": null
+                "links": [
+                    {
+                        "text": "みなみ阿波 Southern Tokushima, Shikoku",
+                        "url": "/nankai/?id=shikoku-tokushima&area=minami",
+                        "target": "_self"
+                    }
+                ]
             }
         },
         {
@@ -48,7 +54,13 @@
             },
             "info": {
                 "note": null,
-                "links": null
+                "links": [
+                    {
+                        "text": "みなみ阿波 Southern Tokushima, Shikoku",
+                        "url": "/nankai/?id=shikoku-tokushima&area=minami",
+                        "target": "_self"
+                    }
+                ]
             }
         },
         {
@@ -71,9 +83,15 @@
             },
             "info": {
                 "note": [
-                    "毎年30頭前後のアカウミガメが産卵に訪れる美しい砂浜として、国の天然記念物に指定される「大浜海岸」の近くに鎮座する赤松神社で行われる、火薬を詰めた筒を吹き鳴らして花火を打ち上げる勇壮な祭り・奉納吹筒花火"
+                    "火薬を詰めた筒を吹き鳴らして花火を打ち上げる勇壮な祭り・奉納吹筒花火"
                 ],
-                "links": null
+                "links": [
+                    {
+                        "text": "みなみ阿波 Southern Tokushima, Shikoku",
+                        "url": "/nankai/?id=shikoku-tokushima&area=minami",
+                        "target": "_self"
+                    }
+                ]
             }
         }
     ]

@@ -43,95 +43,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    135.02039831745714,
-                    34.59031128484044
-                ],
-                "address": "日本 〒656-2401 兵庫県淡路市岩屋９２５番地２７"
-            },
-            "properties": {
-                "title": "淡路ジェノバライン",
-                "description": "兵庫・明石 - 淡路島・岩屋 | 片道大人700円",
-                "note": [
-                    "明石港⇔岩屋港（所要時間 約13分）1時間に1〜2本運行（5時台から23時台まで）"
-                ],
-                "links": [
-                    {
-                        "text": "明石と淡路島を結ぶ高速船 淡路ジェノバライン",
-                        "url": "https://www.jenova-line.co.jp/",
-                        "target": "_blank"
-                    },
-                    {
-                        "text": "淡路ジェノバライン 明石港のりば - Google マップ",
-                        "url": "https://maps.app.goo.gl/vywsQ3ypJf5knEHR9",
-                        "target": "_blank"
-                    },
-                    {
-                        "text": "淡路ジェノバライン 岩屋港のりば - Google マップ",
-                        "url": "https://maps.app.goo.gl/5sBfDPAStPcjZNnMA",
-                        "target": "_blank"
-                    },
-                    {
-                        "text": "淡路ジェノバライン - Wikipedia",
-                        "url": "https://ja.wikipedia.org/wiki/淡路ジェノバライン",
-                        "target": "_blank"
-                    }
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    135.0215712527007,
-                    34.589853369063405
-                ],
-                "address": "日本 〒656-2401 兵庫県淡路市岩屋９２５番地８"
-            },
-            "properties": {
-                "title": "絵島",
-                "description": "長年の風波に洗われ描き出された造形美、浸食により切り離されてできた小島",
-                "links": [
-                    {
-                        "text": "絵島 - Google マップ",
-                        "url": "https://maps.app.goo.gl/XK7xKDdt1gfbEzCa9",
-                        "target": "_blank"
-                    },
-                    {
-                        "text": "絵島 (淡路市) - Wikipedia",
-                        "url": "https://ja.wikipedia.org/wiki/絵島_(淡路市)",
-                        "target": "_blank"
-                    }
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    135.0202454871045,
-                    34.58925997498045
-                ],
-                "address": "日本 〒656-2401 兵庫県淡路市岩屋９２５番地１"
-            },
-            "properties": {
-                "title": "岩樟神社",
-                "description": "岩屋港の向かいの恵比須神社奥、岩屋城跡がある城山の崖下の洞窟に祀られた神社（いわくすじんじゃ）",
-                "links": [
-                    {
-                        "text": "岩樟神社 - Google マップ",
-                        "url": "https://maps.app.goo.gl/GThY5TyTQ5MNrCni6",
-                        "target": "_blank"
-                    }
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     135.0001980419804,
                     34.59125122362022
                 ]
@@ -191,6 +102,95 @@
                     {
                         "text": "灘山 - Wikipedia",
                         "url": "https://ja.wikipedia.org/wiki/灘山",
+                        "target": "_blank"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.0202454871045,
+                    34.58925997498045
+                ],
+                "address": "日本 〒656-2401 兵庫県淡路市岩屋９２５番地１"
+            },
+            "properties": {
+                "title": "岩樟神社",
+                "description": "岩屋港の向かいの恵比須神社奥、岩屋城跡がある城山の崖下の洞窟に祀られた神社（いわくすじんじゃ）",
+                "links": [
+                    {
+                        "text": "岩樟神社 - Google マップ",
+                        "url": "https://maps.app.goo.gl/GThY5TyTQ5MNrCni6",
+                        "target": "_blank"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.0215712527007,
+                    34.589853369063405
+                ],
+                "address": "日本 〒656-2401 兵庫県淡路市岩屋９２５番地８"
+            },
+            "properties": {
+                "title": "絵島",
+                "description": "長年の風波に洗われ描き出された造形美、浸食により切り離されてできた小島",
+                "links": [
+                    {
+                        "text": "絵島 - Google マップ",
+                        "url": "https://maps.app.goo.gl/XK7xKDdt1gfbEzCa9",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "絵島 (淡路市) - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/絵島_(淡路市)",
+                        "target": "_blank"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.02039831745714,
+                    34.59031128484044
+                ],
+                "address": "日本 〒656-2401 兵庫県淡路市岩屋９２５番地２７"
+            },
+            "properties": {
+                "title": "淡路ジェノバライン",
+                "description": "兵庫・明石 - 淡路島・岩屋 | 片道大人700円",
+                "note": [
+                    "明石港⇔岩屋港（所要時間 約13分）1時間に1〜2本運行（5時台から23時台まで）"
+                ],
+                "links": [
+                    {
+                        "text": "明石と淡路島を結ぶ高速船 淡路ジェノバライン",
+                        "url": "https://www.jenova-line.co.jp/",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "淡路ジェノバライン 明石港のりば - Google マップ",
+                        "url": "https://maps.app.goo.gl/vywsQ3ypJf5knEHR9",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "淡路ジェノバライン 岩屋港のりば - Google マップ",
+                        "url": "https://maps.app.goo.gl/5sBfDPAStPcjZNnMA",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "淡路ジェノバライン - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/淡路ジェノバライン",
                         "target": "_blank"
                     }
                 ]

@@ -1,0 +1,52 @@
+{
+    "url": "/nankai/?id=shikoku-ehime&area=nanyo-uwa&name=kita",
+    "title": [
+        "Kita Uwa, Ehime, Shikoku",
+        "鬼北（奥伊予）"
+    ],
+    "description": "鬼が見るほど美しいとされる、日本の原風景のような山村集落が広がる内陸盆地（吉野川・広見川流域）",
+    "info": {
+        "note": [
+            "町域の約84%が森林で、キャニオニングの聖地と言われる足摺宇和海国立公園に含まれる名勝「滑床渓谷（なめとこけいこく）」を有する",
+            "清流・目黒川や広見川の美しい里山風景が広がる、 豊かな水と自然に育まれた「森の国」",
+            "JR予土線の近永駅や出目（いずめ）駅、日吉地区の「道の駅 日吉夢産地（旧日吉駅）」を拠点に、山深い集落へ「鬼北町営バス」が運行",
+            "自治体で唯一「鬼」の文字が入るまちで、鬼をモチーフにしたユニークなまちづくりや巨大モニュメント（道の駅など）が特徴"
+        ],
+        "links": [
+            {
+                "text": "北宇和郡 - Wikipedia",
+                "url": "https://ja.wikipedia.org/wiki/北宇和郡",
+                "target": "_blank"
+            },
+            {
+                "text": "松野町 - Wikipedia",
+                "url": "https://ja.wikipedia.org/wiki/松野町",
+                "target": "_blank"
+            },
+            {
+                "text": "鬼北町 - Wikipedia",
+                "url": "https://ja.wikipedia.org/wiki/鬼北町",
+                "target": "_blank"
+            }
+        ]
+    },
+    "map": {
+        "center": [
+            132.67628929603737,
+            33.2558190852436
+        ],
+        "bounds": [
+            [
+                132.599,
+                33.132
+            ],
+            [
+                132.908,
+                33.390
+            ]
+        ],
+        "zoom": 11.5
+    },
+    "events": [],
+    "features": []
+}

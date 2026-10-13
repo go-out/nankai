@@ -14,9 +14,9 @@
                 "target": "_blank"
             },
             {
-                "text": "四国八十八箇所 - Wikipedia",
-                "url": "https://ja.wikipedia.org/wiki/四国八十八箇所",
-                "target": "_blank"
+                "text": "四国八十八箇所 Shikoku 88 Temple Pilgrimage",
+                "url": "/nankai/?id=shikoku&name=88",
+                "target": "_self"
             },
             {
                 "text": "四国フリーきっぷ ｜四国旅行 JR四国ツアー（駅コミ）",
@@ -42,44 +42,152 @@
         ],
         "bounds": [
             [
-                131.46468157121063,
-                31.913846399994938
+                131.500,
+                32.000
             ],
             [
-                135.1988832443492,
-                34.68246983295066
+                135.200,
+                34.695
             ]
         ],
         "zoom": 7.75
     },
     "events": [],
     "eventsJSON": [
-        "shikoku/tokushima/naruto/date.json",
-        "shikoku/tokushima/yoshinogawa/date.json",
-        "shikoku/tokushima/nakata/date.json",
-        "shikoku/tokushima/tsurugi/date.json",
-        "shikoku/tokushima/minami/date.json",
-        "shikoku/kouchi/higashi/date.json",
-        "shikoku/kouchi/mannaka/date.json",
-        "shikoku/ehime/nanyo/date.json",
-        "shikoku/ehime/iyo/date.json",
-        "shikoku/ehime/matsuyama/date.json",
-        "shikoku/ehime/geiyo/date.json",
-        "shikoku/ehime/touyo/date.json",
-        "shikoku/kagawa/seisan/date.json",
-        "shikoku/kagawa/iino/date.json"
+        "shikoku/tokushima/date.json",
+        "shikoku/kouchi/date.json",
+        "shikoku/ehime/date.json",
+        "shikoku/kagawa/date.json"
     ],
-    "features": [],
-    "featuresJSON": [
-        "shikoku/tokushima/index.json",
-        "shikoku/kouchi/index.json",
-        "shikoku/ehime/index.json",
-        "shikoku/kagawa/index.json"
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    134.3669704017954,
+                    33.9710039570122
+                ],
+                "address": "徳島県（阿波国） Tokushima (Awa), Shikoku"
+            },
+            "properties": {
+                "title": "大宜都比売（阿波国・粟国）",
+                "description": "現在の「徳島県」に相当する、大いなる食物の女神（おおげつひめのかみ）",
+                "note": [
+                    "国産みの後に、イザナギ・イザナミが行った「神産み」の際に、五穀の起源に関わる女神として現れる「大宜都比売神（オオゲツヒメ）」と同一神とされる",
+                    "また、高天原を追放された須佐之男命（スサノオ）に料理を振る舞う（後にスサノオに殺され、たくさんの穀物を生む）神としても登場する"
+                ],
+                "links": [
+                    {
+                        "text": "徳島県（阿波国） Tokushima (Awa), Shikoku",
+                        "url": "/nankai/?id=shikoku-tokushima",
+                        "target": "_self"
+                    }
+                ],
+                "zoom": 10
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    133.57700555589463,
+                    33.59259722179837
+                ],
+                "address": "高知県（土佐国） Kouchi (Tosa), Shikoku"
+            },
+            "properties": {
+                "title": "建依別（土佐国）",
+                "description": "現在の高知県のほぼ全域、勇猛な（雄々しく強い）霊が依り憑く男神（たけよりわけ）",
+                "note": [
+                    "古来の表記は「土左」「都佐」",
+                    "黒潮が打ち寄せる険しい大自然に囲まれた、荒々しくも力強い風土や人々の気質を表す神とされる"
+                ],
+                "links": [
+                    {
+                        "text": "高知県（土佐国） Kouchi (Tosa), Shikoku",
+                        "url": "/nankai/?id=shikoku-kouchi",
+                        "target": "_self"
+                    }
+                ],
+                "zoom": 9
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    132.73876888475326,
+                    33.777683638351505
+                ],
+                "address": "愛媛県（伊予国） Ehime (Iyo), Shikoku"
+            },
+            "properties": {
+                "title": "愛比売（伊予国）",
+                "description": "現在の愛媛県全域、「うるわしい女性」や「美しい女性」を意味する女神（えひめ）",
+                "note": [
+                    "古来の表記は「伊豫」（「伊与」の表記も用いられたという）",
+                    "全国で唯一、神話の神の名前がそのまま現在の県名「愛媛県」として残っている"
+                ],
+                "links": [
+                    {
+                        "text": "愛媛県（伊予国） Ehime (Iyo), Shikoku",
+                        "url": "/nankai/?id=shikoku-ehime",
+                        "target": "_self"
+                    }
+                ],
+                "zoom": 8.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    133.84603888935513,
+                    34.274336111280654
+                ],
+                "address": "香川県（讃岐国） Kagawa (Sanuki), Shikoku"
+            },
+            "properties": {
+                "title": "飯依比古（讃岐国）",
+                "description": "現在の香川県のほぼ全域、飯（米・食物）に依る男神（いいよりひこ）",
+                "note": [
+                    "古来の表記は「讃伎」「賛支」（四国内の他の国よりも緯が狭いために「狭緯（さぬき）」とも称された）",
+                    "神名は、古くから讃岐平野が米や穀物の豊かな実りをもたらす土地であったことを示すとされる"
+                ],
+                "links": [
+                    {
+                        "text": "香川県（讃岐国） Kagawa (Sanuki), Shikoku",
+                        "url": "/nankai/?id=shikoku-kagawa",
+                        "target": "_self"
+                    }
+                ],
+                "zoom": 10
+            }
+        }
     ],
+    "featuresJSON": [],
     "lineJSON": [
-        "shikoku/tokushima/yoshinogawa/index.json",
+        "shikoku/tokushima/itano/index.json",
+        "shikoku/tokushima/kamiyama/index.json",
+        "shikoku/tokushima/nakata/index.json",
+        "shikoku/tokushima/naka/index.json",
+        "shikoku/tokushima/index.json",
         "shikoku/kouchi/higashi/index.json",
+        "shikoku/kouchi/aki/index.json",
+        "shikoku/kouchi/mannaka/index.json",
+        "shikoku/kouchi/index.json",
+        "shikoku/kouchi/niyodogawa/index.json",
         "shikoku/kouchi/shimanto/index.json",
-        "shikoku/dosan.json"
+        "shikoku/ehime/iyo/index.json",
+        "shikoku/ehime/matsuyama/index.json",
+        "shikoku/ehime/touyo/imabari.json",
+        "shikoku/ehime/touyo/saijo.json",
+        "shikoku/kagawa/seisan/index.json",
+        "shikoku/kagawa/goshikidai/index.json",
+        "shikoku/kagawa/takamatsu/index.json"
     ]
 }

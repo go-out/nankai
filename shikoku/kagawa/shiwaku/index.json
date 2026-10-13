@@ -1,0 +1,198 @@
+{
+    "url": "/nankai/?id=shikoku-kagawa&area=shiwaku",
+    "title": [
+        "Shiwaku Islands",
+        "塩飽諸島"
+    ],
+    "description": "瀬戸内海（岡山県と香川県に挟まれた西備讃瀬戸）に浮かぶ、大小合わせて28の島々から成る諸島「塩飽島（しわくじま）」",
+    "info": {
+        "note": [
+            "名の由来は「塩焼く」とも「潮湧く」とも言う"
+        ],
+        "markdown": "shikoku/kagawa/shiwaku/README.md",
+        "links": [
+            {
+                "text": "塩飽諸島 - Wikipedia",
+                "url": "https://ja.wikipedia.org/wiki/塩飽諸島",
+                "target": "_blank"
+            }
+        ]
+    },
+    "map": {
+        "center": [
+            133.7838231,
+            34.3824009
+        ],
+        "bounds": [
+            [
+                133.375,
+                34.163
+            ],
+            [
+                133.950,
+                34.505
+            ]
+        ],
+        "zoom": 11
+    },
+    "events": [],
+    "eventsJSON": [
+        "shikoku/kagawa/shiwaku/date.json"
+    ],
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    133.63418140001647,
+                    34.26908680018229
+                ],
+                "address": "日本 〒769-1108 香川県三豊市詫間町粟島８６１番地"
+            },
+            "properties": {
+                "title": "粟島",
+                "description": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    133.62990876521815,
+                    34.26758893076334
+                ],
+                "address": "日本 〒769-1108 香川県三豊市詫間町粟島１６０４番地１"
+            },
+            "properties": {
+                "title": "粟島の島四国",
+                "description": "旧暦3月21日に島四国・お接待が行われている"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    133.65252179,
+                    34.23400518
+                ],
+                "address": "香川県三豊市詫間町詫間6807-10"
+            },
+            "properties": {
+                "title": "粟島汽船チケット売り場&フェリー乗り場",
+                "description": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    133.6165245999557,
+                    34.23650838360611
+                ],
+                "address": "日本 〒769-1104 香川県三豊市詫間町大浜１６３８番地"
+            },
+            "properties": {
+                "title": "船越八幡宮",
+                "description": "毎年3月第3日曜日に伝統的な春祭り「大浜百々手祭」行われる"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    133.58034315411288,
+                    34.25128557118151
+                ],
+                "address": "日本 〒769-1107 香川県三豊市詫間町生里４７５番地２"
+            },
+            "properties": {
+                "title": "三宝荒神宮",
+                "description": "旧暦2月1日に近い日曜日 国の重要無形民俗文化財「生里百々手祭」行われる"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    133.70285382945417,
+                    34.241661450457514
+                ],
+                "address": "日本 〒767-0031 香川県三豊市三野町大見甲６８１６番地２"
+            },
+            "properties": {
+                "title": "津嶋神社 ",
+                "description": "夏季大祭のときのみ橋桁がかけられ島に渡れる"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    133.78799962,
+                    34.39433807
+                ],
+                "address": "香川県丸亀市本島町笠島256"
+            },
+            "properties": {
+                "title": "丸亀市塩飽本島町笠島伝統的建造物群保存地区",
+                "description": "塩飽諸島の本島の中心部、江戸時代からの古い町並みがよく残っている国の重要伝統的建造物群保存地区",
+                "note": [
+                    "JR丸亀駅から徒歩5分の丸亀港からフェリー（本島汽船）に乗り35分で本島（泊港）着、徒歩25分"
+                ],
+                "links": [
+                    {
+                        "text": "本島町笠島 - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/本島町笠島",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "笠島重要伝統的建造物群保存地区 - Google マップ",
+                        "url": "https://maps.app.goo.gl/tCXnxEZgrMk7nuZg8",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 17
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    133.7909805557463,
+                    34.295147221883134
+                ],
+                "address": "香川県丸亀市福島町127-16"
+            },
+            "properties": {
+                "title": "丸亀港",
+                "description": "塩飽諸島（牛島 - 本島・広島 - 手島 - 小手島）へフェリーが運航",
+                "note": [
+                    "本島汽船フェリー「ほんじま丸」・旅客船「にじまる」：丸亀港 - 牛島 - 本島",
+                    "備讃フェリーフェリー「ひろておん」・旅客船「ニュービサン」：丸亀港 - 広島 - 手島 - 小手島",
+                    "江戸時代に金刀比羅宮の玄関港として四国一の港として栄え、城下町と共に発展した歴史を持つ"
+                ],
+                "links": [
+                    {
+                        "text": "丸亀港 - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/丸亀港",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "丸亀港 - Google マップ",
+                        "url": "https://maps.app.goo.gl/4Av2anRdrQapr2Zh7",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 17
+            }
+        }
+    ]
+}

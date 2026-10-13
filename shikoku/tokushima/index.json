@@ -27,12 +27,12 @@
         ],
         "bounds": [
             [
-                133.63009945538602,
-                33.51997708774735
+                133.655,
+                33.527
             ],
             [
-                134.88760074251013,
-                34.259851974050065
+                134.830,
+                34.255
             ]
         ],
         "zoom": 10
@@ -41,11 +41,7 @@
         "url": null
     },
     "eventsJSON": [
-        "shikoku/tokushima/naruto/date.json",
-        "shikoku/tokushima/yoshinogawa/date.json",
-        "shikoku/tokushima/nakata/date.json",
-        "shikoku/tokushima/tsurugi/date.json",
-        "shikoku/tokushima/minami/date.json"
+        "shikoku/tokushima/date.json"
     ],
     "features": [
         {
@@ -58,19 +54,19 @@
                 ]
             },
             "properties": {
-                "title": "鳴門海峡と讃岐山脈",
+                "title": "鳴門市・板野郡（板野）",
                 "description": "「鳴門の渦潮」で知られる海峡（日本百景）と、阿波・淡路の総鎮守を祀る霊峰",
                 "note": [
                     "国産み神話の始まりの地「淡路島」と四国の間にある日本の海の三大難所のひとつ「鳴門（なると）海峡」の西側に位置する京阪神からの玄関口、四国八十八箇所（四国遍路）の起点"
                 ],
                 "links": [
                     {
-                        "text": "鳴門海峡と讃岐山脈 Tokushima - Kagawa, Shikoku",
-                        "url": "/nankai/?id=shikoku-tokushima&area=naruto",
+                        "text": "鳴門市・板野郡（板野） Naruto - Itano, Tokushima",
+                        "url": "/nankai/?id=shikoku-tokushima&area=itano",
                         "target": "_self"
                     }
                 ],
-                "zoom": 11.5
+                "zoom": 12
             }
         },
         {
@@ -91,34 +87,8 @@
                 ],
                 "links": [
                     {
-                        "text": "吉野川 Yoshino-gawa, Tokushima, Shikoku",
-                        "url": "/nankai/?id=shikoku-tokushima&area=yoshinogawa",
-                        "target": "_self"
-                    }
-                ],
-                "zoom": 12
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    134.46006661065235,
-                    34.05997243247097
-                ],
-                "address": "日本 〒779-3127 徳島県徳島市国府町西矢野５３１番地"
-            },
-            "properties": {
-                "title": "徳島（国府・一宮）",
-                "description": "大いなる食物の女神「大宜都比売（おおげつひめ）」の国の中心地",
-                "note": [
-                    "鮎喰川左岸・気延山東側山麓に広がる扇状地と沖積地域には、西日本最大級の縄縄文時代から中世にかけての複合遺跡「矢野遺跡」があり、古代日本において重要な地だったと推測される"
-                ],
-                "links": [
-                    {
-                        "text": "徳島市（名方郡） Tokushima City, Shikoku",
-                        "url": "/nankai/?id=shikoku-tokushima&area=nakata",
+                        "text": "神山 Kamiyama, Tokushima, Shikoku",
+                        "url": "/nankai/?id=shikoku-tokushima&area=kamiyama",
                         "target": "_self"
                     }
                 ],
@@ -155,14 +125,226 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    134.50226434,
-                    33.86280806
+                    134.46006661065235,
+                    34.05997243247097
+                ],
+                "address": "日本 〒779-3127 徳島県徳島市国府町西矢野５３１番地"
+            },
+            "properties": {
+                "title": "徳島（国府・一宮）",
+                "description": "大いなる食物の女神「大宜都比売（おおげつひめ）」の国の中心地",
+                "note": [
+                    "鮎喰川左岸・気延山東側山麓に広がる扇状地と沖積地域には、西日本最大級の縄縄文時代から中世にかけての複合遺跡「矢野遺跡」があり、古代日本において重要な地だったと推測される"
+                ],
+                "links": [
+                    {
+                        "text": "徳島（国府・一宮） Tokushima City, Shikoku",
+                        "url": "/nankai/?id=shikoku-tokushima&area=nakata",
+                        "target": "_self"
+                    }
+                ],
+                "zoom": 12
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    134.50534,
+                    33.9140962
+                ],
+                "address": "小松島 - 阿南"
+            },
+            "properties": {
+                "title": "那賀（小松島・阿南）",
+                "description": "四国一の清流「那賀川」の中流・下流域〜紀伊水道（瀬戸内海）へ流れる河口付近",
+                "note": [
+                    "阿波（徳島県）の遍路道の三大難所「一に焼山、二にお鶴、三に太龍」のうち、お鶴（第20番札所・鶴林寺）と太龍（第21番札所・太龍寺）が連続する、歩き遍路のなかでも特に体力を奪われる区間"
+                ],
+                "links": [
+                    {
+                        "text": "那賀（小松島 ・阿南） Komatsushima - Anan, Tokushima",
+                        "url": "/nankai/?id=shikoku-tokushima&area=naka",
+                        "target": "_self"
+                    }
+                ],
+                "zoom": 12.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    134.5413724,
+                    33.7341864
                 ]
             },
             "properties": {
                 "title": "みなみ阿波",
-                "description": "四国有数の険しい山岳地帯・日本有数の多雨地帯に位置する徳島県南部地域",
+                "description": "四国有数の険しい山岳地帯・多雨地帯とウミガメが産卵に訪れる美しい浜辺",
+                "note": [
+                    "古くは「長国（ながのくに）」と呼ばれていた三輪系の海人（あま）が活動したとされる地域"
+                ],
                 "links": [
+                    {
+                        "text": "みなみ阿波 Southern Tokushima, Shikoku",
+                        "url": "/nankai/?id=shikoku-tokushima&area=minami",
+                        "target": "_self"
+                    }
+                ],
+                "zoom": 11.5
+            }
+        }
+    ],
+    "line": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        134.55146358243246,
+                        34.07472891696034
+                    ],
+                    [
+                        134.5557032,
+                        34.0641359
+                    ],
+                    [
+                        134.5467039,
+                        34.0545631
+                    ],
+                    [
+                        134.5432118,
+                        34.0440672
+                    ],
+                    [
+                        134.547029,
+                        34.0268099
+                    ],
+                    [
+                        134.5696039,
+                        34.0103777
+                    ],
+                    [
+                        134.5870137,
+                        34.0057008
+                    ],
+                    [
+                        134.6057593,
+                        33.9820383
+                    ],
+                    [
+                        134.6086834,
+                        33.9701909
+                    ],
+                    [
+                        134.6253423,
+                        33.9578032
+                    ],
+                    [
+                        134.6447312,
+                        33.9483457
+                    ],
+                    [
+                        134.6650438,
+                        33.9411558
+                    ],
+                    [
+                        134.6624111,
+                        33.9188397
+                    ],
+                    [
+                        134.6672515,
+                        33.9033324
+                    ],
+                    [
+                        134.6515475,
+                        33.8885666
+                    ],
+                    [
+                        134.613194,
+                        33.874661
+                    ],
+                    [
+                        134.6002075,
+                        33.8469675
+                    ],
+                    [
+                        134.6054845,
+                        33.8242399
+                    ],
+                    [
+                        134.5917568,
+                        33.7757696
+                    ],
+                    [
+                        134.5838481,
+                        33.772896
+                    ],
+                    [
+                        134.5694438,
+                        33.7664917
+                    ],
+                    [
+                        134.5355306,
+                        33.7433502
+                    ],
+                    [
+                        134.5305192,
+                        33.7291404
+                    ],
+                    [
+                        134.4851445,
+                        33.7150475
+                    ],
+                    [
+                        134.4349009,
+                        33.6949563
+                    ],
+                    [
+                        134.4180456,
+                        33.6719183
+                    ],
+                    [
+                        134.3852853,
+                        33.6459758
+                    ],
+                    [
+                        134.3587483,
+                        33.6265056
+                    ],
+                    [
+                        134.3510527,
+                        33.6067889
+                    ]
+                ]
+            },
+            "properties": {
+                "title": "牟岐線（阿波室戸シーサイドライン）",
+                "description": "県南東部の海岸沿いを走り、徳島市・小松島市・阿南市を結ぶJR四国の地方交通線",
+                "note": [
+                    "日中は徳島駅 - 阿南駅間を30分間隔・阿南駅 - 阿波海南駅間を2時間間隔のパターンダイヤで運行",
+                    "特に利用客が少ない阿南駅以南では徳島バスと連携、阿波海南駅から阿佐海岸鉄道（DMV）へ連絡する"
+                ],
+                "links": [
+                    {
+                        "text": "牟岐線 - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/牟岐線",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "徳島（国府・一宮） Tokushima City, Shikoku",
+                        "url": "/nankai/?id=shikoku-tokushima&area=nakata",
+                        "target": "_self"
+                    },
+                    {
+                        "text": "那賀（小松島 ・阿南） Komatsushima - Anan, Tokushima",
+                        "url": "/nankai/?id=shikoku-tokushima&area=naka",
+                        "target": "_self"
+                    },
                     {
                         "text": "みなみ阿波 Southern Tokushima, Shikoku",
                         "url": "/nankai/?id=shikoku-tokushima&area=minami",

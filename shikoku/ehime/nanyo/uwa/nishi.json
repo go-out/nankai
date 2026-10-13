@@ -1,0 +1,94 @@
+{
+    "url": "/nankai/?id=shikoku-ehime&area=nanyo-uwa&name=nishi",
+    "title": [
+        "Nishi Uwa, Ehime, Shikoku",
+        "八幡浜・伊方地区"
+    ],
+    "description": "日本一細長い「佐田岬半島」とその付け根に位置する西宇和エリア",
+    "info": {
+        "note": [
+            "北に伊予灘、南に宇和海を望む四国最西端に延びる日本一細長い半島",
+            "「岬アジ」や「岬サバ」をはじめ、四国一の規模を誇る魚市場がある八幡浜港は「四国の西の玄関口」、古くは九州や関西地方との海上交易が盛んで「伊予の大阪」と謳われた",
+            "盆地型で、霧が発生しやすい。肱川河口（長浜）では、肱川あらしという現象が観察される",
+            "大分県との最短航路を結ぶ三崎港や、四国最西端の「佐田岬」、風力発電が並ぶ稜線など、美しい景観が広がっています"
+        ],
+        "links": [
+            {
+                "text": "西宇和郡 - Wikipedia",
+                "url": "https://ja.wikipedia.org/wiki/西宇和郡",
+                "target": "_blank"
+            },
+            {
+                "text": "伊方町 - Wikipedia",
+                "url": "https://ja.wikipedia.org/wiki/伊方町",
+                "target": "_blank"
+            },
+            {
+                "text": "八幡浜市 - Wikipedia",
+                "url": "https://ja.wikipedia.org/wiki/八幡浜市",
+                "target": "_blank"
+            }
+        ]
+    },
+    "map": {
+        "center": [
+            132.3533561505695,
+            33.47456129881085
+        ],
+        "bounds": [
+            [
+                132.000,
+                33.316
+            ],
+            [
+                132.5015,
+                33.550
+            ]
+        ],
+        "zoom": 11.5
+    },
+    "events": [
+        {
+            "date": {
+                "month": 8,
+                "date": [
+                    14
+                ]
+            },
+            "title": [
+                "五反田柱祭り",
+                "王子の森公園"
+            ],
+            "note": [
+                "August 14th every year",
+                "毎年 八月十四日 夜"
+            ],
+            "description": "愛媛県指定無形民俗文化財",
+            "info": {
+                "markdown": null,
+                "note": null,
+                "links": null
+            }
+        }
+    ],
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    132.43359829384713,
+                    33.44908538359685
+                ],
+                "address": "日本 〒796-8010 愛媛県八幡浜市五反田１番地６－９"
+            },
+            "properties": {
+                "title": "王子の森公園",
+                "description": "毎年８月１４日の夜 五反田柱祭り が開催される"
+            }
+        }
+    ],
+    "featuresJSON": [
+        "shikoku/88.json"
+    ]
+}

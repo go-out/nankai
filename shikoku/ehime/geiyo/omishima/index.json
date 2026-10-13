@@ -1,0 +1,384 @@
+{
+    "url": "/nankai/?id=shikoku-ehime&area=geiyo-omishima",
+    "title": [
+        "Omishima, Ehime, Shikoku",
+        "大三島"
+    ],
+    "description": "日本総鎮守とも称される伊予国一宮、三島・大山祇信仰の総本社「大山祇神社」が鎮座する「神・国宝の島」",
+    "info": {
+        "markdown": "shikoku/ehime/geiyo/omishima/README.md",
+        "links": [
+            {
+                "text": "大三島 - Wikipedia",
+                "url": "https://ja.wikipedia.org/wiki/大三島",
+                "target": "_blank"
+            }
+        ]
+    },
+    "map": {
+        "center": [
+            133.00580834991382,
+            34.24788296928995
+        ],
+        "bounds": [
+            [
+                132.9079893,
+                34.0689761
+            ],
+            [
+                133.0826603,
+                34.4012399
+            ]
+        ],
+        "zoom": 11.5
+    },
+    "cover": {
+        "url": null
+    },
+    "events": [],
+    "eventsJSON": [
+        "shikoku/ehime/geiyo/omishima/date.json"
+    ],
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    133.00580834991382,
+                    34.24788296928995
+                ],
+                "address": "日本 〒794-1304 愛媛県今治市大三島町宮浦３９９３番地"
+            },
+            "properties": {
+                "title": "大山祇神社",
+                "description": "日本総鎮守とも称される伊予国一宮、三島・大山祇信仰の総本社",
+                "tag": null,
+                "zoom": 15.5,
+                "note": [
+                    "イザナミとイザナギの子で、ニニギの妻となる二柱の女神「木花之佐久夜毘売（このはなのさくやびめ）」・「石長比売（いわながひめ）」を子に持つ「大山積神（おおやまづみのかみ）」を祀る神社の総本社",
+                    "源氏・平氏をはじめ多くの武将が武具を奉納したため、古代より日本の武具類が多く集まる国宝の宝庫（特に甲冑の保存は全国一であり、国宝・国の重要文化財の指定をうけた約4割を保有する）",
+                    "その他、境内には国の天然記念物「大山祇神社のクスノキ群」・境外には3の神体山（鷲ヶ頭山・安神山・小見山）がある"
+                ],
+                "links": [
+                    {
+                        "text": "【公式】大山祇神社 愛媛県今治市大三島町",
+                        "url": "https://oomishimagu.jp/",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "大山祇神社 - Google マップ",
+                        "url": "https://maps.app.goo.gl/ZRnJ63Ck11r9iaVK6",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "大山祇神社 - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/大山祇神社",
+                        "target": "_blank"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    133.00891053870635,
+                    34.24806696009459
+                ],
+                "address": "大三島町宮浦"
+            },
+            "properties": {
+                "title": "小見山",
+                "description": "大山祇神社の奥の院がある本社境内後方の山",
+                "note": [
+                    "山名は「お宮の山」からの変形とされる"
+                ],
+                "links": [
+                    {
+                        "text": "奥の院 - Google マップ",
+                        "url": "https://maps.app.goo.gl/27BiATp4LnCpV3dYA",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 15
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    133.01075715230195,
+                    34.24169199630387
+                ],
+                "address": "日本 〒794-1304 愛媛県今治市大三島町宮浦"
+            },
+            "properties": {
+                "title": "安神山",
+                "description": "大山祇神社 〜 鷲ヶ頭山の間に位置する霊峰",
+                "note": [
+                    "",
+                    "海の神である「竜王大権現」が祀られており、「石鎚大神」の碑が建てられている"
+                ],
+                "links": [
+                    {
+                        "text": "安神山三角点265m - Google マップ",
+                        "url": "https://maps.app.goo.gl/dwFFVvns4TeX66D57",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 14
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    133.02138876,
+                    34.23910126
+                ],
+                "address": "Omishimacho Miyaura"
+            },
+            "properties": {
+                "title": "鷲ヶ頭山",
+                "description": "大三島のほぼ中央に位置する最高峰、大山祇神社の神体山（わしがとうざん、標高約436m）",
+                "note": [
+                    "一般的な登山ルートは、「大山祇神社」付近にある登山口から「安神山」を経由し、山頂部へ通じる遊歩道状の道",
+                    "古くは、鷲峯山、神ノ山、神野山とも表記したという"
+                ],
+                "links": [
+                    {
+                        "text": "鷲ヶ頭山 - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/鷲ヶ頭山",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "鷲ヶ頭山 - Google マップ",
+                        "url": "https://maps.app.goo.gl/6dv32ez7HxYciNZa8",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 13
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    133.00482277585905,
+                    34.24613852324606
+                ],
+                "address": "日本 〒794-1304 愛媛県今治市大三島町宮浦４０５９番地"
+            },
+            "properties": {
+                "title": "東円坊",
+                "description": "かつては四国五十五番の本札所であり、大山積神の本地仏である大通智勝仏がいる"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    133.0034629419963,
+                    34.248932001593516
+                ],
+                "address": "日本 〒794-1304 愛媛県今治市大三島町宮浦５５０７番地１"
+            },
+            "properties": {
+                "title": "お食事処 大漁",
+                "description": "大山祇神社のまん前 行列のできる海鮮丼・定食屋",
+                "note": [
+                    "営業時間 11:30 - なくなり次第終了 | 定休日 土曜日（たまに日曜日）"
+                ],
+                "links": [
+                    {
+                        "text": "大漁 - Google マップ",
+                        "url": "https://maps.app.goo.gl/JywvPUHu9kz9qxHr8",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 16.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    132.99400193,
+                    34.24151755
+                ],
+                "address": "愛媛県今治市大三島町宮浦５９０２"
+            },
+            "properties": {
+                "title": "マーレ・グラッシア大三島",
+                "description": "「タラソテラピー（海洋療法）」を取り入れた海洋温浴施設",
+                "zoom": 16.5,
+                "note": [
+                    "入浴 10：00 - 20：00（19：30札止め）",
+                    "休館日 毎週水曜日（定休日）及び 2月の 第1火・水・木曜日（オーバーホール日）"
+                ],
+                "links": [
+                    {
+                        "text": "マーレ・グラッシア大三島｜愛媛県漁業協同組合大三島支所（公式ホームページ）",
+                        "url": "http://jf-omishima.or.jp/publics/index/19/",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "マーレ・グラッシア大三島 - Google マップ",
+                        "url": "https://maps.app.goo.gl/15TCJE97UV2NMHYU6",
+                        "target": "_blank"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    132.99460729127242,
+                    34.252472061525225
+                ],
+                "address": "日本 〒794-1303 愛媛県今治市大三島町明日７８番地"
+            },
+            "properties": {
+                "title": "明日八幡宮",
+                "description": "毎年旧暦一月の日曜日に行われる大三島神楽を継承"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    132.99181702735962,
+                    34.261110764501936
+                ],
+                "address": "日本 〒794-1302 愛媛県今治市大三島町大見１７３７番地"
+            },
+            "properties": {
+                "title": "大見八幡太神社",
+                "description": "毎年旧暦一月十二日の直前の日曜日（大見八幡と姫坂神社の交替）にて「御美戸開神楽」（小神楽）が行われる"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    132.99380667118447,
+                    34.2608099791004
+                ],
+                "address": "日本 〒794-1302 愛媛県今治市大三島町大見２５０４番地"
+            },
+            "properties": {
+                "title": "姫坂神社",
+                "description": "毎年旧暦一月十二日の直前の日曜日（大見八幡と姫坂神社の交替）にて「御美戸開神楽」（小神楽）が行われる"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    133.04963164159574,
+                    34.22829205987699
+                ],
+                "address": "日本 〒794-1404 愛媛県今治市上浦町瀬戸１７５４番地"
+            },
+            "properties": {
+                "title": "向雲寺",
+                "description": "最初に大山積神を奉祀した元宮である横殿の本地仏を祀った大通庵といも地蔵堂がある"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    133.05327357481394,
+                    34.223645563356655
+                ]
+            },
+            "properties": {
+                "title": "横殿宮跡",
+                "description": "大山祇神社の旧社殿と伝わる地",
+                "tag": null,
+                "zoom": 16.5,
+                "note": null,
+                "links": [
+                    {
+                        "text": "横殿宮跡 - Google マップ",
+                        "url": "https://maps.app.goo.gl/pZ6DaJwkWSA3FBf19",
+                        "target": "_blank"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    133.03647149381175,
+                    34.264058366317485
+                ],
+                "address": "日本 〒794-1402 愛媛県今治市上浦町井口５６００番地"
+            },
+            "properties": {
+                "title": "民宿なぎさ",
+                "description": "大三島で獲れる新鮮な魚料理の夕食が評判の民宿",
+                "note": null,
+                "links": [
+                    {
+                        "text": "大三島 なぎさ",
+                        "url": "https://www.oomishima.co.jp/",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "民宿なぎさ - Google マップ",
+                        "url": "https://maps.app.goo.gl/qu19GAujRGuQinhA9",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 17
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    133.04726844034514,
+                    34.26134542649045
+                ],
+                "address": "日本 〒794-1402 愛媛県今治市上浦町井口７０７４番地２０"
+            },
+            "properties": {
+                "title": "三島の湯",
+                "description": "しまなみドームに併設された温泉施設",
+                "tag": null,
+                "zoom": null,
+                "note": null,
+                "links": [
+                    {
+                        "text": "上浦多々羅スポーツ公園運動場 | 今治市公共スポーツ施設の案内 | スポーツ振興課 | 今治市",
+                        "url": "https://www.city.imabari.ehime.jp/sports/shisetsu/tatara/",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "多々羅しまなみドーム - Google マップ",
+                        "url": "https://maps.app.goo.gl/TPPP7rDXLhLB5hyW9",
+                        "target": "_blank"
+                    }
+                ]
+            }
+        }
+    ]
+}

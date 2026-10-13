@@ -5,7 +5,7 @@
         "Kagawa (Sanuki), Shikoku",
         "香川県（讃岐国）"
     ],
-    "description": "現在の香川県のほぼ全域、飯の霊が依り憑く男性を意味するとされる「飯依比古（いいよりひこ）」",
+    "description": "飯（米・食物）に依る男神「飯依比古」\n温暖な瀬戸内海式気候に恵まれた豊かな実りをもたらす狭い平野を有する「幸（食）の国」",
     "info": {
         "markdown": "shikoku/kagawa/README.md",
         "note": null,
@@ -19,6 +19,21 @@
                 "text": "讃岐国 - Wikipedia",
                 "url": "https://ja.wikipedia.org/wiki/讃岐国",
                 "target": "_blank"
+            },
+            {
+                "text": "塩飽諸島 - Wikipedia",
+                "url": "https://ja.wikipedia.org/wiki/塩飽諸島",
+                "target": "_blank"
+            },
+            {
+                "text": "香川県指定文化財一覧 - Wikipedia",
+                "url": "https://ja.wikipedia.org/wiki/香川県指定文化財一覧",
+                "target": "_blank"
+            },
+            {
+                "text": "香川の文化財一覧｜香川県教育委員会",
+                "url": "https://www.pref.kagawa.lg.jp/kenkyoui/shogaigakushu/bunkazai/culturalassets/culturalassets.html",
+                "target": "_blank"
             }
         ]
     },
@@ -29,46 +44,24 @@
         ],
         "bounds": [
             [
-                133.3322225529016,
-                33.815762703998246
+                133.410,
+                34.000
             ],
             [
-                134.66287192503103,
-                34.78486511890242
+                134.443,
+                34.60618141020899
             ]
         ],
-        "zoom": 9.5
+        "zoom": 10
     },
     "cover": {
         "url": null
     },
+    "events": [],
     "eventsJSON": [
-        "shikoku/kagawa/seisan/date.json",
-        "shikoku/kagawa/iino/date.json"
+        "shikoku/kagawa/date.json"
     ],
     "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    133.64659197949396,
-                    34.13292237276576
-                ]
-            },
-            "properties": {
-                "title": "西讃",
-                "description": "霊峰「琴弾山」と「伊吹島」「粟島」の島四国で知られる観光都市・香川県第三の都市",
-                "links": [
-                    {
-                        "text": "西讃 Seisan, Kagawa",
-                        "url": "/nankai/?id=shikoku-kagawa&area=seisan",
-                        "target": "_self"
-                    }
-                ],
-                "zoom": 10.5
-            }
-        },
         {
             "type": "Feature",
             "geometry": {
@@ -81,7 +74,10 @@
             },
             "properties": {
                 "title": "飯野山（飯依比古）",
-                "description": "讃岐国の国魂神、飯の霊が依り憑く男神が宿る地（いいのやま）",
+                "description": "讃岐国の国魂神が宿る霊峰「飯野山」（別名「讃岐富士」）が立地する香川県の中部地域",
+                "note": [
+                    "瀬戸大橋の四国側玄関口に位置する「坂出市」、高松市に次ぐ香川県第二の都市「丸亀市」を中心とする中讃地域の都市圏"
+                ],
                 "links": [
                     {
                         "text": "飯野山（飯依比古） Iino (Sakaide - Marugame), Kagawa, Shikoku",
@@ -89,29 +85,7 @@
                         "target": "_self"
                     }
                 ],
-                "zoom": 11.5
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    133.81200123553754,
-                    34.43602185764155
-                ]
-            },
-            "properties": {
-                "title": "吉備児島",
-                "description": "瀬戸大橋（本州四国連絡橋のうちの「児島・坂出（香川県）ルート」）の本州側起点（きびのこじま）",
-                "links": [
-                    {
-                        "text": "吉備児島 The Great Seto Bridge (Okayama - Kagawa)",
-                        "url": "/nankai/?id=shikoku-kagawa&area=kojima",
-                        "target": "_self"
-                    }
-                ],
-                "zoom": 13
+                "zoom": 12
             }
         },
         {
@@ -126,6 +100,9 @@
             "properties": {
                 "title": "高松都市圏",
                 "description": "瀬戸内海の島々や本州の都市とを結ぶ四国の玄関口「高松」を中心とする都市圏",
+                "note": [
+                    "JR高松駅・高松港・高松空港などが揃う四国の玄関口としての利便性と、四国巡礼の最後の山岳霊場「屋島・八栗山」・結願（けちがん=全札所の巡礼達成）の地への山道などの豊かな自然と歴史が調和するエリア"
+                ],
                 "links": [
                     {
                         "text": "高松都市圏 Takamatsu - Higashikagawa, Kagawa",
@@ -141,6 +118,31 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    133.8124731,
+                    34.4354857
+                ]
+            },
+            "properties": {
+                "title": "吉備児島",
+                "description": "瀬戸大橋の本州側起点、古代に強大な勢力を誇った「吉備国」の海上交通の要衝だった物流の中心地（きびのこじま）",
+                "note": [
+                    "古事記に見る神代の呼称は、猛々しい・勇猛の意とする説がある「建日方別（たけひかたわけ）」<br/>（イザナギとイザナミが大八島国に次いで産んだ「六島」の初めの島）"
+                ],
+                "links": [
+                    {
+                        "text": "吉備児島 The Great Seto Bridge (Okayama - Kagawa)",
+                        "url": "/nankai/?id=shikoku-kagawa&area=kojima",
+                        "target": "_self"
+                    }
+                ],
+                "zoom": 13
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     134.30239388613586,
                     34.517603407151285
                 ]
@@ -148,6 +150,9 @@
             "properties": {
                 "title": "小豆島",
                 "description": "「天然の博物館」と呼ばれるほど生物の種類に富んでいる、船でしか渡れない有人島（しょうどしま）",
+                "note": [
+                    "古事記の島産み神話では、イザナギとイザナミが大八島国に次いで産んだ「六島」の3島目「大天之手一口（おおあまのてひとくち）」に位置づけられる、天の港の入り口を意味するとされる男神"
+                ],
                 "links": [
                     {
                         "text": "小豆島 Shodoshima, Kagawa, Shikoku",
@@ -160,6 +165,8 @@
         }
     ],
     "lineJSON": [
-        "shikoku/dosan.json"
+        "shikoku/kagawa/seisan/index.json",
+        "shikoku/kagawa/goshikidai/index.json",
+        "shikoku/kagawa/takamatsu/index.json"
     ]
 }

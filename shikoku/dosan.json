@@ -32,133 +32,9 @@
         ],
         "zoom": 9.5
     },
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    133.8353888889154,
-                    33.8751444445716
-                ],
-                "address": "徳島県三好市西祖谷山村中尾"
-            },
-            "properties": {
-                "title": "祖谷のかずら橋",
-                "description": ""
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    133.81738888886238,
-                    33.920947222179834
-                ],
-                "address": "徳島県三好市池田町松尾松本367-2"
-            },
-            "properties": {
-                "title": "祖谷温泉",
-                "description": ""
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    133.8304277780321,
-                    33.978316666285195
-                ],
-                "address": "徳島県三好市池田町漆川黒沢"
-            },
-            "properties": {
-                "title": "黒沢湿原",
-                "description": ""
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    133.80485292765667,
-                    34.02731448729595
-                ],
-                "address": "徳島県三好市池田町サラダ"
-            },
-            "properties": {
-                "title": "阿波池田駅",
-                "description": "祖谷のかずら橋へのバスが発着 四国交通バス祖谷線「善徳」下車→徒歩2分",
-                "note":[
-                    "レンタサイクル阿波池田駅三好市観光協会あり"
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    133.7673388889101,
-                    33.876652777989705
-                ],
-                "address": "徳島県三好市西祖谷山村徳善西"
-            },
-            "properties": {
-                "title": "大歩危駅",
-                "description": "祖谷のかずら橋へのバスが発着 三好市営バス大歩危線「かずら橋」下車→徒歩1分",
-                "note":[
-                    "レンタサイクル大歩危駅三好市観光協会"
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    133.76046666675143,
-                    33.886183333396914
-                ],
-                "address": "徳島県三好市山城町西宇1520"
-            },
-            "properties": {
-                "title": "大歩危峡観光遊覧船",
-                "description": "大歩危峡を行き来する観光遊覧船。四国八十八景13番"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    133.75494269306438,
-                    33.9365828472049
-                ],
-                "address": "三好市"
-            },
-            "properties": {
-                "title": "小歩危展望台",
-                "description": ""
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    133.79692586537146,
-                    33.83938425374808
-                ],
-                "address": "日本 〒778-0103 徳島県三好市西祖谷山村有瀬４２１番地"
-            },
-            "properties": {
-                "title": "三部神社",
-                "description": "１０月の第２土曜日に三部神社（さんべじんじゃ）の秋祭り「有瀬かぐら踊り（あるせかぐらおどり）」"
-            }
-        }
+    "features": [],
+    "featuresJSON": [
+        "shikoku/tokushima/index.json"
     ],
     "line": [
         {
@@ -359,6 +235,16 @@
                     "香川県の多度津駅と高知県の窪川駅を結ぶ全長198.7km"
                 ],
                 "links": [
+                    {
+                        "text": "三好（三好市 - 東みよし町） Miyoshi, Tokushima, Shikoku",
+                        "url": "/nankai/?id=shikoku&area=tokushima-miyoshi",
+                        "target": "_self"
+                    },
+                    {
+                        "text": "高知まんなか Kouchi, Shikoku",
+                        "url": "/nankai/?id=shikoku-kouchi&area=mannaka",
+                        "target": "_self"
+                    },
                     {
                         "text": "土讃線 Dosan Line, JR Shikoku",
                         "url": "/nankai/?id=shikoku&name=dosan",

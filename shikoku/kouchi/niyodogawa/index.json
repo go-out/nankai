@@ -2,165 +2,46 @@
     "url": "/nankai/?id=shikoku-kouchi&area=niyodogawa",
     "title": [
         "Niyodogawa, Kouchi, Shikoku",
-        "仁淀川"
+        "土佐・須崎"
     ],
-    "description": "西日本の最高峰「石鎚山」に源を発する「仁淀川」が流れる、すばらしい自然と風情のあるまち並みが共存する地域",
+    "description": "四国内の歩き遍路道で唯一の航路がある、太平洋（土佐湾）に面した港町",
     "info": {
         "markdown": "shikoku/kouchi/niyodogawa/README.md",
         "links": [
             {
-                "text": "仁淀川 - Wikipedia",
-                "url": "https://ja.wikipedia.org/wiki/仁淀川",
+                "text": "土佐市 - Wikipedia",
+                "url": "https://ja.wikipedia.org/wiki/土佐市",
+                "target": "_blank"
+            },
+            {
+                "text": "須崎市 - Wikipedia",
+                "url": "https://ja.wikipedia.org/wiki/須崎市",
                 "target": "_blank"
             }
         ]
     },
     "map": {
         "center": [
-            133.17113303563582,
-            33.57521062194181
+            133.30785622014025,
+            33.460534245471656
         ],
         "bounds": [
             [
-                133.01217991422675,
-                33.33279927869934
+                133.000,
+                33.325
             ],
             [
-                133.48543125278172,
-                33.828219403661464
+                133.485,
+                33.835
             ]
         ],
         "zoom": 10.5
     },
+    "events": [],
+    "eventsJSON": [
+        "shikoku/kouchi/niyodogawa/date.json"
+    ],
     "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    133.34121867,
-                    33.70511107
-                ],
-                "address": "1278 Kiyomizukamibun"
-            },
-            "properties": {
-                "title": "にこ淵",
-                "description": "仁淀川の支流である枝川川にある淵、四国八十八景（29番）「碧の秘境」",
-                "note": [
-                    "水神の化身とされる大蛇が棲む所とされ、地元の人々は近づかない神聖な所であり、入水・飲食・トイレは禁止",
-                    "JR伊野駅から→県交北部交通バス「長沢行き」乗車→乗車約50分『程野入口』下車（または、県交北部交通バス「土居行き」乗車→終点の『土居』下車、徒歩10分で『程野入口』）→グリーンパーク方向へ徒歩約20分"
-                ],
-                "links": [
-                    {
-                        "text": "にこ淵 - Wikipedia",
-                        "url": "https://ja.wikipedia.org/wiki/にこ淵",
-                        "target": "_blank"
-                    },
-                    {
-                        "text": "にこ淵 - Google マップ",
-                        "url": "https://maps.app.goo.gl/2DDCkUrs7xfsFLtV7",
-                        "target": "_blank"
-                    }
-                ],
-                "zoom": 15
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    133.18922988895474,
-                    33.67279588525315
-                ],
-                "address": "日本 〒781-1628 高知県吾川郡仁淀川町大屋１６３０番地３"
-            },
-            "properties": {
-                "title": "安居渓谷",
-                "description": "仁淀川の上流にある支流のひとつ安居川の上流部にある景勝地",
-                "note": [
-                    "手箱山中腹で滝の精を祭祀する大滝神社（おおたびじんじゃ）付近から、安居渓谷までの1,287ヘクタールあまりの山林が安居渓谷県立自然公園に指定されている",
-                    "「水晶淵」は仁淀ブルースポットとして四国八十八景30番に選ばれている"
-                ],
-                "links": [
-                    {
-                        "text": "安居川 - Wikipedia",
-                        "url": "https://ja.wikipedia.org/wiki/安居川",
-                        "target": "_blank"
-                    },
-                    {
-                        "text": "安居渓谷 - Google マップ",
-                        "url": "https://maps.app.goo.gl/whL6vMHjNuinnv6i9",
-                        "target": "_blank"
-                    }
-                ],
-                "zoom": 14.5
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    133.10938182360508,
-                    33.56409707409999
-                ],
-                "address": "日本 〒781-1762 高知県吾川郡仁淀川町下名野川３８１番地２"
-            },
-            "properties": {
-                "title": "中津渓谷",
-                "description": "仁淀川の上流にある支流のひとつ「中津川」にある景勝地",
-                "note": [
-                    "渓谷内には四国八十八景31番に雄大さで選ばれている落差20mの「雨竜の滝」、高さ約8mの「石柱」、「紅葉の滝」、「竜宮淵」などの景勝地があり、11月頃の紅葉の名所としても知られている",
-                    "上流の上名野川地区一帯や中津川の両岸は中津渓谷県立自然公園に指定され、「四国の水辺88か所」に選出されている"
-                ],
-                "links": [
-                    {
-                        "text": "中津川 (仁淀川町) - Wikipedia",
-                        "url": "https://ja.wikipedia.org/wiki/中津川_(仁淀川町)",
-                        "target": "_blank"
-                    },
-                    {
-                        "text": "中津渓谷県立自然公園 - Google マップ",
-                        "url": "https://maps.app.goo.gl/Nkpr4VTg69tLfCVm8",
-                        "target": "_blank"
-                    }
-                ],
-                "zoom": 14.5
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    133.1302527777354,
-                    33.56138333320617
-                ],
-                "address": "高知県吾川郡仁淀川町名野川258-1"
-            },
-            "properties": {
-                "title": "中津渓谷 ゆの森",
-                "description": "中津渓谷の玄関ともいえる場所にある宿泊施設やレストランを併設する温泉施設",
-                "note": [
-                    "日帰り入浴 11:00～20:30 (受付は19:30まで)",
-                    "JR佐川駅下車→黒川観光バスで名野川バス停（約35分）下車後、徒歩約7分"
-                ],
-                "links": [
-                    {
-                        "text": "中津渓谷 ゆの森 | 仁淀川町「宿泊・温泉・観光」",
-                        "url": "https://www.yunomori.jp/",
-                        "target": "_blank"
-                    },
-                    {
-                        "text": "中津渓谷 ゆの森 - Google マップ",
-                        "url": "https://maps.app.goo.gl/mxLJT7E2bNVuCmc56",
-                        "target": "_blank"
-                    }
-                ],
-                "zoom": 16.5
-            }
-        },
         {
             "type": "Feature",
             "geometry": {
@@ -223,124 +104,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    133.25592027580177,
-                    33.56778689843772
-                ],
-                "address": "日本 〒781-1321 高知県高岡郡越知町鎌井田本村"
-            },
-            "properties": {
-                "title": "浅尾沈下橋",
-                "description": "映画のロケ地にもなった風光明媚な橋",
-                "note": [
-                    "__"
-                ],
-                "links": [
-                    {
-                        "text": "浅尾沈下橋 - Google マップ",
-                        "url": "https://maps.app.goo.gl/vLRb3fFhgPnKFh3X8",
-                        "target": "_blank"
-                    }
-                ],
-                "zoom": 17
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    133.30412958529388,
-                    33.590040622189804
-                ],
-                "address": "日本 〒781-1327 高知県高岡郡越知町黒瀬１５６５番地"
-            },
-            "properties": {
-                "title": "天石門別安國玉主天神社",
-                "description": ""
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    133.3562248105422,
-                    33.57247109517894
-                ],
-                "address": "日本 〒781-2141 高知県吾川郡いの町勝賀瀬"
-            },
-            "properties": {
-                "title": "名越屋沈下橋",
-                "description": "仁淀川最下流にある全長191mの沈下橋",
-                "note": [
-                    "__"
-                ],
-                "links": [
-                    {
-                        "text": "名越屋沈下橋 - Google マップ",
-                        "url": "https://maps.app.goo.gl/rAkjK7RaNPG4MUcDA",
-                        "target": "_blank"
-                    }
-                ],
-                "zoom": 16
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    133.36623055564033,
-                    33.57348611089919
-                ],
-                "address": "高知県吾川郡いの町鹿敷1226"
-            },
-            "properties": {
-                "title": "土佐和紙工芸村くらうど",
-                "description": "レンタサイクル 1,000円/1日 台数等 クロスバイク 5台",
-                "note": [
-                    "施設内にはレストランの他、周辺観光の拠点として利用出来る宿泊棟などがある「道の駅」"
-                ],
-                "links": [
-                    {
-                        "text": "いの町レンタサイクル | 高知県いの町観光ガイド",
-                        "url": "https://www.inofan.jp/spot/recommended/n330/",
-                        "target": "_blank"
-                    },
-                    {
-                        "text": "QRAUD",
-                        "url": "https://www.qraud-kochi.jp/",
-                        "target": "_blank"
-                    },
-                    {
-                        "text": "土佐和紙工芸村くらうど - Google マップ",
-                        "url": "https://maps.app.goo.gl/cZJKARRgWKVGewcy7",
-                        "target": "_blank"
-                    }
-                ],
-                "zoom": 17
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    133.38876752945782,
-                    33.55329846876981
-                ],
-                "address": "日本 〒781-2134 高知県吾川郡いの町神谷７５５番地"
-            },
-            "properties": {
-                "title": "天石門別安國玉主天神社",
-                "description": ""
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     133.39299883358592,
                     33.54324145334046
                 ]
@@ -361,38 +124,6 @@
                     {
                         "text": "小村神社 - Google マップ",
                         "url": "https://maps.app.goo.gl/5iRctv1fpMrJ7oo39",
-                        "target": "_blank"
-                    }
-                ],
-                "zoom": 17
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    133.40951388,
-                    33.51249651
-                ],
-                "address": "高岡町丁568-1"
-            },
-            "properties": {
-                "title": "清滝寺",
-                "description": "四国八十八箇所第三十五番札所（きよたきじ）",
-                "note": [
-                    "醫王山（いおうざん）、鏡池院（きょうちいん）と号す",
-                    "清滝山（標高378 m）の中腹に位置する、札所の標高は137m"
-                ],
-                "links": [
-                    {
-                        "text": "清瀧寺 (土佐市) - Wikipedia",
-                        "url": "https://ja.wikipedia.org/wiki/清瀧寺_(土佐市)",
-                        "target": "_blank"
-                    },
-                    {
-                        "text": "清滝寺 - Google マップ",
-                        "url": "https://maps.app.goo.gl/49Tdb24pAxC53oBG9",
                         "target": "_blank"
                     }
                 ],
@@ -430,37 +161,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    133.316824999998,
-                    33.50303888877233
-                ],
-                "address": "高知県高岡郡佐川町加茂2711-1"
-            },
-            "properties": {
-                "title": "まきのさんの道の駅佐川",
-                "description": " 仁淀川流域の新鮮な野菜などが並ぶ直産市や、地場産品・地酒をとりそろえた土産店",
-                "note": [
-                    "__"
-                ],
-                "links": [
-                    {
-                        "text": "まきのさんの道の駅・佐川 | 佐川町と仁淀川流域の「ごちそう」が集う道の駅",
-                        "url": "https://makinosan.jp/",
-                        "target": "_blank"
-                    },
-                    {
-                        "text": "まきのさんの道の駅・佐川 - Google マップ",
-                        "url": "https://maps.app.goo.gl/Ew9uEHfsNSQ4Ly8s8",
-                        "target": "_blank"
-                    }
-                ],
-                "zoom": 17
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     133.33678341419284,
                     33.453971902446696
                 ],
@@ -476,39 +176,6 @@
                     {
                         "text": "市野々天満宮 - Google マップ",
                         "url": "https://maps.app.goo.gl/uJqJcuY5FEhHaDW7A",
-                        "target": "_blank"
-                    }
-                ],
-                "zoom": 17
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    133.4508029578423,
-                    33.42602558766117
-                ],
-                "address": "日本 〒781-1165 高知県土佐市宇佐町竜６０１番地"
-            },
-            "properties": {
-                "title": "青龍寺",
-                "description": "四国八十八箇所第三十六番札所（しょうりゅうじ）",
-                "note": [
-                    "独鈷山（とっこうざん）、伊舎那院（いしゃないん）と号す",
-                    "本堂のある上段が如意山で、客殿のあるところが摩尼山の麓で、奥の院のある所が独鈷山であり、薬師如来が本尊の寺があった如意山に、奥の院の本尊不動明王を移し、その薬師如来は横に置かれ、そのあと大師堂を造ってずらっと並んだ伽藍の一つの寺になったとみられる",
-                    "とさでん交通・土佐市ドラゴンバス「宮前スカイライン入り口」下車 (3.1 km)"
-                ],
-                "links": [
-                    {
-                        "text": "青龍寺 (土佐市) - Wikipedia",
-                        "url": "https://ja.wikipedia.org/wiki/青龍寺_(土佐市)",
-                        "target": "_blank"
-                    },
-                    {
-                        "text": "青龍寺 - Google マップ",
-                        "url": "https://maps.app.goo.gl/NaFh9K6SP8sU7SDc8",
                         "target": "_blank"
                     }
                 ],
@@ -572,6 +239,253 @@
                     }
                 ],
                 "zoom": 17
+            }
+        }
+    ],
+    "featuresJSON": [
+        "shikoku/88.json"
+    ],
+    "line": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        133.4300366,
+                        33.4374537
+                    ],
+                    [
+                        133.4268591,
+                        33.4374908
+                    ],
+                    [
+                        133.4260856,
+                        33.4347141
+                    ],
+                    [
+                        133.4295415,
+                        33.4304459
+                    ],
+                    [
+                        133.4291231,
+                        33.4300849
+                    ],
+                    [
+                        133.4295425,
+                        33.430446
+                    ],
+                    [
+                        133.4234753,
+                        33.4341269
+                    ],
+                    [
+                        133.4226776,
+                        33.4338298
+                    ],
+                    [
+                        133.4229217,
+                        33.4364744
+                    ],
+                    [
+                        133.4215489,
+                        33.4386593
+                    ],
+                    [
+                        133.4148011,
+                        33.4427221
+                    ],
+                    [
+                        133.4139379,
+                        33.4437447
+                    ],
+                    [
+                        133.4140023,
+                        33.4429032
+                    ],
+                    [
+                        133.4132314,
+                        33.4424182
+                    ],
+                    [
+                        133.4102995,
+                        33.4425658
+                    ],
+                    [
+                        133.4085311,
+                        33.4435182
+                    ],
+                    [
+                        133.4054812,
+                        33.447282
+                    ],
+                    [
+                        133.411013,
+                        33.4342808
+                    ],
+                    [
+                        133.4103294,
+                        33.4343408
+                    ],
+                    [
+                        133.4059773,
+                        33.429425
+                    ],
+                    [
+                        133.4062715,
+                        33.4274684
+                    ],
+                    [
+                        133.4074877,
+                        33.4258563
+                    ],
+                    [
+                        133.408612,
+                        33.425977
+                    ],
+                    [
+                        133.4074869,
+                        33.4258559
+                    ],
+                    [
+                        133.4062715,
+                        33.4274684
+                    ],
+                    [
+                        133.405055,
+                        33.4290836
+                    ],
+                    [
+                        133.4027681,
+                        33.4284679
+                    ],
+                    [
+                        133.4008501,
+                        33.425759
+                    ],
+                    [
+                        133.4014409,
+                        33.4205893
+                    ],
+                    [
+                        133.403374,
+                        33.4177885
+                    ],
+                    [
+                        133.4014403,
+                        33.4205891
+                    ],
+                    [
+                        133.400172,
+                        33.4235878
+                    ],
+                    [
+                        133.3975413,
+                        33.4258821
+                    ],
+                    [
+                        133.3949402,
+                        33.4259561
+                    ],
+                    [
+                        133.3841516,
+                        33.4229957
+                    ],
+                    [
+                        133.3808407,
+                        33.4201683
+                    ],
+                    [
+                        133.3803516,
+                        33.4182099
+                    ],
+                    [
+                        133.3798062,
+                        33.4218212
+                    ],
+                    [
+                        133.3759341,
+                        33.425867
+                    ],
+                    [
+                        133.3717944,
+                        33.4271803
+                    ],
+                    [
+                        133.3657694,
+                        33.4270665
+                    ],
+                    [
+                        133.3651706,
+                        33.428227
+                    ],
+                    [
+                        133.3661909,
+                        33.4233123
+                    ],
+                    [
+                        133.3661326,
+                        33.4189049
+                    ],
+                    [
+                        133.3669427,
+                        33.4163687
+                    ],
+                    [
+                        133.3685581,
+                        33.4144633
+                    ],
+                    [
+                        133.3680357,
+                        33.4147759
+                    ],
+                    [
+                        133.3676577,
+                        33.414595
+                    ],
+                    [
+                        133.3668936,
+                        33.4136502
+                    ],
+                    [
+                        133.3666673,
+                        33.4110283
+                    ],
+                    [
+                        133.3648845,
+                        33.4097528
+                    ],
+                    [
+                        133.3594601,
+                        33.408751
+                    ]
+                ]
+            },
+            "properties": {
+                "title": "須崎市営巡航船",
+                "description": "四国内の歩き遍路道で唯一の航路を運行する渡し船（水上バス）",
+                "note": [
+                    "四国本島（浦ノ内湾北岸）と横浪半島（浦ノ内湾南岸）の各集落を交互に結ぶ渡船",
+                    "1日上下3便ずつ、2隻の巡航船が運航（航海時間約1時間、航海距離約18km）<br/>【運休日】日曜日、祝日、年末・年始（12/29～1/3）"
+                ],
+                "links": [
+                    {
+                        "text": "巡航船｜須崎市",
+                        "url": "https://www.city.susaki.lg.jp/life/detail.php?hdnKey=3548",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "須崎市営巡航船 - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/須崎市営巡航船",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "土佐・須崎 Niyodogawa, Kouchi, Shikoku",
+                        "url": "/nankai/?id=shikoku-kouchi&area=niyodogawa",
+                        "target": "_self"
+                    }
+                ],
+                "zoom": 12
             }
         }
     ]

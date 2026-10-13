@@ -1,0 +1,346 @@
+{
+    "url": "/nankai/?id=shikoku-ehime&area=nanyo-uwa",
+    "title": [
+        "Higashi Uwa, Ehime, Shikoku",
+        "宇和島・宇和盆地"
+    ],
+    "description": "南予地方の中心都市「宇和島市」、南予地域最大の米どころ（穀倉地帯）が広がる南予最大の平野部「宇和盆地（西予市）」",
+    "info": {
+        "note": [
+            "宇和島市 - 東宇和・西予市"
+        ],
+        "markdown": "shikoku/ehime/nanyo/uwa/README.md",
+        "links": [
+            {
+                "text": "宇和郡 - Wikipedia",
+                "url": "https://ja.wikipedia.org/wiki/宇和郡",
+                "target": "_blank"
+            },
+            {
+                "text": "宇和島市 - Wikipedia",
+                "url": "https://ja.wikipedia.org/wiki/宇和島市",
+                "target": "_blank"
+            },
+            {
+                "text": "宇和盆地 - Wikipedia",
+                "url": "https://ja.wikipedia.org/wiki/宇和盆地",
+                "target": "_blank"
+            },
+            {
+                "text": "西予市 - Wikipedia",
+                "url": "https://ja.wikipedia.org/wiki/西予市",
+                "target": "_blank"
+            }
+        ]
+    },
+    "map": {
+        "center": [
+            132.56749669472333,
+            33.225791979913424
+        ],
+        "bounds": [
+            [
+                132.238,
+                33.01
+            ],
+            [
+                132.675,
+                33.430
+            ]
+        ],
+        "zoom": 10.5
+    },
+    "events": [
+        {
+            "month": [
+                1,
+                5,
+                7,
+                10
+            ],
+            "title": [
+                "定期闘牛大会",
+                "宇和島市営闘牛場"
+            ],
+            "note": [
+                "four or five times a year",
+                "毎年 正月・春・和霊大祭（七月）・十月"
+            ],
+            "description": "試合 正午から午後二時頃（午前十時 開場） 全席自由席",
+            "info": {
+                "markdown": "shikoku/ehime/nanyo/uwa/tougyu.md",
+                "links": [
+                    {
+                        "text": "定期闘牛大会 - 【宇和島闘牛 公式サイト】",
+                        "url": "https://www.tougyu.com/taikai-info/list/",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "宇和島市営闘牛場 - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/宇和島市営闘牛場",
+                        "target": "_blank"
+                    }
+                ]
+            }
+        }
+    ],
+    "eventsJSON": [
+        "shikoku/ehime/nanyo/uwa/date.json"
+    ],
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    132.56525425442163,
+                    33.21946972818161
+                ],
+                "address": "日本 〒798-0060 愛媛県宇和島市丸之内１丁目３番"
+            },
+            "properties": {
+                "title": "宇和島城",
+                "description": "国の史跡、重要文化財、日本100名城、現存12天守"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    132.56532106040999,
+                    33.22992259695931
+                ],
+                "address": "日本 〒798-0012 愛媛県宇和島市和霊町１４５１番地"
+            },
+            "properties": {
+                "title": "和霊神社",
+                "description": "宇和島藩の家老・山家清兵衛公頼を祀る、四国地方における和霊信仰の総本山"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    132.572662695683,
+                    33.227422998110484
+                ],
+                "address": "日本 〒798-0012 愛媛県宇和島市和霊町４９６番地２"
+            },
+            "properties": {
+                "title": "宇和島市営闘牛場",
+                "description": "定期闘牛大会は正月・春・和霊大祭（夏）・秋の年に四度"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    132.57308055559793,
+                    33.21521111064487
+                ],
+                "address": "愛媛県宇和島市野川乙13"
+            },
+            "properties": {
+                "title": "宇和津彦神社",
+                "description": "一〇月二九日の祭礼で、江戸時代以来の伝統を持っている民俗芸能 八ツ鹿踊り が演じられる"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    132.51981095278148,
+                    33.17164751454163
+                ],
+                "address": "日本 〒798-0101 愛媛県宇和島市三浦東２６９３番地"
+            },
+            "properties": {
+                "title": "三浦天満神社",
+                "description": "秋季祭礼にて県指定無形民俗文化財「三浦天満神社祭礼の練り」が行われる",
+                "note": null,
+                "links": [
+                    {
+                        "text": "三浦天満神社 - Google マップ",
+                        "url": "https://maps.app.goo.gl/v3pUbw7gYtNXRnuw8",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 17
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    132.45623838,
+                    33.20661778
+                ],
+                "address": "宇和島市"
+            },
+            "properties": {
+                "title": "遊子水荷浦の段畑",
+                "description": "重要文化的景観"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    132.44298963356738,
+                    33.20145312525575
+                ],
+                "address": "日本 〒798-0103 愛媛県宇和島市遊子１１０５番地１"
+            },
+            "properties": {
+                "title": "津の浦",
+                "description": "八月十五日 無形民俗文化財「津の浦のいさ踊り」が行われる",
+                "note": null,
+                "links": [
+                    {
+                        "text": "津の浦みんなの広場 - Google マップ",
+                        "url": "https://maps.app.goo.gl/yw4MBFNABnWfkUCn6",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 17
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    132.40703337,
+                    33.19674605
+                ],
+                "address": "愛媛県宇和島市曙町1"
+            },
+            "properties": {
+                "title": "蒋淵",
+                "description": "市指定無形民俗文化財 \n宇和海地区の蒋淵には、「トントコ踊り」とよばれる盆踊りがある\n\n八月一三日の夜、二艘の舫い船を踊りの舞台として、蒋淵七浦を回漕しつつ、各浦の新盆を迎えた新仏と、各地区の神仏にささげられる\n一五日は、昼間の踊りで、まず、蒋淵に祀られている神々に踊りを捧げる。タンゴ様には日向踊り、戎様には宮島踊りといったように、神様ごとに、献ずる曲目がほぼ決まっている\n"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    132.52229214453064,
+                    33.123217515568726
+                ],
+                "address": "日本 〒798-3301 愛媛県宇和島市津島町岩松８０８番地"
+            },
+            "properties": {
+                "title": "岩松の町並み",
+                "description": "重要伝統的建造物群保存地区"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    132.54238950132526,
+                    33.2925742472287
+                ],
+                "address": "日本 〒799-3730 愛媛県宇和島市吉田町立間１番地３７８２"
+            },
+            "properties": {
+                "title": "南山八幡神社",
+                "description": "一一月三日秋季例大祭 神幸行事「吉田祭のお練り行事」"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    132.5897722,
+                    33.2876056
+                ],
+                "address": "〒798-1104 愛媛県宇和島市三間町曽根614番地"
+            },
+            "properties": {
+                "title": "天満神社",
+                "description": "旧八朔（現在は九月一日）に、県指定無形民俗文化財 花踊り "
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    132.5046483307931,
+                    33.36435145478117
+                ],
+                "address": "日本 〒797-0016 愛媛県西予市宇和町神領４３３番地"
+            },
+            "properties": {
+                "title": "三島神社",
+                "description": "7月第1日曜日 県指定無形民俗文化財「土居の御田植行事」が行われる",
+                "note": null,
+                "links": [
+                    {
+                        "text": "三島神社 - Google マップ",
+                        "url": "https://maps.app.goo.gl/QqgSoWD1d8yjNDf9A",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 17
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    132.51329671,
+                    33.36323368
+                ],
+                "address": "宇和町卯之町"
+            },
+            "properties": {
+                "title": "卯之町の町並み",
+                "description": "旧宇和町は江戸時代より宇和島藩の宿場町として栄え、その中心部の卯之町に残る歴史的景観は、重要伝統的建造物群保存地区"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    132.47160208399606,
+                    33.39890268299699
+                ],
+                "address": "日本 〒797-0026 愛媛県西予市宇和町岩木２７１９番地"
+            },
+            "properties": {
+                "title": "安養寺",
+                "description": "旧7月11日 県指定文化財 無形民俗文化財「はなとりおどり」が行われる",
+                "note": [
+                    "増田の高山尊神の祭礼に安養寺の境内で行われる芸能",
+                    "はなとりおどり[増田]の斎払いは、本山派（天台系）と当山派（真言系）の争いを表し、青竹の打ち合いは、土佐の神事「棒打ち」の影響がみられる",
+                    "踊りの刀は破邪の剣、平常嫌う逆さ鎌は破魔除災を表している"
+                ],
+                "links": [
+                    {
+                        "text": "安養寺 - Google マップ",
+                        "url": "https://maps.app.goo.gl/PJQmKKnHiiaQpmXy8",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 17
+            }
+        }
+    ],
+    "featuresJSON": [
+        "shikoku/88.json"
+    ],
+    "lineJSON": []
+}

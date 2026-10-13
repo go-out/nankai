@@ -1,6 +1,6 @@
 {
     "type": "FeatureCollection",
-    "url": "?id=yoshino",
+    "url": "/nankai/?id=yoshino",
     "title": [
         "Omine-Okugake Trail",
         "大峯奥駈道"
@@ -2919,8 +2919,28 @@
                 ],
                 "links": [
                     {
+                        "text": "十津川（玉置山） Totsukawa, Nara",
+                        "url": "/nankai/?id=yoshino-totsukawa",
+                        "target": "_self"
+                    },
+                    {
+                        "text": "大日岳・釈迦ヶ岳 - 前鬼 Shimokitayama, Nara",
+                        "url": "?id=yoshino-shimokitayama",
+                        "target": "_self"
+                    },
+                    {
+                        "text": "弥山・八経ヶ岳（天河神社） Tenkawa, Nara",
+                        "url": "?id=yoshino-tenkawa",
+                        "target": "_self"
+                    },
+                    {
+                        "text": "金峰山（山上ヶ岳 - 洞川） Kinpu-sen - Dorogawa, Nara",
+                        "url": "?id=yoshino-kinpu",
+                        "target": "_self"
+                    },
+                    {
                         "text": "大峯奥駈道 Omine-Okugake Trail",
-                        "url": "?id=yoshino",
+                        "url": "/nankai/?id=yoshino",
                         "target": "_self"
                     }
                 ],

@@ -77,31 +77,6 @@
                     }
                 ]
             }
-        },
-        {
-            "month": [
-                10,
-                11
-            ],
-            "title": [
-                "紅葉",
-                "高野山"
-            ],
-            "description": "金剛峯寺 - 蛇腹路 - 高野山奥之院",
-            "note": [
-                "Late October - Early November every year",
-                "例年 十月下旬から十一月上旬"
-            ],
-            "info": {
-                "markdown": "kii/koyo.md",
-                "links": [
-                    {
-                        "text": "高野山（金剛峯寺） Mount Koya, Wakayama",
-                        "url": "?id=kii-koyasan",
-                        "target": "_self"
-                    }
-                ]
-            }
         }
     ]
 }

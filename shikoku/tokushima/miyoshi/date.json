@@ -1,0 +1,25 @@
+{
+    "events": [
+        {
+            "date": {
+                "month": 10,
+                "date": [
+                    14
+                ]
+            },
+            "title": [
+                "宵宮神事",
+                "金丸八幡神社"
+            ],
+            "note": [
+                "October 22th every year",
+                "毎年 十月十四日 午後七時"
+            ],
+            "description": "徳島県指定無形民族文化財",
+            "info": {
+                "note": null,
+                "links": null
+            }
+        }
+    ]
+}

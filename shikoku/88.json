@@ -1,0 +1,3100 @@
+{
+    "url": "/nankai/?id=shikoku&name=88",
+    "title": [
+        "Shikoku 88 Temple Pilgrimage",
+        "四国八十八箇所"
+    ],
+    "description": "お遍路（へんろ）と呼ばれる修行の道で通じる88の仏教寺院",
+    "info": {
+        "note": [
+            "阿波（発心） 土佐（修行） 伊予（菩提） 讃岐（涅槃）"
+        ],
+        "markdown": "shikoku/88.md",
+        "links": [
+            {
+                "text": "四国八十八箇所 - Wikipedia",
+                "url": "https://ja.wikipedia.org/wiki/四国八十八箇所",
+                "target": "_blank"
+            },
+            {
+                "text": "みんなのへんろ - お遍路がもっと好きになる！みんなでつくる四国お遍路ポータルサイト",
+                "url": "https://min88.jp/",
+                "target": "_blank"
+            }
+        ]
+    },
+    "map": {
+        "center": [
+            133.4905052204657,
+            33.76595712252919
+        ],
+        "bounds": [
+            [
+                131.500,
+                32.000
+            ],
+            [
+                135.200,
+                34.695
+            ]
+        ],
+        "zoom": 7.75
+    },
+    "events": [],
+    "eventsJSON": [],
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    134.5025021,
+                    34.1592644
+                ],
+                "address": "日本 〒779-0230 徳島県鳴門市大麻町板東塚鼻１２６番地"
+            },
+            "properties": {
+                "title": "霊山寺",
+                "description": "四国八十八箇所第一番札所・とくしま88景（りょうぜんじ）",
+                "note": [
+                    "山号は竺和山（じくわさん）・院号は一乗院（いちじょういん）",
+                    "寺伝によれば奈良時代に聖武天皇の勅願により、行基によって開創",
+                    "弘仁6年（815年）に空海（弘法大師）が21日間（三七日）留まって修行したという"
+                ],
+                "links": [
+                    {
+                        "text": "霊山寺 (鳴門市) - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/霊山寺_(鳴門市)",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "霊山寺 - Google マップ",
+                        "url": "https://maps.app.goo.gl/JPu5qoe1WH9GvdQr6",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 16.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    134.490613,
+                    34.1559742
+                ],
+                "address": "日本 〒779-0225 徳島県鳴門市大麻町桧ダンノ上１２番地"
+            },
+            "properties": {
+                "title": "極楽寺",
+                "description": "四国八十八箇所第二番札所（ごくらくじ）",
+                "note": [
+                    "日照山（にっしょうざん）無量寿院（むりょうじゅいん）と号す",
+                    "寺伝によれば、奈良時代（710年 - 784年）に行基が開基",
+                    "弘仁6年（815年）に空海（弘法大師）が21日間（三七日）留まって修行したという",
+                    "困った漁民たちが本堂の前に山を築いて光をさえぎったということから「日照山」と号するとされる"
+                ],
+                "links": [
+                    {
+                        "text": "極楽寺 (鳴門市) - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/極楽寺_(鳴門市)",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "極楽寺 二番札所 - Google マップ",
+                        "url": "https://maps.app.goo.gl/BQMhLxSv2UyGb14y9",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 16.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    134.4685018,
+                    34.1474528
+                ],
+                "address": "徳島県板野郡板野町大寺亀山下66"
+            },
+            "properties": {
+                "title": "金泉寺",
+                "description": "四国八十八箇所第三番札所（こんせんじ）",
+                "note": [
+                    "亀光山（きこうざん）釈迦院（しゃかいん）と号す",
+                    "寺伝によれば、奈良時代に聖武天皇の勅願により行基が本尊を刻み、金光明寺と称したという",
+                    "その後、空海（弘法大師）が訪れた際に、水不足解消のため井戸を掘り、黄金井の霊水が湧出したことから寺号を金泉寺としたという"
+                ],
+                "links": [
+                    {
+                        "text": "金泉寺 - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/金泉寺",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "金泉寺 - Google マップ",
+                        "url": "https://maps.app.goo.gl/3KogRmk3sPVcmFtS9",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 16.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    134.439382,
+                    34.13979
+                ]
+            },
+            "properties": {
+                "title": "愛染院",
+                "description": "第三番札所金泉寺の奥の院（あいぜんいん）",
+                "note": [
+                    "山号は金鶏山・別名は那東のお不動さん",
+                    "平安時代前期の弘仁7年（816年）四国を巡錫中の弘法大師（空海）がこの地に霊気を感じ、みずから不動明王を刻み、本尊として安置したのが始まりと伝わる",
+                    "三番札所金泉寺より西へ約3km、大日寺へ向かう遍路道の途中にあり、地元では「那東のお不動さん」として親しまれている",
+                    "明治・大正時代までは「阿弥陀寺（あみだん）)」と呼ばれていたが、大正10年に四国二十一番札所太龍寺の境内にあった「愛染院」と合併し、現在の寺名となった"
+                ],
+                "links": [
+                    {
+                        "text": "愛染院 (徳島県板野町) - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/愛染院_(徳島県板野町)",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "愛染院 - Google マップ",
+                        "url": "https://maps.app.goo.gl/s5qtNkszNCnKM8Fd9",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 17
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    134.4306861,
+                    34.1514542
+                ],
+                "address": "〒779-0113 徳島県板野郡板野町黒谷居内5番地"
+            },
+            "properties": {
+                "title": "大日寺",
+                "description": "四国八十八箇所第四番札所・境内に「国の史跡・遍路道」が残る（だいにちじ）",
+                "note": [
+                    "山号は黒巌山（こくがんざん）、院号は遍照院（へんじょういん）と号す",
+                    "寺伝によれば空海（弘法大師）がこの地での修行中に大日如来を感得、一刀三礼して1尺8寸（約55cm）の大日如来像を刻み、これを本尊として創建",
+                    "この地が三方を山に囲まれ黒谷と呼ばれていたのが由来で、黒谷寺（くろたにでら）とも呼ばれていたという"
+                ],
+                "links": [
+                    {
+                        "text": "大日寺 (徳島県板野町) - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/大日寺_(徳島県板野町)",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "大日寺 - Google マップ",
+                        "url": "https://maps.app.goo.gl/noZ8MuYCi8QhnGoE9",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 16.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    134.4320693,
+                    34.1367079
+                ],
+                "address": "徳島県板野郡板野町羅漢字林東5"
+            },
+            "properties": {
+                "title": "地蔵寺",
+                "description": "四国八十八箇所第五番札所・境内に「国の史跡・遍路道」が残る（じぞうじ）",
+                "note": [
+                    "無尽山（むじんざん）荘厳院（しょうごんいん）と号す",
+                    "寺伝によれば弘仁12年（821年）、嵯峨天皇の勅願により空海（弘法大師）が一寸8分の甲冑を身にまとい馬にまたがる姿をしていると云われる勝軍地蔵菩薩を自ら刻み、本尊として開創したと伝えられる",
+                    "当時は伽藍の規模も壮大で26の塔頭と、阿波・讃岐・伊予の3国で300あまりの末寺を持ったという",
+                    "本寺の北側には、安永4年（1775年）に実聞・実名という兄弟の僧によって創建された奥之院「五百羅漢堂（五百羅漢）」がある",
+                    "大護摩供養が、毎年3月第1日曜日に行われる"
+                ],
+                "links": [
+                    {
+                        "text": "地蔵寺 (徳島県板野町) - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/地蔵寺_(徳島県板野町)",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "地蔵寺 - Google マップ",
+                        "url": "https://maps.app.goo.gl/SNXhcXA38YNTQmcx9",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 16.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    134.3886176,
+                    34.1181094
+                ],
+                "address": "徳島県板野郡上板町引野寺ノ西北8"
+            },
+            "properties": {
+                "title": "安楽寺",
+                "description": "四国八十八箇所第六番札所・お遍路で一番最初の宿坊（あんらくじ）",
+                "note": [
+                    "温泉山（おんせんざん）瑠璃光院（るりこういん）と号す",
+                    "寺伝によれば弘仁6年（815年）に現在地よりおよそ2km離れた安楽寺谷に、空海（弘法大師）が堂宇を建立し薬師如来を刻んで本尊としたという",
+                    "万治年間（1658年 - 1661年）に現在地に駅路寺であった瑞運寺を併合して再建",
+                    "境内には、大師堂前から湧き出るラジウム鉱泉入りの薬湯温泉を持つ宿坊（寺院に設けられた宿泊施設）がある"
+                ],
+                "links": [
+                    {
+                        "text": "【公式】徳島県 温泉山 安楽寺",
+                        "url": "https://shikoku6.or.jp/",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "安楽寺 (徳島県上板町) - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/安楽寺_(徳島県上板町)",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "安楽寺 - Google マップ",
+                        "url": "https://maps.app.goo.gl/TMY4nKD3wv735cFD8",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 16.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    134.3780318,
+                    34.1205485
+                ],
+                "address": "土成町高尾字法教田58"
+            },
+            "properties": {
+                "title": "十楽寺",
+                "description": "四国八十八箇所第七番札所（じゅうらくじ）",
+                "note": [
+                    "光明山（こうみょうざん）、蓮華院（れんげいん）と号す",
+                    "寺伝によれば、空海（弘法大師）がこの地に逗留した際に阿弥陀如来を感得し、楠にその像を刻み本尊として祀ったとされる",
+                    "当初は現在地よりおよそ3km離れた十楽寺谷の堂ヶ原に堂宇を建立したものと推定されている",
+                    "空海は人間の持つ八苦（生、老、病、死、愛別離苦、怨憎会苦、求不得苦、五陰盛苦）を離れ、極楽浄土に往生すると受けられる十の光明に輝く楽しみ（聖衆来迎楽、蓮華初会楽、身相神通楽、五妙境界楽、快楽無退楽、引接結縁楽、聖衆倶会楽、見仏聞法楽、随心供仏楽、増進仏道楽）が得られるようにと山号・寺号を「光明山十楽寺」とした"
+                ],
+                "links": [
+                    {
+                        "text": "十楽寺 (阿波市) - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/十楽寺_(阿波市)",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "十楽寺 - Google マップ",
+                        "url": "https://maps.app.goo.gl/7iC1hgG2N1FrcSTs8",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 16.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    134.3399667,
+                    34.1225367
+                ],
+                "address": "日本 〒771-1506 徳島県阿波市土成町土成前田１８５番地"
+            },
+            "properties": {
+                "title": "熊谷寺",
+                "description": "四国八十八箇所第八番札所（くまだにじ）",
+                "note": [
+                    "普明山（ふみょうざん）真光院（しんこういん）と号す",
+                    "毎月18日ライトアップされた本尊千手観音菩薩が黄金に輝く"
+                ],
+                "links": [
+                    {
+                        "text": "熊谷寺 (阿波市) - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/熊谷寺_(阿波市)",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "熊谷寺 - Google マップ",
+                        "url": "https://maps.app.goo.gl/mVvg7Poz1CrxNX9RA",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 16.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    134.3337524,
+                    34.1040995
+                ],
+                "address": "徳島県阿波市土成町土成田中198-2"
+            },
+            "properties": {
+                "title": "法輪寺",
+                "description": "四国八十八箇所第九番札所（ほうりんじ）",
+                "note": [
+                    "正覚山（しょうかくざん）菩提院（ぼだいいん）と号す",
+                    "本尊は涅槃釈迦如来で毎年2月15日に開帳される",
+                    "巡錫中の空海（弘法大師）が白蛇を見、白蛇が仏の使いといわれていることから釈迦涅槃像を刻んで本尊として開基したと伝えられている",
+                    "当初は現在地より4キロメートル北方の法地ヶ渓にあり白蛇山法林寺もしくは法淋寺と号した",
+                    "周辺には、空海が水不足に苦しむ農民を哀れみ、小豆を洗った水を加持して清水を湧出させたと云われる霊跡「小豆洗大師堂（あずきあらいだいしどう）」がある"
+                ],
+                "links": [
+                    {
+                        "text": "法輪寺 (阿波市) - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/法輪寺_(阿波市)",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "法輪寺 - Google マップ",
+                        "url": "https://maps.app.goo.gl/uvFz3UDYJYtfA9ek9",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "小豆洗大師 - Google マップ",
+                        "url": "https://maps.app.goo.gl/utBXWmbaByYLADQP7",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 16.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    134.3041138,
+                    34.1074395
+                ],
+                "address": "徳島県阿波市市場町切幡観音129"
+            },
+            "properties": {
+                "title": "切幡寺",
+                "description": "四国八十八箇所第十番札所・境内に「国の史跡・遍路道」が残る（きりはたじ）",
+                "note": [
+                    "得度山（とくどざん）灌頂院（かんじょういん）と号す",
+                    "大塔の奥に進んだところに「八祖大師」があるほか、周辺には番外霊場「犬墓大師堂」がある"
+                ],
+                "links": [
+                    {
+                        "text": "切幡寺 - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/切幡寺",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "切幡寺 - Google マップ",
+                        "url": "https://maps.app.goo.gl/AeDRA3ShbLrnzwBY9",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "犬墓大師堂 - Google マップ",
+                        "url": "https://maps.app.goo.gl/sn3VyKVGC2adwjcK7",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 16
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    134.3487704,
+                    34.0516187
+                ],
+                "address": "徳島県吉野川市鴨島町飯尾1525"
+            },
+            "properties": {
+                "title": "藤井寺",
+                "description": "四国八十八箇所第十一番札所（ふじいでら）、焼山寺への遍路道は奥深い自然の地「幽玄霊谷」",
+                "note": [
+                    "空海（弘法大師）が堂宇の前に藤を植えたことから藤井寺と号したという",
+                    "以来、真言密教の道場として七堂伽藍を持つ寺に発展",
+                    "焼山寺への遍路道に入ると奥深い自然の地「幽玄霊谷」に入り込む（八十八箇所本尊を祀った祠が点在）",
+                    "その先の渓流の上には、空海が修行したといわれる八畳岩があり、その岩の上には鎮守弁財天が祀られた祠がある"
+                ],
+                "links": [
+                    {
+                        "text": "藤井寺 (吉野川市) - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/藤井寺_(吉野川市)",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "藤井寺 - Google マップ",
+                        "url": "https://maps.app.goo.gl/nJKK9nmXSx99TknE9",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 17
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    134.3105838,
+                    33.9850758
+                ],
+                "address": "徳島県名西郡神山町下分字地中318"
+            },
+            "properties": {
+                "title": "焼山寺",
+                "description": "四国八十八箇所第十二番札所（しょうさんじ）、四国山地の山深い所にある随一の難所",
+                "note": [
+                    "摩盧山（まろざん）、正寿院（しょうじゅいん）と号す",
+                    "焼山寺山中腹に位置しており、四国八十八箇所では3番目の高さ（標高707m）に位置する",
+                    "藤井寺からの遍路道「焼山寺道」で行くと、長戸庵・柳水庵・浄蓮庵（一本杉庵）を寄りながら、約6~8時間かけて焼山寺に至る",
+                    "当寺を越えると遍路道の名称は「一宮道」と変わり、約1km下ったところに霊場番外札所「杖杉庵（じょうしんあん）」がある",
+                    "毎年8月30日、おこもり法要、日没から境内におびただしい数の灯籠が灯される",
+                    "本坊左奥の登山口から焼山寺山頂上まで約1.1 kmの登山道（徒歩約1時間）が伸び、その先に奥之院「蔵王権現堂」がある"
+                ],
+                "links": [
+                    {
+                        "text": "焼山寺 - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/焼山寺",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "焼山寺 - Google マップ",
+                        "url": "https://maps.app.goo.gl/XRcM2xp7pQkCYr2Z7",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 16.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    134.4628884,
+                    34.0380475
+                ],
+                "address": "徳島県徳島市一宮町西丁263"
+            },
+            "properties": {
+                "title": "大日寺・一宮神社",
+                "description": "四国八十八箇所第十三番札所（だいにちじ）、阿波国一宮「上一宮大粟神社」の分祠「一宮神社」が隣接",
+                "note": [
+                    "大栗山（おおぐりざん）、花蔵院（けぞういん）と号す",
+                    "元は國中寺の場所にあり、船盡社（船盡神社・船盡比賣神社）の別当寺であった",
+                    "伝承では平安時代末期に、阿波一宮が神山町の上一宮大粟神社にあるのでは不便ということで当地に分詞され阿波一宮神社が造られると当寺はその別当寺となった",
+                    "（戦国時代の戦で一帯焼け野原になったが、江戸時代初期にいち早く復興され、現在に至る）"
+                ],
+                "links": [
+                    {
+                        "text": "大日寺 (徳島市) - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/大日寺_(徳島市)",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "大日寺 - Google マップ",
+                        "url": "https://maps.app.goo.gl/buGqboUprEJe3KjMA",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "一宮神社 (徳島市) - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/一宮神社_(徳島市)",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "阿波国一之宮 一宮神社 - Google マップ",
+                        "url": "https://maps.app.goo.gl/fmrQbMkF2a4RjMA69",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 15.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    134.4764202,
+                    34.0501234
+                ],
+                "address": "〒779-3128 徳島県徳島市国府町延命606番地"
+            },
+            "properties": {
+                "title": "常楽寺",
+                "description": "四国八十八箇所第十四番札所、本堂・大師堂は国の登録有形文化財（じょうらくじ）",
+                "note": [
+                    "盛寿山（せいじゅさん）、延命院（えんめいいん）と号す",
+                    "境内は断層が剥き出しとなった自然の岩盤の上にあり、その形状から流水岩といわれている"
+                ],
+                "links": [
+                    {
+                        "text": "常楽寺 (徳島市) - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/常楽寺_(徳島市)",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "常楽寺 - Google マップ",
+                        "url": "https://maps.app.goo.gl/c2vX923eH7WQkBjAA",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 16.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    134.4738748,
+                    34.0554236
+                ],
+                "address": "徳島県徳島市国府町矢野718-1"
+            },
+            "properties": {
+                "title": "阿波国分寺",
+                "description": "四国八十八箇所第十五番札所・国指定の名勝（あわこくぶんじ）",
+                "note": [
+                    "薬王山（やくおうさん）、金色院（こんじきいん）と号す",
+                    "寺伝では行基が自ら薬師如来を刻んで開基し、聖武天皇から釈迦如来像と大般若経、光明皇后の位牌厨子が納められたと伝わっている",
+                    "当初は法相宗の寺院として七堂伽藍を有する大寺院であった",
+                    "境内には、「阿波の青石」（緑色の結晶片岩）を豪快に組んだ枯山水を特徴とする安土桃山時代に築かれた（一部は江戸後期に大幅に改修された）重森三玲作の庭園「阿波国分寺庭園」がある"
+                ],
+                "links": [
+                    {
+                        "text": "阿波国分寺 - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/阿波国分寺",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "阿波国分寺 - Google マップ",
+                        "url": "https://maps.app.goo.gl/SijScpXPkmnJ32v18",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 16.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    134.4743673,
+                    34.0684136
+                ],
+                "address": "徳島県徳島市国府町観音寺49-2"
+            },
+            "properties": {
+                "title": "観音寺",
+                "description": "四国八十八箇所第十六番札所（かんおんじ）",
+                "note": [
+                    "光耀山（こうようざん）、千手院（せんじゅいん）と号す",
+                    "寺伝によれば、聖武天皇が国分寺建立の勅命を出した際に行基に命じて勅願道場として本寺を建立",
+                    "弘仁7年（816年）に空海が巡錫した際に本尊として千手観音像、脇侍に不動明王と毘沙門天を刻んで安置、現在の寺名に改めたとされる",
+                    "町名は「かんのんじ」であるが、寺名は「かんおんじ」<br>また、香川県観音寺市に同じく四国八十八箇所の一つである第六十九番札所観音寺が存在するが、こちらの市名は「かんおんじ」で寺名は「かんのんじ」であり、読みが異なる"
+                ],
+                "links": [
+                    {
+                        "text": "観音寺 (徳島市国府町観音寺) - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/観音寺_(徳島市国府町観音寺)",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "観音寺 - Google マップ",
+                        "url": "https://maps.app.goo.gl/2GYVVp39nX19ZqYo7",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 15
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    134.4855048,
+                    34.0849952
+                ],
+                "address": "日本 〒779-3118 徳島県徳島市国府町井戸北屋敷８１番地"
+            },
+            "properties": {
+                "title": "井戸寺",
+                "description": "四国八十八箇所第十七番札所（いどじ）",
+                "note": [
+                    "瑠璃山（るりざん）、真福院（しんぷくいん）と号す",
+                    "寺伝によれば、阿波の国司に隣接し天武天皇が勅願道場として673年に創建し、七堂伽藍、末寺12坊を誇る壮大な寺院となり「妙照寺」と称していた",
+                    "その後、弘仁6年（815年）に空海（弘法大師）が来錫、十一面観世音菩薩を刻んで安置したという"
+                ],
+                "links": [
+                    {
+                        "text": "井戸寺 - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/井戸寺",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "井戸寺 - Google マップ",
+                        "url": "https://maps.app.goo.gl/rar2HzR8ryR2HDjB6",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 16.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    134.5779162,
+                    33.9859875
+                ],
+                "address": "徳島県小松島市田野町字恩山寺谷40"
+            },
+            "properties": {
+                "title": "恩山寺",
+                "description": "四国八十八箇所第十八番札所（おんざんじ）、遍路道は国の史跡",
+                "note": [
+                    "母養山（ぼようざん）、宝樹院（ほうじゅいん）と号す",
+                    "土佐街道から離れ恩山寺に向う間の約0.4km「恩山寺道」・恩山寺から立江寺へ向かい土佐街道に再び合流するまでの間約0.5km「立江寺道」は国の史跡"
+                ],
+                "links": [
+                    {
+                        "text": "恩山寺 - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/恩山寺",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "恩山寺 - Google マップ",
+                        "url": "https://maps.app.goo.gl/kDWa4i6DoNhE3Qct7",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 17
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    134.60752434728875,
+                    33.9962709439032
+                ]
+            },
+            "properties": {
+                "title": "金磯弁財天",
+                "description": "恩山寺奥の院（かないそべんざいてん）",
+                "note": [
+                    "仏堂の脇の丘陵「蓬莱山」に自生する亜熱帯性植物「アコウ」は、徳島県指定天然記念物"
+                ],
+                "links": [
+                    {
+                        "text": "金磯弁財天 - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/金磯弁財天",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "金磯弁財天 - Google マップ",
+                        "url": "https://maps.app.goo.gl/nSTtUgQ4fspcMdqq8",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 16
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    134.6058462,
+                    33.9676585
+                ],
+                "address": "日本 〒773-0017 徳島県小松島市立江町若松１３番地"
+            },
+            "properties": {
+                "title": "立江寺",
+                "description": "四国八十八箇所第十九番札所・四国の総関所（たつえじ）",
+                "note": [
+                    "橋池山（きょうちさん）、摩尼院（まにいん）と号す",
+                    "当時は現在地から400 mほど西の奥谷山清水寺のある場所であったという",
+                    "昭和15年に当時の住職らが発願し、旧跡を起点に新四国八十八ヶ所（天神山を一周する約4km徒歩1時間のミニ八十八ヶ所）を開創（昭和55年に大改修が行われた）"
+                ],
+                "links": [
+                    {
+                        "text": "立江寺 (小松島市) - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/立江寺_(小松島市)",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "立江寺 - Google マップ",
+                        "url": "https://maps.app.goo.gl/vhAPMdPnyiVti46T6",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "清水寺 - Google マップ",
+                        "url": "https://maps.app.goo.gl/W9LTxadhJcJ2QzH76",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 16
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    134.5147407,
+                    33.9485499
+                ],
+                "address": "徳島県勝浦郡勝浦町星谷"
+            },
+            "properties": {
+                "title": "星谷寺",
+                "description": "四国八十八箇所第19番札所立江寺の奥の院（別名は星の岩屋）",
+                "note": [
+                    "阿波秩父観音霊場の第7番札所。東山渓県立自然公園指定。阿波勝浦八景。"
+                ],
+                "links": [
+                    {
+                        "text": "星谷寺 (徳島県勝浦町) - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/星谷寺_(徳島県勝浦町)",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 16
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    134.50534,
+                    33.9140962
+                ],
+                "address": "徳島県勝浦郡勝浦町生名字鷲ヶ尾14"
+            },
+            "properties": {
+                "title": "鶴林寺",
+                "description": "四国八十八箇所第二十番札所（かくりんじ）、遍路道は国の史跡",
+                "note": [
+                    "山号は霊鷲山（りょうじゅさん）、院号は宝珠院（ほうじゅいん）と号する",
+                    "鶴林寺山（標高516.1 m）の山頂近くに位置する「一に焼山、二にお鶴、三に太龍」と並び称される阿波の難所の一つ",
+                    "表参道は「へんろころがし」といわれる急傾斜の山道",
+                    "弘法大師が杖を突くと水が噴き出たという伝説の所「水呑大師」から鶴林寺の間約1.27km「鶴林寺道」と、太龍寺道へ続く遍路のうち大井集落手前までの約1.3 km「太龍寺道（前半）」は国の史跡",
+                    "アクセス<br>JR徳島駅発着 徳島バス 勝浦線（横瀬行）「生名」下車 (徒歩約1時間、約5km)"
+                ],
+                "links": [
+                    {
+                        "text": "鶴林寺 (徳島県勝浦町) - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/鶴林寺_(徳島県勝浦町)",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "鶴林寺 - Google マップ",
+                        "url": "https://maps.app.goo.gl/b2YH9zWRqiLzaP2fA",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "水呑大師 - Google マップ",
+                        "url": "https://maps.app.goo.gl/zptse3EBBv5ZZukQA",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "徳島バス勝浦線「生名」 - Google マップ",
+                        "url": "https://maps.app.goo.gl/iYDWT8ehcSoqdPjJ8",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 16
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    134.5217884,
+                    33.8825077
+                ],
+                "address": "徳島県阿南市加茂町龍山2"
+            },
+            "properties": {
+                "title": "太龍寺",
+                "description": "四国八十八箇所の第二十一番札所（たいりゅうじ）、西の高野と称される大伽藍を有する",
+                "note": [
+                    "舎心山（しゃしんざん）、常住院（じょうじゅういん）と号す",
+                    "大伽藍は西の高野と称され、阿南室戸歴史文化道に指定・とくしま88景に選定される",
+                    "阿波では「一に焼山、二にお鶴、三に太龍」と称され、へんろころがしと呼ばれる難所の一つ"
+                ],
+                "links": [
+                    {
+                        "text": "太龍寺 - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/太龍寺",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "太龍寺 - Google マップ",
+                        "url": "https://maps.app.goo.gl/Pn1uJPpeGFoE43ET6",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 16
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    134.5823139,
+                    33.8520142
+                ],
+                "address": "徳島県阿南市新野町秋山177"
+            },
+            "properties": {
+                "title": "平等寺",
+                "description": "四国八十八箇所第二十二番札所（びょうどうじ）、四国八十八景18番「涅槃大師に見える風景」",
+                "note": [
+                    "白水山（はくすいざん）、医王院（いおういん）と号す",
+                    "周辺には、「月夜御水大師」・「弥谷観音堂」など複数の奥之院・霊跡がある",
+                    "22 平等寺 --- 22番奥の院 月夜御水大師 --- 鉦打大師・鉦打坂薬師 --- 22番奥の院 弥谷観音堂 --- 23 薬王寺"
+                ],
+                "links": [
+                    {
+                        "text": "平等寺 (阿南市) - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/平等寺_(阿南市)",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "平等寺 - Google マップ",
+                        "url": "https://maps.app.goo.gl/GuPVSDRzxbqDigS99",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 16.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    134.527626,
+                    33.7324544
+                ],
+                "address": "〒779-2305 徳島県海部郡美波町奥河内寺前285番地1"
+            },
+            "properties": {
+                "title": "薬王寺",
+                "description": "四国八十八箇所の第二十三番札所（やくおうじ）、四国八十八景19番「一望する日和佐の町並み」",
+                "note": [
+                    "医王山（いおうざん）、無量寿院（むりょうじゅいん）と号す",
+                    "寺伝によれば、神亀3年（726年）に聖武天皇の勅願により行基が創建と伝わる",
+                    "弘仁6年（815年）には平城上皇の勅命によって空海（弘法大師）が厄除けのため薬師如来像を刻み、伽藍を建立"
+                ],
+                "links": [
+                    {
+                        "text": "薬王寺 (徳島県美波町) - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/薬王寺_(徳島県美波町)",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "薬王寺 - Google マップ",
+                        "url": "https://maps.app.goo.gl/pZoc6Hay3BgLh17X6",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 17
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    134.17574256510835,
+                    33.249010506412944
+                ],
+                "address": "高知県室戸市室戸岬町4058-1"
+            },
+            "properties": {
+                "title": "最御崎寺",
+                "description": "四国八十八箇所第二十四番札所、室戸岬のシンボル（ほつみさきじ）",
+                "note": [
+                    "室戸山（むろとざん）、明星院（みょうじょういん）と号す",
+                    "空海の『三教指帰』には「土州室戸崎に勤念す」（原文は漢文）とあり、室戸岬にほど近い洞窟（御厨人窟）で虚空蔵求聞持法に励んだとされる",
+                    "寺伝によれば空海は大同2年（807年）に、嵯峨天皇の勅願を受けて本尊の虚空蔵菩薩を刻み、本寺を開創したとされる",
+                    "境外には、空海が一夜にして建立したという伝説により「一夜建立の岩屋」と言われる観音窟などの奥の院・霊場がある（宿坊あり）"
+                ],
+                "links": [
+                    {
+                        "text": "最御崎寺 - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/最御崎寺",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "最御崎寺 - Google マップ",
+                        "url": "https://maps.app.goo.gl/oxsvgTt334fYiwa8A",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "一夜建立の岩屋 - Google マップ",
+                        "url": "https://maps.app.goo.gl/XMjwbh6pkYM4Kt7ZA",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 16
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    134.14842002488223,
+                    33.28822252040051
+                ],
+                "address": "日本 〒781-7102 高知県室戸市室津２６５２番地イ"
+            },
+            "properties": {
+                "title": "津照寺",
+                "description": "四国八十八箇所第二十五番札所（しんしょうじ）",
+                "note": [
+                    "宝珠山（ほうしゅざん）、真言院（しんごんいん）と号す",
+                    "寺伝によれば、大同2年（807年）に空海がこの地を巡錫した際、山の形が宝珠に似ておりこの地が霊地であると感得し、宝珠に合わせ、一刀三礼して延命地蔵菩薩を刻み堂宇を建立し開創したという"
+                ],
+                "links": [
+                    {
+                        "text": "津照寺 - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/津照寺",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "津照寺 - Google マップ",
+                        "url": "https://maps.app.goo.gl/hEHeJcKs2X4r2vr56",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 16.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    134.12284722222222,
+                    33.3072055557039
+                ],
+                "address": "高知県室戸市元乙523"
+            },
+            "properties": {
+                "title": "金剛頂寺",
+                "description": "四国八十八箇所第二十六番札所（こんごうちょうじ）",
+                "note": [
+                    "龍頭山（りゅうずざん）、光明院（こうみょういん）と号す",
+                    "三角山の中腹にあり、室戸岬を臨め眼下に太平洋が広がる行当岬上部の景勝地にある（室戸市周辺では西寺とよばれる）",
+                    "北東の鬼門に約7km離れた池山池に池山神社、南西の裏鬼門に約1.5km離れた崎山地区に法満宮を配して創建された",
+                    "寺から南に下がった海岸は行当岬の東側にあたり、硯（すずり）が産出されたことから硯が浦とも呼ばれる"
+                ],
+                "links": [
+                    {
+                        "text": "金剛頂寺 (室戸市) - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/金剛頂寺_(室戸市)",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "金剛頂寺 - Google マップ",
+                        "url": "https://maps.app.goo.gl/dyQ529JoT2ggEEGQ9",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 17
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    133.9747250000636,
+                    33.4673888888624
+                ],
+                "address": "高知県安芸郡安田町唐浜2594"
+            },
+            "properties": {
+                "title": "神峯寺",
+                "description": "八十八箇所第二十七番札所（こうのみねじ）",
+                "note": [
+                    "竹林山（ちくりんざん）、地蔵院（じぞういん）と号す",
+                    "真っ縦（まったて）と呼ばれる急な山道を登った神峰山（標高569.9 m）の中腹（標高430 m付近）にあり四国八十八箇所で9番目の高さで高知県では一番",
+                    "「土佐の関所」また「遍路ころがし」と呼ばれる屈指の難所",
+                    "境外北側に、奥之院「神峯神社」が鎮座する（神武天皇が東征の際、この山を神の峯とし石を積み神籬を立てて祀ったことが起源と伝えられている）"
+                ],
+                "links": [
+                    {
+                        "text": "神峯寺 - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/神峯寺",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "神峯寺 - Google マップ",
+                        "url": "https://maps.app.goo.gl/RGowU3YmVSX6wtbd7",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "神峯神社 - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/神峯神社",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "神峯神社 - Google マップ",
+                        "url": "https://maps.app.goo.gl/83W77NNK2HQgVoR79",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 17
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    133.7054111,
+                    33.577575
+                ],
+                "address": "〒781-5222 高知県香南市野市町母代寺476番地"
+            },
+            "properties": {
+                "title": "大日寺",
+                "description": "四国八十八箇所第二十八番札所（だいにちじ）",
+                "note": [
+                    "法界山（ほうかいさん）、高照院（こうしょういん）と号す",
+                    "寺伝によれば天平年間（729年 - 749年）に聖武天皇の勅願により、行基が大日如来像を刻んで堂宇を建立して開創したという",
+                    "弘仁6年（815年）に空海が楠の大木に爪で薬師如来像を彫って荒廃していた本寺を復興",
+                    "土佐くろしお鉄道ごめん・なはり線 - のいち駅下車 (2.0 km)"
+                ],
+                "links": [
+                    {
+                        "text": "大日寺 (香南市) - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/大日寺_(香南市)",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "28番 大日寺 - Google マップ",
+                        "url": "https://maps.app.goo.gl/XZjAinjpnsBcJE5o9",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 17
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    133.6404417,
+                    33.5986639
+                ],
+                "address": "〒783-0053 高知県南国市国分546番地"
+            },
+            "properties": {
+                "title": "国分寺",
+                "description": "四国八十八箇所二十九番札所（とさ こくぶんじ）",
+                "note": [
+                    "摩尼山（まにざん）、宝蔵院（ほうぞういん）と号す",
+                    "聖武天皇が発した「国分寺建立の詔」により全国に建立された国分寺（金光明四天王護国之寺）の一つ",
+                    "周辺は古代から中世まで土佐国の国府の所在地（国府の中心である国庁は国分寺から徒歩15分の位置にあり、かつてその近くにあった土佐国総社は現在当寺境内に移されている）",
+                    "四国旅客鉄道（JR四国） 土讃線「後免駅」下車 (3.0 km)<br>南国市コミュニティバス「国分寺通」下車 (0.5 km)"
+                ],
+                "links": [
+                    {
+                        "text": "土佐国分寺 - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/土佐国分寺",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "国分寺 - Google マップ",
+                        "url": "https://maps.app.goo.gl/n95aPXEQ7FRVDdGR8",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 17
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    133.57700555589463,
+                    33.59259722179837
+                ],
+                "address": "高知県高知市一宮２４９９"
+            },
+            "properties": {
+                "title": "善楽寺・土佐神社",
+                "description": "第30番札所（ぜんらくじ）と、土佐国の総鎮守として崇敬される高知県の一宮",
+                "note": [
+                    "土佐神社の主祭神であるアヂスキタカヒコネは、賀茂氏の氏神とされる（賀茂氏の一族は、摂津国三嶋県（大阪府北部）から阿波国を経て土佐に土着したと考えられる）",
+                    "善楽寺は、百々山（どどさん）、東明院（とうみょういん）と号す",
+                    "寺伝によれば、大同5年（810年）空海（弘法大師）が高鴨大明神（土佐国一宮で現在の土佐神社）の別当寺として、神宮寺とともに創建したといわれている"
+                ],
+                "links": [
+                    {
+                        "text": "善楽寺 - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/善楽寺",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "善楽寺 - Google マップ",
+                        "url": "https://maps.app.goo.gl/t3EhNqA4evLrU9rT7",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "土佐神社 - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/土佐神社",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "土佐一ノ宮 土佐神社 - Google マップ",
+                        "url": "https://maps.app.goo.gl/k4BYeHb9A6z9i5Xc7",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 17
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    133.5773444,
+                    33.5465778
+                ],
+                "address": "〒781-8125 高知県高知市五台山3577番地"
+            },
+            "properties": {
+                "title": "竹林寺",
+                "description": "四国八十八箇所第三十一番札所（ちくりんじ）",
+                "note": [
+                    "五臺山（ごだいさん）、金色院（こんじきいん）と号す",
+                    "切戸文殊・安倍文殊とともに日本三文殊の一つに数えられる",
+                    "境内には、鎌倉時代後期に作庭された重要文化財である庭園がある",
+                    "MY遊バス 「竹林寺前」下車 (0.1 km) <br>とさでん交通 前浜・パークタウン線「五台山農協前」「坂本前」下車"
+                ],
+                "links": [
+                    {
+                        "text": "竹林寺 (高知市) - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/竹林寺_(高知市)",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "竹林寺 - Google マップ",
+                        "url": "https://maps.app.goo.gl/VKLuKkRTuP5wECou5",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 17
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    133.61140023681088,
+                    33.52672904701126
+                ],
+                "address": "日本 〒783-0085 高知県南国市十市３０８４番地"
+            },
+            "properties": {
+                "title": "禅師峰寺",
+                "description": "四国八十八箇所第三十二番札所（ぜんじぶじ）",
+                "note": [
+                    "八葉山（はちようざん）、求聞持院（ぐもんじいん）と号す",
+                    "地元では、峰寺（みねんじ、みねじ）と呼ばれることが多く、山上からは土佐湾が一望できる",
+                    "南国市コミュニティバス 「峰寺通」下車 (0.8 km)、とさでん交通前浜パークタウン線「緑ヶ丘三丁目」下車(1.9km)"
+                ],
+                "links": [
+                    {
+                        "text": "禅師峰寺 - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/禅師峰寺",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "禅師峰寺 - Google マップ",
+                        "url": "https://maps.app.goo.gl/tfJvtNMHrqynMnnx8",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 17
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    133.54310987904114,
+                    33.50083528211435
+                ],
+                "address": "日本 〒781-0270 高知県高知市長浜８５７番地３"
+            },
+            "properties": {
+                "title": "雪蹊寺",
+                "description": "四国八十八箇所第三十三番札所（せっけいじ）",
+                "note": [
+                    "高福山（こうふくざん）、幸福院（こうふくいん）と号す",
+                    "寺伝によれば空海（弘法大師）の開基で、創建当初は真言宗に属し、「少林山高福寺」と称したという",
+                    "とさでん交通 長浜行き・桂浜行き「長浜」下車 (0.3 km)"
+                ],
+                "links": [
+                    {
+                        "text": "雪蹊寺 - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/雪蹊寺",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "雪蹊寺 - Google マップ",
+                        "url": "https://maps.app.goo.gl/oyPNDVvqpomJGKV97",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 17
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    133.48759084466457,
+                    33.49172430561467
+                ],
+                "address": "日本 〒781-0321 高知県高知市春野町秋山７２番地１"
+            },
+            "properties": {
+                "title": "種間寺",
+                "description": "四国八十八箇所第三十四番札所（たねまじ）",
+                "note": [
+                    "本尾山（もとおざん）、朱雀院（すざくいん）と号す",
+                    "安産祈願の寺",
+                    "とさでん交通 「春野庁舎前」下車 (0.8 km)"
+                ],
+                "links": [
+                    {
+                        "text": "種間寺 - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/種間寺",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "種間寺 - Google マップ",
+                        "url": "https://maps.app.goo.gl/oETKhsdYmmGLWPSBA",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 17
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    133.40951388,
+                    33.51249651
+                ],
+                "address": "高岡町丁568-1"
+            },
+            "properties": {
+                "title": "清滝寺",
+                "description": "四国八十八箇所第三十五番札所（きよたきじ）",
+                "note": [
+                    "醫王山（いおうざん）、鏡池院（きょうちいん）と号す",
+                    "清滝山（標高378 m）の中腹に位置する、札所の標高は137m"
+                ],
+                "links": [
+                    {
+                        "text": "清瀧寺 (土佐市) - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/清瀧寺_(土佐市)",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "清滝寺 - Google マップ",
+                        "url": "https://maps.app.goo.gl/49Tdb24pAxC53oBG9",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 17
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    133.4508029578423,
+                    33.42602558766117
+                ],
+                "address": "日本 〒781-1165 高知県土佐市宇佐町竜６０１番地"
+            },
+            "properties": {
+                "title": "青龍寺",
+                "description": "四国八十八箇所第三十六番札所（しょうりゅうじ）",
+                "note": [
+                    "独鈷山（とっこうざん）、伊舎那院（いしゃないん）と号す",
+                    "本堂のある上段が如意山で、客殿のあるところが摩尼山の麓で、奥の院のある所が独鈷山であり、薬師如来が本尊の寺があった如意山に、奥の院の本尊不動明王を移し、その薬師如来は横に置かれ、そのあと大師堂を造ってずらっと並んだ伽藍の一つの寺になったとみられる",
+                    "とさでん交通・土佐市ドラゴンバス「宮前スカイライン入り口」下車 (3.1 km)"
+                ],
+                "links": [
+                    {
+                        "text": "青龍寺 (土佐市) - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/青龍寺_(土佐市)",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "青龍寺 - Google マップ",
+                        "url": "https://maps.app.goo.gl/NaFh9K6SP8sU7SDc8",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 17
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    133.13495277775658,
+                    33.20811666647594
+                ],
+                "address": "高知県高岡郡四万十町茂串町3-13"
+            },
+            "properties": {
+                "title": "岩本寺",
+                "description": "四国八十八箇所第三十七番札所（いわもとじ）",
+                "note": [
+                    "藤井山（ふじいざん）、五智院（ごちいん）と号す",
+                    "36番青龍寺および38番金剛福寺との距離が遠く、当寺で一泊することが多かった（宿坊 定員50名）",
+                    "高知西南交通・近鉄バス（しまんとブルーライナー号） 窪川駅前下車 (0.7 km)"
+                ],
+                "links": [
+                    {
+                        "text": "岩本寺 - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/岩本寺",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "岩本寺 - Google マップ",
+                        "url": "https://maps.app.goo.gl/QLZRzUsHaGoocCBz9",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 17
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    133.01855946219877,
+                    32.72603358856537
+                ],
+                "address": "日本 〒787-0315 高知県土佐清水市足摺岬２１４番地１"
+            },
+            "properties": {
+                "title": "金剛福寺",
+                "description": "四国八十八箇所第三十八番札所（こんごうふくじ）",
+                "note": [
+                    "蹉跎山（さだざん）、補陀洛院（ふだらくいん）と号す",
+                    "境内には亜熱帯植物が茂り、周辺の足摺岬の遊歩道付近には「弘法大師の七不思議」の伝説が残されている"
+                ],
+                "links": [
+                    {
+                        "text": "金剛福寺 - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/金剛福寺",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "金剛福寺 - Google マップ",
+                        "url": "https://maps.app.goo.gl/26AuaokVsTnF32iG6",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 17
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    132.77405212869292,
+                    32.96132079245997
+                ],
+                "address": "日本 〒788-0782 高知県宿毛市平田町中山３９０番地"
+            },
+            "properties": {
+                "title": "延光寺",
+                "description": "四国八十八箇所第三十九番札所（えんこうじ）",
+                "note": [
+                    "赤亀山（しゃっきざん）、寺山院（じさんいん）と号す",
+                    "高知西南交通 中村-宿毛線「寺山口」下車 (1.0 km)"
+                ],
+                "links": [
+                    {
+                        "text": "延光寺 - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/延光寺",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "延光寺 - Google マップ",
+                        "url": "https://maps.app.goo.gl/MVfwyRsYXSHvrYQ99",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 17
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    132.5640638891856,
+                    32.96467222213745
+                ],
+                "address": "愛媛県南宇和郡愛南町御荘平城2253-1"
+            },
+            "properties": {
+                "title": "観自在寺",
+                "description": "四国八十八箇所第四十番札所（かんじざいじ）",
+                "note": [
+                    "平城山（へいじょうざん）、薬師院（やくしいん）と号す",
+                    "第一番札所より最も離れていることから「四国霊場の裏関所」と呼ばれている",
+                    "宇和島バス 宇和島・城辺・宿毛線 「平城札所前」下車 (0.2 km)"
+                ],
+                "links": [
+                    {
+                        "text": "観自在寺 - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/観自在寺",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "観自在寺 - Google マップ",
+                        "url": "https://maps.app.goo.gl/MspNi4kFGLjRWrUt5",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 17
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    132.59841111077205,
+                    33.295097221798365
+                ],
+                "address": "愛媛県宇和島市三間町戸雁173"
+            },
+            "properties": {
+                "title": "龍光寺",
+                "description": "四国八十八箇所第四十一番札所（りゅうこうじ）",
+                "note": [
+                    "稲荷山（いなりざん）、護国院（ごこくいん）と号す。",
+                    "宇和島バス 「森ヶ鼻」下車 (0.8 km)"
+                ],
+                "links": [
+                    {
+                        "text": "龍光寺 (宇和島市) - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/龍光寺_(宇和島市)",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "龍光寺 - Google マップ",
+                        "url": "https://maps.app.goo.gl/cCsrcyXd5sR8cV6u6",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 17
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    132.58146950727848,
+                    33.31059915653036
+                ],
+                "address": "日本 〒798-1102 愛媛県宇和島市三間町則１６８３番地"
+            },
+            "properties": {
+                "title": "佛木寺",
+                "description": "四国八十八箇所第四十二番札所（ぶつもくじ）",
+                "note": [
+                    "一か山、毘盧舎那院（びるしゃないん）と号す",
+                    "宇和島バス 「仏木寺」下車 (0.1 km)"
+                ],
+                "links": [
+                    {
+                        "text": "佛木寺 - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/佛木寺",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "佛木寺 - Google マップ",
+                        "url": "https://maps.app.goo.gl/GmxtQJTMCEYdbCUY7",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 17
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    132.51895372904505,
+                    33.369220029341335
+                ],
+                "address": "日本 〒797-0007 愛媛県西予市宇和町明石２０５番地"
+            },
+            "properties": {
+                "title": "明石寺",
+                "description": "四国八十八箇所第四十三番札所（めいせきじ）",
+                "note": [
+                    "源光山（げんこうざん）、円手院（えんしゅいん）と号す",
+                    "本来の名称は「あげいしじ」だが、現在は「めいせきじ」と呼ぶ",
+                    "古墳時代に造られた小円墳（明石寺古墳1号から3号）が入口横の山裾にあり、古くから開けた文明の進歩した地区であった"
+                ],
+                "links": [
+                    {
+                        "text": "明石寺 - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/明石寺",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "明石寺 - Google マップ",
+                        "url": "https://maps.app.goo.gl/66EeuG6TSPMg8y127",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 17
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    132.9121042303612,
+                    33.660921140935
+                ],
+                "address": "日本 〒791-1205 愛媛県上浮穴郡久万高原町菅生２番地１１７３－２"
+            },
+            "properties": {
+                "title": "大寶寺",
+                "description": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    132.98071811188026,
+                    33.65867302309792
+                ],
+                "address": "日本 〒791-1511 愛媛県上浮穴郡久万高原町七鳥１４６８番地"
+            },
+            "properties": {
+                "title": "岩屋寺",
+                "description": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    132.8191372090788,
+                    33.75359081510618
+                ],
+                "address": "日本 〒791-1133 愛媛県松山市浄瑠璃町２８２番地"
+            },
+            "properties": {
+                "title": "浄瑠璃寺",
+                "description": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    132.8128249994914,
+                    33.757961111068724
+                ],
+                "address": "愛媛県松山市浄瑠璃町八坂773"
+            },
+            "properties": {
+                "title": "熊野山八坂寺",
+                "description": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    132.81396502703024,
+                    33.79373378822942
+                ],
+                "address": "日本 〒791-1111 愛媛県松山市高井町１００７番地"
+            },
+            "properties": {
+                "title": "西林寺",
+                "description": "四国八十八箇所第四十八番札所（さいりんじ）",
+                "note": [
+                    "滝山（せいりゅうざん）、安養院（あんよういん）と号す",
+                    "伊予の関所寺（別の寺が関所寺という説もあり）で、境内は周りより一段低い場所にあり、邪悪な者が踏み入れると無間地獄に落ちると考えられている",
+                    "伊予鉄道 横河原線 - 鷹ノ子駅 下車 (0.8 km)",
+                    "八坂寺から徒歩約1時間 - 浄土寺まで徒歩約四十五分"
+                ],
+                "links": [
+                    {
+                        "text": "西林寺 (松山市) - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/西林寺_(松山市)",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "西林寺 - Google マップ",
+                        "url": "https://maps.app.goo.gl/kwqzo9ZZ2hnjjNYs8",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 17
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    132.8084020342693,
+                    33.81669471288946
+                ],
+                "address": "日本 〒790-0925 愛媛県松山市鷹子町１１９８番地"
+            },
+            "properties": {
+                "title": "浄土寺",
+                "description": "四国八十八箇所第四十九番札所（じょうどじ）",
+                "note": [
+                    "山号は西林山（さいりんざん）、三蔵院（さんぞういん）と号す",
+                    "西林寺から徒歩約四十五分 - 繁多寺まで徒歩約三十分"
+                ],
+                "links": [
+                    {
+                        "text": "浄土寺 (松山市) - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/浄土寺_(松山市)",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "浄土寺 - Google マップ",
+                        "url": "https://maps.app.goo.gl/NoWpV9xEKy3jZBvQ6",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 17
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    132.8044619526412,
+                    33.82812540281802
+                ],
+                "address": "日本 〒790-0912 愛媛県松山市畑寺町３２番地"
+            },
+            "properties": {
+                "title": "繁多寺",
+                "description": "四国八十八箇所第五十番札所（はんたじ）",
+                "note": [
+                    "東山（ひがしやま）、瑠璃光院（るりこういん）と号す",
+                    "松山市を見下ろす淡路ヶ峠の中腹にあり、西側や南側への展望が素晴らしく、松山城や瀬戸内海までが俯瞰でき背後には鬱蒼とした樹木が繁る",
+                    "境内周辺は景観樹林保護地域に指定されており、サクラ、藤、秋の紅葉の名所",
+                    "浄土寺から徒歩約三十分 - 石手寺まで徒歩約四十五分"
+                ],
+                "links": [
+                    {
+                        "text": "繁多寺 - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/繁多寺",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "繁多寺 - Google マップ",
+                        "url": "https://maps.app.goo.gl/6rMzHypzDyLq7wH57",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 17
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    132.7964968670825,
+                    33.847873224791854
+                ],
+                "address": "日本 〒790-0852 愛媛県松山市石手２丁目"
+            },
+            "properties": {
+                "title": "石手寺",
+                "description": "四国八十八箇所第五十一番札所（いしてじ）",
+                "note": [
+                    "熊野山（くまのざん）、虚空蔵院（こくぞういん）と号す",
+                    "遍路の元祖とされる衛門三郎の再来伝説ゆかりの寺",
+                    "（道後温泉から近いため、遍路の他にも、観光客で賑わうことが多い）"
+                ],
+                "links": [
+                    {
+                        "text": "石手寺 - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/石手寺",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "石手寺 - Google マップ",
+                        "url": "https://maps.app.goo.gl/eq39ieuia9QJ39u2A",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 17
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    132.71501422236497,
+                    33.885093202571525
+                ],
+                "address": "日本 〒799-2662 愛媛県松山市太山寺町１７０８番地"
+            },
+            "properties": {
+                "title": "太山寺",
+                "description": "四国八十八箇所第五十二番札所（たいさんじ）",
+                "note": [
+                    "瀧雲山（りゅううんざん）、護持院（ごじいん）と号す",
+                    "現存の本堂（国宝）は三代目で嘉元3年（1305年）伊予国守護河野氏によって再建され、近世には松山城主加藤氏の庇護を受けて栄えた",
+                    "立礼茶室 光津庵 - 毎月17日に茶会がある",
+                    "高浜線三津駅より伊予鉄バス 三津ループ線に乗車「太山寺」下車 (0.5km)",
+                    "圓明寺まで徒歩約四十分"
+                ],
+                "links": [
+                    {
+                        "text": "太山寺 (松山市) - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/太山寺_(松山市)",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "太山寺 - Google マップ",
+                        "url": "https://maps.app.goo.gl/p32eHQnf2rNZ3L3t5",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 17
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    132.73963656003735,
+                    33.891797470353666
+                ],
+                "address": "日本 〒799-2656 愛媛県松山市和気町１丁目１９５番地１２"
+            },
+            "properties": {
+                "title": "圓明寺",
+                "description": "四国八十八箇所第五十三番札所（えんみょうじ）",
+                "note": [
+                    "須賀山（すがざん）、正智院（しょうちいん）と号す",
+                    "近年は円明寺と表記されることが多い（当初は現在地より北西約2.5 kmの和気浜の西山という海岸にあり「海岸山圓明密寺」と称する七堂伽藍を備えた大寺であったという）",
+                    "四国旅客鉄道（JR四国） 予讃線 伊予和気駅 下車 (0.3 km)",
+                    "太山寺から徒歩約四十分"
+                ],
+                "links": [
+                    {
+                        "text": "圓明寺 - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/圓明寺",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "圓明寺 - Google マップ",
+                        "url": "https://maps.app.goo.gl/YLnh3cW7AJt7ASUn7",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 17
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    132.9639765920038,
+                    34.066846190774314
+                ],
+                "address": "日本 〒794-0081 愛媛県今治市阿方甲６３６番地"
+            },
+            "properties": {
+                "title": "延命寺",
+                "description": "四国八十八箇所第五十四番札所（えんめいじ）",
+                "note": [
+                    "近見山（ちかみざん）、宝鐘院（ほうしょういん）と号す",
+                    "伝によれば、聖武天皇の勅願を受けて養老4年（720年）行基が不動明王を刻み現在地の北の近見山（標高243.5 m）の山頂に堂宇を建立して開基",
+                    "境内には馬酔木（あせび）の木が多く、春の彼岸のころから美しい花をつける",
+                    "今治港、今治駅よりせとうちバス 菊間、星之浦行き 「阿方」下車 (0.6 km)"
+                ],
+                "links": [
+                    {
+                        "text": "延命寺 (今治市) - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/延命寺_(今治市)",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "延命寺 - Google マップ",
+                        "url": "https://maps.app.goo.gl/J2gYwtZTQiaYmpee8",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 17
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    132.99528223445867,
+                    34.06821834297753
+                ],
+                "address": "日本 〒794-0026 愛媛県今治市別宮町３丁目１番"
+            },
+            "properties": {
+                "title": "南光坊",
+                "description": "四国八十八箇所第五十五番札所（なんこうぼう）",
+                "note": [
+                    "別宮山（べっくさん）、金剛院と号す",
+                    "大三島東海岸側に大山積神社（明治初年以降は大山祇神社と改名）の元となる遠土宮（おんどのみや）が祀られる",
+                    "南光坊の北側に別宮大山祇神社が隣接する"
+                ],
+                "links": [
+                    {
+                        "text": "南光坊 - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/南光坊",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "南光坊 - Google マップ",
+                        "url": "https://maps.app.goo.gl/dAFhrMR1xhmiKZ4y5",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 17
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    132.9745780208658,
+                    34.050099682266406
+                ],
+                "address": "日本 〒794-0064 愛媛県今治市小泉１丁目９番１８号"
+            },
+            "properties": {
+                "title": "泰山寺",
+                "description": "四国八十八箇所第五十六番札所（たいさんじ）",
+                "note": [
+                    "金輪山（きんりんざん）勅王院（ちょくおういん）と号す",
+                    "宿坊：定員80名（季節営業 3〜5、9〜11月のみ）",
+                    "今治港、今治駅よりせとうちバス鈍川温泉 木地ロ・葛谷行きまたは鈍川経由神子森行き「小泉」下車 (0.7 km)",
+                    "大三島 - 今治 - 松山市駅間特急バス「別名（べつみょう）」下車 (1.2 km)",
+                    "泰山寺まで徒歩約四十五分"
+                ],
+                "links": [
+                    {
+                        "text": "泰山寺 - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/泰山寺",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "泰山寺 - Google マップ",
+                        "url": "https://maps.app.goo.gl/__",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 17
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    132.97840704378177,
+                    34.02942641088595
+                ],
+                "address": "日本 〒794-0114 愛媛県今治市玉川町八幡甲２００番地"
+            },
+            "properties": {
+                "title": "栄福寺",
+                "description": "四国八十八箇所第五十七番札所（えいふくじ）",
+                "note": [
+                    "府頭山（ふとうざん）、無量寿院（むりょうじゅいん）と号す",
+                    "2011年に設置されたトイレ設置が日本産業デザイン振興会主催の「2012年度グッドデザイン賞」を受賞",
+                    "泰山寺から徒歩約四十五分 - 仙遊寺まで徒歩約1時間"
+                ],
+                "links": [
+                    {
+                        "text": "栄福寺 (今治市) - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/栄福寺_(今治市)",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "栄福寺 - Google マップ",
+                        "url": "https://maps.app.goo.gl/AaefvC8TiZhapZqS6",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 17
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    132.97733524312474,
+                    34.01321652401833
+                ],
+                "address": "日本 〒794-0113 愛媛県今治市玉川町別所４８３番地"
+            },
+            "properties": {
+                "title": "仙遊寺",
+                "description": "四国八十八箇所第五十八番札所（せんゆうじ）",
+                "note": [
+                    "作礼山（されいざん）、千光院（せんこういん）と号す",
+                    "作礼山（標高312m）の8合目辺りにある札所の標高は261m",
+                    "山上ゆえ近郊の札所では唯一今治市街から瀬戸内海まで見渡せ、登山車道の脇には桜、ツツジ、石楠花、紫陽花、紅葉など季節おりおりの花々が楽しめる",
+                    "天然温泉と精進料理の宿坊を備え、1月第2日曜日には「厄飛ばし柴燈大護摩」があり、8月9日の直近日曜日には四万六千日大法会として夏祭りがある",
+                    "栄福寺から徒歩約1時間 - 伊予国分寺まで徒歩約二時間"
+                ],
+                "links": [
+                    {
+                        "text": "仙遊寺 - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/仙遊寺",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "仙遊寺 - Google マップ",
+                        "url": "https://maps.app.goo.gl/d2QUXBH8bvMAZRiaA",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 17
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    133.0254472,
+                    34.0261917
+                ],
+                "address": "〒799-1533 愛媛県今治市国分4丁目1番33号"
+            },
+            "properties": {
+                "title": "伊予国分寺",
+                "description": "四国八十八箇所第五十九番札所（いよこくぶんじ）",
+                "note": [
+                    "金光山（こんごうざん）、最勝院（さいしょういん）と号す",
+                    "現在の境内は伊予国府のあった所とされ、かつての境内は東へやや離れた位置にあったとされる",
+                    "仙遊寺から徒歩約二時間 - "
+                ],
+                "links": [
+                    {
+                        "text": "伊予国分寺 - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/伊予国分寺",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "伊予国分寺 - Google マップ",
+                        "url": "https://maps.app.goo.gl/Tc5s1LAMvcDwMdeQ6",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 17
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    133.1111307324161,
+                    33.83786492379306
+                ],
+                "address": "日本 〒799-1112 愛媛県西条市小松町石鎚２２５３番地"
+            },
+            "properties": {
+                "title": "横峰寺",
+                "description": "四国八十八箇所六十番札所、石鎚山の西遥拝所（よこみねじ）",
+                "note": [
+                    "石鈇山（いしづちざん）、院号は福智院（ふくちいん）と号す",
+                    "札所は標高751 m付近に位置する伊予国では最高所で関所寺（八十八箇所の中では徳島県三好市の「雲辺寺（六十番札所）」に次いで2番目（本堂の位置で比較）の高さ）",
+                    "四国八十八景63番に「霊峰石鎚の真正面～史跡横峰寺道から名勝星ヶ森へ～」で選定されている",
+                    "せとうちバス 西之川線（西条済生会病院前 - 石鎚ロープウェイ）「横峰登山口」下車（横峰登山口から徒歩約2時間半）",
+                    "* 横峰登山口から徒歩3分の「上の原」より「横峰寺参拝口」まで横峰寺参拝バスが運行（12月21日より2月末日までは冬季運休）"
+                ],
+                "links": [
+                    {
+                        "text": "横峰寺登山参拝バス | せとうちバス",
+                        "url": "https://www.setouchibus.co.jp/rosen/yokomine.html",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "横峰寺 - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/横峰寺",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "横峰寺 - Google マップ",
+                        "url": "https://maps.app.goo.gl/V1rbhHRkP1A6V9pQ7",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 17
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    133.1032749999894,
+                    33.893602778116865
+                ],
+                "address": "愛媛県西条市小松町南川甲19"
+            },
+            "properties": {
+                "title": "香園寺",
+                "description": "四国八十八箇所第六十一番札所、子安大師の寺（こうおんじ）",
+                "note": [
+                    "栴檀山（せんだんさん）、教王院（きょうおういん）と号す",
+                    "寺伝によれば、用明天皇の病気平癒を祈願して聖徳太子が建立し、天皇からは教王院の勅号を賜ったとされる",
+                    "奥の院の白滝不動から北へ行った海岸あたりで中山川下流に大日という場所があり、そこにあった大日堂が白滝不動で修行する人達の納経所になって、さらに大日如来を本尊とする寺になり、現在地へ移ったとも云われている",
+                    "四国旅客鉄道（JR四国） 予讃線 - 伊予小松駅 下車 (1.5 km)",
+                    "宝寿寺まで徒歩約三十分"
+                ],
+                "links": [
+                    {
+                        "text": "香園寺 - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/香園寺",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "香園寺 - Google マップ",
+                        "url": "https://maps.app.goo.gl/K49CbuFpH8dnMjpA6",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 17
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    133.11490589642744,
+                    33.897214529241296
+                ],
+                "address": "日本 〒799-1101 愛媛県西条市小松町新屋敷４２８番地"
+            },
+            "properties": {
+                "title": "宝寿寺",
+                "description": "四国八十八箇所第六十二番札所（ほうじゅじ）",
+                "note": [
+                    "天養山（てんようざん）、観音院（かんおんいん）と号す",
+                    "JR伊予小松駅の北側にある「一之宮神社」が元札所",
+                    "香園寺から徒歩約三十分 - 吉祥寺まで徒歩二十分"
+                ],
+                "links": [
+                    {
+                        "text": "宝寿寺 - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/宝寿寺",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "宝寿寺 - Google マップ",
+                        "url": "https://maps.app.goo.gl/46SZFKaGRYnK6GiK7",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "一之宮神社 - Google マップ",
+                        "url": "https://maps.app.goo.gl/XbQhY5i19LTBEd6PA",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 17
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    133.12919444402058,
+                    33.89611111111111
+                ],
+                "address": "愛媛県西条市氷見乙1048"
+            },
+            "properties": {
+                "title": "吉祥寺",
+                "description": "四国八十八箇所第六十三番札所（きちじょうじ）",
+                "note": [
+                    "密教山（みっきょうざん）、胎蔵院（たいぞういん）と号す",
+                    "かつては南東にあたる坂元川谷間の山中の現在は吉祥寺藪と呼ばれている箇所にあり、塔頭を21坊も有するようになっていた",
+                    "宝寿寺から徒歩二十分 - 前神寺まで徒歩約45分（予讃線で15分）"
+                ],
+                "links": [
+                    {
+                        "text": "吉祥寺 (西条市) - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/吉祥寺_(西条市)",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "吉祥寺 - Google マップ",
+                        "url": "https://maps.app.goo.gl/D584R2vprDLScUU98",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 17
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    133.16026474410586,
+                    33.89187209534916
+                ],
+                "address": "日本 〒793-0053 愛媛県西条市洲之内甲１４２６番地"
+            },
+            "properties": {
+                "title": "前神寺",
+                "description": "四国八十八箇所第六十四番札所（まえがみじ）",
+                "note": [
+                    "石鈇山（いしづちさん）、金色院（こんじきいん）と号する",
+                    "日本七霊山の1つ、霊峰石鎚山 (1982m) の麓に位置する",
+                    "吉祥寺から徒歩約45分（予讃線で15分）"
+                ],
+                "links": [
+                    {
+                        "text": "前神寺 - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/前神寺",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "前神寺 - Google マップ",
+                        "url": "https://maps.app.goo.gl/t9qSCKDH6oiUb8uS7",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 17
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    133.58655542,
+                    33.96742326
+                ],
+                "address": "金田町三角寺甲75"
+            },
+            "properties": {
+                "title": "三角寺",
+                "description": "四国八十八箇所第六十五番札所（さんかくじ）",
+                "note": [
+                    "由霊山（ゆれいざん）、慈尊院（じそんいん）と号す",
+                    "龍王山（標高465 m）の中腹、標高355 m辺りにあり、かつてはかなり厳しい山道を登らねばならぬ難所寺であった",
+                    "さらに大師像の参拝には、背後の法皇山脈のピークの平石山（標高825 m）の東尾根の地蔵峠（標高765 m）を越えて行かねばならなかった",
+                    "現在でも、段差の大きい73段の石段を息を切らして上り、仁王門をくぐって審判を受ける伊予の関所寺（別の寺が関所寺という説もあり）で伊予国の最後の札所",
+                    "伊予三島駅から徒歩約1時間半"
+                ],
+                "links": [
+                    {
+                        "text": "三角寺 - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/三角寺",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "三角寺 - Google マップ",
+                        "url": "https://maps.app.goo.gl/FeaZGpASMMkrqTHB8",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 17
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    133.72371666643355,
+                    34.03521944443385
+                ],
+                "address": "徳島県三好市池田町白地ノロウチ763-2"
+            },
+            "properties": {
+                "title": "雲辺寺",
+                "description": "四国八十八箇所第六十六番札所、八十八箇所中で最も標高が高い位置札所は標高902m付近（うんぺんじ）",
+                "note": [
+                    "巨鼇山（きょごうざん）千手院（せんじゅいん）と号す",
+                    "夏は紫陽花が全山一面に咲き、晩秋には紅葉の名所となり、冬は雪の風景となる",
+                    "香川県観音寺市側の山麓と雲辺寺ロープウェイによって結ばれる、訪れやすい寺"
+                ],
+                "links": [
+                    {
+                        "text": "雲辺寺 - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/雲辺寺",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "雲辺寺 - Google マップ",
+                        "url": "https://maps.app.goo.gl/KKfAdkW5r2wCNhYa9",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 17
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    133.7192056,
+                    34.1021528
+                ],
+                "address": "〒768-0101 香川県三豊市山本町辻4209番地"
+            },
+            "properties": {
+                "title": "大興寺",
+                "description": "四国八十八箇所第六十七番札所（だいこうじ）",
+                "note": [
+                    "小松尾山（こまつおざん）、不動光院（ふどうこういん）と号す",
+                    "雲辺寺ロープウェイ 山麓駅から徒歩約二時間",
+                    "雲辺寺山から、コミュニティバス 谷上［教育センター］（観音寺市コミュニティ 五郷高室線） - 萩の湯 - 大興寺口（三豊市コミュニティ 琴平駅行き）"
+                ],
+                "links": [
+                    {
+                        "text": "大興寺 (三豊市) - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/大興寺_(三豊市)",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "大興寺 - Google マップ",
+                        "url": "https://maps.app.goo.gl/UMxjR8Ci1UBzQs499",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 17
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    133.6473512566143,
+                    34.13398840724156
+                ],
+                "address": "日本 〒768-0061 香川県観音寺市八幡町１丁目２番"
+            },
+            "properties": {
+                "title": "神恵院・観音寺",
+                "description": "四国八十八箇所第六十八番札所（じんねいん）と、第六十九番札所（かんのんじ）",
+                "note": [
+                    "神恵院は、七宝山（しっぽうざん）と号す（かつての札所は南に隣接する「琴弾八幡宮」）",
+                    "観音寺は、七宝山（しっぽうざん）と号す（市名は「かんおんじし」であるが、寺名は「かんのんじ」）",
+                    "同じ境内に二つの寺院があり、周辺は瀬戸内海国立公園の一部",
+                    "大興寺から徒歩約二時間"
+                ],
+                "links": [
+                    {
+                        "text": "神恵院 - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/神恵院",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "神恵院 - Google マップ",
+                        "url": "https://maps.app.goo.gl/fg62KFbAK8NeDzCk6",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "観音寺 (観音寺市) - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/観音寺_(観音寺市)",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "観音寺 - Google マップ",
+                        "url": "https://maps.app.goo.gl/s5jYbebtZD46Bugc7",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 17
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    133.6940995049451,
+                    34.139700450651944
+                ],
+                "address": "日本 〒769-1506 香川県三豊市豊中町本山甲１４４５番地"
+            },
+            "properties": {
+                "title": "本山寺",
+                "description": "四国八十八箇所第七十番札所、鎌倉時代再建の本堂は国宝（もとやまじ）",
+                "note": [
+                    "七宝山（しっぽうざん）、持宝院（じほういん）と号す",
+                    "北東方に奥之院「妙音寺」がある（徒歩約二十分）",
+                    "観音寺（琴弾公園周辺）から徒歩約一時間・予讃線「本山駅」から徒歩約十五分"
+                ],
+                "links": [
+                    {
+                        "text": "本山寺 (三豊市) - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/本山寺_(三豊市)",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "本山寺 - Google マップ",
+                        "url": "https://maps.app.goo.gl/PwXPCMom9Abgngog6",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "妙音寺 - Google マップ",
+                        "url": "https://maps.app.goo.gl/1hY1pH87xQWgUWRN9",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 17
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    133.72426388899484,
+                    34.22971388922797
+                ],
+                "address": "香川県三豊市三野町大見乙70"
+            },
+            "properties": {
+                "title": "弥谷寺",
+                "description": "四国八十八箇所第七十一番札所、弥谷山自然環境保全地域（いやだにじ）",
+                "note": [
+                    "剣五山 （けんござん）、千手院（せんじゅいん）と号す",
+                    "弥谷山の中腹に本堂（標高221m、約540段の急な石段が続く）があり、その背後の岩盤には創建時に千手佛が納められた岩穴が残る",
+                    "異様なほど厳かで神秘的な空気を放つ「弥谷山（いやたにさん、標高382m）」は、死者の魂が集まる霊山と信仰される日本三大霊場（他は恐山・高野山）のひとつに数えられる（弥谷山周辺は弥谷山自然環境保全地域に指定されている）"
+                ],
+                "links": [
+                    {
+                        "text": "弥谷寺 - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/弥谷寺",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "弥谷寺 - Google マップ",
+                        "url": "https://maps.app.goo.gl/rNMi6cciXainhx3z7",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 17
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    133.7502306,
+                    34.2233333
+                ],
+                "address": "〒765-0061 香川県善通寺市吉原町1380番地1"
+            },
+            "properties": {
+                "title": "曼荼羅寺",
+                "description": "四国八十八箇所第七十二番札所（まんだらじ）",
+                "note": [
+                    "我拜師山（がはいしざん）、延命院（えんめいいん）と号す"
+                ],
+                "links": [
+                    {
+                        "text": "曼荼羅寺 (善通寺市) - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/曼荼羅寺_(善通寺市)",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "曼荼羅寺 - Google マップ",
+                        "url": "https://maps.app.goo.gl/rnVycAsUppskphyc6",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 17
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    133.75018209089882,
+                    34.219459403850735
+                ],
+                "address": "日本 〒765-0061 香川県善通寺市吉原町１０９１番地"
+            },
+            "properties": {
+                "title": "出釈迦寺",
+                "description": "四国八十八箇所第七十三番札所、弘法大師出家の原点（しゅっしゃかじ）",
+                "note": [
+                    "我拜師山（がはいしざん）、求聞持院（ぐもんじいん）と号す",
+                    "弘法大師（空海）出家の原点であり一代記の中には必ず記される霊跡として大師信仰の重要な大願成就の場所",
+                    "現在の当寺の奥之院である我拝師山山上のお寺は、かつては曼陀羅寺の奥之院であった"
+                ],
+                "links": [
+                    {
+                        "text": "出釈迦寺 - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/出釈迦寺",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "出釈迦寺 - Google マップ",
+                        "url": "https://maps.app.goo.gl/869URMs3aqUgL3vt6",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 17
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    133.7521056,
+                    34.212804
+                ]
+            },
+            "properties": {
+                "title": "捨身ヶ嶽",
+                "description": "第73番 出釈迦寺の奥の院である重要な修行場（しゃしんがたけ）",
+                "note": [
+                    "五岳山の中心である「我拝師山（がはいしざん）」の山頂近く",
+                    "空海が7歳の頃（幼名：真魚）、仏門に入り人々を救いたいと断崖から身を投げ、釈迦如来と天女に救われたとされる地"
+                ],
+                "links": [
+                    {
+                        "text": "出釈迦寺 - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/出釈迦寺",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "捨身ケ岳禅定 - Google マップ",
+                        "url": "https://maps.app.goo.gl/83q8XtwMEjzKN2jx8",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 17
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    133.76574548124006,
+                    34.23322323131187
+                ],
+                "address": "日本 〒765-0071 香川県善通寺市弘田町１７６５番地１"
+            },
+            "properties": {
+                "title": "甲山寺",
+                "description": "四国八十八箇所第七十四番札所、甲山の麓（こうやまじ）",
+                "note": [
+                    "医王山、院号は多宝院と号す",
+                    "空海が幼少期によく遊んだとされる場所とされる「仙遊ヶ原（仙遊寺）」の史跡が残る",
+                    "甲山（かぶとやま、標高87.2m)には、室町時代に天霧城の出城があったと云われていて、山頂に石舞台跡があり、頂上には神武天皇孝明天皇震儀石がある",
+                    "出釈迦寺から徒歩約一時間 - 善通寺まで徒歩約三十分"
+                ],
+                "links": [
+                    {
+                        "text": "甲山寺 - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/甲山寺",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "甲山寺 - Google マップ",
+                        "url": "https://maps.app.goo.gl/E9es4XmnsWSUm46h7",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 17
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    133.77397578227948,
+                    34.225023453953014
+                ],
+                "address": "香川県善通寺市善通寺町三丁目3番1号"
+            },
+            "properties": {
+                "title": "善通寺",
+                "description": "四国八十八箇所第七十五番、空海生誕地（ぜんつうじ）",
+                "note": [
+                    "屏風浦五岳山（びょうぶがうらごがくさん）、誕生院（たんじょういん）と号す",
+                    "空海の父で地元の豪族であった佐伯田公（さえきの たぎみ、諱：善通（よしみち））から土地の寄進を受け、大同2年（807年）に建立し始め、弘仁4年（813年）に落成したという",
+                    "境内は創建地である東院（伽藍）と、空海生誕地とされる西院（誕生院）に分かれる"
+                ],
+                "links": [
+                    {
+                        "text": "総本山善通寺",
+                        "url": "https://zentsuji.com/",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "善通寺 - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/善通寺",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "善通寺 - Google マップ",
+                        "url": "https://maps.app.goo.gl/bKATS4SmjPvRT6v27",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 17
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    133.7809627718874,
+                    34.250066113442415
+                ],
+                "address": "日本 〒765-0031 香川県善通寺市金蔵寺町１１６０番地"
+            },
+            "properties": {
+                "title": "金倉寺",
+                "description": "四国八十八箇所第七十六番札所、天台寺門派の宗祖である円珍（智証大師）の生誕地（こんぞうじ）",
+                "note": [
+                    "鶏足山（けいそくざん）宝幢院（ほうどういん）と号す",
+                    "四国旅客鉄道（JR四国） 土讃線 - 金蔵寺駅 (0.5 km)"
+                ],
+                "links": [
+                    {
+                        "text": "金倉寺 - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/金倉寺",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "金倉寺 - Google マップ",
+                        "url": "https://maps.app.goo.gl/x6vCGpAcZBau6MQS7",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 17
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    133.7627331609492,
+                    34.27680176722694
+                ],
+                "address": "日本 〒764-0022 香川県仲多度郡多度津町北鴨１丁目３番"
+            },
+            "properties": {
+                "title": "道隆寺",
+                "description": "四国八十八箇所第七十七番札所（どうりゅうじ）",
+                "note": [
+                    "桑多山（そうたざん）、明王院（みょうおういん）と号す",
+                    "四国旅客鉄道（JR四国） 予讃線 - 多度津駅 (1.2 km)"
+                ],
+                "links": [
+                    {
+                        "text": "道隆寺 - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/道隆寺",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "道隆寺 - Google マップ",
+                        "url": "https://maps.app.goo.gl/YdUyfismL2mhyLWy8",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 17
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    133.82454690706209,
+                    34.306683228464394
+                ],
+                "address": "日本 〒769-0210 香川県綾歌郡宇多津町山下"
+            },
+            "properties": {
+                "title": "郷照寺",
+                "description": "四国八十八箇所第七十八番札所（ごうしょうじ）",
+                "note": [
+                    "仏光山（ぶっこうざん）、広徳院（こうとくいん）と号す",
+                    "四国八十八箇所では珍しい異なる時宗と真言宗の2つの宗派が共存する寺",
+                    "四国旅客鉄道（JR四国） 予讃線 – 宇多津駅 (1.5 km)"
+                ],
+                "links": [
+                    {
+                        "text": "郷照寺 - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/郷照寺",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "郷照寺 - Google マップ",
+                        "url": "https://maps.app.goo.gl/vVqJNdf6z1ppqz4k9",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 17
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    133.88271095984862,
+                    34.31141959628708
+                ],
+                "address": "日本 〒762-0021 香川県坂出市西庄町１７１３番地２"
+            },
+            "properties": {
+                "title": "天皇寺",
+                "description": "四国八十八箇所第七十九番札所（てんのうじ）",
+                "note": [
+                    "山号は金華山（きんかざん）、高照院（こうしょういん）と号す",
+                    "境内は崇徳上皇を祀っていた白峰宮に隣接し、白峰宮が崇徳天皇社であったときその別当寺であった",
+                    "八十場の泉から墓地の左側を約0.5 km上がりきったころ右に50 mほど進むと広い荒れた境内があり、八十場の泉の源泉地と云われている小さな池がある",
+                    "四国旅客鉄道（JR四国）予讃線 八十場駅 (0.4 km)"
+                ],
+                "links": [
+                    {
+                        "text": "天皇寺 (坂出市) - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/天皇寺_(坂出市)",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "天皇寺 - Google マップ",
+                        "url": "https://maps.app.goo.gl/BjBvigGiNexmAEsB9",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 17
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    133.94412798564701,
+                    34.30319308823587
+                ],
+                "address": "日本 〒769-0102 香川県高松市国分寺町国分２０６５番地"
+            },
+            "properties": {
+                "title": "讃岐国分寺",
+                "description": "四国八十八箇所第八十番札所（さぬきこくぶんじ）",
+                "note": [
+                    "白牛山（はくぎゅうざん）、千手院（せんじゅいん）と号す",
+                    "一帯は讃岐国の中心地であり多くの遺跡が発掘されている",
+                    "伽藍跡は全国に残る国分寺跡の中でも保存状態が良く、国の特別史跡に指定されている",
+                    "四国旅客鉄道（JR四国）予讃線 – 国分駅 (0.3 km)"
+                ],
+                "links": [
+                    {
+                        "text": "讃岐国分寺 - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/讃岐国分寺",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "讃岐国分寺 - Google マップ",
+                        "url": "https://maps.app.goo.gl/v4P7pzjvAKhN8q8M7",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 17
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    133.9267918875061,
+                    34.333481739110624
+                ],
+                "address": "日本 〒762-0016 香川県坂出市青海町２６３５番地"
+            },
+            "properties": {
+                "title": "白峯寺",
+                "description": "四国八十八箇所第八十一番札所（しろみねじ）",
+                "note": [
+                    "綾松山（りょうしょうざん）、 洞林院（どうりんいん）と号す",
+                    "四国で唯一の御陵である白峯陵（毎年9月21日午前9時より正辰祭・詳細は下記）が隣接する",
+                    "一年中花が楽しめ、特に春は桜、夏は紫陽花、秋は紅葉が有名",
+                    "四国旅客鉄道（JR四国）予讃線 - 鴨川駅 (9.9 km)"
+                ],
+                "links": [
+                    {
+                        "text": "白峯寺 - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/白峯寺",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "白峯寺 - Google マップ",
+                        "url": "https://maps.app.goo.gl/2m2ffoVVrnKjrVBX7",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 17
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    133.9606386323611,
+                    34.34443591720397
+                ],
+                "address": "日本 〒761-8004 香川県高松市中山町１５０６番地"
+            },
+            "properties": {
+                "title": "根香寺",
+                "description": "四国八十八箇所第八十二番札所（ねごろじ）",
+                "note": [
+                    "青峰山（あおみねさん）、千手院（せんじゅいん）と号す",
+                    "五色台の青峰（標高449.3 m）の中腹（標高362 m付近）に位置し霊場中10番目の高さ",
+                    "四国旅客鉄道（JR四国） 予讃線 - 鬼無駅 (5.5 km)"
+                ],
+                "links": [
+                    {
+                        "text": "根香寺 - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/根香寺",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "根香寺 - Google マップ",
+                        "url": "https://maps.app.goo.gl/ysWpihmz5VY22Tzv6",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 17
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    134.0265715,
+                    34.2864311
+                ],
+                "address": "日本 〒761-8084 香川県高松市一宮町６０７番地"
+            },
+            "properties": {
+                "title": "一宮寺・田村神社",
+                "description": "四国八十八箇所第八十三番札所（いちのみやじ）と讃岐国一宮（たむら）",
+                "note": [
+                    "神毫山（しんごうざん）、大宝院（だいほういん）と号す",
+                    "寺伝によれば、義淵により法相宗の寺院として大宝年間（701年 - 704年）に「大宝院」と称して建立され、讃岐一宮・田村神社の第一別当として行基が堂宇を改修し一宮寺と改めたという",
+                    "毎週日曜の午前中に朝市が開かれており、社脇の建物では讃岐うどんの店が開かれる",
+                    "琴電（ことでん） 琴平線 - 一宮駅 (0.9 km)"
+                ],
+                "links": [
+                    {
+                        "text": "一宮寺 - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/一宮寺",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "一宮寺 - Google マップ",
+                        "url": "https://maps.app.goo.gl/vQQRBwu83V48SMjb6",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "田村神社 (高松市) - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/田村神社_(高松市)",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "田村神社 - Google マップ",
+                        "url": "https://maps.app.goo.gl/wxuUEJ2MhhBDPPZEA",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 17
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    134.1011549,
+                    34.3573797
+                ],
+                "address": "日本 〒761-0111 香川県高松市屋島東町１８０８番地"
+            },
+            "properties": {
+                "title": "屋島寺",
+                "description": "四国八十八箇所第八十四番札所（やしまじ）",
+                "note": [
+                    "南面山（なんめんざん）、千光院（せんこういん）と号す",
+                    "庭園：宝物館の中からガラス越しに眺めることができる。白い凝灰岩が露出してるため雪の庭という",
+                    "江戸時代初期まで本土と離れた島であったが、寛永14年（1637年）高松藩主・生駒高俊により陸続きとなった",
+                    "琴電（ことでん） 志度線 - 潟元駅 (2.6 km)"
+                ],
+                "links": [
+                    {
+                        "text": "屋島寺 - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/屋島寺",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "屋島寺 - Google マップ",
+                        "url": "https://maps.app.goo.gl/ngaBrS8KjRFev8JP7",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 17
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    134.1396891,
+                    34.359816
+                ],
+                "address": "日本 〒761-0121 香川県高松市牟礼町牟礼３４１６番地"
+            },
+            "properties": {
+                "title": "八栗寺",
+                "description": "四国八十八箇所第八十五番札所（やくりじ）",
+                "note": [
+                    "五剣山（ごけんざん）、観自在院（かんじざいいん）と号す",
+                    "歓喜天霊場として知られ、木食以空が東福門院から賜った伝・弘法大師作の歓喜天が祀られていて「八栗の聖天さん」と呼ばれる"
+                ],
+                "links": [
+                    {
+                        "text": "八栗寺 - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/八栗寺",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "八栗寺 - Google マップ",
+                        "url": "https://maps.app.goo.gl/Fh9wiRa3DCBoLPZY9",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 17
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    134.179677,
+                    34.3238804
+                ],
+                "address": "日本 〒769-2101 香川県さぬき市志度１２１３番地１"
+            },
+            "properties": {
+                "title": "志度寺",
+                "description": "四国八十八箇所第八十六番札所（しどじ/しどうじ）",
+                "note": [
+                    "補陀洛山（ふだらくさん） 、清浄光院（せいじょうこういん）と号す",
+                    "境内には「海女の墓」が五輪塔群として現存する",
+                    "琴電（ことでん） 志度線 - 琴電志度駅 (0.6 km)"
+                ],
+                "links": [
+                    {
+                        "text": "志度寺 - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/志度寺",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "志度寺 - Google マップ",
+                        "url": "https://maps.app.goo.gl/yBw7841FMmtbeeC26",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 17
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    134.1717094,
+                    34.2666756
+                ],
+                "address": "日本 〒769-2302 香川県さぬき市長尾西６５８番地"
+            },
+            "properties": {
+                "title": "長尾寺",
+                "description": "四国八十八箇所第八十七番札所（ながおじ）",
+                "note": [
+                    "補陀洛山（ふだらくさん）、観音院（かんおんいん）と号す",
+                    "琴電（ことでん） 長尾線 - 長尾駅 (0.2 km)"
+                ],
+                "links": [
+                    {
+                        "text": "長尾寺 - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/長尾寺",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "長尾寺 - Google マップ",
+                        "url": "https://maps.app.goo.gl/8U8Crv6QNN8dynfi9",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 17
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    134.2068737,
+                    34.1913634
+                ],
+                "address": "日本 〒769-2306 香川県さぬき市多和兼割９６番地"
+            },
+            "properties": {
+                "title": "大窪寺",
+                "description": "四国八十八箇所第八十八番札所（おおくぼじ）",
+                "note": [
+                    "医王山（いおうざん）遍照光院（へんじょうこういん）大窪寺と号する",
+                    "大窪寺の仁王門のすぐ目の前にある老舗「八十八庵（やしばあん）」の名物「打ち込みうどん」",
+                    "境内から女体山への登山道を0.68 km上がると奥の院との分岐があり、その0.2 km先に堂がある",
+                    "長尾寺近くのバス停「東町」から志度・造田・多和線で「大窪寺」下車"
+                ],
+                "links": [
+                    {
+                        "text": "大窪寺 - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/大窪寺",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "大窪寺 - Google マップ",
+                        "url": "https://maps.app.goo.gl/bri8zeDTFay45DNQ9",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 17
+            }
+        }
+    ]
+}

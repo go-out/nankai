@@ -4,14 +4,12 @@
         "The Great Seto Bridge (Okayama - Kagawa)",
         "吉備児島"
     ],
-    "description": "瀬戸内海に面した岡山県最南端\n瀬戸大橋（本州四国連絡橋のうちの「児島・坂出（香川県）ルート」）の本州側起点（きびのこじま）",
+    "description": "瀬戸大橋の本州側起点、古代に強大な勢力を誇った「吉備国」の海上交通の要衝だった物流の中心地（きびのこじま）",
     "info": {
         "note": [
-            "かつて吉備国および備前国児島郡にあった島嶼 建日方別（たけひかたわけ） - 吉備児島（きびのこじま）",
-            "江戸時代中期頃の新田干拓によって人工的に繋がり「児島半島」となった",
-            "島嶼であった地域は、現在の岡山県倉敷市南西部から岡山市南区南部、および玉野市に至る",
-            "児島および周辺の島々と本土により囲まれた海域は「吉備穴海」と呼ばれ、重要な海洋交通路であった"
+            "建日方別（たけひかたわけ） - 吉備児島（きびのこじま）"
         ],
+        "markdown": "shikoku/kagawa/kojima/README.md",
         "links": [
             {
                 "text": "児島 - Wikipedia",
@@ -52,17 +50,17 @@
     },
     "map": {
         "center": [
-            133.81200123553754,
-            34.43602185764155
+            133.8124731,
+            34.4354857
         ],
         "bounds": [
             [
-                133.61188603476802,
-                34.25202047304869
+                133.650,
+                34.300
             ],
             [
-                134.06049305162912,
-                34.60618141020899
+                134.066,
+                34.653
             ]
         ],
         "zoom": 10.75
@@ -70,14 +68,18 @@
     "cover": {
         "url": null
     },
+    "events": [],
+    "eventsJSON": [
+        "shikoku/kagawa/kojima/date.json"
+    ],
     "features": [
         {
             "type": "Feature",
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    133.81200123553754,
-                    34.43602185764155
+                    133.8124731,
+                    34.4354857
                 ]
             },
             "properties": {
@@ -158,6 +160,145 @@
                         "target": "_blank"
                     }
                 ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    133.7623555,
+                    34.4245615
+                ]
+            },
+            "properties": {
+                "title": "六口島",
+                "description": "国の天然記念物「象岩（ぞういわ）」がある島",
+                "note": [
+                    "海水浴場や島唯一の宿「象岩亭」",
+                    "島にある唯一の宿「民宿象岩亭」を利用する場合、宿泊や食事の予約に合わせて下津井港から専用の送迎船「ぞういわ丸」が運航"
+                ],
+                "links": [
+                    {
+                        "text": "六口島 - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/六口島",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "六口島 - Google マップ",
+                        "url": "https://maps.app.goo.gl/XRX4uPyTYwKdqqbk7",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 13.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    133.8168805,
+                    34.424828
+                ]
+            },
+            "properties": {
+                "title": "松島",
+                "description": "岡山県で最も小さな有人島",
+                "note": [
+                    "主に釣り人や観光客向けのチャーター船「渡船 たい公望」（086-479-9581）などの渡船業者が下津井港から運航"
+                ],
+                "links": [
+                    {
+                        "text": "松島 - Google マップ",
+                        "url": "https://maps.app.goo.gl/yVZL4CvbQKmMwsrh7",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 15.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    133.832473,
+                    34.4201588
+                ]
+            },
+            "properties": {
+                "title": "釜島",
+                "description": "手つかずの自然と静かなビーチが残る無人島",
+                "note": [
+                    "主に釣り人や観光客向けのチャーター船「渡船 たい公望」（086-479-9581）などの渡船業者が下津井港から運航"
+                ],
+                "links": [
+                    {
+                        "text": "釜島 - Google マップ",
+                        "url": "https://maps.app.goo.gl/Cc1BNnZPu2RdoHMDA",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 14.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    133.7925521,
+                    34.4386727
+                ]
+            },
+            "properties": {
+                "title": "下津井港",
+                "description": "チャーター船が発着",
+                "note": [],
+                "links": [
+                    {
+                        "text": "下津井港 - 岡山県ホームページ（港湾課）",
+                        "url": "https://www.pref.okayama.jp/page/detail-42495.html",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "下津井港 - Google マップ",
+                        "url": "https://maps.app.goo.gl/GrAQt7p1eZC42ZRG6",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 15.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    133.8099176,
+                    34.4602708
+                ]
+            },
+            "properties": {
+                "title": "児島観光港",
+                "description": "瀬戸大橋周遊観光船",
+                "note": [
+                    "児島観光港から与島の手前までクルージングする、瀬戸大橋周遊観光船（所要時間約45分）が10：00～14：00（8月は15:00まで）の間出航"
+                ],
+                "links": [
+                    {
+                        "text": "児島観光港 - 倉敷観光WEB",
+                        "url": "https://www.kurashiki-tabi.jp/see/see-220/",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "児島観光港 - Google マップ",
+                        "url": "https://maps.app.goo.gl/XVgqnqd4N6J5Dsx39",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 15.5
             }
         }
     ]

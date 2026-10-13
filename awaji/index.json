@@ -41,7 +41,7 @@
                 34.05640074690457
             ],
             [
-                135.11814188561817,
+                135.147,
                 34.73247545558344
             ]
         ],
@@ -80,6 +80,73 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    134.95247499615692,
+                    34.29019288686264
+                ]
+            },
+            "properties": {
+                "title": "由良・成ヶ島",
+                "description": "淡路橋立とも呼ばれる、由良沖に浮かぶ細長い島（なるがしま）",
+                "note": [
+                    "北端の新川口と南端の今川口の水路で淡路島から約100m離れている<br>（由良港から渡し船があり約2分で島に連絡している）",
+                    "北端の成山の東の紀淡海峡側には成ヶ島海水浴場があり、周辺には由良要塞の砲台跡が成山にわずかに残っている",
+                    "島内には、天日槍の「出石の刀子」ゆかりの生石神社がある"
+                ],
+                "links": [
+                    {
+                        "text": "成ヶ島渡船（淡路島と国立公園成ヶ島を結ぶ唯一の航路） - 洲本市ホームページ",
+                        "url": "https://www.city.sumoto.lg.jp/soshiki/19/10513.html",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "成ヶ島 - Google マップ",
+                        "url": "https://maps.app.goo.gl/pVo6vKvEEB18xEbM9",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "成ヶ島 - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/成ヶ島",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 13.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    134.73786232070762,
+                    34.34190077708125
+                ]
+            },
+            "properties": {
+                "title": "慶野松原・五色浜",
+                "description": "播磨灘に面した淡路島の西側、白い砂浜に約5万本の黒松が生い茂る海岸・五色に輝く小石に覆われた海岸",
+                "note": [
+                    "南北約2kmに渡ってメノウ・コハク・ルリ・白・斑紋など、五色に輝く色鮮やかな小石に覆われた美しい海岸（国指定名勝・日本の渚百選・日本の夕陽百選）"
+                ],
+                "links": [
+                    {
+                        "text": "慶野松原・五色浜 Keino - Goshiki, Awaji Island",
+                        "url": "/nankai/?id=awaji&name=keino",
+                        "target": "_self"
+                    },
+                    {
+                        "text": "国指定 名勝 慶野松原 - Google マップ",
+                        "url": "https://maps.app.goo.gl/meT38jG4DD3K44N69",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 15
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     134.89960578,
                     34.34644013
                 ]
@@ -96,55 +163,6 @@
                     }
                 ],
                 "zoom": 12
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    134.71181387872383,
-                    34.23371827579638
-                ]
-            },
-            "properties": {
-                "title": "大見山・若人の広場",
-                "description": "福良港を見下ろす高台に位置する、はるかに鳴門海峡を眺望できる山頂広場・公園",
-                "zoom": 15,
-                "note": [
-                    "開園時間 午前9時～午後5時",
-                    "太平洋戦争で戦没した全国約20万人の学徒ら若者を祈念して昭和42年に建設",
-                    "世界的建築家である丹下健三氏が設計した高さ25mの太平洋戦争の戦没学徒の鎮魂の塔「慰霊塔・永遠のともしび」がある"
-                ],
-                "links": [
-                    {
-                        "text": "若人の広場 - Wikipedia",
-                        "url": "https://ja.wikipedia.org/wiki/若人の広場",
-                        "target": "_blank"
-                    }
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    134.73786232070762,
-                    34.34190077708125
-                ]
-            },
-            "properties": {
-                "title": "慶野松原・五色浜",
-                "description": "播磨灘に面した淡路島の西側、白い砂浜に約5万本の黒松が生い茂る海岸・五色に輝く小石に覆われた海岸",
-                "zoom": 16,
-                "links": [
-                    {
-                        "text": "慶野松原・五色浜 Keino - Goshiki, Awaji Island",
-                        "url": "/nankai/?id=awaji&name=keino",
-                        "target": "_self"
-                    }
-                ]
             }
         },
         {
@@ -230,6 +248,81 @@
                     {
                         "text": "五斗長垣内遺跡 - Wikipedia",
                         "url": "https://ja.wikipedia.org/wiki/五斗長垣内遺跡",
+                        "target": "_blank"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    134.85670705610983,
+                    34.351203818573865
+                ]
+            },
+            "properties": {
+                "title": "盛光寺",
+                "description": "毎年 八月十六日 午後七時頃から「内膳の火踊り」",
+                "note": [
+                    "下内膳の盛光寺近くの埋葬地「三昧（さんま）」にて行われる、鎌倉時代から続くといわれている盆の伝統行事"
+                ],
+                "links": [
+                    {
+                        "text": "盛光寺 - Google マップ",
+                        "url": "https://maps.app.goo.gl/QeGVRSXBaSFr3bcW6",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 16.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    134.81098358167907,
+                    34.382655391699856
+                ]
+            },
+            "properties": {
+                "title": "栢野（かやの）薬師堂",
+                "description": "毎年 八月十六日 午後七時頃から「柴燈（さいとう）まつり」",
+                "note": null,
+                "links": [
+                    {
+                        "text": "栢野薬師堂 - Google マップ",
+                        "url": "https://maps.app.goo.gl/qvmDhhRmu4CTF7KNA",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 16.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    134.71181387872383,
+                    34.23371827579638
+                ]
+            },
+            "properties": {
+                "title": "大見山・若人の広場",
+                "description": "福良港を見下ろす高台に位置する、はるかに鳴門海峡を眺望できる山頂広場・公園",
+                "zoom": 15,
+                "note": [
+                    "開園時間 午前9時～午後5時",
+                    "太平洋戦争で戦没した全国約20万人の学徒ら若者を祈念して昭和42年に建設",
+                    "世界的建築家である丹下健三氏が設計した高さ25mの太平洋戦争の戦没学徒の鎮魂の塔「慰霊塔・永遠のともしび」がある"
+                ],
+                "links": [
+                    {
+                        "text": "若人の広場 - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/若人の広場",
                         "target": "_blank"
                     }
                 ]

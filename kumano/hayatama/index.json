@@ -65,6 +65,7 @@
     "cover": {
         "url": null
     },
+    "events": [],
     "eventsJSON": [
         "kumano/hayatama/date.json"
     ],

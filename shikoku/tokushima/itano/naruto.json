@@ -1,0 +1,256 @@
+{
+    "url": "/nankai/?id=shikoku-tokushima&area=itano&name=naruto",
+    "title": [
+        "Naruto City, Tokushima",
+        "鳴門海峡"
+    ],
+    "description": "「鳴門の渦潮」で知られる海峡（日本百景）",
+    "info": {
+        "note": [
+            "鳴門海峡を展望できる「鳴門公園及び付近一帯の丘陵林地と海岸及び島嶼、瀬戸内海国立公園」は、日本百景・国名勝の一つ"
+        ],
+        "links": [
+            {
+                "text": "鳴門海峡 - Wikipedia",
+                "url": "https://ja.wikipedia.org/wiki/鳴門海峡",
+                "target": "_blank"
+            }
+        ]
+    },
+    "map": {
+        "center": [
+            134.60853539280112,
+            34.179250046284935
+        ],
+        "bounds": [
+            [
+                134.528,
+                34.0865
+            ],
+            [
+                134.657,
+                34.255
+            ]
+        ],
+        "zoom": 12
+    },
+    "cover": {
+        "url": null
+    },
+    "events": [
+        {
+            "date": {
+                "month": 10,
+                "date": [
+                    13
+                ]
+            },
+            "title": [
+                "お御供",
+                "宇佐八幡神社"
+            ],
+            "note": [
+                "October 13th every year",
+                "毎年 十月十三日 午後七時"
+            ],
+            "description": "徳島県・鳴門市指定無形民俗文化財",
+            "info": {
+                "note": null,
+                "links": null
+            }
+        }
+    ],
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    134.64791388935512,
+                    34.237869444423254
+                ],
+                "address": "徳島県鳴門市鳴門町土佐泊浦"
+            },
+            "properties": {
+                "title": "渦の道（大鳴門橋遊歩道）",
+                "description": "うずしおベストタイムは、夕方の満潮時と朝の干潮時",
+                "note": [
+                    "四国八十八景「海上45mより見下ろす迫力の渦潮」",
+                    "関西方面から高速バス「鳴門公園口」下車徒歩すぐ<br>JR徳島駅前・JR鳴門駅前から路線バス「鳴門公園」下車徒歩5分"
+                ],
+                "links": [
+                    {
+                        "text": "大鳴門橋遊歩道 渦の道 | 渦潮が真下に見える道",
+                        "url": "https://www.uzunomichi.jp/",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "大鳴門橋遊歩道 渦の道 - Google マップ",
+                        "url": "https://maps.app.goo.gl/nkvsWxZ4QfgjMgNPA",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 13.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    134.6418690457552,
+                    34.23720912980451
+                ],
+                "address": "日本 〒772-0053 徳島県鳴門市鳴門町土佐泊浦福池６５番地６"
+            },
+            "properties": {
+                "title": "うづ乃家",
+                "description": "鳴門の特産物屋を併設する懐石料理の食事処"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    134.61211797,
+                    34.24271265
+                ],
+                "address": "瀬戸町大島田中山1-1"
+            },
+            "properties": {
+                "title": "レストラン カリフォルニア テーブル",
+                "description": "ホテルリッジ内にある、鳴門海峡を一望できるレストラン（ランチ・ディナーともに要予約）",
+                "note": [
+                    "営業時間 11:00 - 16:00・17:30 - 20:00（定休日 月曜日）"
+                ],
+                "links": [
+                    {
+                        "text": "カリフォルニアテーブル | Hotel RIDGE ホテルリッジ公式",
+                        "url": "https://hotelridge.jp/california-table/",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "カリフォルニアテーブル - Google マップ",
+                        "url": "https://maps.app.goo.gl/Fq8rBSkbozywRZqu8",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 15.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    134.5936880966625,
+                    34.19645708922802
+                ],
+                "address": "日本 〒772-0060 徳島県鳴門市瀬戸町明神弐軒家９０番地１"
+            },
+            "properties": {
+                "title": "海鮮市場 魚大将",
+                "description": "その日の漁の獲れたての魚介を活かしたお寿司や海鮮丼が味わえる海鮮料理店"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    134.60361633144402,
+                    34.18911775827567
+                ],
+                "address": "日本 〒772-0011 徳島県鳴門市撫養町大桑島北ノ浜５１番地１"
+            },
+            "properties": {
+                "title": "味処 あらし",
+                "description": "鳴門海峡の海の幸と地元徳島産の食材を中心とした徳島の旬が味わえる日本料理店"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    134.60853539280112,
+                    34.179250046284935
+                ]
+            },
+            "properties": {
+                "title": "鳴門駅",
+                "description": "JR四国「鳴門線」の終点、徳島・阿南方面へのアクセス拠点駅",
+                "note": [
+                    "電車の発着は、1時間に1本程度",
+                    "駅周辺にある「鳴門市観光情報センター」「なると物産館」にてレンタサイクル貸出あり<br>（なると物産館⇔鳴門市観光情報センター相互乗り捨て可）"
+                ],
+                "links": [
+                    {
+                        "text": "観光情報センター｜鳴門市観光コンベンション株式会社",
+                        "url": "https://www.narutokc.com/center.php",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "鳴門の地場産品紹介｜なると物産館｜鳴門市うずしお観光協会",
+                        "url": "https://www.naruto-bussan.jp/",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "鳴門駅 - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/鳴門駅",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "鳴門駅 - Google マップ",
+                        "url": "https://maps.app.goo.gl/5x58gCdhn1oKSeeQ9",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "鳴門市観光情報センター - Google マップ",
+                        "url": "https://maps.app.goo.gl/SLDNFbMLfSbTmvq86",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "なると物産館 - Google マップ",
+                        "url": "https://maps.app.goo.gl/X4fKov6L8K1n99Hu9",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 15
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    134.5926194,
+                    34.1847778
+                ],
+                "address": "〒772-0001 徳島県鳴門市撫養町黒崎八幡130番地"
+            },
+            "properties": {
+                "title": "宇佐八幡神社",
+                "description": "毎年 十月十三日 特殊神事「宇佐八幡神社のお御供」が行われる",
+                "note": [
+                    "元は八幡祠と称し、西方の八幡山麓に創建されたと伝わる",
+                    "江戸時代（1599（慶長4）年）頃に始まったとされる「お御供（女性だけが神前に進み、お供え物を献上する珍しい神事）」は、徳島県・鳴門市指定無形民俗文化財"
+                ],
+                "links": [
+                    {
+                        "text": "宇佐八幡神社 (鳴門市) - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/宇佐八幡神社_(鳴門市)",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "宇佐八幡神社 - Google マップ",
+                        "url": "https://maps.app.goo.gl/F7FtZcHtTMoPLek67",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 16.5
+            }
+        }
+    ]
+}

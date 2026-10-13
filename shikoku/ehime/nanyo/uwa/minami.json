@@ -1,0 +1,66 @@
+{
+    "url": "/nankai/?id=shikoku-ehime&area=nanyo-uwa&name=minami",
+    "title": [
+        "Minami Uwa, Ehime, Shikoku",
+        "御荘・城辺地区"
+    ],
+    "description": "愛媛県の最南端エリア、高知県の幡多地方との結びつきが強い南国情緒漂う気候と漁村文化を持つ地域",
+    "info": {
+        "note": [
+            "北は篠山から観音岳を経て由良半島に至る稜線",
+            "東は松田川支流の篠川で高知県の宿毛市と接し、西は内海湾・南は宿毛湾に面する（海岸部は、足摺宇和海国立公園の一部）",
+            "町内に鉄道路線は通っていない。最寄り駅は高知県の宿毛駅か、同じ愛媛県内では宇和島駅が最も近い",
+            "町営の「あいなんバス（コミュニティバス）」が各集落を結ぶのみ（運行の拠点は、宇和島自動車 「城辺（じょうへん）営業所」）"
+        ],
+        "links": [
+            {
+                "text": "南宇和郡 - Wikipedia",
+                "url": "https://ja.wikipedia.org/wiki/南宇和郡",
+                "target": "_blank"
+            },
+            {
+                "text": "愛南町 - Wikipedia",
+                "url": "https://ja.wikipedia.org/wiki/愛南町",
+                "target": "_blank"
+            }
+        ]
+    },
+    "map": {
+        "center": [
+            132.5833921380675,
+            32.962481633486085
+        ],
+        "bounds": [
+            [
+                132.368,
+                32.880
+            ],
+            [
+                132.734,
+                33.090
+            ]
+        ],
+        "zoom": 11.5
+    },
+    "events": [],
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    132.6822765143346,
+                    33.00414164299403
+                ],
+                "address": "日本 〒798-4401 愛媛県南宇和郡愛南町正木１４６８番地"
+            },
+            "properties": {
+                "title": "歓喜光寺",
+                "description": "旧暦10月18日篠山（現在は歓喜光寺権現堂）、歓喜光寺境内および旧庄屋蕨岡家で、雪輪笹紋の袖無上衣に裁着袴、赤い鉢巻で踊る\n正木の花とり踊り"
+            }
+        }
+    ],
+    "featuresJSON": [
+        "shikoku/88.json"
+    ]
+}

@@ -52,15 +52,15 @@
         ],
         "bounds": [
             [
-                135.51363130320823,
-                34.1635429
+                135.443,
+                34.095
             ],
             [
-                135.65175721693709,
-                34.31808608451466
+                135.731,
+                34.364
             ]
         ],
-        "zoom": 12.25
+        "zoom": 12
     },
     "cover": {
         "url": null
@@ -211,6 +211,31 @@
                 "note": [
                     "明神社前にて法要の後、中学生の神輿が山内を練り歩く"
                 ],
+                "links": [
+                    {
+                        "text": "高野山（金剛峯寺） Mount Koya, Wakayama",
+                        "url": "?id=kii-koyasan",
+                        "target": "_self"
+                    }
+                ]
+            }
+        },
+        {
+            "month": [
+                10,
+                11
+            ],
+            "title": [
+                "紅葉",
+                "高野山"
+            ],
+            "description": "金剛峯寺 - 蛇腹路 - 高野山奥之院",
+            "note": [
+                "Late October - Early November every year",
+                "例年 十月下旬から十一月上旬"
+            ],
+            "info": {
+                "markdown": "kii/koyo.md",
                 "links": [
                     {
                         "text": "高野山（金剛峯寺） Mount Koya, Wakayama",

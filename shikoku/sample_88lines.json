@@ -1,0 +1,26 @@
+{
+    "line": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": []
+            },
+            "properties": {
+                "title": "__ - ___",
+                "description": "___",
+                "note": [
+                    ""
+                ],
+                "links": [
+                    {
+                        "text": "四国八十八箇所 Shikoku 88 Temple Pilgrimage",
+                        "url": "/nankai/?id=shikoku&name=88",
+                        "target": "_self"
+                    }
+                ],
+                "zoom": 11.5
+            }
+        }
+    ]
+}

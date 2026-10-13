@@ -65,7 +65,7 @@
     "events": [],
     "eventsJSON": [
         "kii/koyasan/date.json",
-        "yoshino/koyasan/index.json"
+        "kii/koyasan/index.json"
     ],
     "features": [
         {

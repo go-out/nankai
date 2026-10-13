@@ -1,0 +1,289 @@
+{
+    "url": "/nankai/?id=shikoku-kouchi&area=niyodogawa&name=spot",
+    "title": [
+        "Niyodogawa, Kouchi, Shikoku",
+        "仁淀川"
+    ],
+    "description": "西日本の最高峰石鎚山（標高1,982m）に源を発する、「仁淀ブルー」と呼ばれる奇跡の清流",
+    "info": {
+        "note": [
+            "手つかずの自然が今なお多く残る上流域の「仁淀川町」",
+            "仁淀川随一の絶景スポット「にこ淵」や、山並みが美しい「UFOライン」など、県外からも数多くの方々が訪れる人気の観光スポットを有する"
+        ],
+        "links": [
+            {
+                "text": "仁淀川 - Wikipedia",
+                "url": "https://ja.wikipedia.org/wiki/仁淀川",
+                "target": "_blank"
+            }
+        ]
+    },
+    "map": {
+        "center": [
+            133.17113303563582,
+            33.57521062194181
+        ],
+        "bounds": [
+            [
+                133.000,
+                33.325
+            ],
+            [
+                133.485,
+                33.835
+            ]
+        ],
+        "zoom": 10.5
+    },
+    "events": [],
+    "eventsJSON": [],
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    133.34121867,
+                    33.70511107
+                ],
+                "address": "1278 Kiyomizukamibun"
+            },
+            "properties": {
+                "title": "にこ淵",
+                "description": "仁淀川の支流である枝川川にある淵、四国八十八景（29番）「碧の秘境」",
+                "note": [
+                    "水神の化身とされる大蛇が棲む所とされ、地元の人々は近づかない神聖な所であり、入水・飲食・トイレは禁止",
+                    "JR伊野駅から→県交北部交通バス「長沢行き」乗車→乗車約50分『程野入口』下車（または、県交北部交通バス「土居行き」乗車→終点の『土居』下車、徒歩10分で『程野入口』）→グリーンパーク方向へ徒歩約20分"
+                ],
+                "links": [
+                    {
+                        "text": "にこ淵 - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/にこ淵",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "にこ淵 - Google マップ",
+                        "url": "https://maps.app.goo.gl/2DDCkUrs7xfsFLtV7",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 15
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    133.18922988895474,
+                    33.67279588525315
+                ],
+                "address": "日本 〒781-1628 高知県吾川郡仁淀川町大屋１６３０番地３"
+            },
+            "properties": {
+                "title": "安居渓谷",
+                "description": "仁淀川の上流にある支流のひとつ安居川の上流部にある景勝地",
+                "note": [
+                    "手箱山中腹で滝の精を祭祀する大滝神社（おおたびじんじゃ）付近から、安居渓谷までの1,287ヘクタールあまりの山林が安居渓谷県立自然公園に指定されている",
+                    "「水晶淵」は仁淀ブルースポットとして四国八十八景30番に選ばれている"
+                ],
+                "links": [
+                    {
+                        "text": "安居川 - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/安居川",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "安居渓谷 - Google マップ",
+                        "url": "https://maps.app.goo.gl/whL6vMHjNuinnv6i9",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 14.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    133.10938182360508,
+                    33.56409707409999
+                ],
+                "address": "日本 〒781-1762 高知県吾川郡仁淀川町下名野川３８１番地２"
+            },
+            "properties": {
+                "title": "中津渓谷",
+                "description": "仁淀川の上流にある支流のひとつ「中津川」にある景勝地",
+                "note": [
+                    "渓谷内には四国八十八景31番に雄大さで選ばれている落差20mの「雨竜の滝」、高さ約8mの「石柱」、「紅葉の滝」、「竜宮淵」などの景勝地があり、11月頃の紅葉の名所としても知られている",
+                    "上流の上名野川地区一帯や中津川の両岸は中津渓谷県立自然公園に指定され、「四国の水辺88か所」に選出されている"
+                ],
+                "links": [
+                    {
+                        "text": "中津川 (仁淀川町) - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/中津川_(仁淀川町)",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "中津渓谷県立自然公園 - Google マップ",
+                        "url": "https://maps.app.goo.gl/Nkpr4VTg69tLfCVm8",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 14.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    133.1302527777354,
+                    33.56138333320617
+                ],
+                "address": "高知県吾川郡仁淀川町名野川258-1"
+            },
+            "properties": {
+                "title": "中津渓谷 ゆの森",
+                "description": "中津渓谷の玄関ともいえる場所にある宿泊施設やレストランを併設する温泉施設",
+                "note": [
+                    "日帰り入浴 11:00～20:30 (受付は19:30まで)",
+                    "JR佐川駅下車→黒川観光バスで名野川バス停（約35分）下車後、徒歩約7分"
+                ],
+                "links": [
+                    {
+                        "text": "中津渓谷 ゆの森 | 仁淀川町「宿泊・温泉・観光」",
+                        "url": "https://www.yunomori.jp/",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "中津渓谷 ゆの森 - Google マップ",
+                        "url": "https://maps.app.goo.gl/mxLJT7E2bNVuCmc56",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 16.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    133.25592027580177,
+                    33.56778689843772
+                ],
+                "address": "日本 〒781-1321 高知県高岡郡越知町鎌井田本村"
+            },
+            "properties": {
+                "title": "浅尾沈下橋",
+                "description": "映画のロケ地にもなった風光明媚な橋",
+                "note": [
+                    "__"
+                ],
+                "links": [
+                    {
+                        "text": "浅尾沈下橋 - Google マップ",
+                        "url": "https://maps.app.goo.gl/vLRb3fFhgPnKFh3X8",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 17
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    133.30412958529388,
+                    33.590040622189804
+                ],
+                "address": "日本 〒781-1327 高知県高岡郡越知町黒瀬１５６５番地"
+            },
+            "properties": {
+                "title": "天石門別安國玉主天神社",
+                "description": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    133.3562248105422,
+                    33.57247109517894
+                ],
+                "address": "日本 〒781-2141 高知県吾川郡いの町勝賀瀬"
+            },
+            "properties": {
+                "title": "名越屋沈下橋",
+                "description": "仁淀川最下流にある全長191mの沈下橋",
+                "note": [
+                    "__"
+                ],
+                "links": [
+                    {
+                        "text": "名越屋沈下橋 - Google マップ",
+                        "url": "https://maps.app.goo.gl/rAkjK7RaNPG4MUcDA",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 16
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    133.36623055564033,
+                    33.57348611089919
+                ],
+                "address": "高知県吾川郡いの町鹿敷1226"
+            },
+            "properties": {
+                "title": "土佐和紙工芸村くらうど",
+                "description": "レンタサイクル 1,000円/1日 台数等 クロスバイク 5台",
+                "note": [
+                    "施設内にはレストランの他、周辺観光の拠点として利用出来る宿泊棟などがある「道の駅」"
+                ],
+                "links": [
+                    {
+                        "text": "いの町レンタサイクル | 高知県いの町観光ガイド",
+                        "url": "https://www.inofan.jp/spot/recommended/n330/",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "QRAUD",
+                        "url": "https://www.qraud-kochi.jp/",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "土佐和紙工芸村くらうど - Google マップ",
+                        "url": "https://maps.app.goo.gl/cZJKARRgWKVGewcy7",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 17
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    133.38876752945782,
+                    33.55329846876981
+                ],
+                "address": "日本 〒781-2134 高知県吾川郡いの町神谷７５５番地"
+            },
+            "properties": {
+                "title": "天石門別安國玉主天神社",
+                "description": ""
+            }
+        }
+    ],
+    "featuresJSON": []
+}

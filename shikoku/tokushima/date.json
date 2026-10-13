@@ -1,0 +1,134 @@
+{
+    "events": [
+        {
+            "month": [
+                5,
+                6,
+                7,
+                8
+            ],
+            "title": [
+                "ウミガメおよびその産卵地",
+                "大浜海岸"
+            ],
+            "note": [
+                "Late May - Late August every year",
+                "例年 五月二十日から八月二十日"
+            ],
+            "description": "国指定天然記念物",
+            "info": {
+                "note": [
+                    "毎年5月20日から8月20日までの期間は立入禁止や諸車通行禁止の区域が設けられる"
+                ],
+                "links": [
+                    {
+                        "text": "みなみ阿波 Southern Tokushima, Shikoku",
+                        "url": "/nankai/?id=shikoku-tokushima&area=minami",
+                        "target": "_self"
+                    }
+                ]
+            }
+        },
+        {
+            "month": [
+                5
+            ],
+            "title": [
+                "船窪のオンツツジ群落",
+                "船窪つつじ公園"
+            ],
+            "note": [
+                "Mid-May - Late May every year",
+                "例年 五月中旬から下旬"
+            ],
+            "description": "国指定天然記念物",
+            "info": {
+                "note": null,
+                "links": null
+            }
+        },
+        {
+            "month": [
+                5,
+                6
+            ],
+            "title": [
+                "美郷のホタル生息地",
+                "川田川上流"
+            ],
+            "note": [
+                "Mid-May - Early June every year",
+                "例年 五月中旬から六月上旬"
+            ],
+            "description": "国指定天然記念物",
+            "info": {
+                "note": [
+                    "川田川上流を中心に5月中旬〜6月中旬にかけてゲンジボタルなど5種のホタルが乱舞する"
+                ],
+                "links": null
+            }
+        },
+        {
+            "date": {
+                "month": 8,
+                "date": [
+                    15
+                ]
+            },
+            "title": [
+                "神踊り・津田の盆（ぼに）踊り",
+                "徳島市"
+            ],
+            "note": [
+                "August 15th every year",
+                "毎年 八月十五日"
+            ],
+            "description": "徳島県指定無形民俗文化財",
+            "cover": {
+                "directory": null,
+                "url": null
+            },
+            "info": {
+                "note": [
+                    "阿波おどりの源流の一つとも言われる荘厳かつ華やかな伝統芸能"
+                ],
+                "links": [
+                    {
+                        "text": "徳島（国府・一宮） Tokushima City, Shikoku",
+                        "url": "/nankai/?id=shikoku-tokushima&area=nakata",
+                        "target": "_self"
+                    }
+                ]
+            }
+        },
+        {
+            "date": {
+                "month": 8,
+                "date": [
+                    30
+                ]
+            },
+            "title": [
+                "おこもり法要",
+                "焼山寺"
+            ],
+            "note": [
+                "August 30th every year",
+                "例年 八月三十日 日没から"
+            ],
+            "description": "夏祭り（阿波踊り・花火）",
+            "info": {
+                "note": [
+                    "日没から境内におびただしい数の灯籠が灯され、夜には阿波踊り・花火が奉納される"
+                ],
+                "links": [
+                    {
+                        "text": "神山 Kamiyama, Tokushima, Shikoku",
+                        "url": "/nankai/?id=shikoku-tokushima&area=kamiyama",
+                        "target": "_self"
+                    }
+                ]
+            }
+        }
+    ]
+}

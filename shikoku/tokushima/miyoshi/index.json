@@ -1,0 +1,271 @@
+{
+    "url": "/nankai/?id=shikoku&area=tokushima-miyoshi",
+    "title": [
+        "Miyoshi, Tokushima, Shikoku",
+        "三好（三好市 - 東みよし町）"
+    ],
+    "description": "美馬郡三野郷・三縄郷・三津郷が分立",
+    "info": {
+        "markdown": "shikoku/tokushima/miyoshi/README.md",
+        "links": [
+            {
+                "text": "三好郡 - Wikipedia",
+                "url": "https://ja.wikipedia.org/wiki/三好郡",
+                "target": "_blank"
+            },
+            {
+                "text": "三好市 - Wikipedia",
+                "url": "https://ja.wikipedia.org/wiki/三好市",
+                "target": "_blank"
+            },
+            {
+                "text": "東みよし町 - Wikipedia",
+                "url": "https://ja.wikipedia.org/wiki/東みよし町",
+                "target": "_blank"
+            }
+        ]
+    },
+    "map": {
+        "center": [
+            133.8069747862909,
+            34.0268319961275
+        ],
+        "bounds": [
+            [
+                133.655,
+                33.786
+            ],
+            [
+                134.006,
+                34.125
+            ]
+        ],
+        "zoom": 11
+    },
+    "cover": {
+        "url": null
+    },
+    "events": [],
+    "eventsJSON": [
+        "shikoku/tokushima/miyoshi/date.json"
+    ],
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    133.80485292765667,
+                    34.02731448729595
+                ],
+                "address": "徳島県三好市池田町サラダ"
+            },
+            "properties": {
+                "title": "阿波池田駅",
+                "description": "祖谷のかずら橋へのバスが発着 四国交通バス祖谷線「善徳」下車→徒歩2分",
+                "note": [
+                    "レンタサイクル阿波池田駅三好市観光協会あり"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    133.893941203128,
+                    34.03479068514147
+                ]
+            },
+            "properties": {
+                "title": "美濃田の淵",
+                "description": "吉野川中流域にある長さ2km・幅100mにわたる深い淵、徳島県指定名勝天然記念物",
+                "note": [
+                    "四国のみずべ八十八カ所、とくしま88景、とくしま水紀行50選に選定"
+                ],
+                "links": [
+                    {
+                        "text": "美濃田の淵 - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/美濃田の淵",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "美濃田の淵 - Google マップ",
+                        "url": "https://maps.app.goo.gl/rXk97F8W1KeuAoBG6",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 15
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    133.931933333079,
+                    34.040919444296094
+                ],
+                "address": "徳島県三好郡東みよし町加茂1482"
+            },
+            "properties": {
+                "title": "加茂の大クス",
+                "description": "旧若宮神社の社地跡に残る御神木、国指定特別天然記念物",
+                "note": [
+                    "にし阿波お勧めビューポイント100選・新日本名木百選・四国八十八景11番"
+                ],
+                "links": [
+                    {
+                        "text": "加茂の大クス - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/加茂の大クス",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "加茂の大クス - Google マップ",
+                        "url": "https://maps.app.goo.gl/4hjwPctPxJteDs2P8",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 17
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    133.94894444465638,
+                    34.03616666661368
+                ],
+                "address": "徳島県三好郡東みよし町中庄1187"
+            },
+            "properties": {
+                "title": "金丸八幡神社",
+                "description": "十月十四日「宵宮（よいみや）神事」が行われる",
+                "note": [
+                    "境内には、全国でも珍しい「列石の聖石群」がある"
+                ],
+                "links": [
+                    {
+                        "text": "金丸八幡神社 - Google マップ",
+                        "url": "https://maps.app.goo.gl/24ewKgD9Jxq2zj8BA",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 16.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    133.8304277780321,
+                    33.978316666285195
+                ],
+                "address": "徳島県三好市池田町漆川黒沢"
+            },
+            "properties": {
+                "title": "黒沢湿原",
+                "description": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    133.81738888886238,
+                    33.920947222179834
+                ],
+                "address": "徳島県三好市池田町松尾松本367-2"
+            },
+            "properties": {
+                "title": "祖谷温泉",
+                "description": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    133.8353888889154,
+                    33.8751444445716
+                ],
+                "address": "徳島県三好市西祖谷山村中尾"
+            },
+            "properties": {
+                "title": "祖谷のかずら橋",
+                "description": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    133.79692586537146,
+                    33.83938425374808
+                ],
+                "address": "日本 〒778-0103 徳島県三好市西祖谷山村有瀬４２１番地"
+            },
+            "properties": {
+                "title": "三部神社",
+                "description": "１０月の第２土曜日に三部神社（さんべじんじゃ）の秋祭り「有瀬かぐら踊り（あるせかぐらおどり）」"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    133.7673388889101,
+                    33.876652777989705
+                ],
+                "address": "徳島県三好市西祖谷山村徳善西"
+            },
+            "properties": {
+                "title": "大歩危駅",
+                "description": "祖谷のかずら橋へのバスが発着 三好市営バス大歩危線「かずら橋」下車→徒歩1分",
+                "note": [
+                    "レンタサイクル大歩危駅三好市観光協会"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    133.76046666675143,
+                    33.886183333396914
+                ],
+                "address": "徳島県三好市山城町西宇1520"
+            },
+            "properties": {
+                "title": "大歩危峡観光遊覧船",
+                "description": "大歩危峡を行き来する観光遊覧船。四国八十八景13番"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    133.75494269306438,
+                    33.9365828472049
+                ],
+                "address": "三好市"
+            },
+            "properties": {
+                "title": "小歩危展望台",
+                "description": ""
+            }
+        }
+    ],
+    "lineJSON": [
+        "shikoku/tokushima/yoshinogawa/index.json",
+        "shikoku/dosan.json"
+    ]
+}

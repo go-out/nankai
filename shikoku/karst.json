@@ -1,12 +1,15 @@
 {
     "url": "/nankai/?id=shikoku&name=karst",
     "title": [
+        "Shikoku Karst, Ehime -  Kochi",
         "四国カルスト"
     ],
-    "description": null,
+    "description": "西端の「大野ヶ原」から東端「天狗ノ森」まで、約15kmの長さがある高原状のカルスト台地",
     "info": {
         "markdown": null,
-        "note": null,
+        "note": [
+            "愛媛県と高知県の県境（久万高原町、西予市、内子町、檮原町、津野町にまたがる）にある日本三大カルストのひとつ"
+        ],
         "links": [
             {
                 "text": "【2026年最新版】四国カルスト完全ガイド | 絶景ドライブ・観光スポット・アクセス情報まとめ｜愛媛 旅の特集｜愛媛県の公式観光サイト【いよ観ネット】",
@@ -31,9 +34,21 @@
         ]
     },
     "map": {
-        "center": null,
-        "bounds": null,
-        "zoom": null
+        "center": [
+            132.87136853105034,
+            33.479493515562325
+        ],
+        "bounds": [
+            [
+                132.786,
+                33.280
+            ],
+            [
+                133.260,
+                33.786
+            ]
+        ],
+        "zoom": 11.5
     },
     "features": [
         {
@@ -41,14 +56,25 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    132.87720972,
-                    33.47908064
+                    132.8732771,
+                    33.4793307
                 ],
                 "address": "愛媛県西予市野村町大野ケ原"
             },
             "properties": {
                 "title": "大野ヶ原",
-                "description": ""
+                "description": "愛媛県の中部、「四国カルスト」の西端にある地域名",
+                "note": [
+                    "「四国カルスト」の一角としての山域名称、あるいは高原の名称としても使われている",
+                    "「大野ガ原」という名称で「四国百名山３４番」に選定されている"
+                ],
+                "links": [
+                    {
+                        "text": "大野ヶ原 - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/大野ヶ原",
+                        "target": "_blank"
+                    }
+                ]
             }
         },
         {
@@ -66,5 +92,11 @@
                 "description": "■ちょい乗りプラン（1時間以内）500円/15分、500円/延長15分毎■通常料金2,500円/2時間、4,000円/半日、6,000円/1日"
             }
         }
+    ],
+    "featuresJSON": [
+        "shikoku/88.json"
+    ],
+    "lineJSON": [
+        "shikoku/ehime/iyo/index.json"
     ]
 }

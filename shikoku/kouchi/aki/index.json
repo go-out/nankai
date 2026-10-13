@@ -1,0 +1,398 @@
+{
+    "url": "/nankai/?id=shikoku-kouchi&area=aki",
+    "title": [
+        "Monobe River - Aki, Kouchi, Shikoku",
+        "物部川 - 安芸"
+    ],
+    "description": "",
+    "info": {
+        "note": [
+            "安芸市 安芸郡（芸西村）"
+        ],
+        "markdown": "shikoku/kouchi/aki/README.md",
+        "links": [
+            {
+                "text": "香美市 - Wikipedia",
+                "url": "https://ja.wikipedia.org/wiki/香美市",
+                "target": "_blank"
+            },
+            {
+                "text": "香南市 - Wikipedia",
+                "url": "https://ja.wikipedia.org/wiki/香南市",
+                "target": "_blank"
+            }
+        ]
+    },
+    "map": {
+        "center": [
+            133.7524388888147,
+            33.5343388888571
+        ],
+        "bounds": [
+            [
+                133.650,
+                33.240
+            ],
+            [
+                134.030,
+                33.848
+            ]
+        ],
+        "zoom": 10.5
+    },
+    "events": [],
+    "eventsJSON": [
+        "shikoku/kouchi/aki/date.json"
+    ],
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    133.7524388888147,
+                    33.5343388888571
+                ],
+                "address": "高知県香南市夜須町坪井"
+            },
+            "properties": {
+                "title": "ヤ・シィパーク",
+                "description": "ごめんなはり線夜須駅に隣接し、道の駅もある複合施設",
+                "note": [
+                    "毎年8月15日 高知県指定保護無形民俗文化財「手結盆踊り」が行われる"
+                ],
+                "links": [
+                    {
+                        "text": "株式会社ヤ・シィ｜ヤ・シィパーク｜道の駅やす",
+                        "url": "https://yasea.jp/",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "ヤ・シィパーク／香南市",
+                        "url": "https://www.city.kochi-konan.lg.jp/soshikikarasagasu/shokokankoka/kankojoho/5/2586.html",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "ヤ・シィパーク - Google マップ",
+                        "url": "https://maps.app.goo.gl/mx1EuQNgRU5bNuev8",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 15
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    133.74505833307902,
+                    33.60336666663488
+                ],
+                "address": "高知県香美市土佐山田町逆川1424"
+            },
+            "properties": {
+                "title": "龍河洞",
+                "description": "日本三大鍾乳洞の1つに数えられる鍾乳洞",
+                "note": [
+                    "国の天然記念物および国の史跡、日本の地質百選",
+                    "JR土讃線の土佐山田駅からとさでん交通「龍河洞」行きバスで20分、終点下車、徒歩直ぐ"
+                ],
+                "links": [
+                    {
+                        "text": "龍河洞 - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/龍河洞",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "龍河洞 - Google マップ",
+                        "url": "https://maps.app.goo.gl/UYEM4b7NFgkE7cVF6",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 15.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    133.93409666,
+                    33.49178161
+                ],
+                "address": "高知県安芸市伊尾木117"
+            },
+            "properties": {
+                "title": "伊尾木洞",
+                "description": "洞窟を通り抜けると崖に囲まれ、シダ群落による神秘的な光景が広がる",
+                "note": [
+                    "約310万年～230前（鮮新世から更新世）に海の中で堆積した地層（穴内層）が隆起して、水成岩が渓谷からの水で浸食されてできた天然の洞窟",
+                    "長さは約40m、幅約3m、高さ約5mの規模"
+                ],
+                "links": [
+                    {
+                        "text": "伊尾木洞 - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/伊尾木洞",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "伊尾木洞のシダ群落 - Google マップ",
+                        "url": "https://maps.app.goo.gl/kGXb2PHirm7HkPZg7",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 17
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    133.9064177105799,
+                    33.50433740272594
+                ],
+                "address": "日本 〒784-0001 高知県安芸市矢ノ丸４丁目２番３０号"
+            },
+            "properties": {
+                "title": "安芸駅ぢばさん市場",
+                "description": "地元の恵みが集うプラットフォーム（レンタサイクルの無料貸出あり）",
+                "note": [
+                    "地元でとれた野菜や加工品、鮮魚等の特産品、ごめん・なはり線グッズなどを販売"
+                ],
+                "links": [
+                    {
+                        "text": "安芸駅ぢばさん市場",
+                        "url": "https://www.akikanko.or.jp/chokuhanjo/dibasan.html",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "安芸駅ぢばさん市場 - Google マップ",
+                        "url": "https://maps.app.goo.gl/RXCKTAd9UuwiUkPd8",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 17
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    133.78391388886504,
+                    33.64986388842265
+                ],
+                "address": "高知県香美市香北町韮生野243-イ"
+            },
+            "properties": {
+                "title": "大川上美良布神社",
+                "description": "十一月三日 高知県指定無形民俗文化財「御神幸（おなばれ）」が行われる",
+                "note": [
+                    "JR土佐山田駅よりバスで約25分"
+                ],
+                "links": [
+                    {
+                        "text": "大川上美良布神社 - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/大川上美良布神社",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "大川上美良布神社 - Google マップ",
+                        "url": "https://maps.app.goo.gl/DMW5FWiF53Sabbk87",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 17
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    133.74029688,
+                    33.58291385
+                ],
+                "address": "高知県香南市香我美町山北4071"
+            },
+            "properties": {
+                "title": "浅上王子宮",
+                "description": "十一月十八日 高知県指定保護無形民俗文化財「棒踊」が奉納される",
+                "note": [
+                    "__"
+                ],
+                "links": [
+                    {
+                        "text": "浅上王子宮 - Google マップ",
+                        "url": "https://maps.app.goo.gl/UgMScXnnRXmeUutk7",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 17
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    133.7606532661698,
+                    33.544680672714165
+                ],
+                "address": "日本 〒781-5603 高知県香南市夜須町西山２５４番地"
+            },
+            "properties": {
+                "title": "西山八幡宮",
+                "description": "神無月のお立ちの宵、高知県指定保護無形民俗文化財「手結のつんつく踊り」が奉納される",
+                "note": [
+                    "__"
+                ],
+                "links": [
+                    {
+                        "text": "夜須大宮八幡宮 - Google マップ",
+                        "url": "https://maps.app.goo.gl/KW5RDhuLDisHXSfy7",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 17
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    133.75456322275545,
+                    33.52082976528237
+                ],
+                "address": "日本 〒781-5622 高知県香南市夜須町手結山１７５８番地"
+            },
+            "properties": {
+                "title": "八大龍王宮",
+                "description": "旧暦九月二十六日 高知県指定保護無形民俗文化財「手結のつんつく踊り」が踊られる",
+                "note": [
+                    "__"
+                ],
+                "links": [
+                    {
+                        "text": "八大龍王宮 - Google マップ",
+                        "url": "https://maps.app.goo.gl/PFmtJQVwNyEjjym69",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 17
+            }
+        }
+    ],
+    "featuresJSON": [
+        "shikoku/88.json"
+    ],
+    "line": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        133.6513669,
+                        33.5745962
+                    ],
+                    [
+                        133.6705489,
+                        33.5707514
+                    ],
+                    [
+                        133.6979643,
+                        33.5619039
+                    ],
+                    [
+                        133.7101153,
+                        33.5461014
+                    ],
+                    [
+                        133.7220769,
+                        33.5398584
+                    ],
+                    [
+                        133.737424,
+                        33.5392995
+                    ],
+                    [
+                        133.7542584,
+                        33.5344176
+                    ],
+                    [
+                        133.7902713,
+                        33.5177351
+                    ],
+                    [
+                        133.8091655,
+                        33.5179017
+                    ],
+                    [
+                        133.8250069,
+                        33.5159894
+                    ],
+                    [
+                        133.863905,
+                        33.506205
+                    ],
+                    [
+                        133.8912749,
+                        33.5026349
+                    ],
+                    [
+                        133.8976872,
+                        33.5043462
+                    ],
+                    [
+                        133.9064729,
+                        33.5045811
+                    ],
+                    [
+                        133.9289852,
+                        33.4910705
+                    ],
+                    [
+                        133.94806,
+                        33.4582439
+                    ],
+                    [
+                        133.9656348,
+                        33.4462339
+                    ],
+                    [
+                        133.9839769,
+                        33.4434391
+                    ],
+                    [
+                        134.0082232,
+                        33.4302529
+                    ],
+                    [
+                        134.0180875,
+                        33.4250837
+                    ]
+                ]
+            },
+            "properties": {
+                "title": "土佐くろしお鉄道（阿佐線）",
+                "description": "室戸半島西側の海岸線（奈半利町 田野町 安田町 安芸市 芸西村）を結ぶローカル線（通称 ごめん・なはり線）",
+                "note": [
+                    ""
+                ],
+                "links": [
+                    {
+                        "text": "物部川 - 安芸 Monobe River - Aki, Kouchi, Shikoku",
+                        "url": "/nankai/?id=shikoku-kouchi&area=aki",
+                        "target": "_self"
+                    }
+                ],
+                "zoom": 11
+            }
+        }
+    ],
+    "lineJSON": []
+}

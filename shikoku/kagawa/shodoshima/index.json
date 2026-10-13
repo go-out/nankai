@@ -45,6 +45,10 @@
     "cover": {
         "url": null
     },
+    "events": [],
+    "eventsJSON": [
+        "shikoku/kagawa/shodoshima/date.json"
+    ],
     "features": [
         {
             "type": "Feature",
